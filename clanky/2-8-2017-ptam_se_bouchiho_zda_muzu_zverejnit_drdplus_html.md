@@ -75,3 +75,5 @@ Nechte si to prosím projít hlavou.
 Děkuji, Jaroslav "Kostřivec" Týc 
 
 PS: všechny zdrojové kódy jsou vám k dispozici a pokud se rozhodnete, že je použijete po svém, protože jejich obsah je vaším vlastnictvím, nebudu se bránit
+
+Edit: [Bouchi 10.8. odpověděl, že si dá čas na rozmyšlenou](10-8-2017-bouchi_slibuje_ze_se_nad_tim_zamysli.md)
