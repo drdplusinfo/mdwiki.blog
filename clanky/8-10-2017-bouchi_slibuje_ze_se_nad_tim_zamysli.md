@@ -1,5 +1,7 @@
 # Altar mě s veřejnými pravidly nehází přes palubu
 
+#### 10.8. 2017
+
 Odpověď Bouchiho na moji [sáhodlouhou vizi DrD+2](8-2-2017-ptam_se_bouchiho_zda_muzu_zverejnit_drdplus_html.md): 
 
 > Ahoj,

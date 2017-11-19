@@ -1,6 +1,6 @@
 # Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla
 
-## 2.8. 2017
+#### 2.8. 2017
 
 *4 minuty čtení*
 
