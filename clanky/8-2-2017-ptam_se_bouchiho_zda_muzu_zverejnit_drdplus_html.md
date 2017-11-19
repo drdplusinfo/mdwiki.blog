@@ -76,4 +76,9 @@ Děkuji, Jaroslav "Kostřivec" Týc
 
 PS: všechny zdrojové kódy jsou vám k dispozici a pokud se rozhodnete, že je použijete po svém, protože jejich obsah je vaším vlastnictvím, nebudu se bránit
 
-Edit: [Bouchi 10.8. odpověděl, že si dá čas na rozmyšlenou](10-8-2017-bouchi_slibuje_ze_se_nad_tim_zamysli.md)
+Edit: [Bouchi 10.8. odpověděl, že si dá čas na rozmyšlenou](8-10-2017-bouchi_slibuje_ze_se_nad_tim_zamysli.md)
+
+---
+
+- *předchozí [<< Chyběl DrD+ příběh v celku, tak ho spojuji](6-16-2017-zacinam_davat_dohromady_cely_drd_plus_pribeh.md)*
+- *další [>> Altar mě s veřejnými pravidly nehází přes palubu (Bouchi odpověděl, že si dá čas na rozmyšlenou)](8-10-2017-bouchi_slibuje_ze_se_nad_tim_zamysli.md)*

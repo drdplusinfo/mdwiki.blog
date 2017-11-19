@@ -10,4 +10,8 @@ Protože mě před časem napadlo to samé a hlavně - měl jsem už celý pří
 jak jsem [kopíroval jednotlivé příručky](https://www.drdplus.info), tak jsem se toho ujal a s pocitem už hotové práce
 [zasadil základní kámen DrD+ příběhu v celku](https://github.com/jaroslavtyc/drd-plus-story/commit/a33fe07cb881025d560af507ea0bb02fd144c5c3).
 
-Edit 11.8 2017: [To jsem si dal...](11-8-2017-dokoncil-jsem-sjednocovani-pribehu.md)
+Edit 11.8 2017: [To jsem si dal...](8-11-2017-dokoncil-jsem-sjednocovani-pribehu.md)
+
+---
+
+- *další [>> Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](8-2-2017-ptam_se_bouchiho_zda_muzu_zverejnit_drdplus_html.md)*
