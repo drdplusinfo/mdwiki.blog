@@ -14,4 +14,4 @@ Edit 11.8 2017: [To jsem si dal...](8-11-2017-dokoncil-jsem-sjednocovani-pribehu
 
 ---
 
-- *další [>> Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](8-2-2017-ptam_se_bouchiho_zda_muzu_zverejnit_drdplus_html.md)*
+- *následující [>> Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](8-2-2017-ptam_se_bouchiho_zda_muzu_zverejnit_drdplus_html.md)*

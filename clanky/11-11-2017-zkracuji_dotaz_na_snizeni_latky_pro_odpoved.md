@@ -12,4 +12,5 @@ Bouchi [slíbil odpovědět do konce srpna](8-2-2017-ptam_se_bouchiho_zda_muzu_z
 
 ---
 
-- *předchozí [<< Dokončil jsem spojování příběhů z pravidel do jednoho](8-11-2017-dokoncil-jsem-sjednocovani-pribehu.md)*
+- *předchozí [<< Ujasnil jsem v PPH některé vzorce, ve kterých chyběla zmínka o Atletice](8-12-2017-opraveny-drobné-chyby-v-pph.md)*
+- *následující [>> Zopakoval jsem v PPH nepoužitelný význačný smysl při automatickém a zběžném hledání](11-20-2017-opraveny-dalsi-drobne-nejasnosti.md)*

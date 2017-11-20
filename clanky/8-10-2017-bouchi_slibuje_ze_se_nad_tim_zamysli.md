@@ -15,4 +15,4 @@ Edit: do 11.11. 2017 se Bouchi neozval, takže [ho pošťuchuji s okrájeným do
 ---
 
 - *předchozí [<< Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](8-2-2017-ptam_se_bouchiho_zda_muzu_zverejnit_drdplus_html.md)*
-- *další [>> Dokončil jsem spojování příběhů z pravidel do jednoho](8-11-2017-dokoncil-jsem-sjednocovani-pribehu.md)*
+- *následující [>> Dokončil jsem spojování příběhů z pravidel do jednoho](8-11-2017-dokoncil-jsem-sjednocovani-pribehu.md)*

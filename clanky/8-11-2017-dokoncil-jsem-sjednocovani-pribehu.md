@@ -15,4 +15,4 @@ Takže... [hezké čtení](https://pribeh.drdplus.info).
 ---
 
 - *předchozí [<< Altar mě s veřejnými pravidly nehází přes palubu](8-10-2017-bouchi_slibuje_ze_se_nad_tim_zamysli.md)*
-- *další [>> Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](11-11-2017-zkracuji_dotaz_na_snizeni_latky_pro_odpoved.md)*
+- *následující [>> Ujasnil jsem některé vzorce, ve kterých chyběla zmínka o Atletice](8-12-2017-opraveny-drobné-chyby-v-pph.md)*
