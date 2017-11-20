@@ -2,5 +2,11 @@
   "name": "drd-plus/blog",
   "license": "MIT",
   "type": "project",
-  "description": "Facts and thoughts about developing DrD+2"
+  "description": "Facts and thoughts about developing DrD+2",
+  "homepage": "https://github.com/jaroslavtyc/drd-plus-blog",
+  "autoload": {
+    "psr-4": {
+      "DrdPlus\\": "DrdPlus/"
+    }
+  }
 }
