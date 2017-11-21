@@ -8,5 +8,9 @@
     "psr-4": {
       "DrdPlus\\": "DrdPlus/"
     }
+  },
+  "require-dev": {
+    "php": ">=7.1",
+    "phpunit/phpunit": "~6.0"
   }
 }
