@@ -3,6 +3,7 @@ declare(strict_types=1); // on PHP 7+ are standard PHP methods strict to types o
 
 namespace DrdPlus\Tests\Blog;
 
+use Granam\String\StringTools;
 use PHPUnit\Framework\TestCase;
 
 class ArticlesTest extends TestCase
@@ -39,9 +40,10 @@ class ArticlesTest extends TestCase
     }
 
     /**
+     * @param bool $withFullPath
      * @return array|string[]
      */
-    private function getArticles(): array
+    private function getArticles(bool $withFullPath = false): array
     {
         $articleFiles = scandir(__DIR__ . '/../../../clanky', SCANDIR_SORT_NONE);
         self::assertNotEmpty($articleFiles);
@@ -52,8 +54,10 @@ class ArticlesTest extends TestCase
             }
         );
 
-        return array_map(function (string $article) {
-            return 'clanky/' . $article;
+        return array_map(function (string $article) use ($withFullPath) {
+            return $withFullPath
+                ? __DIR__ . '/../../../clanky/' . $article
+                : 'clanky/' . $article;
         }, $articles);
     }
 
@@ -114,5 +118,23 @@ class ArticlesTest extends TestCase
         $date->setTime(0, 0, 0);
 
         return $date;
+    }
+
+    /**
+     * @test
+     */
+    public function Name_of_file_is_created_from_content_title()
+    {
+        foreach ($this->getArticles(true /* with full path */) as $article) {
+            $content = file_get_contents($article);
+            self::assertInternalType('string', $content, 'Could not read ' . $article);
+            self::assertNotEmpty($content, 'Empty article ' . $article);
+            self::assertGreaterThan(0, preg_match('~^#(?<title>[^#\n\r]+)~', $content, $matches), 'Missing title for article ' . $article);
+            $title = $matches['title'];
+            $expectedFilename = StringTools::toConstant($title);
+            $basename = \basename($article, '.md');
+            $filename = preg_replace('~^\d+-\d+-\d+-~', '', $basename);
+            self::assertSame($expectedFilename, $filename);
+        }
     }
 }

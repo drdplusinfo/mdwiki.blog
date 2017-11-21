@@ -1,4 +1,4 @@
-# Během převodu pravidel do HTML jsem opravil pár drobností
+# Během převodu pravidel do HTML jsem opravil pár drobností v PPH
 
 12.8. 2017
 
@@ -42,9 +42,9 @@ I tady jsem atletiku přidal
 
 ---
 
-[Další drobné opravy jsem přidal 20.11. 2017 >>](11-20-2017-opraveny-dalsi-drobne-nejasnosti.md)
+[Další drobné opravy jsem přidal 20.11. 2017 >>](11-20-2017-opravuji_dalsi_drobne_nejasnosti_v_pph.md)
 
 ---
 
-- *předchozí [<< Dokončil jsem spojování příběhů z pravidel do jednoho](8-11-2017-dokoncil-jsem-sjednocovani-pribehu.md)*
-- *následující [>> Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](11-11-2017-zkracuji_dotaz_na_snizeni_latky_pro_odpoved.md)*
+- *předchozí [<< Dokončil jsem spojování příběhů z pravidel do jednoho](8-11-2017-dokoncil_jsem_spojovani_pribehu_z_pravidel_do_jednoho.md)*
+- *následující [>> Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](11-11-2017-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)*

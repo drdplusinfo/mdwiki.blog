@@ -1,4 +1,4 @@
-# Opravuji další drobné nejasnosti v pravidlech
+# Opravuji další drobné nejasnosti v PPH
 
 *Všechny změny se týkají PPH verze 1.0, edice B*
 
