@@ -56,4 +56,63 @@ class ArticlesTest extends TestCase
             return 'clanky/' . $article;
         }, $articles);
     }
+
+    /**
+     * @test
+     */
+    public function List_of_articles_are_ordered_from_newest_to_oldest()
+    {
+        $indexAnchors = $this->getIndexAnchors();
+        $sortedIndexAnchors = $indexAnchors;
+        uasort($sortedIndexAnchors, function (string $someName, string $anotherName) {
+            $someName = basename($someName);
+            $anotherName = basename($anotherName);
+            $someDate = $this->createDateFromFilename($someName);
+            $anotherDate = $this->createDateFromFilename($anotherName);
+
+            return $anotherDate <=> $someDate; // descending
+        });
+        self::assertSame($indexAnchors, $sortedIndexAnchors, 'Articles are not sorted from newest to oldest in index');
+    }
+
+    private function createDateFromFilename(string $filename): \DateTime
+    {
+        $basename = \basename($filename);
+        self::assertGreaterThan(
+            0,
+            preg_match('~^(?<months>\d+)-(?<days>\d+)-(?<years>\d+)-\D+~', $basename, $matches),
+            'A file name does not start by [d]d-mm-YYYY format: ' . $basename
+        );
+        $date = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");
+        self::assertInstanceOf(\DateTime::class, $date, 'Date has not been created from parts ' . var_export($matches, true));
+        $date->setTime(0, 0, 0);
+
+        return $date;
+    }
+
+    /**
+     * @test
+     */
+    public function Date_of_articles_matches_across_title_and_filename()
+    {
+        foreach ($this->getIndexAnchors() as $title => $filename) {
+            $fileDate = $this->createDateFromFilename($filename);
+            $titleDate = $this->createDateFromTitle($title);
+            self::assertEquals($fileDate, $titleDate, 'Date in title does not match date in filename');
+        }
+    }
+
+    private function createDateFromTitle(string $title): \DateTime
+    {
+        self::assertGreaterThan(
+            0,
+            preg_match('~^(?<days>\d+).(?<months>\d+). (?<years>\d+) \D+~', $title, $matches),
+            'A title does not start by [d]d.mm. YYYY format: ' . $title
+        );
+        $date = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");
+        self::assertInstanceOf(\DateTime::class, $date, 'Date has not been created from parts ' . var_export($matches, true));
+        $date->setTime(0, 0, 0);
+
+        return $date;
+    }
 }
