@@ -1,6 +1,6 @@
 # Chyběl DrD+ příběh v celku, tak ho spojuji
 
-#### 16.6. 2017
+16.6. 2017
 
 Při brouzdání [RPG fóra](https://rpgforum.cz/forum/viewtopic.php?f=238&t=13307)
 (kde je pro mě materiálu ke čtení a přemýšlení na dlouhá léta) jsem narazil na přání Snílka, že by chtěl celý DrD+ příběh,

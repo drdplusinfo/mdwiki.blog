@@ -1,6 +1,6 @@
 # Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz
 
-#### 11.11. 2017
+11.11. 2017
 
 Bouchi [slíbil odpovědět do konce srpna](8-2-2017-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), v listopadu zatím nic, tak se ozývám zas:
 

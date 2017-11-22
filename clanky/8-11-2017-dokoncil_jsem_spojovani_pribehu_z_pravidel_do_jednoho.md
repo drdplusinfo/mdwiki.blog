@@ -1,6 +1,6 @@
 # Dokončil jsem spojování příběhů z pravidel do jednoho
 
-#### 11.8 2017
+11.8. 2017
 
 Když jsem před téměř dvěma měsíci začínal lepit dohromady příběh DrD+, mě jsem pocit, že je dávno vyhráno.
 

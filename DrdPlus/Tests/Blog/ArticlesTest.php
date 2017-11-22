@@ -104,6 +104,14 @@ class ArticlesTest extends TestCase
             $titleDate = $this->createDateFromTitle($title);
             self::assertEquals($fileDate, $titleDate, 'Date in title does not match date in filename');
         }
+        foreach ($this->getArticles(true) as $article) {
+            $content = file_get_contents($article);
+            self::assertInternalType('string', $content, 'Could not read ' . $article);
+            self::assertNotEmpty($content, 'Empty article ' . $article);
+            $contentDate = $this->createDateFromContent($content);
+            $fileDate = $this->createDateFromFilename($article);
+            self::assertEquals($fileDate, $contentDate, 'Date in article content does not match with date in file name');
+        }
     }
 
     private function createDateFromTitle(string $title): \DateTime
@@ -118,6 +126,20 @@ class ArticlesTest extends TestCase
         $date->setTime(0, 0, 0);
 
         return $date;
+    }
+
+    private function createDateFromContent(string $content): \DateTime
+    {
+        self::assertGreaterThan(
+            0,
+            preg_match('~^#[^#\n\r]+(\n|\r)+(?<days>\d+)[.](?<months>\d+)[.] (?<years>\d+)(\n|\r)+~', $content, $matches),
+            'Missing date in article ' . $content
+        );
+        $contentDate = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");
+        self::assertInstanceOf(\DateTime::class, $contentDate, 'Date has not been created from parts ' . var_export($matches, true));
+        $contentDate->setTime(0, 0, 0);
+
+        return $contentDate;
     }
 
     /**

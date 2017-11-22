@@ -1,5 +1,7 @@
 # Opravuji další drobné nejasnosti v PPH
 
+20.11. 2017
+
 *Všechny změny se týkají PPH verze 1.0, edice B*
 
 ### Scházela poznámka o nepoužitelném význačném smyslu při zběžném hledání u Smyslů
