@@ -31,7 +31,7 @@ Atletiku jsem do vzorce proto přidal
 > [Délka (výška) skoku = Rch/2 + bonus + 1k6 [+ Atletika]](https://pph.drdplus.info/#vypocet_delky_a_vysky_skoku)
 
 ---
-w
+
 A nakonec chybí zmínka o Atletice u výpočtu zranění z pádu či skoku na straně 119 vpravo
 > Body zranění = τ(Síla zranění) − τ(Obr)
 
