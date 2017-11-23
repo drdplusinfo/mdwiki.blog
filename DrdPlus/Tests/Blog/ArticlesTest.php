@@ -25,9 +25,7 @@ class ArticlesTest extends TestCase
     private function getIndexAnchors(): array
     {
         $index = __DIR__ . '/../../../index.md';
-        self::assertFileExists($index, 'Index file does not exist');
-        $content = file_get_contents($index);
-        self::assertNotEmpty($content);
+        $content = $this->getFileContent($index);
         preg_match_all('~\[(?<name>[^\]]+)]\((?<link>[^\)]+)\)~', $content, $matches);
         self::assertNotEmpty($matches, 'No links found in ' . $index);
         $anchors = [];
@@ -67,8 +65,14 @@ class ArticlesTest extends TestCase
     public function List_of_articles_are_ordered_from_newest_to_oldest()
     {
         $indexAnchors = $this->getIndexAnchors();
-        $sortedIndexAnchors = $indexAnchors;
-        uasort($sortedIndexAnchors, function (string $someName, string $anotherName) {
+        $sortedIndexAnchors = $this->sortFileNamesDescending($indexAnchors);
+
+        self::assertSame($indexAnchors, $sortedIndexAnchors, 'Articles are not sorted from newest to oldest in index');
+    }
+
+    private function sortFileNamesDescending(array $fileNames): array
+    {
+        uasort($fileNames, function (string $someName, string $anotherName) {
             $someName = basename($someName);
             $anotherName = basename($anotherName);
             $someDate = $this->createDateFromFilename($someName);
@@ -76,7 +80,8 @@ class ArticlesTest extends TestCase
 
             return $anotherDate <=> $someDate; // descending
         });
-        self::assertSame($indexAnchors, $sortedIndexAnchors, 'Articles are not sorted from newest to oldest in index');
+
+        return $fileNames;
     }
 
     private function createDateFromFilename(string $filename): \DateTime
@@ -105,9 +110,7 @@ class ArticlesTest extends TestCase
             self::assertEquals($fileDate, $titleDate, 'Date in title does not match date in filename');
         }
         foreach ($this->getArticles(true) as $article) {
-            $content = file_get_contents($article);
-            self::assertInternalType('string', $content, 'Could not read ' . $article);
-            self::assertNotEmpty($content, 'Empty article ' . $article);
+            $content = $this->getFileContent($article);
             $contentDate = $this->createDateFromContent($content);
             $fileDate = $this->createDateFromFilename($article);
             self::assertEquals($fileDate, $contentDate, 'Date in article content does not match with date in file name');
@@ -148,9 +151,7 @@ class ArticlesTest extends TestCase
     public function Name_of_file_is_created_from_content_title()
     {
         foreach ($this->getArticles(true /* with full path */) as $article) {
-            $content = file_get_contents($article);
-            self::assertInternalType('string', $content, 'Could not read ' . $article);
-            self::assertNotEmpty($content, 'Empty article ' . $article);
+            $content = $this->getFileContent($article);
             self::assertGreaterThan(0, preg_match('~^#(?<title>[^#\n\r]+)~', $content, $matches), 'Missing title for article ' . $article);
             $title = $matches['title'];
             $expectedFilename = StringTools::toConstant($title);
@@ -158,5 +159,70 @@ class ArticlesTest extends TestCase
             $filename = preg_replace('~^\d+-\d+-\d+-~', '', $basename);
             self::assertSame($expectedFilename, $filename);
         }
+    }
+
+    private function getFileContent(string $filename): string
+    {
+        self::assertFileExists($filename);
+        $content = file_get_contents($filename);
+        self::assertInternalType('string', $content, 'Could not read ' . $filename);
+        self::assertNotEmpty($content, 'Empty article ' . $filename);
+
+        return $content;
+    }
+
+    /**
+     * @test
+     */
+    public function I_can_navigate_easily_between_previous_and_next_articles()
+    {
+        $articlePaths = $this->getArticles(true);
+        $articlePaths = $this->sortFileNamesDescending($articlePaths);
+        $previousLink = false;
+        $nextArticle = false;
+        foreach ($articlePaths as $articlePath) {
+            if ($previousLink) { // previous iteration reveals a link to previous article (articles are ordered from newest)
+                self::assertSame(
+                    \basename($articlePath),
+                    $previousLink,
+                    'Invalid "previous" article in ' . $nextArticle
+                );
+            }
+            ['previousLink' => $previousLink, 'nextLink' => $nextLink] = $this->parseArticleLinksFromFile($articlePath);
+            if ($nextArticle) { // means previously next article
+                self::assertSame(
+                    \basename($nextArticle),
+                    \basename($nextLink),
+                    'Invalid "next" article in ' . \basename($articlePath)
+                );
+            }
+            $nextArticle = \basename($articlePath); // articles are ordered from newest, so current is "next" in following iteration
+        }
+    }
+
+    private function parseArticleLinksFromFile(string $filename): array
+    {
+        $content = $this->getFileContent($filename);
+        $previousRegexp = '- \*předchozí \[<< (?<previousName>[^\]]+)\]\((?<previousLink>[^\)]+)\)\*';
+        $nextRegexp = '- \*následující \[>> (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
+        self::assertGreaterThan(
+            0,
+            preg_match("~$previousRegexp~u", $content, $previousMatches) + preg_match("~$nextRegexp~u", $content, $nextMatches),
+            'No previous nor next article links found in ' . basename($filename)
+        );
+        if ($previousMatches && $nextMatches) {
+            self::assertGreaterThan(
+                0,
+                preg_match("~[\n\r]+---[\n\r]+{$previousRegexp}[\n\r]+{$nextRegexp}~u", $content),
+                'Link to previous article should precede link to next article'
+            );
+        }
+
+        return [
+            'previousName' => $previousMatches['previousName'] ?? false,
+            'previousLink' => $previousMatches['previousLink'] ?? false,
+            'nextName' => $nextMatches['nextName'] ?? false,
+            'nextLink' => $nextMatches['nextLink'] ?? false
+        ];
     }
 }
