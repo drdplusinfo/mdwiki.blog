@@ -205,17 +205,23 @@ class ArticlesTest extends TestCase
         $content = $this->getFileContent($filename);
         $previousRegexp = '- \*předchozí \[<< (?<previousName>[^\]]+)\]\((?<previousLink>[^\)]+)\)\*';
         $nextRegexp = '- \*následující \[>> (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
+        $delimiterRegexp = '(?<delimiter>[\n\r]+---[\n\r]+)';
         self::assertGreaterThan(
             0,
-            preg_match("~$previousRegexp~u", $content, $previousMatches) + preg_match("~$nextRegexp~u", $content, $nextMatches),
+            preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches)
+            + preg_match("~{$delimiterRegexp}?{$nextRegexp}~u", $content, $nextMatches),
             'No previous nor next article links found in ' . basename($filename)
         );
         if ($previousMatches && $nextMatches) {
             self::assertGreaterThan(
                 0,
-                preg_match("~[\n\r]+---[\n\r]+{$previousRegexp}[\n\r]+{$nextRegexp}~u", $content),
+                preg_match("~{$delimiterRegexp}{$previousRegexp}[\n\r]+{$nextRegexp}~u", $content),
                 'Link to previous article should precede link to next article'
             );
+        } elseif ($previousMatches) {
+            self::assertNotEmpty($previousMatches['delimiter'], 'Previous link is not delimited by horizontal rule in ' . basename($filename));
+        } elseif ($nextMatches) {
+            self::assertNotEmpty($nextMatches['delimiter'], 'Next link is not delimited by horizontal rule in ' . basename($filename));
         }
 
         return [
