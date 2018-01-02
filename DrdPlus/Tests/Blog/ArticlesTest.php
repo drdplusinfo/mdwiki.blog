@@ -89,10 +89,10 @@ class ArticlesTest extends TestCase
         $basename = \basename($filename);
         self::assertGreaterThan(
             0,
-            preg_match('~^(?<months>\d+)-(?<days>\d+)-(?<years>\d+)-\D+~', $basename, $matches),
-            'A file name does not start by [d]d-mm-YYYY format: ' . $basename
+            preg_match('~^(?<years>\d+)-(?<months>\d+)-(?<days>\d+)-\D+~', $basename, $matches),
+            'A file name does not start by YYYY-mm-dd format: ' . $basename
         );
-        $date = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");
+        $date = \DateTime::createFromFormat('Y-m-d', "{$matches['years']}-{$matches['months']}-{$matches['days']}");
         self::assertInstanceOf(\DateTime::class, $date, 'Date has not been created from parts ' . var_export($matches, true));
         $date->setTime(0, 0, 0);
 
@@ -190,6 +190,7 @@ class ArticlesTest extends TestCase
             }
             ['previousLink' => $previousLink, 'nextLink' => $nextLink] = $this->parseArticleLinksFromFile($articlePath);
             if ($nextArticle) { // means previously next article
+                self::assertNotEmpty($nextLink, "Got new article $nextArticle, but no next link from $articlePath");
                 self::assertSame(
                     \basename($nextArticle),
                     \basename($nextLink),

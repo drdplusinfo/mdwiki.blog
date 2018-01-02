@@ -42,9 +42,9 @@ I tady jsem atletiku přidal
 
 ---
 
-[Další drobné opravy jsem přidal 20.11. 2017 >>](11-20-2017-opravuji_dalsi_drobne_nejasnosti_v_pph.md)
+[Další drobné opravy jsem přidal 20.11. 2017 >>](2017-11-20-opravuji_dalsi_drobne_nejasnosti_v_pph.md)
 
 ---
 
-- *předchozí [<< Dokončil jsem spojování příběhů z pravidel do jednoho](8-11-2017-dokoncil_jsem_spojovani_pribehu_z_pravidel_do_jednoho.md)*
-- *následující [>> Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](11-11-2017-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)*
+- *předchozí [<< Dokončil jsem spojování příběhů z pravidel do jednoho](2017-08-11-dokoncil_jsem_spojovani_pribehu_z_pravidel_do_jednoho.md)*
+- *následující [>> Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)*

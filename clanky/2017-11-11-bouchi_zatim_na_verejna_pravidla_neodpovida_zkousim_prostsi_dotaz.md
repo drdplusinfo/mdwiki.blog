@@ -2,7 +2,7 @@
 
 11.11. 2017
 
-Bouchi [slíbil odpovědět do konce srpna](8-2-2017-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), v listopadu zatím nic, tak se ozývám zas:
+Bouchi [slíbil odpovědět do konce srpna](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), v listopadu zatím nic, tak se ozývám zas:
 
 > Ahoj, vím že u volnočasového projektu, jakým je DrD+, je obtížné sehnat zodpovědné lidi dohromady a dojít k nějakému závěru. Proto Vás poprosím alespoň o vyjádření, zda mohu zveřejnit pravidla v [HTML podobě](https://www.drdplus.info/), abychom snížili vstupní bariéru pro nové hráče a DrD+ se hrálo zas o něco víc.
 
@@ -12,5 +12,5 @@ Bouchi [slíbil odpovědět do konce srpna](8-2-2017-ptam_se_bouchiho_z_altaru_z
 
 ---
 
-- *předchozí [<< Ujasnil jsem v PPH některé vzorce, ve kterých chyběla zmínka o Atletice](8-12-2017-behem_prevodu_pravidel_do_html_jsem_opravil_par_drobnosti_v_pph.md)*
-- *následující [>> Zopakoval jsem v PPH nepoužitelný význačný smysl při automatickém a zběžném hledání](11-20-2017-opravuji_dalsi_drobne_nejasnosti_v_pph.md)*
+- *předchozí [<< Ujasnil jsem v PPH některé vzorce, ve kterých chyběla zmínka o Atletice](2017-08-12-behem_prevodu_pravidel_do_html_jsem_opravil_par_drobnosti_v_pph.md)*
+- *následující [>> Zopakoval jsem v PPH nepoužitelný význačný smysl při automatickém a zběžném hledání](2017-11-20-opravuji_dalsi_drobne_nejasnosti_v_pph.md)*

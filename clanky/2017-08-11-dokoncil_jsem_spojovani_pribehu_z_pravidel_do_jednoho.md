@@ -14,5 +14,5 @@ Takže... [hezké čtení](https://pribeh.drdplus.info).
 
 ---
 
-- *předchozí [<< Altar mě s veřejnými pravidly nehází přes palubu](8-10-2017-altar_me_s_verejnymi_pravidly_nehazi_pres_palubu.md)*
-- *následující [>> Ujasnil jsem některé vzorce, ve kterých chyběla zmínka o Atletice](8-12-2017-behem_prevodu_pravidel_do_html_jsem_opravil_par_drobnosti_v_pph.md)*
+- *předchozí [<< Altar mě s veřejnými pravidly nehází přes palubu](2017-08-10-altar_me_s_verejnymi_pravidly_nehazi_pres_palubu.md)*
+- *následující [>> Ujasnil jsem některé vzorce, ve kterých chyběla zmínka o Atletice](2017-08-12-behem_prevodu_pravidel_do_html_jsem_opravil_par_drobnosti_v_pph.md)*

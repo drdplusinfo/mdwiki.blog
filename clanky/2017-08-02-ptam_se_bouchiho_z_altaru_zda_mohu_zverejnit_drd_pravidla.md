@@ -76,9 +76,9 @@ Děkuji, Jaroslav "Kostřivec" Týc
 
 PS: všechny zdrojové kódy jsou vám k dispozici a pokud se rozhodnete, že je použijete po svém, protože jejich obsah je vaším vlastnictvím, nebudu se bránit
 
-Edit: [Bouchi 10.8. odpověděl, že si dá čas na rozmyšlenou](8-10-2017-altar_me_s_verejnymi_pravidly_nehazi_pres_palubu.md)
+Edit: [Bouchi 10.8. odpověděl, že si dá čas na rozmyšlenou](2017-08-10-altar_me_s_verejnymi_pravidly_nehazi_pres_palubu.md)
 
 ---
 
-- *předchozí [<< Chyběl DrD+ příběh v celku, tak ho spojuji](6-16-2017-chybel_drd_pribeh_v_celku_tak_ho_spojuji.md)*
-- *následující [>> Altar mě s veřejnými pravidly nehází přes palubu (Bouchi odpověděl, že si dá čas na rozmyšlenou)](8-10-2017-altar_me_s_verejnymi_pravidly_nehazi_pres_palubu.md)*
+- *předchozí [<< Chyběl DrD+ příběh v celku, tak ho spojuji](2017-06-16-chybel_drd_pribeh_v_celku_tak_ho_spojuji.md)*
+- *následující [>> Altar mě s veřejnými pravidly nehází přes palubu (Bouchi odpověděl, že si dá čas na rozmyšlenou)](2017-08-10-altar_me_s_verejnymi_pravidly_nehazi_pres_palubu.md)*
