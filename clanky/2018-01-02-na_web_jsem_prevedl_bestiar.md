@@ -17,7 +17,7 @@ Když se po tom maratonu ohlédnu, tak si vybavuji:
  - poznatek, že co může dělat stroj, neměl by dělat člověk
    - ne, nechci vědět, kolik času bych ušetřil, kdybych si [nástoj na automatické formátování](https://github.com/jaroslavtyc/drd-plus-format) zkopírovaného textu napsal dříve
    
-Dodávám na závěr, že je tam přes **sto** obrázků a každý má skoro půl megabajtu, takže to nezkoušej zobrazovat v telefonu na zastávce, mohlo by ti to ujet.
+Dodávám na závěr, že je tam přes **sto** obrázků a každý má kolem 100 KB, takže to nezkoušej zobrazovat v telefonu na zastávce, mohlo by ti to ujet.
 
 ---
 
