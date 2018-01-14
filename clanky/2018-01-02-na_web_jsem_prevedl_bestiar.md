@@ -14,8 +14,7 @@ Když se po tom maratonu ohlédnu, tak si vybavuji:
  - zklamání z chybějících příšerek ze starých pravidel (všichni ti skřeti, krysy, netopýři a vůbec ta snadno představitelná havěť)
  - nadšení z popisů příšer, od obecného popisu ke konkrétním příkladům chování
  - potěšení z nenásilného [příběhu](https://pribeh.bestiar.drdplus.info), provázejícího celý [Bestiář](https://bestiar.drplus.info)
- - poznatek, že co může dělat stroj, neměl by dělat člověk
-   - ne, nechci vědět, kolik času bych ušetřil, kdybych si [nástoj na automatické formátování](https://github.com/jaroslavtyc/drd-plus-format) zkopírovaného textu napsal dříve
+ - poznatek, že co může dělat stroj, neměl by dělat člověk (ne, nechci vědět, kolik času bych ušetřil, kdybych si [nástoj na automatické formátování](https://github.com/jaroslavtyc/drd-plus-format) zkopírovaného textu napsal dříve)
    
 Dodávám na závěr, že je tam přes **sto** obrázků a každý má kolem 100 KB, takže to nezkoušej zobrazovat v telefonu na zastávce, mohlo by ti to ujet.
 
