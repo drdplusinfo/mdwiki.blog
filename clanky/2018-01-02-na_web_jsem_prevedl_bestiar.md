@@ -21,3 +21,4 @@ Dodávám na závěr, že je tam přes **sto** obrázků a každý má kolem 100
 ---
 
 - *předchozí [<< Opravil jsem další drobné nejasnosti v PPH](2017-11-20-opravuji_dalsi_drobne_nejasnosti_v_pph.md)*
+- *následující [>> Na webu jsou všechna pravidla.. a co teď?](2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)*
