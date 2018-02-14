@@ -1,6 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
-### [9.2. 2018 Na webbu jsou všechna pravidla... a co teď?](clanky/2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)
+### [9.2. 2018 Na webu jsou všechna pravidla... a co teď?](clanky/2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)
 ### [2.1. 2018 Dokončil jsem převod Bestiáře](clanky/2018-01-02-na_web_jsem_prevedl_bestiar.md)
 ### [20.11. 2017 V PPH zopakováno, že význačný smysl je nepoužitelný při automatickém a zběžném hledání](clanky/2017-11-20-opravuji_dalsi_drobne_nejasnosti_v_pph.md)
 ### [11.11. 2017 Altar zatím neodpovídá, poslán proto prostší dotaz](clanky/2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)
