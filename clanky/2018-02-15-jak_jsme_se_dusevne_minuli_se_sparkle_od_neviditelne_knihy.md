@@ -14,7 +14,7 @@ roztřílet všechny disky na kterých kdy běželo drdplus.info včetně záloh
 Když mi zavolala, překvapilo mě, že je holka. Ani pozitivně, ani negativně, jen jsem měl pocit, že člověk, řešící tak svižně a zároveň intenzivně knihu o RPG bude dlouhovlasý, lehce zarostlý, napůl cílevědomý a napůl egocentrický chlap.
 Prachsprostý předsudek převlečený za předpoklad.
 
-A já i překvapil, asi nehezky, že jsem knihu ještě neviděl ani z vlaku (a to jezdím denně).
+A já překvapil ji, asi nehezky, že jsem knihu ještě neviděl ani z vlaku (a to jezdím denně).
 Tak nějak jsem měl zpětně pocit, že volala člověku, co je velkým fanouškem její tvorby, [Neviditelnou knihu](http://neviditelnakniha.cz) čte už potřetí s budíkem nastaveným na půl pátou ráno, aby stihl další kapitolu, jeji tiskařskou mašinu by poznal i po čuchu a nemůže se dočkat, až zapracuje většinu do své tvorby, jenže se dovolala
 neználkovi, co zjevně nečetl ani [tři roky starý první příspěvěk na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=310&t=12812), o obsahu knihy nemá tucha a ještě k tomu bere autorská práva na lehkou váhu.
 
