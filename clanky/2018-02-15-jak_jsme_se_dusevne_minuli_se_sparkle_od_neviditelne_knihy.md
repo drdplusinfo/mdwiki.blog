@@ -27,15 +27,15 @@ Teprve na [dracidoupe.cz](http://dracidoupe.cz) to bylo popsáno jako modul *pro
 Sparkle byla trochu neštastná, že jsem [Neviditelnou knihu](http://neviditelnakniha.cz) tak dlouho míjel a snažila se najít slabinu ve své reklamní ofensivě. Řeší to opravdu hodně.
 
 ## Rozum a cit, právo a prd
-Druhá část hovoru byla hlavně o autorských právech DrD+, protože se bála žaloby, kdybych původní příběhy v DrD+ pravidlech upravoval jménem Neviditelné knihy.
-Opravdu dlouho mi opakovala, že cokoli v DrD+ pravidlech je vlastněno všemi autory dohromady, že pozměnění jakéhokoli původního textu je porušením práva a pokud chci cokoli z [Neviditelné knihy](http://neviditelnakniha.cz) použít v DrD+ pravidlech, budou to muset být úplně nové kusy.
+Druhá část hovoru byla hlavně o autorských právech DrD+, protože se bála žaloby, kdybych [původní příběhy v DrD+ pravidlech](https://pribeh.drdplus.info) upravoval jménem [Neviditelné knihy](http://neviditelnakniha.cz).
+Opravdu dlouho mi opakovala, že cokoli v [DrD+ pravidlech](https://www.drdplus.info) je vlastněno všemi autory dohromady, že pozměnění jakéhokoli původního textu je porušením práva a pokud chci cokoli z [Neviditelné knihy](http://neviditelnakniha.cz) použít v [DrD+ pravidlech](https://www.drdplus.info), budou to muset být úplně nové kusy.
 
 Po téhle přednášce se mi v hlavě usadil stín, který vysával moje nadšení a mával mi před očima štosy drobného písma s kódovanou právničinou, ze které se spolehlivě osypu za každého počasí.
 
-Jen letmo jsme si potvrdili, že teď si přečtu knihu a potom se dám do [převodníku](http://neviditelnakniha.cz/ke-stazeni/pravidla/) pro DrD+ pravidla.
+Jen letmo jsme si potvrdili, že teď si přečtu knihu a potom se dám do [převodníku](http://neviditelnakniha.cz/ke-stazeni/pravidla/) pro [DrD+ pravidla](https://www.drdplus.info).
 
 ## Toho bohdá nebude
-Ale nakonec mě to posílilo. Je mi jasné, že i nadále budu muset vést [guerillový boj](https://cs.wikipedia.org/wiki/Guerrilla), protože [Altar nereaguje](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md) (Sparkle naznačovala, že má Altar v tomhle svázané ruce, jelikož nevlastní práva na obsah DrD+, ale je pouze vydavatelem) a DrD+ je přitom už ve fázi klinické smrti, takže na čekání opravdu není čas.
+Ale nakonec mě to posílilo. Je mi jasné, že i nadále budu muset vést [guerillový boj](https://cs.wikipedia.org/wiki/Guerrilla), protože [Altar nereaguje](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md) (Sparkle naznačovala, že má [Altar](http://altar.cz) v tomhle svázané ruce, jelikož nevlastní práva na obsah DrD+, ale je pouze vydavatelem) a DrD+ je přitom už ve fázi klinické smrti, takže na čekání opravdu není čas.
 Jinak než veřejnými pravidly, které si každý může zkusit kdykoli se mu zamane, se DrD+ už na nohy nepostaví.
 
 Uzrálo ve mě také rozhodnutí, že seženu kontakty na co nejvíce původních autorů DrD+ (a že jich je!) a přednesu jim, jakou vidím budoucnost jejich práce (u které dost pochybuji, že ji dělali pro peníze, jak občas někteří na RPG fóru prohlašovali).
