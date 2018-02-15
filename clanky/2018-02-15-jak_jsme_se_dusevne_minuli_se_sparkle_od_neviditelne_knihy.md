@@ -35,12 +35,12 @@ Po téhle přednášce se mi v hlavě usadil stín, který vysával moje nadšen
 Jen letmo jsme si potvrdili, že teď si přečtu knihu a potom se dám do [převodníku](http://neviditelnakniha.cz/ke-stazeni/pravidla/) pro DrD+ pravidla.
 
 ### Toho bohdá nebude
-Ale nakonec mě to posílilo. Je mi jasné, že i nadále budu muset vést [querillový boj](https://cs.wikipedia.org/wiki/Guerrilla), protože Altar nereaguje (Sparkle naznačovala, že má Altar v tomhle svázané ruce, jelikož nevlastní práva na obsah DrD+, ale je pouze vydavatelem) a DrD+ je už ve fázi klinické smrti.
-Jinak než veřejnými pravidly, které si každý může zkusit kdykoli se mu zamane, se už na nohy nepostaví.
+Ale nakonec mě to posílilo. Je mi jasné, že i nadále budu muset vést [querillový boj](https://cs.wikipedia.org/wiki/Guerrilla), protože [Altar nereaguje](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md) (Sparkle naznačovala, že má Altar v tomhle svázané ruce, jelikož nevlastní práva na obsah DrD+, ale je pouze vydavatelem) a DrD+ je přitom už ve fázi klinické smrti.
+Jinak než veřejnými pravidly, které si každý může zkusit kdykoli se mu zamane, se DrD+ už na nohy nepostaví.
 
-Uzrálo ve mě také rozhodnutí, že seženu kontakty na co nejvíce původních autorů DrD+ (a že jich je!) a přednesu jim, jakou vidím budoucnost jejich práce (o které dost pochybuji, že ji dělali pro peníze, jak občas někteřé na RPG fóru prohlašovali).
+Uzrálo ve mě také rozhodnutí, že seženu kontakty na co nejvíce původních autorů DrD+ (a že jich je!) a přednesu jim, jakou vidím budoucnost jejich práce (u které dost pochybuji, že ji dělali pro peníze, jak občas někteřé na RPG fóru prohlašovali).
 
-Nebudu po nich chtít písemné souhlasy, ani pomoc, pouze bych rád, aby věděli, co se s jejich literárním dítětem děje, že se o něj stará někdo, kdo ho má rád a hodlá ho zpřístupnit všem, bezúplatně a příslibem dalšího rozvoje.
+Nebudu po nich chtít písemné souhlasy, ani pomoc, pouze bych rád, aby věděli, co se s jejich literárním dítkem děje, že se o něj stará někdo, kdo ho má rád a hodlá ho zpřístupnit všem, bezúplatně a s příslibem dalšího rozvoje.
 
 
 Pro nerdy a historiky uvádím i mailovou komunikaci se Sparkle, ve které ani písmenko nevarovalo před obavami a rozčarováním, které se do hovoru našroubovaly.
