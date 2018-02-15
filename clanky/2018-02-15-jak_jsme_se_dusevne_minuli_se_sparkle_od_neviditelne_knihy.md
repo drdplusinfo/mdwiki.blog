@@ -27,7 +27,7 @@ Teprve na [dracidoupe.cz](http://dracidoupe.cz) to bylo popsáno jako modul *pro
 Sparkle byla trochu neštastná, že jsem [Neviditelnou knihu](http://neviditelnakniha.cz) tak dlouho míjel a snažila se najít slabinu ve své reklamní ofensivě. Řeší to opravdu hodně.
 
 ## Rozum a cit, právo a prd
-Druhá část hovoru byla hlavně o autorských právech.
+Druhá část hovoru byla hlavně o autorských právech DrD+, protože se bála žaloby, kdybych původní příběhy v DrD+ pravidlech upravoval jménem Neviditelné knihy.
 Opravdu dlouho mi opakovala, že cokoli v DrD+ pravidlech je vlastněno všemi autory dohromady, že pozměnění jakéhokoli původního textu je porušením práva a pokud chci cokoli z [Neviditelné knihy](http://neviditelnakniha.cz) použít v DrD+ pravidlech, budou to muset být úplně nové kusy.
 
 Po téhle přednášce se mi v hlavě usadil stín, který vysával moje nadšení a mával mi před očima štosy drobného písma s kódovanou právničinou, ze které se spolehlivě osypu za každého počasí.
