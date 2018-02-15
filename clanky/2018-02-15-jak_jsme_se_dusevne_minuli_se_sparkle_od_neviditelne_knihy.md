@@ -2,14 +2,14 @@
 
 15.2. 2018
 
-### Nějak se to zadrhlo
+## Nějak se to zadrhlo
 V pondělí 12.2. 2018 jsme si telefonovali se Sparkle a probírali detailněji budoucí spolupráci mezi [DrD+](https://www.drdplus.info) a [Neviditelnou knihou](http://neviditelnakniha.cz),
 respektive neklidekm celého světa Taurin.
 
 Na začátku rozhovoru jsem měl pocit, že chtěla mluvit s někým jiným a ke konci rozhovoru jsem měl pocit, že bych měl osobně dojít do serverovny [VPSfree](https://vpsfree.cz),
 roztřílet všechny disky na kterých kdy běželo drdplus.info včetně zálohy, a odjet inkognito na Seychely nechat si vzít míru na rakev od pana Krejčíře dřív, než mě kancelářskými sponkami umučí patentoví trollové.
 
-### Nečekaná očekávání
+## Nečekaná očekávání
 
 Když mi zavolala, překvapilo mě, že je holka. Ani pozitivně, ani negativně, jen jsem měl pocit, že člověk, řešící tak svižně a zároveň intenzivně knihu o RPG bude dlouhovlasý, lehce zarostlý, napůl cílevědomý a napůl egocentrický chlap.
 Prachsprostý předsudek převlečený za předpoklad.
@@ -18,7 +18,7 @@ A já překvapil ji, asi nehezky, že jsem knihu ještě neviděl ani z vlaku (a
 Tak nějak jsem měl zpětně pocit, že volala člověku, co je velkým fanouškem její tvorby, který [Neviditelnou knihu](http://neviditelnakniha.cz) čte už potřetí s budíkem nastaveným na půl pátou ráno, aby stihl další kapitolu, jenže se dovolala
 neználkovi, co zjevně nečetl ani [tři roky starý první příspěvěk na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=310&t=12812), o obsahu knihy nemá tucha a ještě k tomu bere autorská práva na lehkou váhu.
 
-#### Kontrola návnad
+## Kontrola návnad
 Nejdříve mě vyzpovídala, odkud jsem se o [Nevidtelné knize](http://neviditelnakniha.cz) dozvěděl, respektive která část z její reklamní sitě mě chytla.
 Musel jsem chvíli pátrat v paměti, protože o [Neviditelné knize](http://neviditelnakniha.cz) jsem vlastně věděl docela dlouho, ale teprve nejméně nápadný, zato [osamocený příspěvek na dracidoupe.cz](http://www.dracidoupe.cz/) mě oslovil.
 Včera jsem si to ještě neuvědomil, ale asi to bylo taky tím, že to byla první reklama bez hesla *DrD II* - a já přece "nemám čas číst moduly pro odlišný systém".
@@ -26,7 +26,7 @@ Teprve na [dracidoupe.cz](http://dracidoupe.cz) to bylo popsáno jako modul *pro
 
 Sparkle byla trochu neštastná, že jsem [Neviditelnou knihu](http://neviditelnakniha.cz) tak dlouho míjel a snažila se najít slabinu ve své reklamní ofensivě. Řeší to opravdu hodně.
 
-#### Rozum a cit, právo a prd
+## Rozum a cit, právo a prd
 Druhá část hovoru byla hlavně o autorských právech.
 Opravdu dlouho mi opakovala, že cokoli v DrD+ pravidlech je vlastněno všemi autory dohromady, že pozměnění jakéhokoli původního textu je porušením práva a pokud chci cokoli z [Neviditelné knihy](http://neviditelnakniha.cz) použít v DrD+ pravidlech, budou to muset být úplně nové kusy.
 
@@ -34,7 +34,7 @@ Po téhle přednášce se mi v hlavě usadil stín, který vysával moje nadšen
 
 Jen letmo jsme si potvrdili, že teď si přečtu knihu a potom se dám do [převodníku](http://neviditelnakniha.cz/ke-stazeni/pravidla/) pro DrD+ pravidla.
 
-### Toho bohdá nebude
+## Toho bohdá nebude
 Ale nakonec mě to posílilo. Je mi jasné, že i nadále budu muset vést [querillový boj](https://cs.wikipedia.org/wiki/Guerrilla), protože [Altar nereaguje](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md) (Sparkle naznačovala, že má Altar v tomhle svázané ruce, jelikož nevlastní práva na obsah DrD+, ale je pouze vydavatelem) a DrD+ je přitom už ve fázi klinické smrti.
 Jinak než veřejnými pravidly, které si každý může zkusit kdykoli se mu zamane, se DrD+ už na nohy nepostaví.
 
