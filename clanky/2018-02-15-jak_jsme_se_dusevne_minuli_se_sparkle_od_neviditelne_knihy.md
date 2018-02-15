@@ -19,7 +19,7 @@ Tak nějak jsem měl zpětně pocit, že volala člověku, co je velkým fanouš
 neználkovi, co zjevně nečetl ani [tři roky starý první příspěvěk na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=310&t=12812), o obsahu knihy nemá tucha a ještě k tomu bere autorská práva na lehkou váhu.
 
 ## Kontrola návnad
-Nejdříve mě vyzpovídala, odkud jsem se o [Nevidtelné knize](http://neviditelnakniha.cz) dozvěděl, respektive která část z její reklamní sitě mě chytla.
+Nejdříve mě vyzpovídala, odkud jsem se o [Nevidtelné knize](http://neviditelnakniha.cz) dozvěděl, respektive která část z její reklamní sítě mě chytla.
 Musel jsem chvíli pátrat v paměti, protože o [Neviditelné knize](http://neviditelnakniha.cz) jsem vlastně věděl docela dlouho, ale teprve nejméně nápadný, zato [osamocený příspěvek na dracidoupe.cz](http://www.dracidoupe.cz/) mě oslovil.
 Včera jsem si to ještě neuvědomil, ale asi to bylo taky tím, že to byla první reklama bez hesla *DrD II* - a já přece "nemám čas číst moduly pro odlišný systém".
 Teprve na [dracidoupe.cz](http://dracidoupe.cz) to bylo popsáno jako modul *pro Dračí doupě a jiná fantasy RPG*, takže mi to mozek konečně vyhnodil jako zajímavý obsah pro DrD+.
