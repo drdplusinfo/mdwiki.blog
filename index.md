@@ -1,5 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [15.2. 2018 Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](clanky/2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)
 ### [9.2. 2018 Na webu jsou všechna pravidla... a co teď?](clanky/2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)
 ### [2.1. 2018 Dokončil jsem převod Bestiáře](clanky/2018-01-02-na_web_jsem_prevedl_bestiar.md)
 ### [20.11. 2017 V PPH zopakováno, že význačný smysl je nepoužitelný při automatickém a zběžném hledání](clanky/2017-11-20-opravuji_dalsi_drobne_nejasnosti_v_pph.md)

@@ -90,7 +90,7 @@ class ArticlesTest extends TestCase
         self::assertGreaterThan(
             0,
             preg_match('~^(?<years>\d+)-(?<months>\d+)-(?<days>\d+)-\D+~', $basename, $matches),
-            'A file name does not start by YYYY-mm-dd format: ' . $basename
+            'A file name does not start by YYYY-mm-dd-\w+ format: ' . $basename
         );
         $date = \DateTime::createFromFormat('Y-m-d', "{$matches['years']}-{$matches['months']}-{$matches['days']}");
         self::assertInstanceOf(\DateTime::class, $date, 'Date has not been created from parts ' . var_export($matches, true));
