@@ -43,7 +43,7 @@ Uzrálo ve mě také rozhodnutí, že seženu kontakty na co nejvíce původníc
 Nebudu po nich chtít písemné souhlasy, ani pomoc, pouze bych rád, aby věděli, co se s jejich literárním dítkem děje, že se o něj stará někdo, kdo ho má rád a hodlá ho zpřístupnit všem, bezúplatně a s příslibem dalšího rozvoje.
 
 - *předchozí [<< Na webu jsou všechna pravidla... a co teď?](2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)*
-- *následující [>> Vyskytla se nám Neviditelná soutěž](2018-02-16-jaksi-neviditelna-soutez.md)*
+- *následující [>> Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla-se-nam-neviditelna-soutez.md)*
 
 Pro nerdy a historiky uvádím i mailovou komunikaci se Sparkle, ve které ani písmenko nevarovalo před obavami a rozčarováním, které se nám do hovoru našroubovaly.
 
@@ -122,3 +122,4 @@ Předmět: Re: Můžu uvést Neviditelnou knihu na drdplus.info ?
 ---
 
 - *předchozí [<< Na webu jsou všechna pravidla... a co teď?](2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)*
+- *následující [>> Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla-se-nam-neviditelna-soutez.md)*
