@@ -212,6 +212,7 @@ class ArticlesTest extends TestCase
             preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches)
             + preg_match("~{$delimiterRegexp}?{$nextRegexp}~u", $content, $nextMatches),
             'No previous nor next article links found in ' . basename($filename)
+            . ", expected something like \n- *předchozí [<< Foo](bar.md)*"
         );
         if ($previousMatches && $nextMatches) {
             self::assertGreaterThan(

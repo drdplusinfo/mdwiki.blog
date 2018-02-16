@@ -53,4 +53,4 @@ A kdyby byl jeho výtvor dobrý, uvedu ho (pokud bude souhlasit) i jako jednoho 
 
 ---
 
-- *předchozí* [Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)
+- *předchozí [<< Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)*
