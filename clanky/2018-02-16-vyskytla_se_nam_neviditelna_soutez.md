@@ -4,19 +4,18 @@
 
 ## Setkal se pocit s plánem
 
-Vlastně souhrou okolností, kdy jsem ze slušnosti [napsal Neviditelné knize](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md), zda mohu nechat odkaz na ně na [drdplus.info](https://www.drdplus.info) jsem najednou objednal
-tři knížky, protože jsem cítil že to má hodnotu pro mě i dva další čtenáře, přestože jsem tou dobou o knize věděl jen [drobnosti z RPG fóra](https://rpgforum.cz/forum/viewforum.php?f=310).
+Vlastně souhrou okolností, kdy jsem ze slušnosti [napsal Neviditelné knize](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md), zda mohu nechat odkaz na ní na [drdplus.info](https://www.drdplus.info) jsem ve výsledku objednal tři [Neviditelné knihy](http://neviditelnakniha.cz), protože jsem cítil, že to má hodnotu pro mě i dva další čtenáře, přestože jsem tou dobou o knize věděl jen [drobnosti z RPG fóra](https://rpgforum.cz/forum/viewforum.php?f=310).
 
 V hlavě se mi totiž spojilo několik věcí:
 
-- budu teď mít půl roku pauzu od hraní DrD, jelikož už nenajdu ani jeden volný den vzhledem k novému přírůstku do rodiny, takže svůj RPG chtíč potřebuju ukájet jinými způsoby
- - takže jednu knihu hodlám zkonzumovat ryze pro svoji vnitřní potřebu
+- budu teď mít půl roku pauzu od hraní DrD, jelikož si už nenajdu ani jeden volný den vzhledem k novému přírůstku do rodiny, takže svůj RPG chtíč potřebuju ukájet jinými způsoby
+ - jednu knihu tedy hodlám zkonzumovat ryze pro svoji vnitřní potřebu
 - náš Pýǧej sám tři knížky napsal, něco už odehrál a vyzrálé nápady ocení
  - tudíž mu kniha udělá radost a nám to může do budoucna rozšířit dobrodružství 
 - [Neviditelná knihou](http://neviditelnakniha.cz) je nová, lidi mají rádi nové věci a pokud zavčasu stihneme převodník (aplikaci) pravidel DrD+ pro [Neviditelnou knihou](http://neviditelnakniha.cz), zbývající hráči DrD+ si budou moci mnout ruce a šáhnout po novince bez strarostí
-- pravidla DrD+ mají určité nedostatky a formou soutěže bychom mohli získat vítanou pomoc
+- [pravidla DrD+](https://www.drdplus.info) mají určité nedostatky a formou soutěže bychom mohli získat vítanou pomoc
 
-A tím se dostáváme k soutěži. Vypsal jsem ji tedy částečně z okamžitého pocitu a částečně z dlouhodobého rozmýšlení, jak pohnout s pravidly zas o kousek blíže k dokonalosti (jakkoli je daleko - kdo se bojí, nesmí do lesa).
+A tím se dostáváme k soutěži. Vypsal jsem ji tedy částečně z okamžitého pocitu a částečně z dlouhodobého rozmýšlení, jak pohnout s pravidly zas o kousek blíže k dokonalosti (jakkoli je daleko).
 
 ## Soutěž (od 13.2. do 28. 2. 2018)
 
@@ -49,7 +48,7 @@ Kostřivec
 ## Neviditelné výsledky
 
 Jestli soutěž někdo zkusí, pošlu mu knihu s věnováním.
-A kdyby byl jeho výtvor dobrý, uvedu ho (pokud bude souhlasit) i jako jednoho z novodobých autorů DrD+ pravidel a ke knize mu přidám i DrD+ triko (povedlo se, jen je krapet dražší, tak ho nerozdávám na potkání).
+A jestli bude jeho výtvor dobrý, uvedu ho (pokud bude souhlasit) i jako jednoho z novodobých autorů [DrD+ bestiáře](https://bestiar.drdplus.info) a ke knize mu přidám i DrD+ triko (které se povedlo, jen je krapet dražší, tak ho nerozdávám na potkání).
 
 ---
 
