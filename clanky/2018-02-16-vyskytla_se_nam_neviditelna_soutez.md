@@ -25,7 +25,7 @@ Jestli chceš [Neviditelnou knihu](http://neviditelnakniha.cz), tak věz, že an
 
 - alespoň tři kratičké příběhy o setkání s příšerami ze [soukromého Bestiáře Pána jeskyně](https://bestiar.ppj.drdplus.info) pro DrD+, pro inspiraci se můžeš podívat třeba na [tohle Setkání](https://bestiar.drdplus.info/#setkani_s_hlenem_zelenym) ve větším Bestiáři DrD+
   - hodnotím (a potřebuji) hlavně jiskru nápadu, na které by Pán jeskyně dokázal postavit zápletku pro dobrodružství (pokud například upír někoho kousne na plese, tak z toho PJ moc nápadů nezíská, ale když třeba neduživý mužík žadoní ve zpovědnici o odpuštění, ale farář mu naznačuje, že, jaksi, kostel potřebuje opravit střechu, dveře už dlouho nikdo nepromazal, a schodů do zvonice že se bojí i myši, a že by, jaksi, uvítal nejdříve určitý příspěveček do kasičky, než začnou s oním odpouštěním, načež mužík vybuchne spravedlivým i zoufalým hněvem a z faráře vysaje poslední kapku zkorumpované krve, tak to je jiná)
-- nebo alespoň jednu kresbu [jednorožce](https://bestiar.ppj.drdplus.info/#jednorozec), [koně](https://bestiar.ppj.drdplus.info/#kun), [lišky](https://bestiar.ppj.drdplus.info/#liska) či [ďábla](https://bestiar.ppj.drdplus.info/#dabel)
+- nebo alespoň jednu kresbu [jednorožce](https://bestiar.ppj.drdplus.info/#jednorozec), [koně](https://bestiar.ppj.drdplus.info/#kun), [lišky](https://bestiar.drdplus.info/#liska) či [ďábla](https://bestiar.drdplus.info/#dabel)
   - hodnotím hlavně uvěřitelnost a skutečnost, která bude z obrazu dýchat, takže prosím bez karikatur a komiksových prvků
   - formát neřeš, na webové stránky dostaneme cokoli
 
