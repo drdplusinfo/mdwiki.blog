@@ -76,7 +76,9 @@ Děkuji, Jaroslav "Kostřivec" Týc
 
 PS: všechny zdrojové kódy jsou vám k dispozici a pokud se rozhodnete, že je použijete po svém, protože jejich obsah je vaším vlastnictvím, nebudu se bránit
 
-Edit: [Bouchi 10.8. odpověděl, že si dá čas na rozmyšlenou](2017-08-10-altar_me_s_verejnymi_pravidly_nehazi_pres_palubu.md)
+Edit: [Bouchi 10.8. 2017 odpověděl, že si dá čas na rozmyšlenou](2017-08-10-altar_me_s_verejnymi_pravidly_nehazi_pres_palubu.md)
+
+Edit: [Z hovoru 15.2.2018 se Sparkle vyplývá, že oficiální svolení od Altaru ani nedostanu, protože mi ho dát vlastně nemůže](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)
 
 ---
 
