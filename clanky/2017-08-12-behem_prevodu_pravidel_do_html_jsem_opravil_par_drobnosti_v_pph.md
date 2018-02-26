@@ -9,7 +9,7 @@ V [PPH, Pravidlech pro hráče](https://pph.drdplus.info) jsem našel několik n
 ### V některých vzorcích chybí vliv Atletiky
 
 V PPH na straně 112 vpravo v kapitole Pohybová rychlost je vzorec pro její výpočet
-> [Pohybová rychlost = Rch/2 + bonus podle druhu pohybu](https://pph.drdplus.info/#vypocet_pohybove_rychlosti)
+> Pohybová rychlost = Rch/2 + bonus podle druhu pohybu
 
 ovšem Pohybovou rychlost ovlivňuje také Atletika, pokud se pohybuješ Během nebo Sprintem,
 jak je uvedeno u Atletiky na straně 145 a po vzoru Maximálního nákladu
@@ -18,7 +18,7 @@ jak je uvedeno u Atletiky na straně 145 a po vzoru Maximálního nákladu
 by vzorec měl upozorňovat na bonus z atletiky.
 
 Vzorec pro Pohybovou rychlost jsem tedy rozšířil
-> Pohybová rychlost = Rch/2 + bonus podle druhu pohybu [+ Atletika při běhu a sprintu]
+> [Pohybová rychlost = Rch/2 + bonus podle druhu pohybu [+ Atletika při běhu a sprintu]](https://pph.drdplus.info/#vypocet_pohybove_rychlosti)
 
 ---
 
