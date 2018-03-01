@@ -12,7 +12,7 @@ roztřílet všechny disky na kterých kdy běželo [drdplus.info](https://www.d
 
 ## Smazáno 1.3. 2018
 
-...původně tady bylo celkem dlouhé pokračování toho, co jsem na začátku nakousl - můj dojem z rozhovoru a popis informací, které mi Sparkle řekla, ale považovala hodně informací z toho za důvěrné a některé údaje nepravdivé, takže jsme se nakonec dohodli, že článek smažu.
+...původně tady bylo celkem dlouhé pokračování toho, co jsem na začátku nakousl - můj dojem z rozhovoru a popis informací, které mi Sparkle řekla, ale protože považovala hodně informací z toho za důvěrné a některé údaje nepravdivé, takže jsme se nakonec dohodli, že článek smažu.
 
 Holt není každý den posvícení.
 
