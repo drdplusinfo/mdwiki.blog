@@ -50,6 +50,8 @@ Kostřivec
 Jestli soutěž někdo zkusí, pošlu mu knihu s věnováním.
 A jestli bude jeho výtvor dobrý, uvedu ho (pokud bude souhlasit) i jako jednoho z novodobých autorů [DrD+ bestiáře](https://bestiar.drdplus.info) a ke knize mu přidám i DrD+ triko (které se povedlo, jen je krapet dražší, tak ho nerozdávám na potkání).
 
+PS: už jste byli na [nevidtelné výstavě](http://neviditelna.cz/)? Taky zážitek z jiného vesmíru, podobně jako vstup do fantazie.
+
 ---
 
 - *předchozí [<< Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)*
