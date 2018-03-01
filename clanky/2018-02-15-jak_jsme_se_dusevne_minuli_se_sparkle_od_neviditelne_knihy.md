@@ -16,7 +16,7 @@ roztřílet všechny disky na kterých kdy běželo drdplus.info včetně záloh
 
 Holt není každý den posvícení.
 
-Tož posmutněme, pak ale zvedněme hlavy a jděme dál. Krleš!
+Tož posmutněme, poplakejme, zvedněme hlavy a jděme dál. Krleš!
 
 ---
 
