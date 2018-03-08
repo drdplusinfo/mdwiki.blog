@@ -52,6 +52,23 @@ A jestli bude jeho výtvor dobrý, uvedu ho (pokud bude souhlasit) i jako jednoh
 
 PS: už jste byli na [nevidtelné výstavě](http://neviditelna.cz/)? Taky zážitek z jiného vesmíru, podobně jako vstup do fantazie.
 
+### Stále neviditelné výsledky
+*Edit 8.3. 2018*
+Zatím ticho po pěšině co? Já ti to vysvětlím.
+
+*28. 2.* tři sekundy před půlnocí jsem zcela podle plánu spal jako špalek. Takže jsem byl na zvolení vítěze *Neviditelné soutěže* vyspinkaný do růžova.
+
+Nejdříve jsem to vzal zlehka a pouze zjistil počet účastníků soutěže - no, matematici by mohli závidět, tak magické číslo, jaké jsem dostal, se nevidí každý den. Ano, byla to nula. A to máme přes [Facebook](https://www.facebook.com/drdplus.info/) osloveno 216 lidí (nebo co to je za rasy) a to nikoli bezduchou placenou reklamou, ale sdílením přímo přes [FB Neviditelné knihy](https://www.facebook.com/neviditelnakniha/), kde jsou logicky jen ti, které [Neviditelná kniha](http://neviditelnakniha.cz) zajímá.
+
+Po pravdě zareagoval jen Lukáš P., který mi nahlásil sestřelené [PPH stránky](https://pph.drdplus.info), a ten se svěřil, že na soutěž nemá čas. To je ta moderní doba, samý internety a Androidi a Ohryzky a... a vůbec. Vezměme to ale pozitivně, díky Lukášovi jsem zamakal na stabilitě stránek, přidal [kontrolu robotem](https://uptimerobot.com/) každých pět minut, jestli náhodou zas něco nežuchlo, a brzy už mi to bude i posílat maily o každičkém problému, který by se tam vyskytl.
+
+Ovšem, jelikož jsem ke konci února neměl čas soutěž ukončit, tak se ještě stihl ozvat Honza V., kterýžto soutěž sice neřešil, ale texty psát chtěl, takže jsem ho mírňoulince zmanipulovat tak, aby se do soutěže zapojil.
+
+**Tímto termín soutěže posouváme až do prvního soutěžícího, který splní její podmínky.**
+*Ano, i takhle mohou vzniknout nesmrtelné legendy.*
+
+Tak co, zkusíš to?
+
 ---
 
 - *předchozí [<< Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)*
