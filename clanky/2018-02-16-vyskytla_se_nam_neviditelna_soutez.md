@@ -72,3 +72,4 @@ Tak co, zkusíš to?
 ---
 
 - *předchozí [<< Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)*
+- *následující [>> Technický milník - zrychlili jsme](clanky/2018-03-07-technicky_milnik_zrychlili_jsme.md)*
