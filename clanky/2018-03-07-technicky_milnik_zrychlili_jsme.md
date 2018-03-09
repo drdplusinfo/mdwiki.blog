@@ -11,28 +11,28 @@
 *To základní by bylo, stránky se načítaly, aaaleee pooomaaaluuu*
 
 Jak už jsem [psal v dopise Altaru](./2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), začátky stránek [drdplus.info](https://www.drdplus.info) byly tristní. [PPH](https://pph.drdplus.info) se načítaly tak dlouho, že jsem rychleji vyhrabal [původní PDFko](https://obchod.altar.cz/drd-prirucka-pro-hrace-everze-p-972.html?buy=Koup%C3%ADm+DrD%2B+PPH+%28Pravidla+pro+hr%C3%A1%C4%8De%29) a v něm si našel co jsem hledal.
-No, trochu mě to otrávilo, takže jsem se na pravidla na webu taky na čas vykvajznul...
+No, trochu mě to otrávilo, takže jsem se na pravidla na webu na čas vykvajznul...
 
 ## Posíláme části najednou
 
 *Jak dostat stránku rychleji do tvého prohlížeče?*
 
-Malá revoluce pro mě nastala objevením [webového serveru Caddy](https://caddyserver.com/), kterému stačilo [nepříliš složitým textovým souborem](https://caddyserver.com/tutorial/caddyfile) oznámit, co chci zobrazovat, a najednou jsem měl stránky s [HTTPS](https://www.vzhurudolu.cz/prirucka/https) a ještě k tomu se načítaly rychleji, jelikož využívaly [HTTP/2](https://www.vzhurudolu.cz/prirucka/http-2), což je hlavně paralerní stahování částí stránky (třeba taková [Pravidla pro hráče](https://pph.drdplus.info) jsou složena z padesáti devíti částí a stahovat je po jedné, nebo všechny najednou, to už je rozdíl).
+Malá revoluce pro mě nastala objevením [webového serveru Caddy](https://caddyserver.com/), kterému stačilo [nepříliš složitým textovým souborem](https://caddyserver.com/tutorial/caddyfile) oznámit, co chci zobrazovat, a najednou jsem měl stránky s [HTTPS](https://www.vzhurudolu.cz/prirucka/https) a ještě k tomu se načítaly rychleji, jelikož využívaly [HTTP/2](https://www.vzhurudolu.cz/prirucka/http-2), což je stahování všech částí stránky *najednou* (třeba taková [Pravidla pro hráče](https://pph.drdplus.info) jsou složena z padesáti devíti částí a stahovat je po jedné, nebo všechny najednou, to už je rozdíl).
 
 #### Samočinné načítání změn
 
 *Co může dělat stroj, nedělej*
 
-Navíc už má [Caddy](https://caddyserver.com/) spoustu rozšíření a například [jedno z nich](https://caddyserver.com/docs/http.git) čeká na pohlavek z internetu, že by mělo stáhnout nové změny, takže když například v *16:01:15* pošlu na server s kódem změnu (což je jiný server, než ze kterého běží [drdplus.info](https://www.drdplus.info)), tak v *16:01:25* už je změna veřejná a ty ji uvidíš (protože server s kódem dá pohlavek serveru se stránkami ve myslu "dávej bacha a stáhni si novou verzi").
+Navíc už má [Caddy](https://caddyserver.com/) spoustu rozšíření a například [jedno z nich](https://caddyserver.com/docs/http.git) čeká na [pohlavek z internetu](https://developer.github.com/webhooks/), že by mělo stáhnout nové změny, takže když například v *16:01:15* pošlu na *server s kódem* změnu (což je *jiný* server, než ze kterého běží [drdplus.info](https://www.drdplus.info)), tak v *16:01:25*, po deseti sekundách, už je změna veřejná a ty ji uvidíš (protože *server s kódem* dal pohlavek *serveru se stránkami* ve myslu "dávej bacha a stáhni si novou verzi").
 To hodně pomáhá, protože pak nemám psychický blok nasazovat změny hned, jako kdybych musel ještě někde "mačkat tohleto a potvrzovat támhleto".
 
 #### Je to o energii
 
 *Život je přelévání energie, tak s ní neplýtvej*
 
-Jo, pravdou je, že kdybych se snažil, tak to samé získám s běžným [Apache web serverem](https://httpd.apache.org/) a nemusel bych se se systémem prát, který z těch dvou webových programů bude mít exkluzivní právo na port 443, přes který to všechno lítá (což nakonec vyústilo ke smazání Apache, což popravdě taky nebylo úplně samozřejmé, jelikož ta potvora se drží zuby nehty).
+Jo, pravdou je, že kdybych se snažil, tak to samé získám s běžným [Apache web serverem](https://httpd.apache.org/) a nemusel bych se se systémem prát, který z těch dvou webových programů bude mít exkluzivní právo na [port 443](https://cs.wikipedia.org/wiki/Seznam_%C4%8D%C3%ADsel_port%C5%AF_TCP_a_UDP), přes který to všechno lítá (což nakonec vyústilo ke smazání Apache, což popravdě taky nebylo úplně samozřejmé, jelikož ta potvora se drží zuby nehty).
 
-Jenže s [Caddy](https://caddyserver.com/) jsem to měl hned a bez práce (teď už [Apache podporuje HTTP/2](https://httpd.apache.org/docs/2.4/mod/mod_http2.html) a získání certifikátu pro HTTPS zadarmo od [Let's Encrypt](https://letsencrypt.org/) je [taky hračka](https://www.root.cz/clanky/apache-pridava-podporu-let-s-encrypt-pro-https-staci-jeden-radek-konfigurace/), ale před dvěma lety nebylo, nehledě na to, že to automatické nasazování novinek bych si musel napsat sám).
+Jenže s [Caddy](https://caddyserver.com/) jsem to měl hned a bez práce (dneska už [Apache podporuje HTTP/2](https://httpd.apache.org/docs/2.4/mod/mod_http2.html) a získání certifikátu pro HTTPS zadarmo od [Let's Encrypt](https://letsencrypt.org/) je [taky hračka](https://www.root.cz/clanky/apache-pridava-podporu-let-s-encrypt-pro-https-staci-jeden-radek-konfigurace/), ale před dvěma lety nebylo, nehledě na to, že to automatické nasazování novinek bych si musel napsat sám).
 
 ## Co je hotové, na to nešaháme
 
@@ -45,7 +45,7 @@ Těžko se totiž hledá ten **správný** okamžik, kdy se to má všechno zaho
 
 *Když padneš na hubu, zafňukej si, zapamatuj si to a jdi dál, rozumnější než kdy dřív.*
 
-Já to asi před rokem zkoušel s tehdy ještě pořád populární, přestože už označenou jako *zastaralou*, [aplikační keší](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache), což je technologie prohlížečů, která umožňuje **celou** stránku uložit pěkně na tvé straně a kdykoli se chceš na stránku podívat zvovu, použije se ta předuložená stránka z **tvého** počítače, takžea je to pak bleskurychlé, protože už se na nic z internetu nečeká.
+Já to asi před rokem zkoušel s tehdy ještě pořád populární, přestože už označenou jako *zastaralou*, [aplikační keší](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache), což je technologie prohlížečů, která umožňuje **celou** stránku uložit pěkně na tvé straně a kdykoli se chceš na stránku podívat zvovu, použije se ta předuložená stránka z **tvého** počítače, takže je to pak bleskurychlé, protože už se na nic z internetu nečeká.
 A taky je peklo tu keš zahodit, když se něco v obsahu změní... a jelikož si na tom rozbilo hubu příliš mnoho lidí, a já se přidal, tak je už delší dobu tenhle způsob kešování označený jako *zastaralý*.
 
 Takže jsem si na tom spálil prsty, vyhodil několik desítek hodin práce a celou tu slavnou *aplikační keš* zahodil.
@@ -59,9 +59,9 @@ Možná máš pocit, že někde v internetu čeká jedna celá, úplně hotová 
 Důvody jsou dva:
 
 - většina stránek má něco společného, vzhled, pravidla zobrazení na mobilu, podmíky kešování na straně návštěvníka
-  - kdo by se s tímhle psal dvakrát, neřku-li jedenáctkrát jako v případě všech pravidlových a příběhových stránek [drdplus.info](https://www.drdplus.info)
+  - no kdo by se s tímhle psal dvakrát, neřku-li jedenáctkrát jako v případě všech pravidlových a příběhových stránek [drdplus.info](https://www.drdplus.info), to uznej
 - obsah je opravdu rozsáhlý
-  - a upravovat něco s 24876 řádky (současná velikost [PPH](https://pph.drdplus.info)) v jediném souboru, to se nedá
+  - a upravovat něco s 24876 řádky (současná velikost [PPH](https://pph.drdplus.info)) v jediném souboru, to se fakt nedá
 
 Proto mám vytvořený [společný základ pro všechny obsahové stránky](https://github.com/jaroslavtyc/drd-plus-rules-html-skeleton) (a [další pak pro kalkulátory](https://github.com/jaroslavtyc/drd-plus-calculator-skeleton)),
 kde řeším všechno společné. Obsah samotný mám pak rozdělený do souborů podle selského rozumu, u každých pravidel zvlášť, třeba `089a Volba zbroje.html`, `090a2 Tabulka zbrojí a přileb.html`, `090a Tabulka zbrojí a přileb - popis.html`, `090b Příprava parametrů.html` a tak dále (jo, řadím si to abecedně).
@@ -80,8 +80,8 @@ Spousta nadpisů a tabulek totiž neměly odkaz. Když jsem chtěl někomu posla
 
 Takže jsem [sehnal nástroj](https://github.com/PhpGt/Dom), který schroupe připravenou stránku a několika málo příkazy nacpe ke všem nadpisům, ať už kapitol nebo tabulek, automaticky vytvořený odkaz. A hned bylo s [odkazováním na Tabulku rychlosti](https://pph.drdplus.info/#tabulka_rychlosti) veseleji.
 
-Když se něco změní, tak se něco pokazí, a protože mi to nedošlo, tak jsem sestřelil [Pravidla pro hráče](https://pph.drdplus.info). Ono totiž *rozsekat* tak velkou HTML stránku, jakou [Pravidla pro hráče](https://pph.drdplus.info) jsou, a každý ten kousek popsat objektem, tak to sežere (alespoň v [PHP](https://php.net)) dost RAMky a jako každý správně vychovaný program, tak i tenhle má pevně nastavený limit, přes který vlak nejede. V tomhle případě to je [výchozích 128 MB](http://php.net/manual/en/ini.core.php), což už nestačilo, stránka padla a já na to přišel až druhý den.
-Neboj, pro příště už jsem pojištěný, testuji horem dolem funkčnost stránek nejen před tím, než změny zveřejním, ale teď už i po jejich zveřejnění, právě abych se už takhle nenachytal (ale o testování radši jindy, to je pohádka na další dlouhou dobrou noc).
+Když se něco změní, tak se něco pokazí, a protože mi to nedošlo, tak jsem sestřelil [Pravidla pro hráče](https://pph.drdplus.info). Ono totiž *rozsekat* tak velkou HTML stránku, jakou [Pravidla pro hráče](https://pph.drdplus.info) jsou, a každý ten kousek popsat objektem v programu, tak to sežere (alespoň v [PHP](https://php.net)) dost RAMky a jako každý správně vychovaný program, tak i tenhle má pevně nastavený limit, přes který vlak nejede. V tomhle případě to je [výchozích 128 MB](http://php.net/manual/en/ini.core.php), což už nestačilo, stránka padla a já na to přišel až druhý den.
+Neboj, pro příště už jsem pojištěný, testuji horem dolem funkčnost stránek nejen před tím, než změny zveřejním, ale teď už i [po jejich zveřejnění](https://uptimerobot.com/), právě abych se už takhle nenachytal (ale o testování radši jindy, to je pohádka na další dlouhou dobrou noc).
 
 Ovšem, když už jsem byl u té automatické změny obsahu (přidávání odkazů k nadpisům), tak už stačilo jen ždibíček, a najednou bylo vyřešeno zahazování keše ve tvém prohlížeči pro každou část, ze které je stránka poskládaná.
 A tak ukládání stránky na tvé straně, ve tvém prohlížeči, aby se to všechno nenačítalo pořád znova, zase dostalo po roce smysl.
@@ -102,14 +102,14 @@ Ano, unikátní název je zaručený způsob, jak donutit prohlížeč načíst 
 Stačí totiž k webovému odkazu, který ukazuje na chtěný soubor, něco unikátního *přidat*. S obrázkem koně to pak vyřeším změnou odkazu na `obrazek_kone.png?6434d6bef64654cef24f5529516a16e4`
 
  - před otazníkem je název souboru, který se **nemění**
- - za otazníkem je takzvaný [query string (asi *řetězec dotazu*?)](https://en.wikipedia.org/wiki/Query_string), kde může být vlastně cokoliv a když je to celé *dohromady* pro tvůj prohlížeč něco nového, tak to považuje za nový odkaz, který **musí** načíst
+ - za otazníkem je takzvaný [query string (asi *řetězec dotazu*?)](https://en.wikipedia.org/wiki/Query_string), kde může být vlastně cokoliv a když je to celé *dohromady* pro tvůj prohlížeč něco nového, tak to považuje za *nový* odkaz, který **musí** načíst
 
 a zahazování keše je vyřešeno.
 
-Další velkou výhodou je, že takhle rozšířený odkaz na soubor platí pořád, i když už je jeho otisk dávno jiný, protože název souboru je vlastně pořád stejný a správný (samotný `obrazek_kone.png` pořád existuje, ať už má otisk jakýkoli).
+Další velkou výhodou je, že takhle rozšířený odkaz na soubor platí pořád, i když už je jeho otisk dávno jiný, protože název souboru je vlastně pořád stejný a správný (samotný `obrazek_kone.png` pořád existuje, ať už má otisk jakýkoli, schválně [si to zkus](https://bestiar.ppj.drdplus.info/images/175.png?version=už_mě_koně_vedou)).
 
-Výsledkem je například u [Pravidel pro hráče](https://pph.drdplus.info) namísto přenesených 13.1 MB pouhých 0.4 MB (pouhá 3 %) a místo 17.5 sekundy jenom 7.5 sekundy (je to přeci jen velká stránka a prohlížeč se zapotí, než ji poskládá).
-A když něco změním, například vzhled odkazů, tak se ti stáhne jen ten změněný mrňavý [soubor se vzhledem / styly](https://pph.drdplus.info/css/generic/anchors.css?version=f430266ecbf9ceaddc17690121fcb2f5). A to se počítá!
+Výsledkem je například u [Pravidel pro hráče](https://pph.drdplus.info) namísto přenesených 13.1 MB pouhých 0.4 MB (pouhá 3 %) a místo 17.5 sekundy jenom 7.5 sekundy (je to přeci jen velká stránka a prohlížeč se zapotí, než ji poskládá, i když už o ní *všechno* ví).
+A když něco změním, například vzhled odkazů, tak se ti stáhne jen ten změněný mrňavý [soubor se vzhledem (styly)](https://pph.drdplus.info/css/generic/anchors.css?version=f430266ecbf9ceaddc17690121fcb2f5). A to se počítá!
 
 ### Vánoční úklid
 
@@ -118,9 +118,9 @@ Inu, pravdou je, že ti na disku zůstane ta *stará verze* souboru, protože tv
 Já to například kešuji na rok, takže "samo" se ti to smaže z disku za 356 dní, nebo když to výslovně prohlížeči přikážeš, ale s mazáním historie buď opatrný, můžeš si omylem smazat třeba hesla, uložená k oblíbeným stránkám.
 
 ## Hudba budoucnosti
-Tohle všechno směřuje, částěčně samovolně a podvědomě, částěčně řízeně, ke stránkám dostupným i bez internetového připojení. Jak si je jednou načtěš, už je budeš mít v prohlížeči uložené a při každé další návštěvě, kdybys třeba jel vlakem přes Pavlov, zasypala tě lavina, zavřeli tě do [Faradaiovy klece](https://www.mobilmania.cz/clanky/mobil-v-aute-a-faradayova-klec/sc-3-a-1108499/default.aspx) nebo tě postihla podobná offline katastrofa, tak se ti [drdplus.info](https://www.drdplus.info) a všechna jeho pravidla budou pořád načítat.
+Tohle všechno směřuje, částěčně samovolně a podvědomě, částěčně řízeně, ke stránkám dostupným i bez internetového připojení. Jak si je jednou načteš, už je budeš mít v prohlížeči uložené a při každé další návštěvě, kdybys třeba jel vlakem přes Pavlov, zasypala tě lavina, zavřeli tě do [Faradaiovy klece](https://www.mobilmania.cz/clanky/mobil-v-aute-a-faradayova-klec/sc-3-a-1108499/default.aspx) nebo tě postihla podobná offline katastrofa, tak se ti [drdplus.info](https://www.drdplus.info) a všechna jeho pravidla (která už sis někdy načetl) budou pořád načítat.
 
-Ale k tomu se ještě musím dopracovat, jelikož se budu se muset naučit [Web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers).
+Ale k tomu se ještě musím dopracovat, jelikož se budu se muset naučit [javascriptové Web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers).
 Jakmile to ale zvládnem, tak se skokově přiblížíme k dalšímu milníku - mít pravidla v telefonu jako *mobilní aplikaci*.
 
 Krleš!
