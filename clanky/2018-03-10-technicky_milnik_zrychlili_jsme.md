@@ -4,24 +4,28 @@
 
 *15 minut čtení*
 
-> Na začátku to upcávalo dráty, na konci to bude jako offline aplikace v telefonu.
-
 # Poznej, kdo ti slouží
 Budoucnost DrD+ závisí na mnoha faktorech a jeden z nich je *dostupnost* pravidel.
 V tomhle článku ti proto popíšu, jak stránky fungují po technické, ajťácké stránce, protože v tom je kus důležité historie a ještě důležitější *budoucnosti* [drdplus.info](https://www.drdplus.info).
 
-Psal jsem ho dost zjednodušeně, takže detaily pochopíš, i když *nejsi od fochu*.
+Článek jsem psal dost zjednodušeně, takže detaily pochopíš, i když *nejsi od fochu*.
 
 ---
 
+> Na začátku to upcávalo dráty, na konci to bude jako offline aplikace v telefonu.
+
 ## Pomalý rozjezd
 
-*To základní by bylo, stránky se načítaly, aaaleee pooomaaaluuu*
+2014
+
+*To základní bychom měly, stránky se načítaly, aaaleee pooomaaaluuu*
 
 Jak už jsem [psal v dopise Altaru](./2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), začátky stránek [drdplus.info](https://www.drdplus.info) byly tristní. [PPH](https://pph.drdplus.info) se načítaly tak dlouho, že jsem rychleji vyhrabal [původní PDFko](https://obchod.altar.cz/drd-prirucka-pro-hrace-everze-p-972.html?buy=Koup%C3%ADm+DrD%2B+PPH+%28Pravidla+pro+hr%C3%A1%C4%8De%29) a v něm si našel co jsem hledal.
 No, trochu mě to otrávilo, takže jsem se na pravidla na webu na čas vykvajznul...
 
 ## Posíláme části najednou
+
+2016
 
 *Jak dostat stránku rychleji do tvého prohlížeče?*
 
@@ -61,6 +65,8 @@ Ale zas jsem se něco přiučil a hlavně jsem při tom zdokonalil kešování n
 
 ## Kešování na serveru
 
+2017
+
 *"Neměl byste náhodou..." "Měl." "A neměl byste to spíš s takovou tou..." "Měl." "Pane jo, to asi nejsem první, kdo to chce, co?" "Ne."*
 
 Možná máš pocit, že někde v internetu čeká jedna celá, úplně hotová stránka. Obvykle to tak skutečně je, ale tu celou stránku nedávají dohromady lidé. My vytváříme kousky a necháváme je lepit dohromady, protože upravovat celou tu stránku najednou, z toho bychom se zcvokli.
@@ -96,6 +102,8 @@ A tak ukládání stránky na tvé straně, ve tvém prohlížeči, aby se to v�
 
 ## Kešování v prohlížeči
 
+2018
+
 *"Ale to jsem já, Karel přece, co blbneš?" Karel nosí kulichy bez bambulí, ukažte občanku*
 
 Na serveru už jsem měl kešování vyřešené a mohl jsem se zas věnovat kešování na tvé straně, v prohlížeči. A změny s automatickým přidáváním odkazů mi ukázaly směr.
@@ -126,6 +134,9 @@ Inu, pravdou je, že ti na disku zůstane ta *stará verze* souboru, protože tv
 Já to například kešuji na rok, takže "samo" se ti to smaže z disku za 356 dní, nebo když to výslovně prohlížeči přikážeš, ale s mazáním historie buď opatrný, můžeš si omylem smazat třeba hesla, uložená k oblíbeným stránkám.
 
 ## Hudba budoucnosti
+
+2019
+
 Tohle všechno směřuje, částěčně samovolně a podvědomě, částěčně řízeně, ke stránkám dostupným i bez internetového připojení. Jak si je jednou načteš, už je budeš mít v prohlížeči uložené a při každé další návštěvě, kdybys třeba jel vlakem přes Pavlov, zasypala tě lavina, zavřeli tě do [Faradaiovy klece](https://www.mobilmania.cz/clanky/mobil-v-aute-a-faradayova-klec/sc-3-a-1108499/default.aspx) nebo tě postihla podobná offline katastrofa, tak se ti [drdplus.info](https://www.drdplus.info) a všechna jeho pravidla (která už sis někdy načetl) budou pořád načítat.
 
 Ale k tomu se ještě musím dopracovat, jelikož se budu se muset naučit [javascriptové Web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers).
