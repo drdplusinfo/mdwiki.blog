@@ -1,10 +1,18 @@
 # Technický milník - zrychlili jsme
 
-7.3. 2018
+10.3. 2018
 
 *15 minut čtení*
 
 > Na začátku to upcávalo dráty, na konci to bude jako offline aplikace v telefonu.
+
+# Poznej, kdo ti slouží
+Budoucnost DrD+ závisí na mnoha faktorech a jeden z nich je *dostupnost* pravidel.
+V tomhle článku ti proto popíšu, jak stránky fungují po technické, ajťácké stránce, protože v tom je kus důležité historie a ještě důležitější *budoucnosti* [drdplus.info](https://www.drdplus.info).
+
+Psal jsem ho dost zjednodušeně, takže detaily pochopíš, i když *nejsi od fochu*.
+
+---
 
 ## Pomalý rozjezd
 
@@ -127,4 +135,4 @@ Krleš!
 
 ---
 
-- *předchozí [<< Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)*
+- *předchozí [<< 16.2. 2018 Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)*
