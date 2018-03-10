@@ -66,5 +66,5 @@ Pokud máš nějaké nápady v hlavě, nebo šuplíku, [sem s nimi](https://rpgf
 
 ---
 
-- *předchozí [<< Tak už je na webu i bestiář](2018-01-02-na_web_jsem_prevedl_bestiar.md)*
-- *následující [>> Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)*
+- *předchozí [<< 2.1. 2018 Tak už je na webu i bestiář](2018-01-02-na_web_jsem_prevedl_bestiar.md)*
+- *následující [>> 15.2. 2018 Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)*

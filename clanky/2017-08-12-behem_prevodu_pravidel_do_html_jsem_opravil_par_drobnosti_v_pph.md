@@ -46,5 +46,5 @@ I tady jsem atletiku přidal
 
 ---
 
-- *předchozí [<< Dokončil jsem spojování příběhů z pravidel do jednoho](2017-08-11-dokoncil_jsem_spojovani_pribehu_z_pravidel_do_jednoho.md)*
-- *následující [>> Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)*
+- *předchozí [<< 11.8. 2017 Dokončil jsem spojování příběhů z pravidel do jednoho](2017-08-11-dokoncil_jsem_spojovani_pribehu_z_pravidel_do_jednoho.md)*
+- *následující [>> 11.11. 2017 Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)*

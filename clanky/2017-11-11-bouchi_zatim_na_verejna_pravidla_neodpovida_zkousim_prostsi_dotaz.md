@@ -12,5 +12,5 @@ Bouchi [slíbil odpovědět do konce srpna](2017-08-02-ptam_se_bouchiho_z_altaru
 
 ---
 
-- *předchozí [<< Ujasnil jsem v PPH některé vzorce, ve kterých chyběla zmínka o Atletice](2017-08-12-behem_prevodu_pravidel_do_html_jsem_opravil_par_drobnosti_v_pph.md)*
-- *následující [>> Zopakoval jsem v PPH nepoužitelný význačný smysl při automatickém a zběžném hledání](2017-11-20-opravuji_dalsi_drobne_nejasnosti_v_pph.md)*
+- *předchozí [<< 12.8. 2017 Ujasnil jsem v PPH některé vzorce, ve kterých chyběla zmínka o Atletice](2017-08-12-behem_prevodu_pravidel_do_html_jsem_opravil_par_drobnosti_v_pph.md)*
+- *následující [>> 20.11. 2017 Zopakoval jsem v PPH nepoužitelný význačný smysl při automatickém a zběžném hledání](2017-11-20-opravuji_dalsi_drobne_nejasnosti_v_pph.md)*

@@ -20,5 +20,5 @@ Jelikož *Opakování je matka moudrosti* a také pro menší roztříštěnost 
  
 ---
 
-- *předchozí [<< Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)*
-- *následující [>> Tak už je na webu i bestiář](2018-01-02-na_web_jsem_prevedl_bestiar.md)*
+- *předchozí [<< 11.11. 2017 Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)*
+- *následující [>> 2.1. 2018 Tak už je na webu i bestiář](2018-01-02-na_web_jsem_prevedl_bestiar.md)*

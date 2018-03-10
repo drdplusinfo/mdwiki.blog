@@ -12,7 +12,7 @@ class ArticlesTest extends TestCase
     /**
      * @test
      */
-    public function I_can_access_every_article_from_index()
+    public function I_can_access_every_article_from_index(): void
     {
         $anchors = $this->getIndexAnchors();
         $articles = $this->getArticles();
@@ -62,7 +62,7 @@ class ArticlesTest extends TestCase
     /**
      * @test
      */
-    public function List_of_articles_are_ordered_from_newest_to_oldest()
+    public function List_of_articles_are_ordered_from_newest_to_oldest(): void
     {
         $indexAnchors = $this->getIndexAnchors();
         $sortedIndexAnchors = $this->sortFileNamesDescending($indexAnchors);
@@ -102,19 +102,35 @@ class ArticlesTest extends TestCase
     /**
      * @test
      */
-    public function Date_of_articles_matches_across_title_and_filename()
+    public function Date_of_articles_matches_across_title_and_filename(): void
     {
         foreach ($this->getIndexAnchors() as $title => $filename) {
             $fileDate = $this->createDateFromFilename($filename);
             $titleDate = $this->createDateFromTitle($title);
-            self::assertEquals($fileDate, $titleDate, 'Date in title does not match date in filename');
+            self::assertEquals(
+                $fileDate,
+                $titleDate,
+                "Date in index link name '$title' does not match date in filename $filename"
+            );
         }
-        foreach ($this->getArticles(true) as $article) {
+        foreach ($this->getArticlesWithFullPath() as $article) {
             $content = $this->getFileContent($article);
             $contentDate = $this->createDateFromContent($content);
             $fileDate = $this->createDateFromFilename($article);
-            self::assertEquals($fileDate, $contentDate, 'Date in article content does not match with date in file name');
+            self::assertEquals(
+                $fileDate,
+                $contentDate,
+                "Date in article content does not match with date in file name $article"
+            );
         }
+    }
+
+    /**
+     * @return array|string[]
+     */
+    private function getArticlesWithFullPath(): array
+    {
+        return $this->getArticles(true);
     }
 
     private function createDateFromTitle(string $title): \DateTime
@@ -148,9 +164,9 @@ class ArticlesTest extends TestCase
     /**
      * @test
      */
-    public function Name_of_file_is_created_from_content_title()
+    public function Name_of_file_is_created_from_content_title(): void
     {
-        foreach ($this->getArticles(true /* with full path */) as $article) {
+        foreach ($this->getArticlesWithFullPath() as $article) {
             $content = $this->getFileContent($article);
             self::assertGreaterThan(0, preg_match('~^#(?<title>[^#\n\r]+)~', $content, $matches), 'Missing title for article ' . $article);
             $title = $matches['title'];
@@ -174,45 +190,68 @@ class ArticlesTest extends TestCase
     /**
      * @test
      */
-    public function I_can_navigate_easily_between_previous_and_next_articles()
+    public function I_can_navigate_easily_between_previous_and_next_articles(): void
     {
-        $articlePaths = $this->getArticles(true);
+        $articlePaths = $this->getArticlesWithFullPath();
         $articlePaths = $this->sortFileNamesDescending($articlePaths);
         $previousLink = false;
+        $previousDate = false;
         $nextArticle = false;
         foreach ($articlePaths as $articlePath) {
+            $articleBaseName = \basename($articlePath);
             if ($previousLink) { // previous iteration reveals a link to previous article (articles are ordered from newest)
                 self::assertSame(
-                    \basename($articlePath),
+                    $articleBaseName,
                     $previousLink,
                     'Invalid "previous" article in ' . $nextArticle
                 );
+                $previousDateEnglish = \DateTime::createFromFormat('d.m. Y', $previousDate)->format('Y-m-d');
+                self::assertStringStartsWith(
+                    $previousDateEnglish,
+                    $previousLink,
+                    "Linked previous article mentions different date than article file name in $nextArticle"
+                );
             }
-            ['previousLink' => $previousLink, 'nextLink' => $nextLink] = $this->parseArticleLinksFromFile($articlePath);
+            [
+                'previousLink' => $previousLink,
+                'previousDate' => $previousDate,
+                'nextLink' => $nextLink,
+                'nextDate' => $nextDate
+            ] = $this->parseArticleLinksFromFile($articlePath);
             if ($nextArticle) { // means previously next article
-                self::assertNotEmpty($nextLink, "Got new article $nextArticle, but no next link from $articlePath");
+                self::assertNotEmpty(
+                    $nextLink,
+                    "Missing link to new article $nextArticle from " . \basename($articlePath)
+                );
                 self::assertSame(
                     \basename($nextArticle),
                     \basename($nextLink),
-                    'Invalid "next" article in ' . \basename($articlePath)
+                    'Invalid "next" article in ' . $articleBaseName
+                );
+                $nextDateEnglish = \DateTime::createFromFormat('d.m. Y', $nextDate)->format('Y-m-d');
+                self::assertStringStartsWith(
+                    $nextDateEnglish,
+                    \basename($nextArticle),
+                    "Linked 'next' article uses different date than article file name in $articleBaseName"
                 );
             }
-            $nextArticle = \basename($articlePath); // articles are ordered from newest, so current is "next" in following iteration
+            $nextArticle = $articleBaseName; // articles are ordered from newest, so current is "next" in following iteration
         }
     }
 
     private function parseArticleLinksFromFile(string $filename): array
     {
         $content = $this->getFileContent($filename);
-        $previousRegexp = '- \*předchozí \[<< (?<previousName>[^\]]+)\]\((?<previousLink>[^\)]+)\)\*';
-        $nextRegexp = '- \*následující \[>> (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
+        $previousRegexp = '- \*předchozí \[<< (?<previousDate>\d+\.\d+\.\s*\d+) (?<previousName>[^\]]+)\]\((?<previousLink>[^\)]+)\)\*';
+        $nextRegexp = '- \*následující \[>> (?<nextDate>\d+\.\d+\.\s*\d+) (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
         $delimiterRegexp = '(?<delimiter>[\n\r]+---[\n\r]+)';
         self::assertGreaterThan(
             0,
-            preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches)
-            + preg_match("~{$delimiterRegexp}?{$nextRegexp}~u", $content, $nextMatches),
-            'No previous nor next article links found in ' . basename($filename)
-            . ", expected something like \n- *předchozí [<< Foo](bar.md)*"
+            \preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches)
+            + \preg_match("~{$delimiterRegexp}?{$nextRegexp}~u", $content, $nextMatches),
+            'No previous nor next article links found in ' . \basename($filename)
+            . ", expected something like \n- *předchozí [<< 1.2.2018 Foo](2018-02-01-bar.md)*"
+            . "; last few lines of that file are:\n" . \mb_substr($content, \mb_strpos($content, '---'))
         );
         if ($previousMatches && $nextMatches) {
             self::assertGreaterThan(
@@ -225,11 +264,21 @@ class ArticlesTest extends TestCase
         } elseif ($nextMatches) {
             self::assertNotEmpty($nextMatches['delimiter'], 'Next link is not delimited by horizontal rule in ' . basename($filename));
         }
+        $previousDate = $previousMatches['previousDate'] ?? false;
+        if ($previousDate) {
+            self::assertRegExp('~^\d{1,2}\.\d{1,2}\. \d{4}$~', $previousDate);
+        }
+        $nextDate = $nextMatches['nextDate'] ?? false;
+        if ($nextDate) {
+            self::assertRegExp('~^\d{1,2}\.\d{1,2}\. \d{4}$~', $nextDate);
+        }
 
         return [
             'previousName' => $previousMatches['previousName'] ?? false,
+            'previousDate' => $previousDate,
             'previousLink' => $previousMatches['previousLink'] ?? false,
             'nextName' => $nextMatches['nextName'] ?? false,
+            'nextDate' => $nextDate,
             'nextLink' => $nextMatches['nextLink'] ?? false
         ];
     }

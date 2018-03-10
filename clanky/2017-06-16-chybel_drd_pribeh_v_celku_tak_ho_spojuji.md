@@ -14,4 +14,4 @@ Edit 11.8 2017: [To jsem si dal...](2017-08-11-dokoncil_jsem_spojovani_pribehu_z
 
 ---
 
-- *následující [>> Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md)*
+- *následující [>> 2.8. 2017 Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md)*

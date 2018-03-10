@@ -20,5 +20,5 @@ Tož posmutněme, poplakejme, zvedněme hlavy a jděme dál. Krleš!
 
 ---
 
-- *předchozí [<< Na webu jsou všechna pravidla... a co teď?](2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)*
-- *následující [>> Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)*
+- *předchozí [<< 9.2. 2018 Na webu jsou všechna pravidla... a co teď?](2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)*
+- *následující [>> 16.2. 2018 Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)*
