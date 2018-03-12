@@ -16,17 +16,17 @@ class ArticlesTest extends TestCase
     {
         $anchors = $this->getIndexAnchors();
         $articles = $this->getArticles();
-        $missingAnchors = array_diff($articles, $anchors);
-        self::assertCount(0, $missingAnchors, "Some articles are not listed in index: \n" . implode("\n", $missingAnchors));
-        $missingArticles = array_diff($anchors, $articles);
-        self::assertCount(0, $missingArticles, "Some listed articles do not exist in fact: \n" . implode("\n", $missingArticles));
+        $missingAnchors = \array_diff($articles, $anchors);
+        self::assertCount(0, $missingAnchors, "Some articles are not listed in index: \n" . \implode("\n", $missingAnchors));
+        $missingArticles = \array_diff($anchors, $articles);
+        self::assertCount(0, $missingArticles, "Some listed articles do not exist in fact: \n" . \implode("\n", $missingArticles));
     }
 
     private function getIndexAnchors(): array
     {
         $index = __DIR__ . '/../../../index.md';
         $content = $this->getFileContent($index);
-        preg_match_all('~\[(?<name>[^\]]+)]\((?<link>[^\)]+)\)~', $content, $matches);
+        \preg_match_all('~\[(?<name>[^\]]+)]\((?<link>[^\)]+)\)~', $content, $matches);
         self::assertNotEmpty($matches, 'No links found in ' . $index);
         $anchors = [];
         /** @var array|string[][] $matches */
@@ -43,16 +43,16 @@ class ArticlesTest extends TestCase
      */
     private function getArticles(bool $withFullPath = false): array
     {
-        $articleFiles = scandir(__DIR__ . '/../../../clanky', SCANDIR_SORT_NONE);
+        $articleFiles = \scandir(__DIR__ . '/../../../clanky', SCANDIR_SORT_NONE);
         self::assertNotEmpty($articleFiles);
-        $articles = array_filter(
+        $articles = \array_filter(
             $articleFiles,
             function (string $article) {
                 return $article !== '..' && $article !== '.';
             }
         );
 
-        return array_map(function (string $article) use ($withFullPath) {
+        return \array_map(function (string $article) use ($withFullPath) {
             return $withFullPath
                 ? __DIR__ . '/../../../clanky/' . $article
                 : 'clanky/' . $article;
@@ -72,9 +72,9 @@ class ArticlesTest extends TestCase
 
     private function sortFileNamesDescending(array $fileNames): array
     {
-        uasort($fileNames, function (string $someName, string $anotherName) {
-            $someName = basename($someName);
-            $anotherName = basename($anotherName);
+        \uasort($fileNames, function (string $someName, string $anotherName) {
+            $someName = \basename($someName);
+            $anotherName = \basename($anotherName);
             $someDate = $this->createDateFromFilename($someName);
             $anotherDate = $this->createDateFromFilename($anotherName);
 
@@ -89,14 +89,53 @@ class ArticlesTest extends TestCase
         $basename = \basename($filename);
         self::assertGreaterThan(
             0,
-            preg_match('~^(?<years>\d+)-(?<months>\d+)-(?<days>\d+)-\D+~', $basename, $matches),
+            \preg_match('~^(?<years>\d+)-(?<months>\d+)-(?<days>\d+)-\D+~', $basename, $matches),
             'A file name does not start by YYYY-mm-dd-\w+ format: ' . $basename
         );
         $date = \DateTime::createFromFormat('Y-m-d', "{$matches['years']}-{$matches['months']}-{$matches['days']}");
-        self::assertInstanceOf(\DateTime::class, $date, 'Date has not been created from parts ' . var_export($matches, true));
+        self::assertInstanceOf(\DateTime::class, $date, 'Date has not been created from parts ' . \var_export($matches, true));
         $date->setTime(0, 0, 0);
 
         return $date;
+    }
+
+    /**
+     * @test
+     */
+    public function Name_fo_article_matches_across_index_list_and_title(): void
+    {
+        foreach ($this->getIndexAnchors() as $indexTitleWithDate => $filename) {
+            $fileTitle = $this->fetchTitleFromFile($filename);
+            $indexTitle = $this->removeDateFromTitle($indexTitleWithDate);
+            self::assertEquals(
+                $fileTitle,
+                $indexTitle,
+                "Article name in index list '$indexTitle' does not match file title '$fileTitle' from file $filename"
+            );
+        }
+    }
+
+    private function removeDateFromTitle(string $title): string
+    {
+        return \preg_replace('~^\d+\.\d+\.\s+\d+\s+~', '', $title);
+    }
+
+    private function fetchTitleFromFile(string $filename): string
+    {
+        $content = $this->getFileContent($filename);
+
+        return $this->parseTitleFromContent($content);
+    }
+
+    private function parseTitleFromContent(string $content): string
+    {
+        self::assertSame(
+            1,
+            \preg_match('~^#\s*(?<title>[^#\n\r]+)~', $content, $matches),
+            "No title has been found in content starting with: \n" . \mb_substr($content, 0, 100)
+        );
+
+        return \trim($matches['title']);
     }
 
     /**
@@ -137,11 +176,11 @@ class ArticlesTest extends TestCase
     {
         self::assertGreaterThan(
             0,
-            preg_match('~^(?<days>\d+).(?<months>\d+). (?<years>\d+) \D+~', $title, $matches),
+            \preg_match('~^(?<days>\d+)\.(?<months>\d+)\. (?<years>\d+) \D+~', $title, $matches),
             'A title does not start by [d]d.mm. YYYY format: ' . $title
         );
         $date = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");
-        self::assertInstanceOf(\DateTime::class, $date, 'Date has not been created from parts ' . var_export($matches, true));
+        self::assertInstanceOf(\DateTime::class, $date, 'Date has not been created from parts ' . \var_export($matches, true));
         $date->setTime(0, 0, 0);
 
         return $date;
@@ -151,11 +190,11 @@ class ArticlesTest extends TestCase
     {
         self::assertGreaterThan(
             0,
-            preg_match('~^#[^#\n\r]+(\n|\r)+(?<days>\d+)[.](?<months>\d+)[.] (?<years>\d+)(\n|\r)+~', $content, $matches),
+            \preg_match('~^#[^#\n\r]+(\n|\r)+(?<days>\d+)[.](?<months>\d+)[.] (?<years>\d+)(\n|\r)+~', $content, $matches),
             'Missing date in article ' . $content
         );
         $contentDate = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");
-        self::assertInstanceOf(\DateTime::class, $contentDate, 'Date has not been created from parts ' . var_export($matches, true));
+        self::assertInstanceOf(\DateTime::class, $contentDate, 'Date has not been created from parts ' . \var_export($matches, true));
         $contentDate->setTime(0, 0, 0);
 
         return $contentDate;
@@ -168,11 +207,11 @@ class ArticlesTest extends TestCase
     {
         foreach ($this->getArticlesWithFullPath() as $article) {
             $content = $this->getFileContent($article);
-            self::assertGreaterThan(0, preg_match('~^#(?<title>[^#\n\r]+)~', $content, $matches), 'Missing title for article ' . $article);
+            self::assertGreaterThan(0, \preg_match('~^#(?<title>[^#\n\r]+)~', $content, $matches), 'Missing title for article ' . $article);
             $title = $matches['title'];
             $expectedFilename = StringTools::toConstant($title);
             $basename = \basename($article, '.md');
-            $filename = preg_replace('~^\d+-\d+-\d+-~', '', $basename);
+            $filename = \preg_replace('~^\d+-\d+-\d+-~', '', $basename);
             self::assertSame($expectedFilename, $filename);
         }
     }
@@ -180,7 +219,7 @@ class ArticlesTest extends TestCase
     private function getFileContent(string $filename): string
     {
         self::assertFileExists($filename);
-        $content = file_get_contents($filename);
+        $content = \file_get_contents($filename);
         self::assertInternalType('string', $content, 'Could not read ' . $filename);
         self::assertNotEmpty($content, 'Empty article ' . $filename);
 
@@ -256,13 +295,13 @@ class ArticlesTest extends TestCase
         if ($previousMatches && $nextMatches) {
             self::assertGreaterThan(
                 0,
-                preg_match("~{$delimiterRegexp}{$previousRegexp}[\n\r]+{$nextRegexp}~u", $content),
+                \preg_match("~{$delimiterRegexp}{$previousRegexp}[\n\r]+{$nextRegexp}~u", $content),
                 'Link to previous article should precede link to next article'
             );
         } elseif ($previousMatches) {
-            self::assertNotEmpty($previousMatches['delimiter'], 'Previous link is not delimited by horizontal rule in ' . basename($filename));
+            self::assertNotEmpty($previousMatches['delimiter'], 'Previous link is not delimited by horizontal rule in ' . \basename($filename));
         } elseif ($nextMatches) {
-            self::assertNotEmpty($nextMatches['delimiter'], 'Next link is not delimited by horizontal rule in ' . basename($filename));
+            self::assertNotEmpty($nextMatches['delimiter'], 'Next link is not delimited by horizontal rule in ' . \basename($filename));
         }
         $previousDate = $previousMatches['previousDate'] ?? false;
         if ($previousDate) {

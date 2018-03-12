@@ -1,4 +1,4 @@
-# Altar mě s veřejnými pravidly nehází přes palubu
+# Altar rozvážně odpovídá, že se nad veřejnými pravidly zamyslí
 
 10.8. 2017
 
@@ -17,4 +17,4 @@ Edit: 15.2.2018 [Jsem mluvil se Sparkle a zjistil, že oficiální svolení od A
 ---
 
 - *předchozí [<< 2.8. 2017 Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md)*
-- *následující [>> 11.8. 2017 Dokončil jsem spojování příběhů z pravidel do jednoho](2017-08-11-dokoncil_jsem_spojovani_pribehu_z_pravidel_do_jednoho.md)*
+- *následující [>> 11.8. 2017 Dokončil jsem spojování příběhů z pravidel do jednoho](2017-08-11-dokonceno_sjednocovani_pribehu_drd.md)*

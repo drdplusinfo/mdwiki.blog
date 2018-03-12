@@ -9,7 +9,7 @@ Konkrétně jsem v neděli 26. ledna 2014 v půl jedenácté ráno commitnul (p�
 
 Abych dobře vysvětlil, proč jsem se na to už dávno nevykašlal, proč mám pocit, že po čtyřech letech práce jsem na začátku a jaktože na [stránkách o DrD+](https://www.drdplus.info) jsou odkazy na [DrD II](http://www.drd2.cz/) a [Dračí hlídku](https://www.dracihlidka.cz/), vezmu to od začátku.
 
-### Bylo nebylo 
+## Bylo nebylo 
 
 To, že jsem začínal s DrD na základní škole, jsem už [zmiňoval v dopise pro Altar](./2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md). Tam někdy ve mě zakořenila láska k českému stylu RPG her, alias her na hrdiny.
 Ta láska nejdříve usnula, pak byla bita, škrcena, čtvrcena a vařena, aby po letech, na spáleništi vypáleném vysokou školou, prací a neoduševnělými radovánkami vyčkala na první slzu a opět vyklíčila.
@@ -24,7 +24,7 @@ Neudělal jsem to. Tuhle vnitřní touhu, chuť nebo možná poslání jsem odsu
 
 Úplně stejný pocit mám totiž z pravidel DrD+. Že je v nich spoustu dobrého a kvalitního, jen by to měl někdo proboha přeložit pro lidi.
 
-### Soukromě a sobecky
+## Soukromě a sobecky
 
 Takže převádění do HTML, tedy na web, jsem začal ryze pro to, že jsem se prostě v pravidlech ztrácel. To věčné odkazování na jiný kus v pravidlech, "více se dozvíš v kapitole TamATam, v sekci TéATé".
 Chtěl jsem to vyléčit hypertextovými odkazy, zuřivým prolinkováním všeho na všechno, abych jen klikal a výsledek mi skákal přímo před oči.
@@ -43,7 +43,7 @@ Pravidla na webu jsou téměř nepoužívaná, kódu mám přehršle, ale k nič
 
 Tehdy začal pozvolný přerod od soukromého, obývákového projektu (v Silicon valley by řekli garážového) ve veřejné stránky, veřejná pravidla a přitom **přibývaly nápady, jak dál**.
 
-### Veřejně a pro všechny
+## Veřejně a pro všechny
 
 Odstartoval jsem to v létě [dopisem pro Altar](./2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md).
 Během čekání na odpověď jsem dopřevedl pravidla, hodil řeč s kamarádem o mobilní apce, s dalším s tužkou v ruce rozebíral, co by chtěl v DrD+ jinak a přitom jsem se začal trochu bát.
@@ -54,7 +54,7 @@ Co se dá dělat, jedeme dál. Pravidla jsem nechal už zaindexovat [Googlem](ht
 Nedávno jsem si psal s klukama z [Dračí hlídky](https://www.dracihlidka.cz/), za chvíli napíšu autorům [DrD II](http://www.drd2.cz/) (začnu nejspíše s prosbou, zda bych mohl zveřejnit [bestiář z DrD II](https://obchod.altar.cz/drd-ii-bestiar-everze-p-1005.html) upravený pro DrD+) a chtěl bych všechny tři tyhle hry udržovat v symbióze.
 Nebo možná čtyři, podle toho, jak dopadne debata s autory [Jeskyně a draci](http://jeskyneadraci.cz/).
 
-### A co teď?
+## A co teď?
 
 Takže po čtyřech letech nejsem na konci, ale konečně na začátku. Konečně můžeme pravidla pro DrD+ ladit, pilovat, zdokonalovat, zjednodušovat jejich zápis i pravidla samotná, přidávat nové nápady a předhánět se v úchvatnosti příběhů, které je budou doprovázet.
 
