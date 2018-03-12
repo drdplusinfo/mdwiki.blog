@@ -8,18 +8,18 @@ Vlastně souhrou okolností, kdy jsem ze slušnosti [napsal Neviditelné knize](
 
 V hlavě se mi totiž spojilo několik věcí:
 
-- budu teď mít půl roku pauzu od hraní DrD, jelikož si už nenajdu ani jeden volný den vzhledem k novému přírůstku do rodiny, takže svůj RPG chtíč potřebuju ukájet jinými způsoby
+- budu teď mít půl roku pauzu od hraní DrD, jelikož si už nenajdu ani jeden volný den vzhledem k novému přírůstku do rodiny, takže svůj RPG chtíč potřebuji ukájet jinými způsoby
  - jednu knihu tedy hodlám zkonzumovat ryze pro svoji vnitřní potřebu
 - náš Pýǧej sám tři knížky napsal, něco už odehrál a vyzrálé nápady ocení
  - tudíž mu kniha udělá radost a nám to může do budoucna rozšířit dobrodružství 
-- [Neviditelná knihou](http://neviditelnakniha.cz) je nová, lidi mají rádi nové věci a pokud zavčasu stihneme převodník (aplikaci) pravidel DrD+ pro [Neviditelnou knihou](http://neviditelnakniha.cz), zbývající hráči DrD+ si budou moci mnout ruce a šáhnout po novince bez strarostí
+- [Neviditelná knihou](http://neviditelnakniha.cz) je nová, lidi mají rádi nové věci a pokud zavčasu stihneme převodník (aplikaci) pravidel DrD+ pro [Neviditelnou knihou](http://neviditelnakniha.cz), zbývající hráči DrD+ si budou moci mnout ruce a šáhnout po novince bez starostí
 - [pravidla DrD+](https://www.drdplus.info) mají určité nedostatky a formou soutěže bychom mohli získat vítanou pomoc
 
 A tím se dostáváme k soutěži. Vypsal jsem ji tedy částečně z okamžitého pocitu a částečně z dlouhodobého rozmýšlení, jak pohnout s pravidly zas o kousek blíže k dokonalosti (jakkoli je daleko).
 
 ## Soutěž (od 13.2. do 28. 2. 2018)
 
-Před chvílí jsem si objednal jednu [Neviditelnou knihu](http://neviditelnakniha.cz) pro sebe, jednu pro našeho současného Pýǧeje a jednu... pro tebe. Tedy pokud se zapojíš do soutěže a vyhraješ, což nebude zas tak těžké, protože účast očekávám minimální, místy mizivou.
+Před chvílí jsem si objednal jednu [Neviditelnou knihu](http://neviditelnakniha.cz) pro sebe, jednu pro našeho současného *Pýǧeje* a jednu... pro tebe. Tedy pokud se zapojíš do soutěže a vyhraješ, což nebude zas tak těžké, protože účast očekávám minimální, místy mizivou.
 
 Jestli chceš [Neviditelnou knihu](http://neviditelnakniha.cz), tak věz, že ani kuře zadarmo nehrabe. Budu po tobě chtít
 
@@ -71,7 +71,7 @@ Tak co, zkusíš to?
 
 ### Odhalené výsledky
 *Edit 12.3. 2018*
-Od začátku jsem si říkal, že vypotit čtyři pidi zápletky je na jednu cestu vlakem, kdežto v klidu nakreslit alespoň jednu podobiznu jedoho za čtyř tvorů tak, abych si lišku nepletl s platýzem, koně se stolem a tak všelijak podobně, že to dá zabrat. A podle toho jsem taky čekal příspěvky.
+Od začátku jsem si říkal, že vypotit čtyři pidi zápletky je na jednu cestu vlakem, kdežto v klidu nakreslit alespoň jednu podobiznu jednoho za čtyř tvorů tak, abych si lišku nepletl s platýsem, koně se stolem a tak všelijak podobně, že to dá zabrat. A podle toho jsem taky čekal příspěvky.
 
 A hle, *Markéta Maky-Orel Machová* nakopala mým představám zadek. jako jediná něco stvořila a poslala kresby, které zřejmě vytvořila na základě sádrových odlitků (jen nevím, kde splašila jednorožce).
 
