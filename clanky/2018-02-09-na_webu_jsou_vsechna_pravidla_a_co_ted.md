@@ -30,7 +30,7 @@ Takže převádění do HTML, tedy na web, jsem začal ryze pro to, že jsem se 
 Chtěl jsem to vyléčit hypertextovými odkazy, zuřivým prolinkováním všeho na všechno, abych jen klikal a výsledek mi skákal přímo před oči.
 
 Ne, nepomohlo to. Problém je totiž hlubší.
-Za prvné mám od mala potíže udržet pozornost u technického textu, takže třeba v porovnání s ostatními kluky z družiny mám naprosto nejhorší rychlost nacházení informací a to kdekoli, nejen v DrD+ a za druhé jsou pravidla složitá.
+Za prvé mám od mala potíže udržet pozornost u technického textu, takže třeba v porovnání s ostatními kluky z družiny mám naprosto nejhorší rychlost nacházení informací a to kdekoli, nejen v DrD+ a za druhé jsou pravidla složitá.
 
 Tu první komplikaci řeším tak, že si věci opakuju. Opakování je matka moudrosti a časem to pochopí i ta moje makovice.
 
@@ -56,7 +56,7 @@ Nebo možná čtyři, podle toho, jak dopadne debata s autory [Jeskyně a draci]
 
 ### A co teď?
 
-Takže po čtyřech letech nejsem na konci, ale konečně na začátku. Konečně můžeme pravidla pro DrD+ ladit, pilovat, zdokonalovat, zjedodušovat jejich zápis i pravidla samotná, přidávat nové nápady a předhánět se v úchvatnosti příběhů, které je budou doprovázet.
+Takže po čtyřech letech nejsem na konci, ale konečně na začátku. Konečně můžeme pravidla pro DrD+ ladit, pilovat, zdokonalovat, zjednodušovat jejich zápis i pravidla samotná, přidávat nové nápady a předhánět se v úchvatnosti příběhů, které je budou doprovázet.
 
 Už teď vím, že změny budeme zavádět dvojího druhu. Samozřejmě přidávání nového obsahu (alchymista, stáří, krátkodobá a dlouhodobá únava...) a pak **nyní důležitější** zjednodušování současných pravidel (jestli zvládáš výpočty zbraně v závislosti na únavě, síle, dovednosti se zbraní a zbraně samotné, tak jsi borec, protože já to dám leda s [počítačovým programem](https://boj.drdplus.info/)).
 
