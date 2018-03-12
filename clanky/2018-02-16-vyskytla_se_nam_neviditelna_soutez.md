@@ -69,6 +69,21 @@ Ovšem, jelikož jsem ke konci února neměl čas soutěž ukončit, tak se ješ
 
 Tak co, zkusíš to?
 
+### Odhalené výsledky
+*Edit 12.3. 2018*
+Od začátku jsem si říkal, že vypotit čtyři pidi zápletky je na jednu cestu vlakem, kdežto v klidu nakreslit alespoň jednu podobiznu jedoho za čtyř tvorů tak, abych si lišku nepletl s platýzem, koně se stolem a tak všelijak podobně, že to dá zabrat. A podle toho jsem taky čekal příspěvky.
+
+A hle, *Markéta Maky-Orel Machová* nakopala mým představám zadek. jako jediná něco stvořila a poslala kresby, které zřejmě vytvořila na základě sádrových odlitků (jen nevím, kde splašila jednorožce).
+
+Posuďte sami.
+
+![jednorožec](/images/jednorozec.maky.orel.png)
+![liška](/images/liska.maky.orel.png)
+
+Děkujeme!
+
+*A já jdu balit [Neviditelnou knihu](http://neviditelnakniha.cz)...*
+
 ---
 
 - *předchozí [<< 15.2. 2018 Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)*
