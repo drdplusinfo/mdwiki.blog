@@ -6,13 +6,13 @@
 
 # Poznej, kdo ti slouží
 Budoucnost DrD+ závisí na mnoha faktorech a jeden z nich je *dostupnost* pravidel.
-V tomhle článku ti proto popíšu, jak stránky fungují po technické, ajťácké stránce, protože v tom je kus důležité historie a ještě důležitější *budoucnosti* [drdplus.info](https://www.drdplus.info).
+V tomhle článku ti proto popíšu, jak stránky fungují po technické, ajťácké stránce, a to jak je posílá server a jak je čte tvůj prohlížeč, protože i v tom je kus důležité historie a ještě důležitější *budoucnosti* [drdplus.info](https://www.drdplus.info).
 
 Článek jsem psal dost zjednodušeně, takže detaily pochopíš, i když *nejsi od fochu*.
 
 ---
 
-> Na začátku to upcávalo dráty, na konci to bude jako offline aplikace v telefonu.
+> Na začátku to ucpávalo dráty, na konci to bude jako offline aplikace v telefonu.
 
 ## Pomalý rozjezd
 
@@ -35,7 +35,7 @@ Malá revoluce pro mě nastala objevením [webového serveru Caddy](https://cadd
 
 *Co může dělat stroj, nedělej*
 
-Navíc už má [Caddy](https://caddyserver.com/) spoustu rozšíření a například [jedno z nich](https://caddyserver.com/docs/http.git) čeká na [pohlavek z internetu](https://developer.github.com/webhooks/), že by mělo stáhnout nové změny, takže když například v *16:01:15* pošlu na *server s kódem* změnu (což je *jiný* server, než ze kterého běží [drdplus.info](https://www.drdplus.info)), tak v *16:01:25*, po deseti sekundách, už je změna veřejná a ty ji uvidíš (protože *server s kódem* dal pohlavek *serveru se stránkami* ve myslu "dávej bacha a stáhni si novou verzi").
+Navíc už má [Caddy](https://caddyserver.com/) spoustu rozšíření a například [jedno z nich](https://caddyserver.com/docs/http.git) čeká na [pohlavek z internetu](https://developer.github.com/webhooks/), že by mělo stáhnout nové změny, takže když například v *16:01:15* pošlu na *server s kódem* změnu (což je *jiný* server, než ze kterého běží [drdplus.info](https://www.drdplus.info)), tak v *16:01:25*, po deseti sekundách, už je změna veřejná a ty ji uvidíš (protože *server s kódem* dal pohlavek *serveru se stránkami* ve smyslu "dávej bacha a stáhni si novou verzi").
 To hodně pomáhá, protože pak nemám psychický blok nasazovat změny hned, jako kdybych musel ještě někde "mačkat tohleto a potvrzovat támhleto".
 
 #### Je to o energii
@@ -57,7 +57,7 @@ Těžko se totiž hledá ten **správný** okamžik, kdy se to má všechno zaho
 
 *Když padneš na hubu, zafňukej si, zapamatuj si to a jdi dál, rozumnější než kdy dřív.*
 
-Já to asi před rokem zkoušel s tehdy ještě pořád populární, přestože už označenou jako *zastaralou*, [aplikační keší](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache), což je technologie prohlížečů, která umožňuje **celou** stránku uložit pěkně na tvé straně a kdykoli se chceš na stránku podívat zvovu, použije se ta předuložená stránka z **tvého** počítače, takže je to pak bleskurychlé, protože už se na nic z internetu nečeká.
+Já to asi před rokem zkoušel s tehdy ještě pořád populární, přestože už označenou jako *zastaralou*, [aplikační keší](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache), což je technologie prohlížečů, která umožňuje **celou** stránku uložit pěkně na tvé straně a kdykoli se chceš na stránku podívat znovu, použije se ta před-uložená stránka z **tvého** počítače, takže je to pak bleskurychlé, protože už se na nic z internetu nečeká.
 A taky je peklo tu keš zahodit, když se něco v obsahu změní... a jelikož si na tom rozbilo hubu příliš mnoho lidí, a já se přidal, tak je už delší dobu tenhle způsob kešování označený jako *zastaralý*.
 
 Takže jsem si na tom spálil prsty, vyhodil několik desítek hodin práce a celou tu slavnou *aplikační keš* zahodil.
@@ -72,14 +72,14 @@ Ale zas jsem se něco přiučil a hlavně jsem při tom zdokonalil kešování n
 Možná máš pocit, že někde v internetu čeká jedna celá, úplně hotová stránka. Obvykle to tak skutečně je, ale tu celou stránku nedávají dohromady lidé. My vytváříme kousky a necháváme je lepit dohromady, protože upravovat celou tu stránku najednou, z toho bychom se zcvokli.
 Důvody jsou dva:
 
-- většina stránek má něco společného, vzhled, pravidla zobrazení na mobilu, podmíky kešování na straně návštěvníka
+- většina stránek má něco společného, vzhled, pravidla zobrazení na mobilu, podmínky kešování na straně návštěvníka
   - no kdo by se s tímhle psal dvakrát, neřku-li jedenáctkrát jako v případě všech pravidlových a příběhových stránek [drdplus.info](https://www.drdplus.info), to uznej
 - obsah je opravdu rozsáhlý
   - a upravovat něco s 24876 řádky (současná velikost [PPH](https://pph.drdplus.info)) v jediném souboru, to se fakt nedá
 
 Proto mám vytvořený [společný základ pro všechny obsahové stránky](https://github.com/jaroslavtyc/drd-plus-rules-html-skeleton) (a [další pak pro kalkulátory](https://github.com/jaroslavtyc/drd-plus-calculator-skeleton)),
 kde řeším všechno společné. Obsah samotný mám pak rozdělený do souborů podle selského rozumu, u každých pravidel zvlášť, třeba `089a Volba zbroje.html`, `090a2 Tabulka zbrojí a přileb.html`, `090a Tabulka zbrojí a přileb - popis.html`, `090b Příprava parametrů.html` a tak dále (jo, řadím si to abecedně).
-A tohle se samo poslepuje, vytvoří se z toho výsledná celá strána a ta se ti pošle.
+A tohle se samo poslepuje, vytvoří se z toho výsledná celá stránka a ta se ti pošle.
 
 A když už se to na serveru lepí všechno dohromady, tak už je jen krůček k tomu, aby se to lepilo jen když je potřeba a jinak to do světa posílalo to, co už má z minula.
 
@@ -137,10 +137,10 @@ Já to například kešuji na rok, takže "samo" se ti to smaže z disku za 356 
 
 2019
 
-Tohle všechno směřuje, částěčně samovolně a podvědomě, částěčně řízeně, ke stránkám dostupným i bez internetového připojení. Jak si je jednou načteš, už je budeš mít v prohlížeči uložené a při každé další návštěvě, kdybys třeba jel vlakem přes Pavlov, zasypala tě lavina, zavřeli tě do [Faradaiovy klece](https://www.mobilmania.cz/clanky/mobil-v-aute-a-faradayova-klec/sc-3-a-1108499/default.aspx) nebo tě postihla podobná offline katastrofa, tak se ti [drdplus.info](https://www.drdplus.info) a všechna jeho pravidla (která už sis někdy načetl) budou pořád načítat.
+Tohle všechno směřuje, částečně samovolně a podvědomě, částečně řízeně, ke stránkám dostupným i bez internetového připojení. Jak si je jednou načteš, už je budeš mít v prohlížeči uložené a při každé další návštěvě, kdybys třeba jel vlakem přes Pavlov, zasypala tě lavina, zavřeli tě do [Faradaiovy klece](https://www.mobilmania.cz/clanky/mobil-v-aute-a-faradayova-klec/sc-3-a-1108499/default.aspx) nebo tě postihla podobná offline katastrofa, tak se ti [drdplus.info](https://www.drdplus.info) a všechna jeho pravidla (která už sis někdy načetl) budou pořád načítat.
 
 Ale k tomu se ještě musím dopracovat, jelikož se budu se muset naučit [javascriptové Web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers).
-Jakmile to ale zvládnem, tak se skokově přiblížíme k dalšímu milníku - mít pravidla v telefonu jako *mobilní aplikaci*.
+Jakmile to ale zvládneme, tak se skokově přiblížíme k dalšímu milníku - mít pravidla v telefonu jako *mobilní aplikaci*.
 
 Krleš!
 
