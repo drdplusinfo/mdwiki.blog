@@ -1,4 +1,4 @@
-# Opravuji další drobné nejasnosti v PPH
+# V PPH zopakováno, že význačný smysl je nepoužitelný při automatickém a zběžném hledání
 
 20.11. 2017
 

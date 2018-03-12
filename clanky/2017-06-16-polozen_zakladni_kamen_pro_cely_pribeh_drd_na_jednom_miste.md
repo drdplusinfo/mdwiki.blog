@@ -1,4 +1,4 @@
-# Chyběl DrD+ příběh v celku, tak ho spojuji
+# Položen základní kámen pro celý příběh DrD+ na jednom místě
 
 16.6. 2017
 
@@ -10,7 +10,7 @@ Protože mě před časem napadlo to samé a hlavně - měl jsem už celý pří
 jak jsem [kopíroval jednotlivé příručky](https://www.drdplus.info), tak jsem se toho ujal a s pocitem už hotové práce
 [zasadil základní kámen DrD+ příběhu v celku](https://github.com/jaroslavtyc/drd-plus-story/commit/a33fe07cb881025d560af507ea0bb02fd144c5c3).
 
-Edit 11.8 2017: [To jsem si dal...](2017-08-11-dokoncil_jsem_spojovani_pribehu_z_pravidel_do_jednoho.md)
+Edit 11.8 2017: [To jsem si dal...](2017-08-11-dokonceno_sjednocovani_pribehu_drd.md)
 
 ---
 

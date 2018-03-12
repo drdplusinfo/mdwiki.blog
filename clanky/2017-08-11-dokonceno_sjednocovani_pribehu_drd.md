@@ -1,4 +1,4 @@
-# Dokončil jsem spojování příběhů z pravidel do jednoho
+# Dokončeno sjednocování příběhu DrD+
 
 11.8. 2017
 
@@ -14,5 +14,5 @@ Takže... [hezké čtení](https://pribeh.drdplus.info).
 
 ---
 
-- *předchozí [<< 10.8. 2017 Altar mě s veřejnými pravidly nehází přes palubu](2017-08-10-altar_me_s_verejnymi_pravidly_nehazi_pres_palubu.md)*
-- *následující [>> 12.8. 2017 Ujasnil jsem některé vzorce, ve kterých chyběla zmínka o Atletice](2017-08-12-behem_prevodu_pravidel_do_html_jsem_opravil_par_drobnosti_v_pph.md)*
+- *předchozí [<< 10.8. 2017 Altar mě s veřejnými pravidly nehází přes palubu](2017-08-10-altar_rozvazne_odpovida_ze_se_nad_verejnymi_pravidly_zamysli.md)*
+- *následující [>> 12.8. 2017 Ujasnil jsem některé vzorce, ve kterých chyběla zmínka o Atletice](2017-08-12-v_pph_ujasneny_nektere_vzorce_ve_kterych_chybela_zminka_o_atletice.md)*
