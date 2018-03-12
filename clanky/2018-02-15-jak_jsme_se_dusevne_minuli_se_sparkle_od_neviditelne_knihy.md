@@ -8,7 +8,7 @@ respektive *neklidem* celého světa Tauril.
 
 Osobně jsem si před hovorem navymýšlel, jak budeme volnomyšlenkářsky debatovat o provázané spolupráci, že se budeme předhánět v nápadech co jak zlepšit, no a a místo toho toho přišla rozprava převážně o autorských právech.
 Takže na začátku rozhovoru jsem měl pocit, že každý z nás chtěl mluvit s někým jiným a ke konci rozhovoru jsem měl pocit, že bych měl osobně dojít do serverovny [VPSfree](https://vpsfree.cz),
-roztřílet všechny disky na kterých kdy běželo [drdplus.info](https://www.drdplus.info) včetně zálohy, a odjet inkognito na Seychely nechat si vzít míru na rakev od pana Krejčíře dřív, než mě kancelářskými sponkami umučí patentoví trollové.
+rozstřílet všechny disky na kterých kdy běželo [drdplus.info](https://www.drdplus.info) včetně zálohy, a odjet inkognito na Seychely nechat si vzít míru na rakev od pana Krejčíře dřív, než mě kancelářskými sponkami umučí patentoví trollové.
 
 ## Smazáno 1.3. 2018
 
