@@ -79,6 +79,7 @@ Posuďte sami.
 
 ![jednorožec](/images/jednorozec.maky.orel.png)
 ![liška](/images/liska.maky.orel.png)
+![kun](/images/kun.maky.orel.png)
 
 Děkujeme!
 
