@@ -281,16 +281,16 @@ class ArticlesTest extends TestCase
     private function parseArticleLinksFromFile(string $filename): array
     {
         $content = $this->getFileContent($filename);
+        $delimiterRegexp = '(?<delimiter>[\n\r]+---[\n\r]+)';
         $previousRegexp = '- \*předchozí \[<< (?<previousDate>\d+\.\d+\.\s*\d+) (?<previousName>[^\]]+)\]\((?<previousLink>[^\)]+)\)\*';
         $nextRegexp = '- \*následující \[>> (?<nextDate>\d+\.\d+\.\s*\d+) (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
-        $delimiterRegexp = '(?<delimiter>[\n\r]+---[\n\r]+)';
         self::assertGreaterThan(
             0,
             \preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches)
             + \preg_match("~{$delimiterRegexp}?{$nextRegexp}~u", $content, $nextMatches),
             'No previous nor next article links found in ' . \basename($filename)
-            . ", expected something like \n- *předchozí [<< 1.2.2018 Foo](2018-02-01-bar.md)*"
-            . "; last few lines of that file are:\n" . \mb_substr($content, \mb_strpos($content, '---'))
+            . ", expected something like \n- *předchozí [<< 1.2.2018 Foo](2018-02-01-bar.md)*\n"
+            . "; last few lines of that file are:\n" . \mb_substr($content, \mb_strpos($content, '---') ?: \mb_strlen($content) - 200)
         );
         if ($previousMatches && $nextMatches) {
             self::assertGreaterThan(
