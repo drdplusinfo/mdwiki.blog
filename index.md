@@ -1,6 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
-### [13.4. 2018 Neviditelná recenze](clanky/2018-04-13-neviditelna_recenze.md)
+### [3.5. 2018 Neviditelná recenze](clanky/2018-05-03-neviditelna_recenze.md)
 ### [10.3. 2018 Technický milník - zrychlili jsme](clanky/2018-03-10-technicky_milnik_zrychlili_jsme.md)
 ### [16.2. 2018 Vyskytla se nám Neviditelná soutěž](clanky/2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)
 ### [15.2. 2018 Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](clanky/2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)
