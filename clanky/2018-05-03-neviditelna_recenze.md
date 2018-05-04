@@ -110,5 +110,14 @@ Těším se na přídavky.
 
 *Jen doufám, že mě moje družina za zvýšené požadavky na kvalitu hry neupálí. No, radši jdu shánět [Minimaxe](http://minimaxfp.com/fire-extinguishers).*
 
+## Zdroje
+
+- [domovská stránka *Neviditelné knihy*](http://neviditelnakniha.cz/ke)
+  - první malé a rozverné [dobrodružství *Familiárova věž*](http://neviditelnakniha.cz/ke-stazeni/dobrodruzstvi/)
+- [pravidla pro *Dračí doupě 1.6* a *Dračí doupě II*](http://neviditelnakniha.cz/ke-stazeni/pravidla/)
+  - na pravidlech pro [*Dračí doupě Plus*](https://drdplus.info) budeme teprve pracovat, o pravidlech pro [*Dračí hlídku*](https://www.dracihlidka.cz/#top) zatím zprávy nemáme
+- [*RPG fórum*](https://rpgforum.cz/forum/viewforum.php?f=310)
+- [*Drakkar* - Monumenty Agol Zaru](http://drakkar.sk/66/monumenty-agol-zaru.html)
+
 ---
 - *předchozí [<< 10.3. 2018 Technický milník - zrychlili jsme](2018-03-10-technicky_milnik_zrychlili_jsme.md)*
