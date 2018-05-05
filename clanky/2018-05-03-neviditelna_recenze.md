@@ -27,7 +27,7 @@ S recenzí přicházím s měsíčním skluzem oproti plánu.
 
 Mou nejcitlivější výmluvou je nový človíček, kterého teď doma máme a který se ještě nenaučil žít ve zlaté kleci osobní izolace, což jsem ovšem jaksi **věděl** předem, že.
 
-Druhou výmluvou je, že jsem pracoval na [kalkulátoru pro ničení](https://niceni.drdplus.info), který mi krapet zamotal hlavu a [pomohli až kluci z RPG fóra](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14870&sid=481ce075cc959574d691b2e02ccdefe4&start=15) a k tomu začínám pracovat na [počítadle zranění, únavy,léčení a odpočinku](https://odpocinek.drdplus.info/), což je dáno mou malou disciplinovaností, protože hrabat se ve vlastním je snazší, než číst myšlenky jiných.
+Druhou výmluvou je, že jsem pracoval na [kalkulátoru pro ničení](https://niceni.drdplus.info), který mi krapet zamotal hlavu a [pomohli až kluci z RPG fóra](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14870&sid=481ce075cc959574d691b2e02ccdefe4&start=15) a k tomu začínám pracovat na [počítadle zranění, únavy, léčení a odpočinku](https://odpocinek.drdplus.info/), což je dáno mou malou disciplinovaností a faktem, že hrabat se ve vlastním je snazší, než číst myšlenky jiných.
 
 A poslední, nejhorší výmluvou, na kterou jsem nejméně pyšný, je zahořklost po [roztržce se Sparkle](./2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md), (hlavní) autorkou [Neviditelné knihy](http://neviditelnakniha.cz), což mi sebralo vítr z plachet a o to víc jsem raději dělal na počítadlech [ničení](https://niceni.drdplus.info) a [odpočinku](https://odpocinek.drdplus.info/). Ale už je to snad za mnou, protože se moje vnitřní energie po kapkách dostala na použitelnou úroveň a nedávno jsem [Neviditelnou knihu](http://neviditelnakniha.cz) dočetl. Ono totiž není čtení jako čtení.
 
@@ -63,7 +63,7 @@ Co pro mě ale [Neviditelná kniha](http://neviditelnakniha.cz) ve skutečnosti 
 Autoři jako by chtěli, aby motto *"přemýšlej o všem"* bylo nasáklé v každém slovu, každém písmenu. Textový obsah je totiž velmi kvalitní, nebojí se méně obvyklých výrazů, neopakuje se a je nabitý informacemi, takže *vatu* na vycpání prázdných míst bych hledal těžko. A to je velká síla a zároveň velká slabina celé knihy.
 Když dočtu kapitolu, ba dokonce i popis jediného místa, osoby či události, tak cítím, jak mi na bránu dlouhodobé paměti klepou nové požadavky, *"my jsme nové informace, jsme důležité, když nás zapomeneš, ztratíš se..."* a já vím, že je to pravda. Mnohdy je důležitá vědomost zmíněna jen jednou jedinkrát a pak už se na ní další text odkazuje jen tak mimochodem, často zkráceným názvem, zřejmě s předpokladem, že *"už jsi to četl, tak to znáš"*. Tenhle způsob předávání informací *"nebudeme se opakovat"* byl jeden z důvodů, proč jsem nedokončil vejšku.
 
-*Uvítal bych uvolněnější formu, více prostých slov i vtipů, krátkých vstupů do života obyvatel, i kdyby to mělo knize přidat polovinu stránek (stejně jako by to pomohlo pomohlo u většiny vysokoškolských skript i [pravidel DrD+](https://drdplus.info)). Jsem zvědavý, jak bude koncentrovaný obsah působit na tebe.*
+*Uvítal bych uvolněnější formu, více prostých slov i vtipů, krátkých vstupů do života obyvatel, i kdyby to mělo knize přidat polovinu stránek (stejně jako by to pomohlo u většiny vysokoškolských skript i [pravidel DrD+](https://drdplus.info)). Jsem zvědavý, jak bude koncentrovaný obsah působit na tebe.*
 
 Velkým kladem celé knihy je neustálá nejistota, *"jak to vlastně je"*. Nikde nedostaneš na stříbrném podnose výsledek, ke kterému se mají dobrodruzi dopídit, všechny události mají temnou stranu stejně tak, jako světlou, volba je na tobě a opakuje se to v celé knize znovu a znovu a zase a další tvá představa o jasném klaďasovi a bezpáteřním záporákovi dostane kudlu do zad a další padouch má pro své zlé skutky dobré důvody, až mě to změnilo. Když se podívám zpět na naše dobrodružství, která jsem se svojí družinou prožil, tak se mi najednou zdají jednobarevná, předem daná, bez trestu za likvidaci banditů, kteří dost možná pocházeli z vesnice, kde zrovna přespáváme, vždy s odměnou za vykonanou práci, aniž by nás zadavatel kdy zneužil a podobně.
 
@@ -78,12 +78,12 @@ Dobrodružství je [zatím jedno](http://neviditelnakniha.cz/ke-stazeni/dobrodru
 ## Rozsah Neviditelné knihy
 
 #### Čas
-Události, které ovlivňují celý (nám) známý svět, jsou sotva tři sta let vzad a samotná přítomnost se vrtí v kocovině z nedávno nabité svobody, tolik úrodné na komplikace států i jednotlivců. Pro mě osobně se touhle krátkou historií nejlépe naplnilo poselství knihy fungovat jako *sbírka nápadů*, která mě neomezuje vlastními hranicemi pevně daných událostí.
+Události, které ovlivňují celý (nám) známý svět, jsou sotva tři sta let vzad a samotná přítomnost se vrtí v kocovině z nedávno nabité globální svobody, tolik úrodné na komplikace států i jednotlivců. Pro mě osobně se touhle krátkou historií nejlépe naplnilo poselství knihy fungovat jako *sbírka nápadů*, která mě neomezuje vlastními hranicemi pevně daných událostí.
 
 ### Prostor
 
 #### Město svobody a odpadu
-Tím nejmenším kusem světa, který je nejbláznivější, nejsvobodnější pro dobrodruhy a nejspíš byl i pro autory [Neviditelné knihy](http://neviditelnakniha.cz), je *Kalus*, město natolik svázané s prudce inteligentními kočkami, že mám po jeho dočtení lehké nutkání vykat té huňaté černé číče, co se nám na sídlišti promenáduje kolem školky.
+Tím nejmenším kusem světa, který je nejbláznivější, nejsvobodnější pro dobrodruhy a nejspíš se u něj nejvíce uvolnili i autoři [Neviditelné knihy](http://neviditelnakniha.cz), je *Kalus*, město natolik svázané s prudce inteligentními kočkami, že mám po jeho dočtení lehké nutkání vykat té huňaté černé číče, co se nám na sídlišti promenáduje kolem školky.
 Je tam toho hodně, magické anomálie, na které jsou zákony krátké a vedení dlouhé, magoři, kteří chtějí probudit prakočku, co si chrní někde pod zemí, akorát že si tím nejsou jistí, čarodějové, co ovládají obří město od dávné minulosti, jen si nejsou jistí blízkou budoucností, fanatici, co by chtěli navrátit město přírodě, ale nejsou si jisti, jak na to a tak všelijak podobně.
  Největší přidaná hodnota, která je zároveň největší slabostí tohohle centra aglomeračního zmatku, je svoboda bez hranic a pravidel. Pokud se chceš vyblbnout, ať už jako hráč nebo Pán jeskyně, jdi do *Kalusu*.
 
@@ -91,7 +91,7 @@ Je tam toho hodně, magické anomálie, na které jsou zákony krátké a veden�
 
 #### Ostrov akce a reakce
 Nejuvěřitelnějším a nejstřízlivějším kusem světa, na který tu narazíš, je Thuren, silně připomínající hrdý Albion, starou dobrou Anglii v dobách Merlinových. Jen bez Merlina a s tím dobrým jaksi zkaženým, hlavně politicky.
-Potkáš tu třeba homosexuály, nebo vlkodlaky kteří bojují o své právo na klidný a společný život s ostatními a poctivé politické pletichaření, kde úsměv může být jen odraz v křivém zrcadle.
+Potkáš tu třeba homosexuály, nebo vlkodlaky kteří bojují o své právo na klidný a společný život s ostatními, a taky poctivé politické pletichaření, kde úsměv může být jen odraz v křivém zrcadle.
 Pro mě to byla nejnáročnější část knihy, kterou zřejmě autoři nejvíce pilovali pro reprezentativní účely a všechno je tam proto vážné a skutečné.
 
 *Asi by se mi Thuren četl lépe, kdyby byl až na konci knihy, až bych si zvykl na neobvyklý styl, ale Thuren je tvrdé jádro celého známého světa, který v mnohém ovlivňuje, takže jsem si to asi musel *vyžrat* na začátku.*
@@ -110,7 +110,7 @@ I z toho důvodu je možné [Neviditelnou knihu](http://neviditelnakniha.cz) ote
 *Jen se v té studnici nápadů neutopit*.
 
 Samotné zápletky mají ale jedno společné, co mi není úplně komfortní a to je jejich vážnost a dospělost. Zatímco já mám raději hravé [Baldur's gate](https://www.youtube.com/watch?v=DjWWuUDtSaEgate), kde se můžu kochat přátelským vztahem bojovníka s křečkem, koláči květin na loukách či skutečným strachem obyčejných lidí, tak Tauril jsou spíše [Pillar's of Eternity](https://www.youtube.com/watch?v=KZM2wWTvWwM), kde vtip umřel společně s dušemi dětí, což atmosféru neničí, jen ji to dělá jinou, než má vlastní dětská duše potřebuje.
-Navíc se většina zápletek zakládá na konfliktu mezi politickými názory, kulturními rozdíly nebo prostě odlišným pohledem na svět, takže i kvůli tomu si téměř žádnou zápletku nedokážu představit pro postavy na nižší než šesté úrovni (z hlediska [DrD+](https:/drdplus.info)).
+Navíc se většina zápletek zakládá na konfliktu mezi politickými názory, kulturními rozdíly nebo prostě odlišným pohledem na svět, takže i kvůli tomu si téměř žádnou zápletku nedokážu představit pro postavy na nižší než šesté úrovni (z hlediska [DrD+](https://drdplus.info)).
 
 *[Neviditelnou knihu](http://neviditelnakniha.cz) bych nedoporučil jako základní kámen začínajícím hráčům, ale zato bych ji předepisoval všem, kteří hrají léta a přitom ještě nedokážou pustit z ruky kostky a meč.* 
 
