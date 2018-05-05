@@ -4,7 +4,7 @@
 
 ## Určitě nevím
 
-Pokud jsi netrpělivý, a chceš rovnou k věci, tak celá recenze se dá vyjádřit odpovědmi na hru *Určitě nevím*:
+Pokud jsi netrpělivý a chceš rovnou k věci, tak celá recenze se dá vyjádřit odpovědmi na hru *Určitě nevím*:
 
 - stojí to za přečtení?
     - určitě ano
@@ -23,7 +23,7 @@ Pokud ti to nestačí, výborně, nadešel čas obsáhnout pojmy a dojmy z [Nevi
 
 ## Měsíc sem, měsíc tam
 
-S recenzí přícházím s měsíčním skluzem oproti plánu.
+S recenzí přicházím s měsíčním skluzem oproti plánu.
 
 Mou nejcitlivější výmluvou je nový človíček, kterého teď doma máme a který se ještě nenaučil žít ve zlaté kleci osobní izolace, což jsem ovšem jaksi **věděl** předem, že.
 
@@ -33,7 +33,8 @@ A poslední, nejhorší výmluvou, na kterou jsem nejméně pyšný, je zahořkl
 
 # Recenze neviditelné knihy
 
-Pamatuji si, že když jsem přelouskal první kapitolu [Neviditelné knihy](http://neviditelnakniha.cz), zůstalo ve mě takové pichalvé nepříjemno, něco mezi zklamáním a bolením hlavy. Asi jako když ti někdo pošle odkaz na *fakt skvělý video* a ono je ve skotské angličtině. Předevčírem jsem četl tu samou kapitolu znovu, což je asi tak po dvou měsících, a víš ty co? Jo, rád bych někomu poslal odkaz na fakt skvělý video, jen nevím, kdo si troufne na skotskou angličtinu.
+Pamatuji si, že když jsem přelouskal první kapitolu [Neviditelné knihy](http://neviditelnakniha.cz), zůstalo ve mě takové pichlavé nepříjemno, něco mezi zklamáním a bolením hlavy. Asi jako když ti někdo pošle odkaz na *fakt skvělý video* a ono je ve skotské angličtině.
+Nedávno jsem četl tu samou kapitolu znovu, což je asi tak po dvou měsících, a víš ty co? Jo, rád bych někomu poslal odkaz na fakt skvělý video, jen nevím, kdo si troufne na skotskou angličtinu.
 
 ## Reklama, očekávání a realita
 
@@ -41,7 +42,7 @@ Reklama na [Neviditelnou knihu](http://neviditelnakniha.cz) kolem mě plula už 
 > Vychází nový modul pro **Dračí doupě** a jiná fantasy RPG
 
 tak to o mě jen tak cinkalo a nic. Samozřejmě to vypovídá něco hlavně o mě, že jsem jednoduchý tvor a chci všechno strkat až pod nos, ale co mám tak vypozorované, tak je na tom stejně spousta dalších lidí.
-K tomu, jak jsme vlastně pohodlní a jak nás zahlucují jednoduchosti, si můžeme pokecat u piva, teď si projděme vliv reklamního obsahu, který ve mě vytvořil chybné očekávání.
+K tomu, jak jsme vlastně pohodlní a jak nás zahlcují jednoduchosti, si můžeme pokecat u piva, teď si projděme vliv reklamního obsahu, který ve mě vytvořil chybné očekávání.
 
 Například na RPG fóru je [kniha uvedena slovy](https://rpgforum.cz/forum/viewtopic.php?f=310&t=14809)
 > původní český fantasy svět
@@ -52,9 +53,9 @@ Například na RPG fóru je [kniha uvedena slovy](https://rpgforum.cz/forum/view
 [na Facebooku je v popisu](https://www.facebook.com/neviditelnakniha/posts/553737521490444)
 > fiktivní světadíl Tauril, který se po pádu mocné Církve Nebeského ducha ocitá v chaosu bouřlivých změn
 
-a já si z toho vzal, že to bude **svět** ve smyslu Asterionu, kde je popsáno každé místo na mapě a kde si přelouskám příručku, dvakrát se podrbu na hlavě a jdu hrát epické dobrodružství, jasné tažení za vyššími cíly.
+a já si z toho vzal, že to bude **svět** ve smyslu [Asterionu](http://asterionrpg.cz/), kde je popsáno každé místo na mapě a kde si přelouskám příručku, dvakrát se podrbu na hlavě a jdu hrát epické dobrodružství, jasné tažení za vyššími cíli.
 
-Co pro mě ale [Neviditelná kniha](http://neviditelnakniha.cz) ve skutečnosti je, je (poctivá) **sbírka nápadů**, které si musím domyslet, přetavit v dobrodružství a **rozhodnout se**, co nechám sporné a co spíše odporné.
+Co pro mě ale [Neviditelná kniha](http://neviditelnakniha.cz) ve skutečnosti je, je (poctivá) **sbírka nápadů**, které si musím domyslet, přetavit v dobrodružství a **rozhodnout se**, co nechám sporné a co odporné.
 
 *[Neviditelnou knihou](http://neviditelnakniha.cz) jsem se nechal nachytat v nedbalkách, kdy jsem čekal starý známý formát světů pro Dračí doupě a na styl **sbírky nápadů** jsem si zvykal několik kapitol.*
 
@@ -64,13 +65,13 @@ Když dočtu kapitolu, ba dokonce i popis jediného místa, osoby či události,
 
 *Uvítal bych uvolněnější formu, více prostých slov i vtipů, krátkých vstupů do života obyvatel, i kdyby to mělo knize přidat polovinu stránek (stejně jako by to pomohlo pomohlo u většiny vysokoškolských skript i [pravidel DrD+](https://drdplus.info)). Jsem zvědavý, jak bude koncentrovaný obsah působit na tebe.*
 
-Velkým kladem celé knihy je neustálá nejistota, *"jak to vlastně je"*. Nikde nedostaneš na stříbrném podnose výsledek, ke kterému se mají dorodruzi dopídit, všechny události mají temnou stranu stejně tak, jako světlou, volba je na tobě a opakuje se to v celé knize znovu a znovu a zase a další tvá představa o jasném klaďasovi a bezpáteřním záporákovi dostane kudlu do zad a další padouch má pro své zlé skutky dobré důvody, až mě to změnilo. Když se podívám zpět na naše dobrodružství, která jsem se svojí družinou prožil, tak se mi najednou zdají jednobarevná, předem daná, bez trestu za likvidaci banditů, kteří dost možná poocházeli z vesnice, kde zrovna přespáváme, vždy s odměnou za vykonanou práci, aniž by nás zadavatel kdy zneužil a podobně.
+Velkým kladem celé knihy je neustálá nejistota, *"jak to vlastně je"*. Nikde nedostaneš na stříbrném podnose výsledek, ke kterému se mají dobrodruzi dopídit, všechny události mají temnou stranu stejně tak, jako světlou, volba je na tobě a opakuje se to v celé knize znovu a znovu a zase a další tvá představa o jasném klaďasovi a bezpáteřním záporákovi dostane kudlu do zad a další padouch má pro své zlé skutky dobré důvody, až mě to změnilo. Když se podívám zpět na naše dobrodružství, která jsem se svojí družinou prožil, tak se mi najednou zdají jednobarevná, předem daná, bez trestu za likvidaci banditů, kteří dost možná pocházeli z vesnice, kde zrovna přespáváme, vždy s odměnou za vykonanou práci, aniž by nás zadavatel kdy zneužil a podobně.
 
 *Takže tě varuji, dost možná tě [Neviditelná kniha](http://neviditelnakniha.cz) také změní, a už nebudeš moci zpátky, do prostých kobek plných zlounů, kteří nikomu chybět nebudou a do pravidelně rozmístěných vesnic, ve kterých na jednoho obyvatele připadá jedna hospoda s míchanými vajíčky a bezedným pivem.*
 
 Co mě mrzí, je absence nosného příběhu (což je například [velké plus DrD+](https://pribeh.drdplus.info)) a příkladných dobrodružství.
-Historie je dobrá, ikdyž useknutá a rozmlžená před několika stoletími, stejně tak současnost je velmi kvalitně popsaná, ovšem cestopisným stylem, což není můj oblíbený literární žánr.
-Dobrodružství je [zatím jedno](http://neviditelnakniha.cz/ke-stazeni/dobrodruzstvi/), takové ochutnávkové, přestože mám silný pocit, že Tauril a vůbec celý ten svět nebyl sepsán loni z jara na zelené louce, ale vznikal lety hraní právě kolem *Sparkle* (jakožto Vypravěče a nevyššího konstruktéra celého světa v jedné osobě), takže bych uvítal, kdyby vypustila ze svého šuplíku nějaké ucelené žúžo dobrodrúžo, protože, jak už jsem zmiňoval, jsem tvor pohodlný a lenivý a jakkoli nápadů je v knize dost a dost, tak ani jeden **není** pro Pána jeskyně **bez práce**.
+Historie je dobrá, i když useknutá a rozmlžená před několika stoletími, stejně tak současnost je velmi kvalitně popsaná, ovšem cestopisným stylem, což není můj oblíbený literární žánr.
+Dobrodružství je [zatím jedno](http://neviditelnakniha.cz/ke-stazeni/dobrodruzstvi/), takové ochutnávkové, přestože mám silný pocit, že Tauril a vůbec celý ten svět nebyl sepsán loni z jara na zelené louce, ale vznikal lety hraní právě kolem *Sparkle* (jakožto Vypravěče a nejvyššího konstruktéra celého světa v jedné osobě), takže bych uvítal, kdyby vypustila ze svého šuplíku nějaké ucelené *žúžo dobrodrúžo*, protože, jak už jsem zmiňoval, jsem tvor pohodlný a lenivý a jakkoli nápadů je v knize dost a dost, tak ani jeden **není** pro Pána jeskyně **bez práce**.
 
 *Óóó Nebeský duchu, Velká číčo, Dračí matko nebo kdo to teď máte celý ten svět pod palcem, sešli nám, jednoduchým lenochům, hotová dobrodružství a přihoď nějakou tu příhodu místních dobrodruhů, z jejichž hrobů by se mrakodrap vystavěti dal, ať s celou tou informační dardou vlastními zážitky provázáni jsme.*
 
@@ -82,12 +83,11 @@ Události, které ovlivňují celý (nám) známý svět, jsou sotva tři sta le
 ### Prostor
 
 #### Město svobody a odpadu
-Tím nejměnším kusem světa, který je nebláznivější, nejsvobodnější pro dobrodruhy a nejspíš byl i pro autory [Neviditelné knihy](http://neviditelnakniha.cz), je *Kalus*, město natolik svázané s prudce inteligentními kočkami, že mám po jeho dočtení lehké nutkání vykat té huňaté černé číče, co se nám na sídlišti promenáduje kolem školky.
+Tím nejmenším kusem světa, který je nejbláznivější, nejsvobodnější pro dobrodruhy a nejspíš byl i pro autory [Neviditelné knihy](http://neviditelnakniha.cz), je *Kalus*, město natolik svázané s prudce inteligentními kočkami, že mám po jeho dočtení lehké nutkání vykat té huňaté černé číče, co se nám na sídlišti promenáduje kolem školky.
 Je tam toho hodně, magické anomálie, na které jsou zákony krátké a vedení dlouhé, magoři, kteří chtějí probudit prakočku, co si chrní někde pod zemí, akorát že si tím nejsou jistí, čarodějové, co ovládají obří město od dávné minulosti, jen si nejsou jistí blízkou budoucností, fanatici, co by chtěli navrátit město přírodě, ale nejsou si jisti, jak na to a tak všelijak podobně.
  Největší přidaná hodnota, která je zároveň největší slabostí tohohle centra aglomeračního zmatku, je svoboda bez hranic a pravidel. Pokud se chceš vyblbnout, ať už jako hráč nebo Pán jeskyně, jdi do *Kalusu*.
 
 *Už jsem ti říkal, že v tom městě žilo tři čtvrtě miliónu (!) "lidí" a teď jich tam není ani sto tisíc? Chodil jsi někdy v Plzni ve tři ráno? A víš, kdy byla [poslední morová rána v Čechách](https://cs.wikipedia.org/wiki/Mor#15.%E2%80%9318._stolet%C3%AD)?*
-
 
 #### Ostrov akce a reakce
 Nejuvěřitelnějším a nejstřízlivějším kusem světa, na který tu narazíš, je Thuren, silně připomínající hrdý Albion, starou dobrou Anglii v dobách Merlinových. Jen bez Merlina a s tím dobrým jaksi zkaženým, hlavně politicky.
@@ -97,13 +97,25 @@ Pro mě to byla nejnáročnější část knihy, kterou zřejmě autoři nejvíc
 *Asi by se mi Thuren četl lépe, kdyby byl až na konci knihy, až bych si zvykl na neobvyklý styl, ale Thuren je tvrdé jádro celého známého světa, který v mnohém ovlivňuje, takže jsem si to asi musel *vyžrat* na začátku.*
 
 #### Země pout a volnosti
-Plochou nejrozsáhlejším, podrobněji popsaným místem jest *Agol Zar*, kde se domorodci ještě nerozhodli, jestli se mají jíst navzájem příborem, nebo bude stačit bambusový rožeň, draci jsou tu běžnější, než černoši na vánočním trhu, ovšem těch legendárních by turista na ruce po těžkém úrazu spočítal, každý druhý je tu zcestovalý dobrodruh, co by na běžnou práci nešáhl ani koštětem, přesto je na mapě bílých míst pořád tolik, že každá mapa vypadá jako po umití Savem.
+Plochou nejrozsáhlejším, podrobněji popsaným místem jest *Agol Zar*, kde se domorodci ještě nerozhodli, jestli se mají jíst navzájem příborem, nebo bude stačit bambusový rožeň, draci jsou tu běžnější, než černoši na vánočním trhu, ovšem těch legendárních by turista na ruce po těžkém úrazu spočítal, každý druhý je tu zcestovalý dobrodruh, co by na běžnou práci nešáhl ani koštětem, přesto je na mapě bílých míst pořád tolik, že každá mapa vypadá jako po umytí Savem.
 Divoký *Agol Zar* považuji za nejjednodušší na hraní kvůli rozsáhlému nezmapovanému prostoru, kam se vejdou moje vlastní nápady, aniž bych měl pocit, že jsem tím něco naboural.
 
 *Kdy jsi naposledy viděl [osmimetrového krokodýla](https://www.youtube.com/watch?v=RXn1g0xtUMk)? A patnáctimetrového draka?*
 
+### Podhoubí pro dobrodružství
+
+Jelikož mlhavá historie světa Taurilu mi ruce nesvazuje a jeho geografie různorodé možnosti po hrstech přidává, tak nebude problém si vybrat prostředí, ve kterém s Taurilem začnu, nehledě na to, že mě kniha přímo nabádá, abych se nebál cokoli upravit podle svého cítění, takže se necítím svázaný dodržováním psaných faktů.
+I z toho důvodu je možné [Neviditelnou knihu](http://neviditelnakniha.cz) otevřít téměř na jakékoli stránce, zapíchnout prst poslepu a podle místa jeho dopadu začít připravovat dobrodružství *na příště*.
+
+*Jen se v té studnici nápadů neutopit*.
+
+Samotné zápletky mají ale jedno společné, co mi není úplně komfortní a to je jejich vážnost a dospělost. Zatímco já mám raději hravé [Baldur's gate](https://www.youtube.com/watch?v=DjWWuUDtSaEgate), kde se můžu kochat přátelským vztahem bojovníka s křečkem, koláči květin na loukách či skutečným strachem obyčejných lidí, tak Tauril jsou spíše [Pillar's of Eternity](https://www.youtube.com/watch?v=KZM2wWTvWwM), kde vtip umřel společně s dušemi dětí, což atmosféru neničí, jen ji to dělá jinou, než má vlastní dětská duše potřebuje.
+Navíc se většina zápletek zakládá na konfliktu mezi politickými názory, kulturními rozdíly nebo prostě odlišným pohledem na svět, takže i kvůli tomu si téměř žádnou zápletku nedokážu představit pro postavy na nižší než šesté úrovni (z hlediska [DrD+](https:/drdplus.info)).
+
+*[Neviditelnou knihu](http://neviditelnakniha.cz) bych nedoporučil jako základní kámen začínajícím hráčům, ale zato bych ji předepisoval všem, kteří hrají léta a přitom ještě nedokážou pustit z ruky kostky a meč.* 
+
 ## Stojí to za to
-Během psaní recenze jsem se neubránil vzpomínkám na rozčarování z méně stravitelného stylu, do jakého je [Neviditelná kniha](http://neviditelnakniha.cz) slisovaná a myslím si, že jí to uškodí při rozšiřování se mezi *hrdiny tužky, papíru a kostek*, ale je to jeden z těch výtvorů, co ve mě zanechal stopu a za kerý jsem rád, že vznikl a že jsem ho vstřebal.
+Během psaní recenze jsem se neubránil vzpomínkám na rozčarování z méně stravitelného stylu, do jakého je [Neviditelná kniha](http://neviditelnakniha.cz) slisovaná a myslím si, že jí to uškodí při rozšiřování se mezi *hrdiny tužky, papíru a kostek*, ale je to jeden z těch výtvorů, co ve mě zanechal stopu a za který jsem rád, že vznikl a že jsem ho vstřebal.
 
 Cítím, že autoři neřekli své poslední slovo jak vzhledem k [živé komunitě na RPG fóru](https://rpgforum.cz/forum/viewforum.php?f=310), tak i kvůli herní historii *Taurilu*, kterou *Sparkle* už prožila a nosí ji v hlavě i srdci dlouhá léta a spoustu svých myšlenek i zážitků dosud nesdělila širé veřejnosti.
 Těším se na přídavky.
