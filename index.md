@@ -3,7 +3,6 @@
 ### [3.5. 2018 Neviditelná recenze](clanky/2018-05-03-neviditelna_recenze.md)
 ### [10.3. 2018 Technický milník - zrychlili jsme](clanky/2018-03-10-technicky_milnik_zrychlili_jsme.md)
 ### [16.2. 2018 Vyskytla se nám Neviditelná soutěž](clanky/2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)
-### [15.2. 2018 Jak jsme se duševně minuli se Sparkle od Neviditelné knihy](clanky/2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)
 ### [9.2. 2018 Na webu jsou všechna pravidla... a co teď?](clanky/2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)
 ### [2.1. 2018 Na web jsem převedl Bestiář](clanky/2018-01-02-na_web_jsem_prevedl_bestiar.md)
 ### [20.11. 2017 V PPH zopakováno, že význačný smysl je nepoužitelný při automatickém a zběžném hledání](clanky/2017-11-20-v_pph_zopakovano_ze_vyznacny_smysl_je_nepouzitelny_pri_automatickem_a_zbeznem_hledani.md)

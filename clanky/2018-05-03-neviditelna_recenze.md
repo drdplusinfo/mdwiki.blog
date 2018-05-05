@@ -29,7 +29,7 @@ Mou nejcitlivější výmluvou je nový človíček, kterého teď doma máme a 
 
 Druhou výmluvou je, že jsem pracoval na [kalkulátoru pro ničení](https://niceni.drdplus.info), který mi krapet zamotal hlavu a [pomohli až kluci z RPG fóra](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14870&sid=481ce075cc959574d691b2e02ccdefe4&start=15) a k tomu začínám pracovat na [počítadle zranění, únavy, léčení a odpočinku](https://odpocinek.drdplus.info/), což je dáno mou malou disciplinovaností a faktem, že hrabat se ve vlastním je snazší, než číst myšlenky jiných.
 
-A poslední, nejhorší výmluvou, na kterou jsem nejméně pyšný, je zahořklost po [roztržce se Sparkle](./2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md), (hlavní) autorkou [Neviditelné knihy](http://neviditelnakniha.cz), což mi sebralo vítr z plachet a o to víc jsem raději dělal na počítadlech [ničení](https://niceni.drdplus.info) a [odpočinku](https://odpocinek.drdplus.info/). Ale už je to snad za mnou, protože se moje vnitřní energie po kapkách dostala na použitelnou úroveň a nedávno jsem [Neviditelnou knihu](http://neviditelnakniha.cz) dočetl. Ono totiž není čtení jako čtení.
+A poslední, nejhorší výmluvou, na kterou jsem nejméně pyšný, je zahořklost po jedné nehezké události (kterou si ale nechám pro sebe), což mi sebralo vítr z plachet a o to víc jsem raději dělal na počítadlech [ničení](https://niceni.drdplus.info) a [odpočinku](https://odpocinek.drdplus.info/). Ale už je to snad za mnou, protože se moje vnitřní energie po kapkách dostala na použitelnou úroveň a nedávno jsem [Neviditelnou knihu](http://neviditelnakniha.cz) dočetl. Ono totiž není čtení jako čtení.
 
 # Recenze neviditelné knihy
 
