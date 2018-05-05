@@ -147,3 +147,4 @@ Krleš!
 ---
 
 - *předchozí [<< 16.2. 2018 Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)*
+- *následující [>> 3.5. 2018 Neviditelná recenze](2018-05-03-neviditelna_recenze.md)*
