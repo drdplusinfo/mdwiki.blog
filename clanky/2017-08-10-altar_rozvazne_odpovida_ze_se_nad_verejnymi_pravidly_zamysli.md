@@ -12,7 +12,7 @@ ALTAR
 
 Edit: do 11.11. 2017 se Bouchi neozval, takže [ho pošťuchuji s okrájeným dotazem](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)
 
-Edit: 15.2.2018 [Jsem mluvil se Sparkle a zjistil, že oficiální svolení od Altaru ani nedostanu, protože mi ho dát vlastně nemůže](2018-02-15-jak_jsme_se_dusevne_minuli_se_sparkle_od_neviditelne_knihy.md)
+Edit: 15.2.2018 jsem z různých indicií došel k závěru, že oficiální svolení od Altaru ani nedostanu, protože mi ho dát vlastně nemůže.
 
 ---
 
