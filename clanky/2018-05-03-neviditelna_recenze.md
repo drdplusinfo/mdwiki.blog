@@ -4,7 +4,7 @@
 
 ## Určitě nevím
 
-Pokud jsi netrpělivý a chceš rovnou k věci, tak celá recenze se dá vyjádřit odpovědmi na hru *Určitě nevím*:
+Pokud jsi netrpělivý a chceš rovnou závěr recenze Neviditelné knihy, tak ten se dá vyjádřit odpovědmi na hru *Určitě nevím*:
 
 - stojí to za přečtení?
     - určitě ano
