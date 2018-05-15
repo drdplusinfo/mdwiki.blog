@@ -122,6 +122,11 @@ Těším se na přídavky.
 
 *Jen doufám, že mě moje družina za zvýšené požadavky na kvalitu hry neupálí. No, radši jdu shánět [Minimaxe](http://minimaxfp.com/fire-extinguishers).*
 
+Na závěr si dovolím vypůjčit myšlenku Karla Čapka
+> Kritizovat - to znamená usvědčit autora, že to nedělá tak, jak bych to dělal já, kdybych to uměl.
+
+*A jak se stavíš ke kritice ty?*
+
 ## Zdroje
 
 - [domovská stránka *Neviditelné knihy*](http://neviditelnakniha.cz/ke)
