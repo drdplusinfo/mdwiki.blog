@@ -20,7 +20,7 @@ Náhle se vzduch zastavil, ledové kapky vodní tříště se odrazily jako od k
 Sotva se hromotluk dokázal nadechnout, popadl drobného krasavce a s přehnanou silou ho postavil na nohy, načež opět přešel do řevu, "Co je s ní! Co se sakra stalo! Co je s ní!" Čaroděj rázně zvedl paži, na níž stále cítil předchozí stisk, čímž si sjednal klid a obnovil svou důstojnost a co mu nedostatkový vzduch v plicích dovolil, zasýpal vysvětlení situace, "nemám tušení", načež mu krk sevřely mozolnaté prsty a znovu se mu podlomila kolena. Hromotluk se zjevně rozhodl, že přejde do fáze otloukání paluby neschopným čarodějem.
 Hezoun se vzepjal, na chvíli se utrh ze sevření a ze zbytků sil zaječel, "pošlu tě tam!", načež ho obnovené přiškrcení poslalo na podlahu.
 
-> Když nevím, že existuji, tak je můj doch osbobozen sám od sebe, je volný. Volný!
+> Když nevím, že existuji, tak je můj doch osbobozen sám od sebe a je volný. Volný!
 
 Měl silný pocit, že se topí, cítil vodu v nose, začínal vnímat promočený šat a za tím plíživý chlad, bičoval proto svou vůlí oční víčka. Konečně se rozevřela a zrak mu prozradil, že mu rozzuřený válečník chrstnul vědro do tváře.
 Jakmile dal střízlík svým pohybem najevo, že opět vnímá, hromotlucký muž začal opět řvát, "pošli mě tam! Dělej ty vyschlej elfe, pošli mě za ní!". Víc už nestihl, když čaroděj v sedě načrtl rukama zbrkle obrazec, zahuhňal slova, co by jindy ohlušila příboj a pod bojovníkem se zjevil světélkující portál. O palubu cvakla obrova čelist, jak se nechal překvapit pádem do nenadálé prohlubně, což mu konečně zavřelo chřtán a pak nadobro zmizel. Pleskání vln o příď zas mohlo znít nerušeně a klidně.
