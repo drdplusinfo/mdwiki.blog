@@ -191,7 +191,7 @@ class ArticlesTest extends TestCase
         self::assertGreaterThan(
             0,
             \preg_match('~^#[^#\n\r]+(\n|\r)+(?<days>\d+)[.](?<months>\d+)[.] (?<years>\d+)(\n|\r)+~', $content, $matches),
-            'Missing date in article ' . $content
+            'Missing date in article ' . \mb_substr($content, 200)
         );
         $contentDate = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");
         self::assertInstanceOf(\DateTime::class, $contentDate, 'Date has not been created from parts ' . \var_export($matches, true));
