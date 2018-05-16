@@ -25,7 +25,7 @@ Náhle údery ustaly a vystřídalo je lehké klapání podbitých holínek. "M�
 Mořem omývaná paluba odrážela mihotavé světlo portálu, jenž se vznášel nad klubkem lana, zamotaného do zdánlivě neúhledného smotku. Vše šlo podle plánu.
 Krasavec se tanečným krokem přenesl k hlavnímu stěžni, zkušenými kmity se omotal připravenou kotevní sítí a bez jediného vysvětlení pro svého ramenatého kolegu se zlomil vzad, s pusou dokořán a očima v sloup. Ani žába rozjetá přeloženým dvoukolákem by to nezvládla efektivněji.
 
-*V transu je ticho, nádherné ticho, jsem tu naprosto sám a jsem naprosto volný. Volný!*
+> V transu je ticho, nádherné ticho, jsem tu naprosto sám a jsem naprosto volný. Volný!
 
 Po vodní hladině se nesl řev, kterému i hluboký trans těžko odolával a postupně se bariérou odpojených smyslů prokousával až do čarodějovy hlavy, "...je, děje, ...se děje, ...rva se děje!", narážely mu do uší útržky vět jako příboj.
 Líbezný mladík zacukal koutky úst, jak hledal správné svalstvo, až konečně mohl nedočkavému bojovníkovi odpovědět. "Mám ji", zahuhlal a několikrát větu zopakoval, jak se snažil najít své tělo. "Mám ji a vidím ji", řekl už zcela zřetelně, zatímco svalovec přemáhal silnou potřebu z něj systematickým mláceným o palubu lodi dostat víc.
