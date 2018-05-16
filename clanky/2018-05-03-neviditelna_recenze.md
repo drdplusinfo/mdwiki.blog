@@ -4,7 +4,7 @@
 
 ## Určitě nevím
 
-Pokud jsi netrpělivý a chceš rovnou závěr recenze Neviditelné knihy, tak ten se dá vyjádřit odpovědmi na hru *Určitě nevím*:
+Pokud jsi netrpělivý a chceš rovnou závěr recenze [Neviditelné knihy](http://neviditelnakniha.cz/), tak ten se dá vyjádřit odpovědmi na hru *Určitě nevím*:
 
 - stojí to za přečtení?
     - určitě ano
@@ -20,16 +20,6 @@ Pokud jsi netrpělivý a chceš rovnou závěr recenze Neviditelné knihy, tak t
 Pokud ti to stačí, gratuluji, ušetříš si spoustu času čtením textu, který by po tobě chtěl přemýšlet, podobně jako to vyžaduje [Neviditelná kniha](http://neviditelnakniha.cz). V ušetřeném čase můžeš třeba brouzdat po [RPG fóru](https://rpgforum.cz/forum/).
 
 Pokud ti to nestačí, výborně, nadešel čas obsáhnout pojmy a dojmy z [Neviditelné knihy](http://neviditelnakniha.cz) obšírněji.
-
-## Měsíc sem, měsíc tam
-
-S recenzí přicházím s měsíčním skluzem oproti plánu.
-
-Mou nejcitlivější výmluvou je nový človíček, kterého teď doma máme a který se ještě nenaučil žít ve zlaté kleci osobní izolace, což jsem ovšem jaksi **věděl** předem, že.
-
-Druhou výmluvou je, že jsem pracoval na [kalkulátoru pro ničení](https://niceni.drdplus.info), který mi krapet zamotal hlavu a [pomohli až kluci z RPG fóra](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14870&sid=481ce075cc959574d691b2e02ccdefe4&start=15) a k tomu začínám pracovat na [počítadle zranění, únavy, léčení a odpočinku](https://odpocinek.drdplus.info/), což je dáno mou malou disciplinovaností a faktem, že hrabat se ve vlastním je snazší, než číst myšlenky jiných.
-
-A poslední, nejhorší výmluvou, na kterou jsem nejméně pyšný, je zahořklost po jedné nehezké události (kterou si ale nechám pro sebe), což mi sebralo vítr z plachet a o to víc jsem raději dělal na počítadlech [ničení](https://niceni.drdplus.info) a [odpočinku](https://odpocinek.drdplus.info/). Ale už je to snad za mnou, protože se moje vnitřní energie po kapkách dostala na použitelnou úroveň a nedávno jsem [Neviditelnou knihu](http://neviditelnakniha.cz) dočetl. Ono totiž není čtení jako čtení.
 
 # Recenze neviditelné knihy
 
@@ -122,11 +112,6 @@ Těším se na přídavky.
 
 *Jen doufám, že mě moje družina za zvýšené požadavky na kvalitu hry neupálí. No, radši jdu shánět [Minimaxe](http://minimaxfp.com/fire-extinguishers).*
 
-Na závěr si dovolím vypůjčit myšlenku Karla Čapka
-> Kritizovat - to znamená usvědčit autora, že to nedělá tak, jak bych to dělal já, kdybych to uměl.
-
-*A jak se stavíš ke kritice ty?*
-
 ## Zdroje
 
 - [domovská stránka *Neviditelné knihy*](http://neviditelnakniha.cz/ke)
@@ -135,6 +120,11 @@ Na závěr si dovolím vypůjčit myšlenku Karla Čapka
   - na pravidlech pro [*Dračí doupě Plus*](https://drdplus.info) budeme teprve pracovat, o pravidlech pro [*Dračí hlídku*](https://www.dracihlidka.cz/#top) zatím zprávy nemáme
 - [*RPG fórum*](https://rpgforum.cz/forum/viewforum.php?f=310)
 - [*Drakkar* - Monumenty Agol Zaru](http://drakkar.sk/66/monumenty-agol-zaru.html)
+
+Na závěr si dovolím vypůjčit myšlenku Karla Čapka
+> Kritizovat - to znamená usvědčit autora, že to nedělá tak, jak bych to dělal já, kdybych to uměl.
+
+*A jak vnímáš kritiku ty?*
 
 ---
 - *předchozí [<< 10.3. 2018 Technický milník - zrychlili jsme](2018-03-10-technicky_milnik_zrychlili_jsme.md)*
