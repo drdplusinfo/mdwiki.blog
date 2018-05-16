@@ -33,4 +33,4 @@ Napsáno na motivy obálky [Neviditelné knihy](http://neviditelnakniha.cz) a [d
 
 
 ![obálka Neviditelné knihy](https://www.fantasyobchod.cz/image/cache/neviditelna-kniha-neklidny-tauril-33121-0-1000x1000.jpg "obálka Neviditelné knihy")
-![o obálce na RPG fóru](./images/holka_bez_helmy_rpg_forum.png)
+![o obálce na RPG fóru](./images/holka_bez_helmy_rpg_forum.png "o obálce na RPG fóru")
