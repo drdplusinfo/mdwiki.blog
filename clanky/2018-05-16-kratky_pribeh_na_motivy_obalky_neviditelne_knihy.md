@@ -36,7 +36,7 @@ Silák doslova nalepil tvář k portálu, jak se snažil proniknout dovnitř a v
 
 Náhle se vzduch zastavil, ledové kapky vodní tříště se odrazily jako od kozinky na vojenském bubnu a oba dobrodruzi zalapali po dechu. Světélkující portál se zhroutil.
 
-> Když se zastaví čas, nic nedochází, nic se nevrací, světem projede záblesk naprostého míru. V takových okamžicích jsem volný. Volný!
+> Když se zastaví čas, nic neodchází, nic se nevrací, světem projede záblesk naprostého míru. V takových okamžicích jsem volný. Volný!
 
 Sotva se hromotluk dokázal nadechnout, popadl drobného krasavce a s přehnanou silou ho postavil na nohy, načež opět přešel do řevu, "Co je s ní! Co se sakra stalo! Co je s ní!" Čaroděj rázně zvedl paži, na níž stále cítil předchozí stisk, čímž si sjednal klid a obnovil svou důstojnost a co mu nedostatkový vzduch v plicích dovolil, zasýpal vysvětlení situace, "nemám tušení", načež mu krk sevřely mozolnaté prsty a znovu se mu podlomila kolena. Hromotluk se zjevně rozhodl, že přejde do fáze otloukání paluby neschopným čarodějem.
 Hezoun se vzepjal, na chvíli se utrh ze sevření a ze zbytků sil zaječel, "pošlu tě tam!", načež ho obnovené přiškrcení poslalo na podlahu.
