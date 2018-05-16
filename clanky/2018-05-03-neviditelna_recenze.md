@@ -114,12 +114,16 @@ Těším se na přídavky.
 
 ## Zdroje
 
-- [domovská stránka *Neviditelné knihy*](http://neviditelnakniha.cz/ke)
+- [domovská stránka *Neviditelné knihy*](http://neviditelnakniha.cz/)
   - první malé a rozverné [dobrodružství *Familiárova věž*](http://neviditelnakniha.cz/ke-stazeni/dobrodruzstvi/)
+  - [mapy](http://neviditelnakniha.cz/ke-stazeni/mapy-a-planky/)
 - [pravidla pro *Dračí doupě 1.6* a *Dračí doupě II*](http://neviditelnakniha.cz/ke-stazeni/pravidla/)
   - na pravidlech pro [*Dračí doupě Plus*](https://drdplus.info) budeme teprve pracovat, o pravidlech pro [*Dračí hlídku*](https://www.dracihlidka.cz/#top) zatím zprávy nemáme
 - [*RPG fórum*](https://rpgforum.cz/forum/viewforum.php?f=310)
 - [*Drakkar* - Monumenty Agol Zaru](http://drakkar.sk/66/monumenty-agol-zaru.html)
+- [další recenze včetně komentářů k nim na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=310&t=14867)
+  - [recenze ve stylu českého národního sportu "nadávání na cokoli"](http://www.d20.cz/clanky/produkty/recenze-neklidny-tauril.html)
+  - [praktická recenze z pohledu hráčky (ve slovenštině)](https://www.fantasy-svet.sk/index.php/publicistika/recenzie/798-neviditelna-kniha-neklidny-tauril)
 
 Na závěr si dovolím vypůjčit myšlenku Karla Čapka
 > Kritizovat - to znamená usvědčit autora, že to nedělá tak, jak bych to dělal já, kdybych to uměl.
