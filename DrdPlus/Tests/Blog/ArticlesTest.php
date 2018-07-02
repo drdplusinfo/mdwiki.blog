@@ -43,20 +43,47 @@ class ArticlesTest extends TestCase
      */
     private function getArticles(bool $withFullPath = false): array
     {
-        $articleFiles = \scandir(__DIR__ . '/../../../clanky', SCANDIR_SORT_NONE);
-        self::assertNotEmpty($articleFiles);
-        $articles = \array_filter(
-            $articleFiles,
-            function (string $article) {
-                return $article !== '..' && $article !== '.';
-            }
-        );
+        $articles = $this->getFilesFromDir(__DIR__ . '/../../../clanky');
+        self::assertNotEmpty($articles);
 
         return \array_map(function (string $article) use ($withFullPath) {
             return $withFullPath
                 ? __DIR__ . '/../../../clanky/' . $article
                 : 'clanky/' . $article;
         }, $articles);
+    }
+
+    private function getFilesFromDir(string $dir, int $level = 0): array
+    {
+        $folders = \scandir($dir, SCANDIR_SORT_NONE);
+        $folders = \array_filter(
+            $folders,
+            function (string $folder) {
+                return $folder !== '..' && $folder !== '.';
+            }
+        );
+        $relativeParentDir = '';
+        if ($level > 0) {
+            $relativeParentDir = \dirname($dir, $level);
+        }
+        $files = [];
+        foreach ($folders as $folder) {
+            if (\is_dir($dir . '/' . $folder)) {
+                foreach ($this->getFilesFromDir($dir . '/' . $folder, $level + 1) as $fileFromSubDir) {
+                    if ($relativeParentDir !== '') {
+                        $fileFromSubDir = $relativeParentDir . '/' . $fileFromSubDir;
+                    }
+                    $files[] = $fileFromSubDir;
+                }
+            } else {
+                if ($relativeParentDir !== '') {
+                    $folder = $relativeParentDir . '/' . $folder;
+                }
+                $files[] = $folder;
+            }
+        }
+
+        return $files;
     }
 
     /**
@@ -233,9 +260,9 @@ class ArticlesTest extends TestCase
     {
         $articlePaths = $this->getArticlesWithFullPath();
         $articlePaths = $this->sortFileNamesDescending($articlePaths);
-        $previousLink = false;
-        $previousDate = false;
-        $nextArticle = false;
+        $previousLink = '';
+        $previousDate = '';
+        $nextArticle = '';
         foreach ($articlePaths as $articlePath) {
             $articleBaseName = \basename($articlePath);
             if ($previousLink) { // previous iteration reveals a link to previous article (articles are ordered from newest)
@@ -303,11 +330,11 @@ class ArticlesTest extends TestCase
         } elseif ($nextMatches) {
             self::assertNotEmpty($nextMatches['delimiter'], 'Next link is not delimited by horizontal rule in ' . \basename($filename));
         }
-        $previousDate = $previousMatches['previousDate'] ?? false;
+        $previousDate = $previousMatches['previousDate'] ?? '';
         if ($previousDate) {
             self::assertRegExp('~^\d{1,2}\.\d{1,2}\. \d{4}$~', $previousDate);
         }
-        $nextDate = $nextMatches['nextDate'] ?? false;
+        $nextDate = $nextMatches['nextDate'] ?? '';
         if ($nextDate) {
             self::assertRegExp('~^\d{1,2}\.\d{1,2}\. \d{4}$~', $nextDate);
         }
@@ -320,5 +347,50 @@ class ArticlesTest extends TestCase
             'nextDate' => $nextDate,
             'nextLink' => $nextMatches['nextLink'] ?? false
         ];
+    }
+
+    /**
+     * @test
+     */
+    public function Links_to_altar_uses_https(): void
+    {
+        $linksToAltar = [];
+        foreach ($this->getExternalLinks() as $link) {
+            if (\strpos($link, 'altar.cz')) {
+                $linksToAltar[] = $link;
+            }
+        }
+        self::assertNotEmpty($linksToAltar, 'No links to Altar.cz have been found');
+        $linksWithoutHttps = \array_filter($linksToAltar, function (string $linkToAltar) {
+            return \strpos($linkToAltar, 'https') !== 0;
+        });
+
+        self::assertEmpty(
+            $linksWithoutHttps,
+            "Every link to Altar.cz should be via https: \n"
+            . \implode("\n", $linksWithoutHttps)
+        );
+    }
+
+    /**
+     * @return array|string[]
+     */
+    protected function getExternalLinks(): array
+    {
+        static $externalAnchors = [];
+        if (!$externalAnchors) {
+            $content = '';
+            foreach ($this->getArticlesWithFullPath() as $article) {
+                $content .= $this->getFileContent($article);
+            }
+            self::assertGreaterThan(
+                0,
+                \preg_match_all('~(?<links > https ?://[^\'"]+)~', $content, $matches),
+                'No external anchors found'
+            );
+            $externalAnchors = $matches['links'];
+        }
+
+        return $externalAnchors;
     }
 }
