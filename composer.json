@@ -9,9 +9,11 @@
       "DrdPlus\\": "DrdPlus/"
     }
   },
+  "require": {
+    "php": ">=7.1"
+  },
   "require-dev": {
-    "php": ">=7.1",
-    "phpunit/phpunit": "~6.0",
+    "phpunit/phpunit": "~7.0",
     "granam/string": "^2.2"
   }
 }
