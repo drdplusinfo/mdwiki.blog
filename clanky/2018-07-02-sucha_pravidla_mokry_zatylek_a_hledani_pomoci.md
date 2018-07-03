@@ -29,7 +29,7 @@ Zajímavé bylo sledovat, jak vznikaly a co to se mnou dělá:
 - skončil jsem ve chvíli, kdy jsem začal cítit, jak ztrácím kontrolu nad **vlastní** chutí něco vymýšlet a spíš jsem sledoval, jestli to někdo čte
   - nejsnazší způsob jak ztratit vlastní duši je *zapomenout na ni* (jedna z forem pověstného biblického *zatracení*, nebo-li *ztracení*) - třeba tím, že budu sledovat *pouze* to, co si myslí ostatní
 - asi tak v polovině jejich sepisování jsem si vzpomněl na výborný článek o psaní dokumentace (který zaboha nemůžu najít, ehm, ale [tenhle taky není špatný](https://medium.com/@episod/writing-great-documentation-44d90367115a))
-    - kde chlapík, co dělal dlouhá léta v Microsoftu, přišel na to, že je sice dobré psát dokumentaci velmi přesnou, ale také vtipnou, protože čtenář se během čtení těžkého textu *vybíjí* (stojí ho to energii) a v jeden okamžik ho najednou síly opustí a on skončí (a pak jde na nějaký informačně plitký server, kde si čte bombastický článek o prokrastinaci) - ovšem dobře mířeným vtipem či odlehčením se mu *vnitřní baterky* zas o kousek dobijí a vydrží tak *vnímat* déle
+    - kde chlapík, co dělal dlouhá léta v Microsoftu, přišel na to, že je sice dobré psát dokumentaci velmi přesnou, ale také vtipnou, protože čtenář se během čtení těžkého textu *vybíjí* (stojí ho to energii) a v jeden okamžik ho najednou síly opustí a on skončí (a pak jde na nějaký informačně plytký server, kde si čte bombastický článek o prokrastinaci) - ovšem dobře mířeným vtipem či odlehčením se mu *vnitřní baterky* zas o kousek dobijí a vydrží tak *vnímat* déle
     - nejlepším místem pro vtip je *příklad*, kde je vtip nejméně rušivý a dá se do něj nacpat téměř jakékoli téma
     - nejsnazším způsobem, jak udělat text odlehčený, je přidat navíc něco, co vlastně žádnou informační hodnotu nemá
       - nudný příklad: "Unavený druid si po dobrém spánku smazal jeden řádek únavy"
@@ -41,19 +41,19 @@ Zajímavé bylo sledovat, jak vznikaly a co to se mnou dělá:
 A své poznatky jsem záhy zúročil.
 
 ## Padouch nebo hrdina, jaká my jsme rodina
-Už delší dobu hledám cestu, jak spolupracovat s ostatními na změnách v DrD+ a nedávno mě napadl i nenáročný pitbul (jenom zkouším, jestli dáváš pozor), napadl nenáročný úkol, kde nehrozí konflikt názorů a je dost univerzální, aby se mohli zapojit všichni, kdo někdy nějakou vypravěčskou hru hráli, nebo alespoň zkusili zbastlit povídku.
+Už delší dobu hledám cestu, jak spolupracovat s ostatními na změnách v DrD+ a nedávno mě napadl i nenáročný pitbull (jenom zkouším, jestli dáváš pozor), napadl nenáročný úkol, kde nehrozí konflikt názorů a je dost univerzální, aby se mohli zapojit všichni, kdo někdy nějakou vypravěčskou hru hráli, nebo alespoň zkusili zbastlit povídku.
 
 Vlastně se divím, že na [RPG fóru](https://rpgforum.cz/forum/index.php) něco takového už dávno není(?), totiž odchylky charakterů od šedého průměru, zvláštní poznávací znamení, kvůli kterým hlavní postava vyčuhuje z davu a přitom jí to příliš nepřekáží v dráze dobrodruha.
 
-Tyhle rysy, kterým já říkam **marky**, poznávací znamení, [schraňuji na Dropbox Paperu](https://paper.dropbox.com/doc/Marky-hrdinu-i-padouchu--AGnaQE~RAjhaasR4jR3VRwyoAQ-4WNOSwzOGzSDLguzneiHn) a píši je stylem
+Tyhle rysy, kterým já říkám **marky**, poznávací znamení, [schraňuji na Dropbox Paperu](https://paper.dropbox.com/doc/Marky-hrdinu-i-padouchu--AGnaQE~RAjhaasR4jR3VRwyoAQ-4WNOSwzOGzSDLguzneiHn) a píši je stylem
  
  - příklad se zážitkem osoby, kterou si osud označil onou markou a kde se dá nejsnáze propašovat humorný styl
- - vzevrubný popis, co taková vlastnost znamená pro poznamenanou osobu v běžném životě
+ - zevrubný popis, co taková vlastnost znamená pro poznamenanou osobu v běžném životě
  - čísla, která přímo upravují pravidla hry a po kterých jsou mnozí hráči tak lační
 
 Trochu podobně jako při zveřejňování vtipů, kvazivtipů a pokusů o vtip na Facebooku, tak i tady číhá skryté nebezpečí. Zatímco na Facebooku krade duši touha zalíbit se *ostatním*, tak při psaní změn pro pravidla kradou duši **čísla**.
 
-Než jsem kteroukoli marku začal psát, tak jsem se ujistil, že mi nejde o to vyplnit chybějící kombinaci vlastností (*tak co pa tam ještě není... ááá bonus k inteligenci a postih k nosnosti*), ale o charakterou odlišnost (ne, označení *vada* se pro to nehodí), kterou bych s klidem použil v nějakém příběhu.
+Než jsem kteroukoli marku začal psát, tak jsem se ujistil, že mi nejde o to vyplnit chybějící kombinaci vlastností (*tak co pa tam ještě není... ááá bonus k inteligenci a postih k nosnosti*), ale o charakterovou odlišnost (ne, označení *vada* se pro to nehodí), kterou bych s klidem použil v nějakém příběhu.
 
 A podobně jako u spamování Facebooku, tak i s markami mi vyschla slina asi tak po týdnu, kdy jsem sypal a sypal a sypal a... najednou se to zadřelo. Všechny další nápady už byly buďto křečovité a těžko popsatelné, nebo překombinované a musely tak obhajovat svou existenci namísto toho, aby *prostě byly*, nebo vznikly s čísly *až na prvním místě*.
 
@@ -77,7 +77,7 @@ Tímto jí ještě jednou vzdávám hold, jelikož ze všech těch, co o tom př
 A teď s [markama hrdinů a padouchů](https://paper.dropbox.com/doc/Marky-hrdinu-i-padouchu--AGnaQE~RAjhaasR4jR3VRwyoAQ-4WNOSwzOGzSDLguzneiHn) to je hodně podobné.
 I když... přeci jen je to od začátku o něco lepší - na RPG fóru se nápadu chytil *Paul*, který reaguje velmi svižně, nedávno přišel [s vlastními nápady](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936#p537519) k markám a já si začínám uvědomovat, že ti, co pomáhají, nepřichází *náhodně* z davu, ale chovají se podobně všude a ke každému. Těch aktivních a **konstruktivních** uživatelů na RPG fóru totiž zas tak moc mění a *Paul* je jedním z nich.
 
-Krom duševně spřízněného RPG fóra jsem *zaútočil* také přes [Facebook](https://www.facebook.com/drdplus.info), kde jsem upravil hlavní příspěvek o pesimistické *klinické smrti DrD+* na povznešenější *druhý dech DrD+* (což vzhledem k [množství nápadů](https://trello.com/b/L64FNYj3/drdplusinfo) cítím stále silněji) a zmínil v něm nově krom [oněch nápadů a myšlenek v Trellu](https://trello.com/b/L64FNYj3/drdplusinfo) také [marky](https://paper.dropbox.com/doc/Marky-hrdinu-i-padouchu--AGnaQE~RAjhaasR4jR3VRwyoAQ-4WNOSwzOGzSDLguzneiHn) a zaplatil si za deset *éček* kampaň pro Česko-Slovensko.
+Krom duševně spřízněného RPG fóra jsem *zaútočil* také přes [Facebook](https://www.facebook.com/drdplus.info), kde jsem upravil hlavní příspěvek o pesimistické *klinické smrti DrD+* na povznesenější *druhý dech DrD+* (což vzhledem k [množství nápadů](https://trello.com/b/L64FNYj3/drdplusinfo) cítím stále silněji) a zmínil v něm nově krom [oněch nápadů a myšlenek v Trellu](https://trello.com/b/L64FNYj3/drdplusinfo) také [marky](https://paper.dropbox.com/doc/Marky-hrdinu-i-padouchu--AGnaQE~RAjhaasR4jR3VRwyoAQ-4WNOSwzOGzSDLguzneiHn) a zaplatil si za deset *éček* kampaň pro Česko-Slovensko.
 No, vyneslo to nějaké ty palce nahoru, srdíčka a další pouťové výdobytky, ale borce co přihodí nápad zas *kde nic tu nic*.
 
 Zkusím to ještě přes Jarxese, který má na Facebooku pod palcem [Hry na hrdiny](https://www.facebook.com/RPG.HnH/). Zatím jsem mu psal soukromou zprávu z RPG fóra, ale ani po čtyřech dnech si ji nepřečetl, tak budu muset žhavit drát s jinou adresou.
