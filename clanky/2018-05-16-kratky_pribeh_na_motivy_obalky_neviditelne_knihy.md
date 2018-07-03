@@ -60,3 +60,4 @@ Napsáno na motivy obálky [Neviditelné knihy](http://neviditelnakniha.cz) a [d
 ---
 
 - *předchozí [<< 3.5. 2018 Neviditelná recenze](2018-05-03-neviditelna_recenze.md)*
+- *následující [>> 2.7. 2018 Suchá pravidla, mokrý zátylek a hledání pomoci](2018-07-02-sucha_pravidla_mokry_zatylek_a_hledani_pomoci.md)*

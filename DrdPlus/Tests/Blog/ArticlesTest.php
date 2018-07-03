@@ -59,12 +59,12 @@ class ArticlesTest extends TestCase
         $folders = \array_filter(
             $folders,
             function (string $folder) {
-                return $folder !== '..' && $folder !== '.';
+                return $folder !== '..' && $folder !== '.' && $folder !== 'WIP'; // work in progress
             }
         );
         $relativeParentDir = '';
         if ($level > 0) {
-            $relativeParentDir = \dirname($dir, $level);
+            $relativeParentDir = \basename(\dirname($dir, $level));
         }
         $files = [];
         foreach ($folders as $folder) {
@@ -236,7 +236,7 @@ class ArticlesTest extends TestCase
             $content = $this->getFileContent($article);
             self::assertGreaterThan(0, \preg_match('~^#(?<title>[^#\n\r]+)~', $content, $matches), 'Missing title for article ' . $article);
             $title = $matches['title'];
-            $expectedFilename = StringTools::toConstant($title);
+            $expectedFilename = StringTools::toConstantLikeValue($title);
             $basename = \basename($article, '.md');
             $filename = \preg_replace('~^\d+-\d+-\d+-~', '', $basename);
             self::assertSame($expectedFilename, $filename);
@@ -287,11 +287,11 @@ class ArticlesTest extends TestCase
             if ($nextArticle) { // means previously next article
                 self::assertNotEmpty(
                     $nextLink,
-                    "Missing link to new article $nextArticle from " . \basename($articlePath)
+                    "Missing link to new article $nextArticle at the end of " . \basename($articlePath)
                 );
                 self::assertSame(
-                    \basename($nextArticle),
-                    \basename($nextLink),
+                    $nextArticle,
+                    $nextLink,
                     'Invalid "next" article in ' . $articleBaseName
                 );
                 $nextDateEnglish = \DateTime::createFromFormat('d.m. Y', $nextDate)->format('Y-m-d');
@@ -385,7 +385,7 @@ class ArticlesTest extends TestCase
             }
             self::assertGreaterThan(
                 0,
-                \preg_match_all('~(?<links > https ?://[^\'"]+)~', $content, $matches),
+                \preg_match_all('~(?<links>https?://[^\'"]+)~', $content, $matches),
                 'No external anchors found'
             );
             $externalAnchors = $matches['links'];

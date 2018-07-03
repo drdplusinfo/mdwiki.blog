@@ -1,4 +1,4 @@
-# Suchá pravidla a mokrý zátylek
+# Suchá pravidla, mokrý zátylek a hledání pomoci
 
 2.7. 2018
 
