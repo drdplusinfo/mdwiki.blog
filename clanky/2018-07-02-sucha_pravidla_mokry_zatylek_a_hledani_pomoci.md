@@ -11,6 +11,7 @@ Protože jsem ho sám nečekal, tak mě překvapil a pobavil a když zvedl nála
   "Řekli mi, že bude poslouchat na slovo. Ale neřekli na které..."
   
 Tím se moje hlava naladila na *hledání vtipů* a skoro měsíc jsem plácal na Facebook vtipy v kolísavé kvalitě, nejdřív obden, ke konci června už skoro každý den.
+- to *naladění* je mocná věc; když se naladíš na problémy, uvidíš problémy, když na peníze, uvidíš cesty jak získat peníze, když na Dračí doupě plus, uvidíš spoustu světýlek na konci tunelu 
 
 Zajímavé bylo sledovat, jak vznikaly a co to se mnou dělá:
 
