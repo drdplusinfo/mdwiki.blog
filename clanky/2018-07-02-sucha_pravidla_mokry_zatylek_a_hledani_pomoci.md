@@ -2,9 +2,10 @@
 
 2.7. 2018
 
+## Pokusní skřeti na Facebooku
+
 > Soukat do sebe suchý text a nepotit se u toho za krkem dokážou vysokoškoláci, Google bot a moje skartovačka. Já ne.
 
-## Pokusní skřeti na Facebooku
 Někdy začátkem června jsem [plácnul na Facebook](https://www.facebook.com/drdplus.info/) situační vtip, který mi toho dne najednou přistál v hlavě.
 Protože jsem ho sám nečekal, tak mě překvapil a pobavil a když zvedl náladu mě, tak jsem ho zveřejnil, ať se nad neštěstím jiného pobaví i jiní (ano, takový jsme národ).
 > Ze života theurga:
