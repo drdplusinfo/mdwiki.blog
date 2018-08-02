@@ -208,26 +208,109 @@ Proto by si klidně všichni útočníci mohli hodit na útok bez nějakého po�
 
 Pořadí začne mít vliv **až** když
 
-    - akce byla úspěšná
-    - výsledek akce něco ovlivnil
-    - vliv akce se projeví ještě v tomto kole
+  - akce byla úspěšná
+  - výsledek akce něco ovlivnil
+  - vliv akce se projeví ještě v tomto kole
 
 Tu složitost s pořadím nám tedy přináší až ten poslední bod - takové vlivy, které se projeví ještě v **tomto** kole.
 
 ### Vlivy v tomto kole
+> Jak rychlý je okamžik?
 
+Pokud budeme přemýšlet o jednom kole boje jako o deseti vteřinách, u kterých si dokážeme představit, že se během nich stalo spoustu věcí, pokud budeme těch deset vteřin ještě drobit na jednotlivé dílky podle bodů Boje, tak se zavřeme do simulátoru atomových hodin, kde **všechno jde za sebou**, nic se nestane zároveň (i vzhledem k oficiálnímu pravidlu, že když máš stejný Boj, tak vítězí ten s vyšší obratností).
+Ono to zní úžasně reálně, ale pouze dokud neopustíme laboratoře Teoretik s.r.o. a nevyzkoušíme si to na vlastní kůži.
 
+  - spoustu zranění si uvědomíme až po nějaké chvíli, stejně jako když sražená srnka ještě stihne odběhnout na pole, kde teprve padne
+  - spoustu znás své přepoklady opírá o dřevárny, kde se zásah počítá okamžitě, ale když se pak porveme o holku, tak jde hlášení zásahů stranou
+  - boj je naprostý zmatek a tvrdit s určitostí, že blesk zabil bojovníka těsně před dopadem jeho meče lze pouze na základě zpětného rozboru videzáznamu, který do DrD+ zavádět nehodláme
+
+Dostáváme se k tomu, že onen dokonalý nápad `Boj = čas`, respektive že to jsou *jednotlivé, velmi přesné časové dílky desetivteřinového kola*, je krátkozraká hloupost.
+
+A teď co s tím?
+
+Od začátku víme, že Boj určuje *rychlost akce*, kdo má větší Boj, je rychlejší. Fajn. Takže kdo má vyšší Boj, provede **všechny** své akce jako první, po něm všechny ten druhý, po něm všechny ten třetí a tak dále. Pokud je mezitím ten další vyřazen, už se ke svým akcím nedostane.
+Takže jsme udrželi smysl Boje jako rychlosti reakce a z jednoho účastníka boje jsme udělali chrliče akcí, zatímco ostatní hráči se budou dloubat v nose a čekat **co na ně zbyde**, neboli jestli pro jimi předem nahlášené akce ještě zbyde ten nahlášený cíl. To smrdí nudou a zklamáním.
+
+A co když ten původní smysl Boje, tu rychlost reakcí zahodíme? Co když zůstaneme jen u toho, že Boj určuje počet akcí a hotovo?
+Hráči mohou dělat své akce **bez čekání** na ostatní a i kdyby jeden z nich během současného kola padnul, ještě pořád všechny své pečlivě naplánované akce dokončí (což samozřejmě platí i o nepřátelích).
+Pokud bychom se rozhodli, že nejmenší časový úsek, ve kterém má smysl vnímat boj, je jedno kolo, tak se nám život dost zjednoduší a vypadá to, že boj tak bude i zábavnější.
+
+  - budeme testovat boj, ve kterém se **všechny** efekty projeví až na **konci** kola, ať už je to zranění, útěk, paralýza či zastrašení nepřítele
+
+Tahle myšlenka plynule navazuje na [poznámku ShadoWWWa na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032&start=30#p539414), který zmiňuje, že *realističnost* a *uvěřitelnost* není to samé. A pak je tu samozřejmě hratelnost, nebo-li **zábava**, která hrou vznikne. A jestli něco dokáže zábavu spolehlivě zabít, tak je to čekání.
+A čekat, až na mě přijde řada a ještě k tomu se dočkat toho, že moje ukrutně promyšlená akce už nemá smysl, protože někdo hodil na kostce víc a ještě k tomu nemám možnost ji změnit, to je k vzteku.
+
+### Povinnost hlášení akcí
+> Žalovat se nemá, ale hlásit se to musí!
+
+Když chci provést akci, která ovlivňuje ostatní, **musím** ji nahlásit na začátku kola. V průběhu kola už můžu provést jen spontální, instinktivní akce, což jsou v naprosté většině jen ty, které se týkají přímo tebe.
+Předem nahlášené akce můžeš **kdykoli** vymněnit za instinktivní, ale nemůžeš už **měnit** předem zvolený poměr Boje ("velikost" akce).
+
+   - pokud jsi měl Boj sedm, pět bodů Boje ses rozhodl použít na útok a tři na svou obranu, můžeš klidně uprostřed boje oznámit, že svou akci útok rušíš, aby ses mohl bránit
+     - na útok jsi použil pět bodů Boje, takže tvá obrana, za kterou jsi útok na poslední chvíli vyměnil, má zase sílu pět bodů Boje
+         - může mít méně (i když nevím, proč bys to dělal), ale **nemůže** mít více
+
+Instinktivní akce jsou:
+  - obrana sebe samého
+  - útěk
+  - mluvení a gestikulace "do větru", bez cíle
+    - kouzlení **bez cíle** nebo na sebe sama sem také spadá, ale pamatuj, že efekty kouzel se vyhodnocují až na **konci** kola, takže si dobře rozmysli, jestli to k něčemu bude 
+
+Některé akce si osvojíš jako instinktivní později, například bojovník dokáže instinktivně zareagovat na napadeného společníka a změnit svou akci na **jeho** obranu, přestože to běžný občan bez předcozího rozhodnutí **efektivně** nesvede.
+        
+Z instinktivních akcí vyplývají dvě zajímavosti:
+
+ - **jakoukoli** akci můžeš změnit na poslední chvíli na instinktivní, například na obranu sebe sama (ale má to svá **ale**)
+   - instinktivní akce je jen taková, kterou si jako instinktivní obhájíš před ostatními
+     - instinktivní je *například* obrana tou zbraní, kterou jsi chtěl použít k útoku, ne přezbrojení na "lepší" k obraně na posleddní chvíli (bojovníci specializovaní na obranu, zloději co zrovna nemají v ruce dýku a hraničáři, kteřím hrozí zničení luku, tohle mohou změnit)
+ - aby mělo smysl měnit nějakou akci na instinktivní, budeš muset **počkat**, co dělají ostatní a reagovat až na ně
+   - tím jsme se vlastně dostali zpět k Boji jako plynutí času, ale tentokrát je to přirozené plynutí, takové, které ovládají všichni na bojišti
+   - **čekání** je vědomá akce a **musíš** ji ohlásit předem
+     - pokud **všichni** čekají, tak na sebe prostě kolo zírají a aspoň je chvíli klid
+
+### Převodník akcí
+> Co bylo, bylo
+
+V [Pravidlech pro hráče](https://pph.drdplus.info/#dalsi_bojove_akce) jsou tyto zvláštní bojové akce, které rušíme, protože je zvládneš pomocí bodů Boje a čekání na akce ostatních:
+
+  - [Bezhlavý útok](http://pph.drdplus.loc/#bezhlavy_utok): +2 k Útočnému číslu, +2 k Základu zranění, -5 k obraně
+    - podobného výsledku dosáhneš, když ze své akce Obrana odebereš dva body Boje a máš tak -2 k obraně a tyto body Boje si přidáš k akci Útok, takže získáš +2 k Útoku
+      - poměr je výhodnější, což je schválně, protože postihování hráčů za to, že chtějí urychlit boj, nám vadil a zároveň je nyní snazší se bránit, když mohu kteroukoli akci zrušit a namísto ní se bránit (pokud jsem byl trpělivý a čekal jsem) 
+      - poznámka: plánujeme zrušit oddělené Útočné číslo a Základ zranění, které chceme sloučit za jedno číslo (Útok), které odečteš od Obrany a rozdíl jsou **výsledná** zranění
+        - například Útok 7 proti Obraně 6 znamená 1 bod Zranění
+      - poznámka: plánujeme sloučit Obranné číslo a Ochranu zbroje do jeddiného čísla Obrana
+        - například Obranost 4 a pobíjená zbroj s Ochranou zbroje +3 dají Obranu 7 (už víme, že chybějící Síla bude rovnou výsleddný postih ke zbroji, žádná tabulka, ale ještě nevíme, jestli dovednost [Nošení zbroje](http://pph.drdplus.loc/#noseni_zbroje) bude snižovat postih, jakkoli to zní logicky, nebo zvyšovat bonus, podobně jako to bude u dovednosti [Boje se zbraní](http://pph.drdplus.loc/#boj_se_zbrani))
+  - [Soustředení na obranu](http://pph.drdplus.loc/#soustredeni_na_obranu): +2 k BČ a +2 k OČ, ale nemůžeš v tomto kole útočit
+    - tohle se dá řešit opět přeléváním bodů Boje a pokud tě útok nezajímá vůbec, tak prostě všechny body Boje použiješ na obranu
+      - opakujeme, že **během** boje už nelze měnit poměr použitých bodů Boje, takže nemůžeš dodatečně oznámit, že ze dvou běžných útoků, na které jsi použil například šeste a pět bodů Boje, uděláš jednu *skvělou* **instinktivní** obranu, na kterou bys použil jedenáct bodů Boje. Můžeš tyto útok proměnit pouze ve dvě obrany, jednu s použitím šesti a druhou s pěti body Boje. Tu *skvělou* obranu bys musel ohlásit předem a to ještě proti konkrétnímu nepříteli
+  - [Krytí spolubojovníka](http://pph.drdplus.loc/#kryti_spolubojovnika): ...*Bohužel ochránce nemá v tomto kole možnost provést vlastní útok.*
+    - vše zůstává stejné, **až na** poslední větu, že ty jakožto obětavý obránce ztratíš útok - musíš prostě jen použít jednu ze svých akcí a je samozřejmě na tobě, kolik bodů Boje na tuto Obranu spolubojovníka použiješ
+    - tuto akci samozřejmě musíš ohlásit předem na začátku kola, tedy pokud nejsi bojivník s naležitou schopností, která z Krytí spolubojovníka dělá instinktivní akci
+  - [Mířená střelba](http://pph.drdplus.loc/#mirena_strelba) - Za každé kolo míření s postihem −2 k BČ si přičte +1 k ÚČ. Celkově může postava mířením získat bonus +3 k ÚČ.
+    - kolik bodů Boje na střelbu použiješ, o tolik se ti Útok zvýší
+    - míření se tím redukuje nejdéle na jedno kolo, protože body Boje do dalšího kola nepřecházejí a mířit déle než deset vteřin má možná na nehybný terč, nikoli na objekt ve víru boje
+    - poznámka: tohle může být ještě kámen úrazu, protože střelec se tímto může stát velmi nebezpečným (například v kombinaci s už tak velmi nebezpčenými steřleckými schopnostmi zloděje), bude to chtít **pořádně** otestovat
+    
+Nejsme si ještě úplně jisti, že rušení výše uvedených zvláštních akcí je nejlepší nápad, minimálně kvůli dobrým názvům, které zlepší popis boje.
+
+#### Boj a pohyb
+
+V originálním přehledu akcí jich ještě pár zbylo a některé z nich mají jedno společné, **pohyb**.
+Jakmile se řekne *pohyb*, obvykle se k tomu začne přilepovat i *rychlost* pohybu. Jakmile začneme řešit rychlost pohybu v něčem tak složitém, zmatkovitém a náhodném, jako je boj, tak se dostaneme tam, kde jsme před chvílí byli s Bojem coby *přesnými časovými úseky*.
+Přestože pravidla řeší [Rychlost](http://pph.drdplus.loc/#rychlost) (jako kombinaci Síly a Obratnosti), tak 
+ 
+
+## Hrajte se skrytými akrtami
+> Život bez překvapení je jako vtip bez pointy
+
+Doporučujeme připravovat akce skrytě, ideálně na lístečcích, kam napíšeš svou akci (které se často opakují, takže za chvíli budeš mít balíček většiny akcí už připravený) a položíš je lícem dolů **před** cíl.
 
 > TODO níže je původní text, který vznikl halabala a ze kterého čerpám pro pořádnější popis výše.
 Jestli ho chceš číst, budiž, ale je poněkud zmatený a některé myšlenky v něm nejsou ještě zralé.
 
 Boj je *čas* na akci, kterou provádím, dokončím po spotřebování Boje, nikoli na začátku - pokud útočím s pomocí Boje navíc z jiné akce, třeba veškerý Boj 10 dám do jednoho útoku, tak neútočím jako první, protože mám Boj deset, ale jako poslední, protože útok dokončím, až když spotřebuji všechen vložený Boj, tedy na nule.
 
-# Nechci házet každé kolo na boj a automaticky měnit pořadí
-
 ## Magická šestka
-
-> Hrajte se skrytými kartami, pán Jeskyně nebude ukazovat Boj nepřátel a měl by hrát tak, jako kdyby ani nepřátelé neznali Boj hráčů
 
 - na začátku boje mám Boj 6 + opravy (hlavně podle zbraně a použité vlastnosti) + +1k6+-
 - ~~každé kolo se mi Boj resetuje na hodnotu v prvním kole~~
