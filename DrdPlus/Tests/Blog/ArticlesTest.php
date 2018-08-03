@@ -393,4 +393,18 @@ class ArticlesTest extends TestCase
 
         return $externalAnchors;
     }
+
+	/**
+	 * @test
+	 */
+	public function I_can_use_very_link_to_altar_without_further_redirection(): void
+	{
+		foreach ($this->getArticlesWithFullPath() as $articleFile) {
+			$content = \file_get_contents($articleFile);
+			\preg_match_all('~(?<link>(?:[[:alpha:]]+:)?//(?:www[.])?altar[.]cz)~', $content, $matches);
+			foreach ($matches['link'] as $link) {
+				self::assertSame('https://www.altar.cz', $link, 'There is a non-optimal link to Altar in article ' . \basename($articleFile));
+			}
+		}
+    }
 }
