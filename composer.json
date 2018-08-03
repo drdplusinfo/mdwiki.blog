@@ -13,6 +13,7 @@
     "php": ">=7.1"
   },
   "require-dev": {
+    "ext-mbstring": "*",
     "phpunit/phpunit": "~7.0",
     "granam/string": "^2.2"
   }
