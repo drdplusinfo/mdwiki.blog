@@ -49,7 +49,7 @@ Aha, takže nejdřív potřebujeme znát zdroj (odkud se Boj bere a jaká bude c
 Zdroj Boje
 > Kolik Boje dostanu?
 
-Když si vezmeme současný stav, tak Boj mi ovlivňují nějaké ty základní vlastnosti, hod 2k6+
+Když si vezmeme původní pravidla, tak Boj mi ovlivňují nějaké ty základní vlastnosti, hod 2k6+
 a pak spousta úprav jako dovednost se zbraní, únava a zranění, terén a tak.
 Průměrný nýmand z Horní dolní má postih -3 k Boji za to, že vidlemi bodnul nanejvýš tak kunu a pak co mu padne na kostkách, takže má rozptyl Boje mezi -1 až 9, když nepočítáme krajní případy. Jak tímhle má platit nějakou akci?
 S tak velkým rozptylem by nám měla pomoci pandemie jménem Magická šestka, která má za úkol co nejvíce mechanik převést na číslo šest, pokud to dává smysl. Hod na Boj chceme v rámci ní převést na 1k6+-
@@ -94,7 +94,7 @@ Kombinace jsou základ boje
 > Jak zařídit, aby každý mohl v boji něco dělat?
 
 Usadili jsme se v myšlence, že Boj bude 6 + další úpravy, což ve většině případů dá jednu až dvě akce.
-Jenže krom bonusů jsou tu stále i postihy. Postih za nedostatečnou sílu (kterou chceme zjednodušit na -1 ke všemu k boji za každý chybějící bod síly, namísto současné diagonální tabulky), postih za únavu a zranění a určitě by se ještě něco našlo.
+Jenže krom bonusů jsou tu stále i postihy. Postih za nedostatečnou sílu (kterou chceme zjednodušit na -1 ke všemu k boji za každý chybějící bod síly, namísto původní diagonální tabulky), postih za únavu a zranění a určitě by se ještě něco našlo.
 
 - takže když mám menší Boj než 6, nemůžu dělat nic?
 
@@ -103,7 +103,7 @@ Kolik stojí akce
 > Dělej si co chceš, když na to máš
 
 Potřebovali jsme jednoduché pravidlo, které zaškatulkuje akce do “ceníku Boje”, protože dříve nebo později se hráči dostanou k akci, kterou pravidla nepopisují a oni pak budou dumat, kolik času a energie, tedy kolik Boje by taková akce měla zabrat.
-U toho jsme vyšli ze současného rozdělení činností podle duševní náročnosti na automatické, s volným soustředěním, plným soustředěním a transem.
+U toho jsme vyšli z původního rozdělení činností podle duševní náročnosti na automatické, s volným soustředěním, plným soustředěním a transem (které zachováme).
 
 - trans zabere celé kolo, pokud není výslovně uvedeno jinak
   - ale těžko se nám vymýšlí příklad, kdy by měla činnost podobná transu trvat kratší dobu než celé kolo, leda snad nějaké chvilkové mdloby…
@@ -243,14 +243,14 @@ A čekat, až na mě přijde řada a ještě k tomu se dočkat toho, že moje uk
 ### Povinnost hlášení akcí
 > Žalovat se nemá, ale hlásit se to musí!
 
-Když chci provést akci, která ovlivňuje ostatní, **musím** ji nahlásit na začátku kola. V průběhu kola už můžu provést jen spontální, instinktivní akce, což jsou v naprosté většině jen ty, které se týkají přímo tebe.
-Předem nahlášené akce můžeš **kdykoli** vymněnit za instinktivní, ale nemůžeš už **měnit** předem zvolený poměr Boje ("velikost" akce).
+Když chci provést akci, která ovlivňuje ostatní, **musím** ji nahlásit na začátku kola. V průběhu kola už můžu provést jen spontální, *instinktivní* akce, což jsou v naprosté většině jen ty, které se týkají přímo tebe.
+Předem nahlášené akce můžeš **kdykoli** vymněnit za *instinktivní*, ale nemůžeš už **měnit** předem zvolený poměr Boje ("velikost" akce).
 
    - pokud jsi měl Boj sedm, pět bodů Boje ses rozhodl použít na útok a tři na svou obranu, můžeš klidně uprostřed boje oznámit, že svou akci útok rušíš, aby ses mohl bránit
      - na útok jsi použil pět bodů Boje, takže tvá obrana, za kterou jsi útok na poslední chvíli vyměnil, má zase sílu pět bodů Boje
          - může mít méně (i když nevím, proč bys to dělal), ale **nemůže** mít více
 
-Instinktivní akce jsou:
+#### Instinktivní akce
   - obrana sebe samého
   - útěk
   - mluvení a gestikulace "do větru", bez cíle
@@ -294,16 +294,46 @@ V [Pravidlech pro hráče](https://pph.drdplus.info/#dalsi_bojove_akce) jsou tyt
 Nejsme si ještě úplně jisti, že rušení výše uvedených zvláštních akcí je nejlepší nápad, minimálně kvůli dobrým názvům, které zlepší popis boje.
 
 #### Boj a pohyb
-
 V originálním přehledu akcí jich ještě pár zbylo a některé z nich mají jedno společné, **pohyb**.
 Jakmile se řekne *pohyb*, obvykle se k tomu začne přilepovat i *rychlost* pohybu. Jakmile začneme řešit rychlost pohybu v něčem tak složitém, zmatkovitém a náhodném, jako je boj, tak se dostaneme tam, kde jsme před chvílí byli s Bojem coby *přesnými časovými úseky*.
-Přestože pravidla řeší [Rychlost](http://pph.drdplus.loc/#rychlost) (jako kombinaci Síly a Obratnosti), tak 
- 
+Přestože pravidla řeší [Rychlost](http://pph.drdplus.loc/#rychlost) (jako kombinaci Síly a Obratnosti), tak v boji je tenhle údaj prakticky nepoužitelný, protože jde o stálou rychlost ve víceméně neměnném prostředí, což se rozhodně nedá říct o boji, kde ti kdekdo chce podrazit nohy, bodnout tě do zad, vypálit do hruďi flek jak ze zapomenuté žehličky a tak všelijak podobně. Rychlost, tak jak je [uvedená v pravidlech pro hráče](http://pph.drdplus.loc/#rychlost), se dá použít **až** když se vymaníš z boje (většina z nás tomu říká útěk, někteří třeba teleport).
 
-## Hrajte se skrytými akrtami
+Fajn, takže v boji se všichni pohybují... jak rychle vlastně? Podle okolností, podle toho, jak jim boj sedl, podle toho kolik do pohybu věnují energie, prostě podle *na pohyb použitých bodů Boje*.
+  - za každý bod Boje se můžeš posunout o jeden metr, aniž by ses vystavil nějakým útokům navíc, zhoršil si postavení či si jinak v boji přitížil
+     - ještě přemýšlíme o různých *Úprcích*, *Pronásledování za každou cenu* a podobně, kdy na nějaké "zhoršení postavení" budeš kašlat
+  - jakmile jsi v boji, tak se **nepohybuješ svou Rychlostí**, takže když rozrazíš dveře a deset metrů za nimi bude stát čaroděj, tak se oba dostáváte do boje a budete se pohybovat jeden metr za kolo za každý bod Boje, který do pohybu dáte (čaroděj asi bude couvat, ty se budeš řítit vpřed, tedy pokud máš čím ho přetáhnout po papuli)
+    - pokud se čarodějů a vůbec nepřátel s dalekým dosahem bojíš, tak je zkoušej *překvapit*
+    
+#### Překvapení
+Pokud se ti podaří někoho překvapit, máš celé kolo pro sebe. Vážně? No, [podle původních pravidel ano](http://pph.drdplus.loc/#prekvapeni), což je tak akorát, protože tím přijdeme o jednu akci (respektive se můžeme jen bránit tím, co jsme zrovna měli po ruce).
+Jenže teď, když může mít nepřítel třeba tři útoky za kolo, tak by do tebe bušil hlava nehlava a ty bys čekal, až se bude potřebovat nadýchnout.
+
+Původní pravidla to myslela dobře, překvapení sebere překvapenému jeho akci krom sebeobrany, tedy cokoli, co není spontální, *instinktivní*. To už jsme tu měli, ne? Ale chce to dopilovat.
+Jedna poctivá, pořádná akce zabere šest bodů Boje, takže pokud mi překvapení jednu takovou akci sebere, tak mám postih -6 k Boji. Zkusíme se teď zamyslet, jestli to bude stačit (tohle není školní příklad, kdy učitel chce zamyšlení od žáků a tlačí je do známého výsledku, když tyhle řádky píšu, tak to řešení opravdu neznám, prostě jen myslím nahlas).
+
+Bežná životní situace by mohla být třeba kluk, který přelezl k sousedovi na jablka a protože má dojem, že je pryč, chová se bezstrarostně. V tom se soused vynoří zpoza kůlny, protože si kluka všiml už před chvílí a číhal na něj.
+"A mám tě!" zahuláká sousedský sadař a vrhne se na mladíka, aby mu neutekl.
+  - zkušený bojovník si poklepe na čelo, proč ztrácel čas mluvením, zatímco velmi zkušený bojovník pokýve souhlasně hlavou, že bojový pokřik se sadaři povedl
+Mladík je překvapený a vyděšený, má -6 k Boji (a Pán jeskyně mu chce dát ještě postih do Morálky za leknutí, pak ale nad tím moudře mávne rukou, beztak se na Morálku v DrD+ nehraje (i když to máme v plánu u příšer) a postih by musel vyjádřit něčím jiným, třeba zas dalším postihem k Boji a to už by mohlo hocha úplně vyřadit, což by přizabilo zábavu).
+
+
+
+#### Boj a délka zbraně
+Pokud máš Boj devět a nebezpečný lušištník je od tebe devět sáhů, tak ho tohle kolo neohrozíš, protože i když všechny své body Boje dáš do pohybu, dostaneš se k němu až ke konci kola a i když mu budeš fuňet do obličeje, tak na útok už ti čas nezbyde. Ovšem pokud máš v ruce třeba [dlouhou dýku](http://pph.drdplus.loc/#tabulka_zbrani_jednorucni_zbrane) s délkou 1, tak... tak nic, protože to není délka v metrech, ale v "půlmetrech", takže ti dáme do ruky radši sekeru s délkou dva, což je jeden metr a najednou by ti stačilo doběhnout osm metrů, jeden boj Boje ti zůstane a za ten lučistníka sekerou trochu poškádlíš (s postihem -5, viz výše).
+
+Tím jsme se dostali k délce zbraně, která nyní přidává bonus k Boji. Inu, v původních pravidlech proč ne, útok máš stejně jeden za kolo, takže útočit budeš pouze tou zbraní, co jsi na začátku popadnul, ale s právě popsanými změnami? Klidně tři útoky za kolo a každý s jinou zbraní (no dobře, "klidně" úplně ne, ale útok první zbraní, přezbrojení, útok druhou zbraní, zahození zbraně a útok holou pěstí borci zvládají).
+Navíc se délka zbraně jako bonus k Boji započítává vždy, i když je přílišná délka zbraně vlastně nevýhodná (v malých prostorách, když se nepřítel příliš "lepí" a podobně).
+Proto chceme délku zbraně jako bonus k Boji **zrušit**, [délky zbraní](http://pph.drdplus.loc:88/#tabulka_zbrani_jednorucni_zbrane) upravit na sáhy (prostě původní změnšíme na polovic) a délku zbraně tak využiješ pouze při útoku, aby sis zvýšil dosah a **ušetřil** nějaké body Boje.
+
+Zdánlině nám tohle *hapruje* u útočníků, kteří se ani **nehnou**, například voják s kopím by měl mít díky jeho délce výhodu proti jezdci s měčem, což ale popravdě má - jezdec totiž musí *spálit* body Boje na pohyb, na to aby se vůbec k vojákovi dostal, kdežto ten jen čeká a útok, obranu či dost možná oboje bude mít v plné síle (nehledě na finty, které se voják při výcviku s kopím naučil a kvůli kterým jezdec na konci kola dost možná zůstane s vyraženým dechem na zemi).
+
+## Hra se skrytými akcemi
 > Život bez překvapení je jako vtip bez pointy
 
-Doporučujeme připravovat akce skrytě, ideálně na lístečcích, kam napíšeš svou akci (které se často opakují, takže za chvíli budeš mít balíček většiny akcí už připravený) a položíš je lícem dolů **před** cíl.
+Na začátku je dobré hlásit všechny akce všem, aby vám nový způsob boje přešel do krve.
+
+Až se na to ale budete cítít, můžete si ale zkusit zajímavější formu hlášení akcí, anonymní. Pokud nejste sehraní bojovníci, nebo jste si nehlásili akce předem (jako mluvení, na které jste spotřebovali body Boje), tak můžete akce napsat na lístečky a položit je lícem dolů **před cíl** (akce se často opakují, takže za chvíli budeš mít balíček většiny akcí už připravený).
+Tím budete tušit, kam kdo směřuje svou pozornost, ale budete se na vzájem překvapovat, co že to ten druhý zas vymyslel. Nehledě na Pána jeskyně, kterého by tak hra mohla více bavit, když už se nebude muset snažit tvářit, jako že o plánech družiny neví a že reaguje spontálně.
 
 > TODO níže je původní text, který vznikl halabala a ze kterého čerpám pro pořádnější popis výše.
 Jestli ho chceš číst, budiž, ale je poněkud zmatený a některé myšlenky v něm nejsou ještě zralé.
