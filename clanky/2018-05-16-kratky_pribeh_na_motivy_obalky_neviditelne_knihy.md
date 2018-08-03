@@ -1,6 +1,6 @@
 # Krátký příběh na motivy obálky Neviditelné knihy
 
-16.5. 2018
+*16. 5. 2018*
 
 ## Máš nápad? Nech ho žít!
 Tak se mi stalo, že při pročítání [RPG fóra o Neviditelné knize](https://rpgforum.cz/forum/viewtopic.php?f=310&t=12812) jsem narazil na hodnocení obalu této knížky, z čehož mi v hlavě naskočil krátký příběh a jelikož vím, že co mě napadne, tak neexistuje, dokud to nenapíšu a co napíšu, to neexistuje, dokud to nezveřejním, tak jsem to udělal.
@@ -59,5 +59,5 @@ Napsáno na motivy obálky [Neviditelné knihy](http://neviditelnakniha.cz) a [d
 
 ---
 
-- *předchozí [<< 3.5. 2018 Neviditelná recenze](2018-05-03-neviditelna_recenze.md)*
-- *následující [>> 2.7. 2018 Suchá pravidla, mokrý zátylek a hledání pomoci](2018-07-02-sucha_pravidla_mokry_zatylek_a_hledani_pomoci.md)*
+- *předchozí [<< 3. 5. 2018 Neviditelná recenze](2018-05-03-neviditelna_recenze.md)*
+- *následující [>> 2. 7. 2018 Suchá pravidla, mokrý zátylek a hledání pomoci](2018-07-02-sucha_pravidla_mokry_zatylek_a_hledani_pomoci.md)*

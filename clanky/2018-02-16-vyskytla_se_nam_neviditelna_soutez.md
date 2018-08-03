@@ -1,6 +1,6 @@
 # Vyskytla se nám Neviditelná soutěž
 
-16.2. 2018
+*16. 2. 2018*
 
 ## Setkal se pocit s plánem
 
@@ -17,7 +17,7 @@ V hlavě se mi totiž spojilo několik věcí:
 
 A tím se dostáváme k soutěži. Vypsal jsem ji tedy částečně z okamžitého pocitu a částečně z dlouhodobého rozmýšlení, jak pohnout s pravidly zas o kousek blíže k dokonalosti (jakkoli je daleko).
 
-## Soutěž (od 13.2. do 28. 2. 2018)
+## Soutěž (od 13.2. do *28. 2. 2018*)
 
 Před chvílí jsem si objednal jednu [Neviditelnou knihu](http://neviditelnakniha.cz) pro sebe, jednu pro našeho současného *Pýǧeje* a jednu... pro tebe. Tedy pokud se zapojíš do soutěže a vyhraješ, což nebude zas tak těžké, protože účast očekávám minimální, místy mizivou.
 
@@ -53,7 +53,7 @@ A jestli bude jeho výtvor dobrý, uvedu ho (pokud bude souhlasit) i jako jednoh
 PS: už jste byli na [nevidtelné výstavě](http://neviditelna.cz/)? Taky zážitek z jiného vesmíru, podobně jako vstup do fantazie.
 
 ### Stále neviditelné výsledky
-*Edit 8.3. 2018*
+*Edit *8. 3. 2018**
 Zatím ticho po pěšině co? Já ti to vysvětlím.
 
 *28. 2.* tři sekundy před půlnocí jsem zcela podle plánu spal jako špalek. Takže jsem byl na zvolení vítěze *Neviditelné soutěže* vyspinkaný do růžova.
@@ -70,7 +70,7 @@ Ovšem, jelikož jsem ke konci února neměl čas soutěž ukončit, tak se ješ
 Tak co, zkusíš to?
 
 ### Odhalené výsledky
-*Edit 12.3. 2018*
+*Edit *12. 3. 2018**
 Od začátku jsem si říkal, že vypotit čtyři pidi zápletky je na jednu cestu vlakem, kdežto v klidu nakreslit alespoň jednu podobiznu jednoho za čtyř tvorů tak, abych si lišku nepletl s platýsem, koně se stolem a tak všelijak podobně, že to dá zabrat. A podle toho jsem taky čekal příspěvky.
 
 A hle, *Markéta Maky-Orel Machová* nakopala mým představám zadek. jako jediná něco stvořila a poslala kresby, které zřejmě vytvořila na základě sádrových odlitků (jen nevím, kde splašila jednorožce).
@@ -87,5 +87,5 @@ Děkujeme!
 
 ---
 
-- *předchozí [<< 9.2. 2018 Na webu jsou všechna pravidla... a co teď?](2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)*
-- *následující [>> 10.3. 2018 Technický milník - zrychlili jsme](2018-03-10-technicky_milnik_zrychlili_jsme.md)*
+- *předchozí [<< 9. 2. 2018 Na webu jsou všechna pravidla... a co teď?](2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)*
+- *následující [>> 10. 3. 2018 Technický milník - zrychlili jsme](2018-03-10-technicky_milnik_zrychlili_jsme.md)*

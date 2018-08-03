@@ -1,6 +1,6 @@
 # Na webu jsou všechna pravidla... a co teď? 
 
-9.2. 2018
+*9. 2. 2018*
 
 Jak už jsem [psal na rpgforum](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14870), převod trval čtyři roky a jeden měsíc.
 Konkrétně jsem v neděli 26. ledna 2014 v půl jedenácté ráno commitnul (přidal do kódu) historicky první obsah v HTML a to [pravidla pro hráče](https://pph.drdplus.info) a 8. února 2018, v devět ráno jsem přidat "poslední" commit a převod tak dokončil (poslední byly [pravidla pro PJ](https://ppj.drdplus.info)). 
@@ -66,5 +66,5 @@ Pokud máš nějaké nápady v hlavě, nebo šuplíku, [sem s nimi](https://rpgf
 
 ---
 
-- *předchozí [<< 2.1. 2018 Tak už je na webu i bestiář](2018-01-02-na_web_jsem_prevedl_bestiar.md)*
-- *následující [>> 16.2. 2018  Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)*
+- *předchozí [<< 2. 1. 2018 Tak už je na webu i bestiář](2018-01-02-na_web_jsem_prevedl_bestiar.md)*
+- *následující [>> 16. 2. 2018  Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)*

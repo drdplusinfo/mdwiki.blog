@@ -116,7 +116,7 @@ class ArticlesTest extends TestCase
         $basename = \basename($filename);
         self::assertGreaterThan(
             0,
-            \preg_match('~^(?<years>\d+)-(?<months>\d+)-(?<days>\d+)-\D+~', $basename, $matches),
+            \preg_match('~^(?<years>\d{4})-(?<months>\d{2})-(?<days>\d{2})-\D+~', $basename, $matches),
             'A file name does not start by YYYY-mm-dd-\w+ format: ' . $basename
         );
         $date = \DateTime::createFromFormat('Y-m-d', "{$matches['years']}-{$matches['months']}-{$matches['days']}");
@@ -144,7 +144,7 @@ class ArticlesTest extends TestCase
 
     private function removeDateFromTitle(string $title): string
     {
-        return \preg_replace('~^\d+\.\d+\.\s+\d+\s+~', '', $title);
+        return \preg_replace('~^[*]?\d{1,2}[.]\s*\d{1,2}[.]\s*\d+[*]?\s+~', '', $title);
     }
 
     private function fetchTitleFromFile(string $filename): string
@@ -203,8 +203,8 @@ class ArticlesTest extends TestCase
     {
         self::assertGreaterThan(
             0,
-            \preg_match('~^(?<days>\d+)\.(?<months>\d+)\. (?<years>\d+) \D+~', $title, $matches),
-            'A title does not start by [d]d.mm. YYYY format: ' . $title
+            \preg_match('~^(?<days>\d{1,2})[.] (?<months>\d{1,2})[.] (?<years>\d{4}) \D+~', $title, $matches),
+            "Title '$title' does not start by [d]d. [m]m. YYYY format"
         );
         $date = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");
         self::assertInstanceOf(\DateTime::class, $date, 'Date has not been created from parts ' . \var_export($matches, true));
@@ -217,8 +217,8 @@ class ArticlesTest extends TestCase
     {
         self::assertGreaterThan(
             0,
-            \preg_match('~^#[^#\n\r]+(\n|\r)+(?<days>\d+)[.](?<months>\d+)[.] (?<years>\d+)(\n|\r)+~', $content, $matches),
-            'Missing date in article ' . \mb_substr($content, 200)
+            \preg_match('~^#[^#\n\r]+(\n|\r)+[*](?<days>\d{1,2})[.] (?<months>\d{1,2})[.] (?<years>\d{4})[*](\n|\r)+~', $content, $matches),
+            'Missing date in article ' . \mb_substr($content, 0, 200)
         );
         $contentDate = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");
         self::assertInstanceOf(\DateTime::class, $contentDate, 'Date has not been created from parts ' . \var_export($matches, true));
@@ -236,10 +236,10 @@ class ArticlesTest extends TestCase
             $content = $this->getFileContent($article);
             self::assertGreaterThan(0, \preg_match('~^#(?<title>[^#\n\r]+)~', $content, $matches), 'Missing title for article ' . $article);
             $title = $matches['title'];
-            $expectedFilename = StringTools::toConstantLikeValue($title);
-            $basename = \basename($article, '.md');
-            $filename = \preg_replace('~^\d+-\d+-\d+-~', '', $basename);
-            self::assertSame($expectedFilename, $filename);
+            $expectedFilenameWithoutDate = StringTools::toConstantLikeValue($title);
+            $fileBasename = \basename($article, '.md');
+            $filenameWithoutDate = \preg_replace('~^\d{4}-\d{2}-\d{2}-~', '', $fileBasename);
+            self::assertSame($expectedFilenameWithoutDate, $filenameWithoutDate);
         }
     }
 
@@ -271,7 +271,7 @@ class ArticlesTest extends TestCase
                     $previousLink,
                     'Invalid "previous" article in ' . $nextArticle
                 );
-                $previousDateEnglish = \DateTime::createFromFormat('d.m. Y', $previousDate)->format('Y-m-d');
+                $previousDateEnglish = \DateTime::createFromFormat('d. m. Y', $previousDate)->format('Y-m-d');
                 self::assertStringStartsWith(
                     $previousDateEnglish,
                     $previousLink,
@@ -294,7 +294,7 @@ class ArticlesTest extends TestCase
                     $nextLink,
                     'Invalid "next" article in ' . $articleBaseName
                 );
-                $nextDateEnglish = \DateTime::createFromFormat('d.m. Y', $nextDate)->format('Y-m-d');
+                $nextDateEnglish = \DateTime::createFromFormat('d. m. Y', $nextDate)->format('Y-m-d');
                 self::assertStringStartsWith(
                     $nextDateEnglish,
                     \basename($nextArticle),
@@ -309,8 +309,8 @@ class ArticlesTest extends TestCase
     {
         $content = $this->getFileContent($filename);
         $delimiterRegexp = '(?<delimiter>[\n\r]+---[\n\r]+)';
-        $previousRegexp = '- \*předchozí \[<< (?<previousDate>\d+\.\d+\.\s*\d+) (?<previousName>[^\]]+)\]\((?<previousLink>[^\)]+)\)\*';
-        $nextRegexp = '- \*následující \[>> (?<nextDate>\d+\.\d+\.\s*\d+) (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
+        $previousRegexp = '- \*předchozí \[<< (?<previousDate>\d{1,2}[.] \d{1,2}[.] \d{4}) (?<previousName>[^\]]+)\]\((?<previousLink>[^\)]+)\)\*';
+        $nextRegexp = '- \*následující \[>> (?<nextDate>\d{1,2}[.] \d{1,2}[.] \d{4}) (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
         self::assertGreaterThan(
             0,
             \preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches)
@@ -332,11 +332,11 @@ class ArticlesTest extends TestCase
         }
         $previousDate = $previousMatches['previousDate'] ?? '';
         if ($previousDate) {
-            self::assertRegExp('~^\d{1,2}\.\d{1,2}\. \d{4}$~', $previousDate);
+            self::assertRegExp('~^\d{1,2}[.] \d{1,2}[.] \d{4}$~', $previousDate);
         }
         $nextDate = $nextMatches['nextDate'] ?? '';
         if ($nextDate) {
-            self::assertRegExp('~^\d{1,2}\.\d{1,2}\. \d{4}$~', $nextDate);
+            self::assertRegExp('~^\d{1,2}[.] \d{1,2}[.] \d{4}$~', $nextDate);
         }
 
         return [

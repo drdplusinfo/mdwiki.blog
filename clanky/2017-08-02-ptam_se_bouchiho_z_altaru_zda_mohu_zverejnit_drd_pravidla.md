@@ -1,10 +1,10 @@
 # Ptám se Bouchiho z Altaru, zda mohu zveřejnit DrD+ pravidla
 
-2.8. 2017
+*2. 8. 2017*
 
 *4 minuty čtení*
 
-Ahoj či dobrý den, chtěl bych s vámi (autory DrD+, nejenom s Bouchim) navázat spolupráci na dalším vývoji [DrD+](http://drdplus.cz).
+Ahoj či dobrý den, chtěl bych s vámi (autory DrD+, nejenom s Bouchim) navázat spolupráci na dalším vývoji [DrD+](https://www.altar.cz/drdplus/).
 
 Začnu svojí historií a skončím tím, co je napsáno v předmětu tohoto emailu - *s pravidly DrD+ dostupnými jako [webová stránka](https://www.drdplus.info)*.
 
@@ -76,11 +76,11 @@ Děkuji, Jaroslav "Kostřivec" Týc
 
 PS: všechny zdrojové kódy jsou vám k dispozici a pokud se rozhodnete, že je použijete po svém, protože jejich obsah je vaším vlastnictvím, nebudu se bránit
 
-Edit: [Bouchi 10.8. 2017 odpověděl, že si dá čas na rozmyšlenou](2017-08-10-altar_rozvazne_odpovida_ze_se_nad_verejnymi_pravidly_zamysli.md)
+Edit: [Bouchi *10. 8. 2017* odpověděl, že si dá čas na rozmyšlenou](2017-08-10-altar_rozvazne_odpovida_ze_se_nad_verejnymi_pravidly_zamysli.md)
 
-Edit: 15.2.2018 jsem z různých indicií došel k závěru, že oficiální svolení od Altaru ani nedostanu, protože mi ho dát vlastně nemůže.
+Edit: *15. 2. 2018* jsem z různých indicií došel k závěru, že oficiální svolení od Altaru ani nedostanu, protože mi ho dát vlastně nemůže.
 
 ---
 
-- *předchozí [<< 16.6. 2017 Chyběl DrD+ příběh v celku, tak ho spojuji](2017-06-16-polozen_zakladni_kamen_pro_cely_pribeh_drd_na_jednom_miste.md)*
-- *následující [>> 10.8. 2017 Altar mě s veřejnými pravidly nehází přes palubu (Bouchi odpověděl, že si dá čas na rozmyšlenou)](2017-08-10-altar_rozvazne_odpovida_ze_se_nad_verejnymi_pravidly_zamysli.md)*
+- *předchozí [<< 16. 6. 2017 Chyběl DrD+ příběh v celku, tak ho spojuji](2017-06-16-polozen_zakladni_kamen_pro_cely_pribeh_drd_na_jednom_miste.md)*
+- *následující [>> 10. 8. 2017 Altar mě s veřejnými pravidly nehází přes palubu (Bouchi odpověděl, že si dá čas na rozmyšlenou)](2017-08-10-altar_rozvazne_odpovida_ze_se_nad_verejnymi_pravidly_zamysli.md)*

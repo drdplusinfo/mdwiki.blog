@@ -1,6 +1,6 @@
 # Suchá pravidla, mokrý zátylek a hledání pomoci
 
-2.7. 2018
+*2. 7. 2018*
 
 ## Pokusní skřeti na Facebooku
 
@@ -102,4 +102,4 @@ Těch základních kamenů je víc, dříve jsem jim říkal *zlatá pravidla*, 
 
 ---
 
-- *předchozí [<< 16.5. 2018 Krátký příběh na motivy obálky Neviditelné knihy](2018-05-16-kratky_pribeh_na_motivy_obalky_neviditelne_knihy.md)*
+- *předchozí [<< 16. 5. 2018 Krátký příběh na motivy obálky Neviditelné knihy](2018-05-16-kratky_pribeh_na_motivy_obalky_neviditelne_knihy.md)*

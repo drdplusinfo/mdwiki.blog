@@ -1,6 +1,6 @@
 # Položen základní kámen pro celý příběh DrD+ na jednom místě
 
-16.6. 2017
+*16. 6. 2017*
 
 Při brouzdání [RPG fóra](https://rpgforum.cz/forum/viewtopic.php?f=238&t=13307)
 (kde je pro mě materiálu ke čtení a přemýšlení na dlouhá léta) jsem narazil na přání Snílka, že by chtěl celý DrD+ příběh,
@@ -14,4 +14,4 @@ Edit 11.8 2017: [To jsem si dal...](2017-08-11-dokonceno_sjednocovani_pribehu_dr
 
 ---
 
-- *následující [>> 2.8. 2017 Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md)*
+- *následující [>> 2. 8. 2017 Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md)*

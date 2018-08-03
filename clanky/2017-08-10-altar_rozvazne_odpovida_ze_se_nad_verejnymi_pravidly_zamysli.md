@@ -1,6 +1,6 @@
 # Altar rozvážně odpovídá, že se nad veřejnými pravidly zamyslí
 
-10.8. 2017
+*10. 8. 2017*
 
 Odpověď Bouchiho na moji [sáhodlouhou vizi DrD+2](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md): 
 
@@ -10,11 +10,11 @@ určitě si to nechám projít hlavou a vzhledem k obsáhlosti tématu se ozvu k
 > Zdraví Martin "Bouchi" Kučera
 ALTAR 
 
-Edit: do 11.11. 2017 se Bouchi neozval, takže [ho pošťuchuji s okrájeným dotazem](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)
+Edit: do *11. 11. 2017* se Bouchi neozval, takže [ho pošťuchuji s okrájeným dotazem](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)
 
-Edit: 15.2.2018 jsem z různých indicií došel k závěru, že oficiální svolení od Altaru ani nedostanu, protože mi ho dát vlastně nemůže.
+Edit: *15. 2. 2018* jsem z různých indicií došel k závěru, že oficiální svolení od Altaru ani nedostanu, protože mi ho dát vlastně nemůže.
 
 ---
 
-- *předchozí [<< 2.8. 2017 Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md)*
-- *následující [>> 11.8. 2017 Dokončil jsem spojování příběhů z pravidel do jednoho](2017-08-11-dokonceno_sjednocovani_pribehu_drd.md)*
+- *předchozí [<< 2. 8. 2017 Dotaz na Altar, zda mohu zveřejnit DrD+ pravidla](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md)*
+- *následující [>> 11. 8. 2017 Dokončil jsem spojování příběhů z pravidel do jednoho](2017-08-11-dokonceno_sjednocovani_pribehu_drd.md)*

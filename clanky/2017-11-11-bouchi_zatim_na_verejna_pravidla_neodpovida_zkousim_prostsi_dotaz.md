@@ -1,6 +1,6 @@
 # Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz
 
-11.11. 2017
+*11. 11. 2017*
 
 Bouchi [slíbil odpovědět do konce srpna](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), v listopadu zatím nic, tak se ozývám zas:
 
@@ -12,5 +12,5 @@ Bouchi [slíbil odpovědět do konce srpna](2017-08-02-ptam_se_bouchiho_z_altaru
 
 ---
 
-- *předchozí [<< 12.8. 2017 Ujasnil jsem v PPH některé vzorce, ve kterých chyběla zmínka o Atletice](2017-08-12-v_pph_ujasneny_nektere_vzorce_ve_kterych_chybela_zminka_o_atletice.md)*
-- *následující [>> 20.11. 2017 Zopakoval jsem v PPH nepoužitelný význačný smysl při automatickém a zběžném hledání](2017-11-20-v_pph_zopakovano_ze_vyznacny_smysl_je_nepouzitelny_pri_automatickem_a_zbeznem_hledani.md)*
+- *předchozí [<< 12. 8. 2017 Ujasnil jsem v PPH některé vzorce, ve kterých chyběla zmínka o Atletice](2017-08-12-v_pph_ujasneny_nektere_vzorce_ve_kterych_chybela_zminka_o_atletice.md)*
+- *následující [>> 20. 11. 2017 Zopakoval jsem v PPH nepoužitelný význačný smysl při automatickém a zběžném hledání](2017-11-20-v_pph_zopakovano_ze_vyznacny_smysl_je_nepouzitelny_pri_automatickem_a_zbeznem_hledani.md)*
