@@ -1,4 +1,4 @@
-Boj
+# Boj
 V DrD+ (do verze 1.0.B) je namísto výrazu iniciativa použito heslo Boj a mě se to moc líbí, protože na iniciativě jsem si leta lámal jazyk a i když je Boj jaksi příliš chlapský, tak v DrD se stejně hlavě řeší hlavně tahle přízemní (a jak moderní dějiny ukazují, stále žádaná) chlapská zábava, takže za mě palec nahoru.
 
 A teď to horší, hodím si na Boj a… změní se pořadí akcí, toť vše. Fajn, bojovníci a několik málo dalších povolání může převahu v Boji přetavit ve speciální akci, ale je to takové krkolomné, vzácné a navíc málo používané, protože je velmi obtížné dosáhnout nějakého výsledku.
@@ -7,7 +7,7 @@ Takže všichni si házíme na Boj, aby někdo mohl něco udělat a zbytek znal 
 Docela dlouho jsme si lámali hlavy, co s tím a tady jsou naše myšlenky a hlavně závěry.
 
 
-Prvotní myšlenka
+## Prvotní myšlenka
 > Nechci házet každé kolo na boj a automaticky měnit pořadí
 
 Nejdřív jsme se zaměřili na to, že nás nebaví každé kolo házet na Boj. Prostě to otravuje a prd z toho.
@@ -20,7 +20,7 @@ Na začátek to znělo slibně, pořadí bude pořád stejné a půjde o to, jak
 K tomu nás napadali další možnosti, jako Počkám jedno kolo, nasaju Žár bitvy, čím současný souboj lépe pochopím a tím se mi zvýší Boj, což jsme chtěli coby obecnou dovednost pro každého. Proč ne.
 
 
-Druhá myšlenka
+## Druhá myšlenka
 > Chci více útoků za kolo
 
 Od začátku nás dráždilo, že DrD+ se sice opírá o logaritmické tabulky, což vypadá ohromně, když si díky tomu můžeme spočítat vliv kouzla na rychlost nafukování balónu, ale přitom můžeme za jedno kolo (deset vteřin) zaútočit jednou.
@@ -140,36 +140,37 @@ Hod na Boj každé kolo zase dostal smysl.
 
 Jelikož jsme Boj konečně identifikovali a víme, že je to vlastně **čas**, ve kterém můžu něco provádět, tak si teď můžeme hrát s časem
 
-    - něco lze určitě udělat rychleji
-        - sice nebude výsledek tak dobrý, ale někdy je rychlost důležitější
-    - něco lze určitě udělat poctivěji
-        - sice nad tím strávím více času, ale za to bude výsledek výstavnější
+ - něco lze určitě udělat rychleji
+   - sice nebude výsledek tak dobrý, ale někdy je rychlost důležitější
+ - něco lze určitě udělat poctivěji
+   - sice nad tím strávím více času, ale za to bude výsledek výstavnější
 
 Takže když mám dejme tomu Boj deset, tak bych mohl šest bodů Boje použít na útok a zbylé tři body Boje na odfláknutější obranu
-    - za každý jeden chybějící bod Boje budu mít postih -1 ke všemu, co v danou chvíli dělám
-        - v našem příkladu jsem na obranu použil namísto potřebných šesti bodů Boje pouze čtyři, tak mám postih -2 ke všemu, co v téhle akci provádím a jelikož jsem se rozhodl pro obranu, tak mám postih -2 k obraně
 
-A obráceně bych se mohl rozhodnout, že obranu nepotřebuji, takže se vrhnu po hlavě do útoku, k šesti bodům Boje potřebným prot útok přidám čtyři další a hned zatlačuji nepřítele do kouta
-    - za každý bod Boje navíc dostanu bonus k právě prováděné akci +1, takže za čtyři body Boje navíc dostanu +4 body ke všemu, co zrovna provádím a protože jsem se rozhodl pro útok, tak mám +4 k útoku
-    - ono to nezní špatně, ale zároveň jsem se tím připravil o druhou, byť zbrklejší akci
+  - za každý jeden chybějící bod Boje budu mít postih -1 ke všemu, co v danou chvíli dělám
+    - v našem příkladu jsem na obranu použil namísto potřebných šesti bodů Boje pouze čtyři, tak mám postih -2 ke všemu, co v téhle akci provádím a jelikož jsem se rozhodl pro obranu, tak mám postih -2 k obraně
+
+A obráceně bych se mohl rozhodnout, že obranu nepotřebuji, takže se vrhnu po hlavě do útoku, k šesti bodům Boje potřebným pro útok přidám čtyři další a hned zatlačuji nepřítele do kouta
+
+  - za každý bod Boje navíc dostanu bonus k právě prováděné akci +1, takže za čtyři body Boje navíc dostanu +4 body ke všemu, co zrovna provádím a protože jsem se rozhodl pro útok, tak mám +4 k útoku
+    - ono to nezní špatně, ale zároveň jsem se tím připravil o druhou (byť zbrklejší) akci
 
 ### Nekonečný počet akcí
 > Každý systém má díru
 
-
-Tím jsme se dostali k vykukům, kteří chtěli útočit s postihem -6, tedy že by nezaplatili **žádný**n Boj a mohli by tak útočit do nekonečna.
+Tím jsme se dostali k vykukům, kteří by chtěli útočit s postihem -6, tedy že by nezaplatili **žádný** Boj a mohli by tak útočit do nekonečna.
 
 První návrh na řešení takové situace byla povinnost použít na každou akci alespoň jeden bod Boje. Trvalo to asi deset minut, než z nadšení nad řešením zbyla frustrace z pokračování problému.
 Ti samí vykukové by samozřejmě použili na každou akci jen jeden bod Boje, takže když mají Boj deset, tak můžou provést deset akcí.
 
-Přišlo nám to ještě chvíli dobré, protože tím by vznikly herní situace, kdy hostinský zurřivě buší do ožraly v touze vymlátit z něj alespoň část útraty, zatímco ožrala analyzuje, zda jde o komára či jiný bodavý hmyz, ale pak začaly vyskakovat jak houby po dešti situace, kdy se tohle dá zneužít a navíc by to hodně zdržovalo ostatní hráče.
+Přišlo nám to ještě chvíli dobré, protože tím by vznikly herní situace, kdy hostinský zurřivě buší do ožraly v touze vymlátit z něj alespoň část útraty, zatímco ožrala analyzuje, zda jde o komára či jiný bodavý hmyz, ale pak začaly vyskakovat jak houby po dešti situace, kdy se tohle dá zneužít a navíc by to **hodně zdržovalo** ostatní hráče.
 
 ### Počet akcí je znám hned
 > Co sis hodil, to máš
 
-Jak už to bývá, to nejjednodušší řešení je to nejlepší. Když většina akcí stojí šest bodů Boje a ty kratší jsou spíše doplňkové (mluvení, tahání králíků z kapes), tak máš tolik akcí, kolik ti body Boje **bez úprav** na začátku dovolí. Když máš Boj sedm, tak můžeš provést jednu celou a jednu hodně odfláknutou akci. A dost. Klidně si pak hraj s body Boje, přelévej je sem a tam mezi akcemi, ale více než dvě akce už z toho nevykřešeš.
+Jak už to bývá, to nejjednodušší řešení je to nejlepší. Když většina akcí stojí **šest** bodů Boje a ty kratší jsou spíše doplňkové (mluvení, tahání králíků z kapes), tak máš tolik akcí, kolik ti body Boje dovolí. Když máš Boj sedm, tak můžeš provést dvě akce (6 + 1). A dost. Klidně si pak hraj s body Boje, přelévej je sem a tam mezi akcemi, ale více než dvě akce už z toho nevykřešeš.
 
-Situace jako "I přes bitevní vřavu budu hulákat na bandity, v jaké že jsou bezvýchodné situaci a z kapsy zatím vytáhnu bouchací kapsli", což bude chtít dvě tříbodové akce (protože to jsou dvě akce s volným soustředením), necháme na Pánu jeskyně, který jistě moudře rozhodne, že tím se vyplní jedna *běžně velká* akce za šest bodů Boje a nechá hrdinu zakončit svůj mocný projev prásknutím kapsle, aniž by za to vyžadoval další body Boje.
+  - situace typu *"I přes bitevní vřavu budu hulákat na bandity, v jaké že jsou bezvýchodné situaci a z kapsy zatím vytáhnu bouchací kapsli"*, což bude chtít dvě tříbodové akce (protože to jsou dvě akce s *volným soustředením*), necháme na Pánu jeskyně, který jistě moudře rozhodne, že tím se vyplní jedna *běžně velká* akce za šest bodů Boje a nechá hrdinu zakončit svůj mocný projev prásknutím kapsle, aniž by za to vyžadoval další body Boje, či více akcí
 
 ### Boj je časová osa
 > Až to přijde, tak to přijde
@@ -188,10 +189,10 @@ Pro základní přehled, kdo je jak rychlý, tak dobrý, i když je toho malová
 
 Boj je čas a akce můžeš dělat pomaleji nebo rychleji, když spotřebuješ více nebo méně Boje, tedy času. Čas sám tím ale ani nezpomalíš, ani nezrychlíš, ten si plyne pořád stejně.
 Takže když se první hráč rozhodl svou poslední akci obětovat a čas z ní použít na tu první, tak tu první provádí dvakrát **pomaleji** a tudíž jí i dokončí až za dvojnásobnou dobu, takže sice svou akci začne jako první, ale její výsledek, její efekt přijde až mnohem později.
-A co nás zajímá více, jestli se na mě někdo zle podíval a já vím, že mi půjde po krku, nebo že už mě konečně nachytal na holičkách a pronikl mou důmyslnou obranou, takže mám monokl jak státní úředník? Zajímá nás, kdy přijde výsledek.
-A co když stojím proti čarodějovi, který zrovna začíná kouzlit? Mám čekat, až z něj vyletí ohnivá koule a pak ho teprve citlivě vyrušit štítem do obličeje? Hmm, tady nás zajimá, kdy akce začíná.
+A co nás zajímá více, jestli se na mě někdo zle podíval a já vím, že mi půjde po krku, nebo že už mě konečně nachytal na holičkách a pronikl mou důmyslnou obranou, takže mám monokl jak státní úředník? Zajímá nás, kdy přijde **výsledek**.
+A co když stojím proti čarodějovi, který zrovna začíná kouzlit? Mám čekat, až z něj vyletí ohnivá koule a pak ho teprve citlivě vyrušit štítem do obličeje? Hmm, tady nás zajimá, kdy akce **začíná**.
 
-Výsledek útočné akce se dostaví **někdy** během celé akce, podle toho, jak se zrovna sféry vyspaly. Když na útok spotřebuju půl kola, což je asi tak pět vteřin, a protivníka **nezraním**, tak jsem ho pět vteřin oťukával, obíhal, dělal na něj urážlivé posunky a nic z toho. Pokud jsem ho ale zranil, tak někdy behěm těch pěti vteřin jsem se mu dostal na kobylku a praštil ho. Ale není v ničích silách předem určit, jestli to bylo na začátku akce, uprostřed nebo někde na konci.
+Výsledek útočné akce se dostaví **někdy** během celé akce, podle toho, jak se zrovna sféry vyspaly. Když na útok spotřebuju půl kola, což je asi tak pět vteřin, a protivníka **nezraním**, tak jsem ho pět vteřin oťukával, obíhal, dělal na něj urážlivé posunky a nic z toho. Pokud jsem ho ale zranil, tak někdy během těch pěti vteřin jsem se mu dostal na kobylku a praštil ho. Ale není v ničích silách předem určit, jestli to bylo na začátku akce, uprostřed nebo někde na konci.
 
 Zato když kouzlím a na kouzlení spotřebuji polovinu kola, tak vyvolat kouzlo opravdu trvá oněch pět vteřin a terpve na jejich konci se kouzlo konečně plně projeví a **po celou tu dobu** mi může někdo dát bolestivou stopku.
 
@@ -202,7 +203,8 @@ Aha, takže kdo je nejrychlejší, ten si "odútočí" a "odkouzlí" to svoje, z
 Útok není o postávání v koutě a "až na mě přijde řada, tak jednou uděřím", jak je to bohužel vidět v některých počítačových hrách, ale o intenzivním oťukávání nepřítele a hledáním slabého místa či chyby.
 Účastníci boje se tu řežou hlava nehlava, tu zas kolem sebe jen krouží, plivají po sobě, šklebí se, uskakují, obíhají nepozorné a pomalé, schovávají se za společníky, prchají aby zas skočili do boje z jiné strany a vůbec je to zmatek, ve kterém je nějaká časová osa spíše zbožné přání, než zákon.
 Ony totiž ty akce dost často **začínají** ve stejný čas
-    - zatímco dotírám na skřetího kuchaře, považujícího ho za šéfa celé bandy, tak v tu **samou** dobu odrážím útoky jejich stopaře. Body Boje pouze udávají, komu se povede výsledek dříve.
+
+  - zatímco dotírám na skřetího kuchaře, považujícího ho za šéfa celé bandy, tak v tu **samou** dobu odrážím útoky jejich stopaře. Body Boje pouze udávají, komu se povede výsledek dříve.
 
 Proto by si klidně všichni útočníci mohli hodit na útok bez nějakého pořadí, obránci si hodit proti nim na obranu a pokud nikdo není zasažen, vůbec by se nějaké pořadí nemuselo řešit.
 
@@ -212,7 +214,7 @@ Pořadí začne mít vliv **až** když
   - výsledek akce něco ovlivnil
   - vliv akce se projeví ještě v tomto kole
 
-Tu složitost s pořadím nám tedy přináší až ten poslední bod - takové vlivy, které se projeví ještě v **tomto** kole.
+Tu složitost s pořadím nám tedy přináší až ten poslední bod - takové vlivy, které se projeví ještě v **tomto** kole, ty ostatní se prostě vyřešní **v klidu** až na konci kola.
 
 ### Vlivy v tomto kole
 > Jak rychlý je okamžik?
@@ -221,17 +223,17 @@ Pokud budeme přemýšlet o jednom kole boje jako o deseti vteřinách, u který
 Ono to zní úžasně reálně, ale pouze dokud neopustíme laboratoře Teoretik s.r.o. a nevyzkoušíme si to na vlastní kůži.
 
   - spoustu zranění si uvědomíme až po nějaké chvíli, stejně jako když sražená srnka ještě stihne odběhnout na pole, kde teprve padne
-  - spoustu znás své přepoklady opírá o dřevárny, kde se zásah počítá okamžitě, ale když se pak porveme o holku, tak jde hlášení zásahů stranou
+  - spousta z nás své přepoklady opírá o dřevárny, kde se zásah počítá okamžitě, ale když se pak porveme o holku, tak jde hlášení zásahů stranou
   - boj je naprostý zmatek a tvrdit s určitostí, že blesk zabil bojovníka těsně před dopadem jeho meče lze pouze na základě zpětného rozboru videzáznamu, který do DrD+ zavádět nehodláme
 
 Dostáváme se k tomu, že onen dokonalý nápad `Boj = čas`, respektive že to jsou *jednotlivé, velmi přesné časové dílky desetivteřinového kola*, je krátkozraká hloupost.
 
 A teď co s tím?
 
-Od začátku víme, že Boj určuje *rychlost akce*, kdo má větší Boj, je rychlejší. Fajn. Takže kdo má vyšší Boj, provede **všechny** své akce jako první, po něm všechny ten druhý, po něm všechny ten třetí a tak dále. Pokud je mezitím ten další vyřazen, už se ke svým akcím nedostane.
-Takže jsme udrželi smysl Boje jako rychlosti reakce a z jednoho účastníka boje jsme udělali chrliče akcí, zatímco ostatní hráči se budou dloubat v nose a čekat **co na ně zbyde**, neboli jestli pro jimi předem nahlášené akce ještě zbyde ten nahlášený cíl. To smrdí nudou a zklamáním.
+Od začátku víme, že Boj určuje *rychlost akce*, kdo má větší Boj, je rychlejší. Fajn. Takže to zkusíme tak, že kdo má vyšší Boj, provede **všechny** své akce jako první, po něm všechny ten druhý, po něm všechny ten třetí a tak dále. Pokud je mezitím ten další vyřazen, už se ke svým akcím nedostane.
+Takže jsme udrželi smysl Boje jako rychlosti reakce a z jednoho účastníka boje jsme udělali chrliče akcí, zatímco ostatní hráči se budou dloubat v nose a čekat **co na ně zbyde**, nebo-li jestli pro jejich **předem** nahlášené akce ještě zbyde také nahlášený cíl. To smrdí nudou a zklamáním.
 
-A co když ten původní smysl Boje, tu rychlost reakcí zahodíme? Co když zůstaneme jen u toho, že Boj určuje počet akcí a hotovo?
+A co když ten původní smysl Boje, tu rychlost reakcí zahodíme? Co když zůstaneme jen u toho, že Boj určuje **počet** akcí a hotovo?
 Hráči mohou dělat své akce **bez čekání** na ostatní a i kdyby jeden z nich během současného kola padnul, ještě pořád všechny své pečlivě naplánované akce dokončí (což samozřejmě platí i o nepřátelích).
 Pokud bychom se rozhodli, že nejmenší časový úsek, ve kterém má smysl vnímat boj, je jedno kolo, tak se nám život dost zjednoduší a vypadá to, že boj tak bude i zábavnější.
 
@@ -240,29 +242,45 @@ Pokud bychom se rozhodli, že nejmenší časový úsek, ve kterém má smysl vn
 Tahle myšlenka plynule navazuje na [poznámku ShadoWWWa na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032&start=30#p539414), který zmiňuje, že *realističnost* a *uvěřitelnost* není to samé. A pak je tu samozřejmě hratelnost, nebo-li **zábava**, která hrou vznikne. A jestli něco dokáže zábavu spolehlivě zabít, tak je to čekání.
 A čekat, až na mě přijde řada a ještě k tomu se dočkat toho, že moje ukrutně promyšlená akce už nemá smysl, protože někdo hodil na kostce víc a ještě k tomu nemám možnost ji změnit, to je k vzteku.
 
+#### Výsledky na konci čeho
+
+No, tak jsme si vyzkoušeli boj, ve kterém se vešekeré výsledky projeví až na konci kola a je to takové... zajímavé. Když mají všichni málo akcí, tak je to dobré, ale jakmile má někdo citelně víc akcí, nwž ostatní, začínáme narážet právě na *uvěřitelnost*.
+
+On když někdo má čtyři akce za kolo, například ninja chroupající zrnka kávy a proti němu stojí čtyři gardisté-brigádníci, kteří na *kurzu sebeobrany s tou špičatou věcí* nedávali pozor, tak ninja po zásahu každého gardisty bude muset vyčkat až na konec kola, zda ho to položilo nebo ne a pokud nutně potřebuje dostat gardisty na lopatky v co nekratším čase, tak se bude muset řídit jen svým citem, každého z gardistů kopnout jednou a pak si počkat, zda to některý neustál.
+A je tu i komplikace pro hráče, kteří bojují a škrtají si životy a zapisují že jim hoří zadnice a... najednou je konec kola, čas se zastaví a každý začne teprve řešit dopad akce, o které se mluvilo klidně i před deseti minutama. Prostě nudná inventura. Sakra.
+
+Takže okamžité ~~řešení akcí **hned** jak se stanou~~ jsme zavrhli, protože bychom museli řešit **přěesné** pořadí akcí každého účastníka boje, což je zdlouhavé a nudné a teď jsme i zavrhli ~~řešení akcí až na konci kola~~, protože už to může být příliš dlouho po té, co hráč akci zažil a zmizí tak napětí i kus uvěřitelnosti.
+
+Takže co s tím? Budeme řešit výsledky akcí **na konci každé vlny akcí** (lepší slovo než *vlna* zatím nemáme).
+Ninja, který chce skolit gardisty, jednoho z nich kopne a každý gardista po ninjovi máchne halapartnou, až na jednoho, který zpanikaří a zkouší utéct. Tím skončí první vlna akcí a vyhodnotí se. Ninja si proti každému útok už házel na obranu (uhybáním), takže má zapsaná zranění (a skutečně ho dva strefili, byť jenom ratištěm) a ověří si, že žádný postih ze zranění nemá. Mezitím gardista, který chtěl utéct, zjišťuje, že sice vložil všech svých osm bodů Boje do útěku, ale ninja si vybral jako na potvoru právě jeho jako první cíl, takže se dopotácí na svých osm sáhů, kde ho konečně naplno dožene bolest a zásah do hlavy a v cílové rovince padne. Ninja má ještě tři akce a proti němu stojí tři gardisté, kteří svorně obětují druhý útok raději na obranu.
+
 ### Povinnost hlášení akcí
 > Žalovat se nemá, ale hlásit se to musí!
 
-Když chci provést akci, která ovlivňuje ostatní, **musím** ji nahlásit na začátku kola. V průběhu kola už můžu provést jen spontální, *instinktivní* akce, což jsou v naprosté většině jen ty, které se týkají přímo tebe.
-Předem nahlášené akce můžeš **kdykoli** vymněnit za *instinktivní*, ale nemůžeš už **měnit** předem zvolený poměr Boje ("velikost" akce).
+Když chci provést akci, která ovlivňuje ostatní, **musím** ji nahlásit na začátku kola. V průběhu kola už můžu provést jen spontální, *instinktivní* akce, což jsou v naprosté většině jen ty, které se týkají přímo mě.
+Předem nahlášené akce můžeš **kdykoli** vyměnit za *instinktivní*, ale nemůžeš už měnit předem zvolený **poměr** Boje ("velikost" akce).
 
-   - pokud jsi měl Boj sedm, pět bodů Boje ses rozhodl použít na útok a tři na svou obranu, můžeš klidně uprostřed boje oznámit, že svou akci útok rušíš, aby ses mohl bránit
+   - pokud jsi měl Boj sedm, pět bodů Boje ses rozhodl použít na útok a tři na svou obranu, můžeš klidně uprostřed boje oznámit, že svou akci útok rušíš, aby ses mohl **místo** něj bránit
      - na útok jsi použil pět bodů Boje, takže tvá obrana, za kterou jsi útok na poslední chvíli vyměnil, má zase sílu pět bodů Boje
-         - může mít méně (i když nevím, proč bys to dělal), ale **nemůže** mít více
+         - může mít méně (i když nevím, proč bys to dělal), ale **nemůže** mít více ani nemůžeš body Boje ze zrušeného útoku napumpovat do předem hlášené obrany, protože to je **jiná** akce
 
 #### Instinktivní akce
+Počítáme mezi ně
+
   - obrana sebe samého
   - útěk
   - mluvení a gestikulace "do větru", bez cíle
     - kouzlení **bez cíle** nebo na sebe sama sem také spadá, ale pamatuj, že efekty kouzel se vyhodnocují až na **konci** kola, takže si dobře rozmysli, jestli to k něčemu bude 
 
-Některé akce si osvojíš jako instinktivní později, například bojovník dokáže instinktivně zareagovat na napadeného společníka a změnit svou akci na **jeho** obranu, přestože to běžný občan bez předcozího rozhodnutí **efektivně** nesvede.
+Některé akce si osvojíš jako instinktivní později, například bojovník dokáže instinktivně zareagovat na napadeného společníka a změnit svou akci na **jeho** obranu, přestože to běžný občan bez předchozího rozhodnutí **efektivně** nesvede (což neznamená, že by to nemohl zkusit a že Pán jeskyně sem tam nepřivře očko a za dobrý popis situace obětavé bránění kamaráda neuzná)
         
 Z instinktivních akcí vyplývají dvě zajímavosti:
 
  - **jakoukoli** akci můžeš změnit na poslední chvíli na instinktivní, například na obranu sebe sama (ale má to svá **ale**)
    - instinktivní akce je jen taková, kterou si jako instinktivní obhájíš před ostatními
-     - instinktivní je *například* obrana tou zbraní, kterou jsi chtěl použít k útoku, ne přezbrojení na "lepší" k obraně na posleddní chvíli (bojovníci specializovaní na obranu, zloději co zrovna nemají v ruce dýku a hraničáři, kteřím hrozí zničení luku, tohle mohou změnit)
+     - instinktivní je *například* obrana tou zbraní, kterou jsi chtěl použít k útoku, ne přezbrojení na "lepší" k obraně na posleddní chvíli (bojovníci specializovaní na obranu, zloději co zrovna nemají v ruce dýku a hraničáři, kteřím hrozí zničení luku, tohle zřejmě budpu moci změnit)
+
+**TODO tohle je nějaké divné**
  - aby mělo smysl měnit nějakou akci na instinktivní, budeš muset **počkat**, co dělají ostatní a reagovat až na ně
    - tím jsme se vlastně dostali zpět k Boji jako plynutí času, ale tentokrát je to přirozené plynutí, takové, které ovládají všichni na bojišti
    - **čekání** je vědomá akce a **musíš** ji ohlásit předem
@@ -271,15 +289,15 @@ Z instinktivních akcí vyplývají dvě zajímavosti:
 ### Převodník akcí
 > Co bylo, bylo
 
-V [Pravidlech pro hráče](https://pph.drdplus.info/#dalsi_bojove_akce) jsou tyto zvláštní bojové akce, které rušíme, protože je zvládneš pomocí bodů Boje a čekání na akce ostatních:
+V [Pravidlech pro hráče](https://pph.drdplus.info/#dalsi_bojove_akce) jsou tyto zvláštní bojové akce, které asi rušíme, protože je zvládneš pomocí bodů Boje:
 
-  - [Bezhlavý útok](http://pph.drdplus.loc/#bezhlavy_utok): +2 k Útočnému číslu, +2 k Základu zranění, -5 k obraně
+  - *[Bezhlavý útok](http://pph.drdplus.loc/#bezhlavy_utok): +2 k Útočnému číslu, +2 k Základu zranění, -5 k obraně*
     - podobného výsledku dosáhneš, když ze své akce Obrana odebereš dva body Boje a máš tak -2 k obraně a tyto body Boje si přidáš k akci Útok, takže získáš +2 k Útoku
-      - poměr je výhodnější, což je schválně, protože postihování hráčů za to, že chtějí urychlit boj, nám vadil a zároveň je nyní snazší se bránit, když mohu kteroukoli akci zrušit a namísto ní se bránit (pokud jsem byl trpělivý a čekal jsem) 
+      - poměr je nově výhodnější, což je schválně, protože postihování hráčů za to, že chtějí urychlit boj, nám vadil a zároveň je nyní snazší se bránit, když mohu kteroukoli akci zrušit a namísto ní se bránit (pokud jsem byl trpělivý a čekal jsem) 
       - poznámka: plánujeme zrušit oddělené Útočné číslo a Základ zranění, které chceme sloučit za jedno číslo (Útok), které odečteš od Obrany a rozdíl jsou **výsledná** zranění
         - například Útok 7 proti Obraně 6 znamená 1 bod Zranění
-      - poznámka: plánujeme sloučit Obranné číslo a Ochranu zbroje do jeddiného čísla Obrana
-        - například Obranost 4 a pobíjená zbroj s Ochranou zbroje +3 dají Obranu 7 (už víme, že chybějící Síla bude rovnou výsleddný postih ke zbroji, žádná tabulka, ale ještě nevíme, jestli dovednost [Nošení zbroje](http://pph.drdplus.loc/#noseni_zbroje) bude snižovat postih, jakkoli to zní logicky, nebo zvyšovat bonus, podobně jako to bude u dovednosti [Boje se zbraní](http://pph.drdplus.loc/#boj_se_zbrani))
+      - poznámka: plánujeme sloučit Obranné číslo a Ochranu zbroje do jediného čísla Obrana
+        - například Obranost 4 a pobíjená zbroj s Ochranou zbroje +3 dají Obranu 7 (už víme, že chybějící Síla bude rovnou výsledný postih ke zbroji, žádná tabulka, ale ještě nevíme, jestli dovednost [Nošení zbroje](http://pph.drdplus.loc/#noseni_zbroje) bude snižovat postih, jakkoli to zní logicky, nebo zvyšovat bonus, podobně jako to bude u dovednosti [Boje se zbraní](http://pph.drdplus.loc/#boj_se_zbrani))
   - [Soustředení na obranu](http://pph.drdplus.loc/#soustredeni_na_obranu): +2 k BČ a +2 k OČ, ale nemůžeš v tomto kole útočit
     - tohle se dá řešit opět přeléváním bodů Boje a pokud tě útok nezajímá vůbec, tak prostě všechny body Boje použiješ na obranu
       - opakujeme, že **během** boje už nelze měnit poměr použitých bodů Boje, takže nemůžeš dodatečně oznámit, že ze dvou běžných útoků, na které jsi použil například šeste a pět bodů Boje, uděláš jednu *skvělou* **instinktivní** obranu, na kterou bys použil jedenáct bodů Boje. Můžeš tyto útok proměnit pouze ve dvě obrany, jednu s použitím šesti a druhou s pěti body Boje. Tu *skvělou* obranu bys musel ohlásit předem a to ještě proti konkrétnímu nepříteli
@@ -291,7 +309,7 @@ V [Pravidlech pro hráče](https://pph.drdplus.info/#dalsi_bojove_akce) jsou tyt
     - míření se tím redukuje nejdéle na jedno kolo, protože body Boje do dalšího kola nepřecházejí a mířit déle než deset vteřin má možná na nehybný terč, nikoli na objekt ve víru boje
     - poznámka: tohle může být ještě kámen úrazu, protože střelec se tímto může stát velmi nebezpečným (například v kombinaci s už tak velmi nebezpčenými steřleckými schopnostmi zloděje), bude to chtít **pořádně** otestovat
     
-Nejsme si ještě úplně jisti, že rušení výše uvedených zvláštních akcí je nejlepší nápad, minimálně kvůli dobrým názvům, které zlepší popis boje.
+Nejsme si ještě úplně jisti, že rušení výše uvedených zvláštních akcí je nejlepší nápad, minimálně bude škoda těch dobrých názvů, které zlepší popis boje.
 
 #### Boj a pohyb
 V originálním přehledu akcí jich ještě pár zbylo a některé z nich mají jedno společné, **pohyb**.
@@ -305,18 +323,25 @@ Fajn, takže v boji se všichni pohybují... jak rychle vlastně? Podle okolnost
     - pokud se čarodějů a vůbec nepřátel s dalekým dosahem bojíš, tak je zkoušej *překvapit*
     
 #### Překvapení
-Pokud se ti podaří někoho překvapit, máš celé kolo pro sebe. Vážně? No, [podle původních pravidel ano](http://pph.drdplus.loc/#prekvapeni), což je tak akorát, protože tím přijdeme o jednu akci (respektive se můžeme jen bránit tím, co jsme zrovna měli po ruce).
-Jenže teď, když může mít nepřítel třeba tři útoky za kolo, tak by do tebe bušil hlava nehlava a ty bys čekal, až se bude potřebovat nadýchnout.
+Pokud se ti podaří někoho překvapit, máš celé kolo pro sebe. Vážně? No, [podle původních pravidel ano](http://pph.drdplus.loc/#prekvapeni), což je tak akorát, protože tím překvapený přijde o jednu akci (respektive se může pouze bránit tím, co má zrovna po ruce).
+Jenže teď, když může mít útočník třeba tři útoky za kolo, tak například do tebe jak překvapeného by bušil hlava nehlava a ty bys jen čekal, až se bude potřebovat nadýchnout.
 
 Původní pravidla to myslela dobře, překvapení sebere překvapenému jeho akci krom sebeobrany, tedy cokoli, co není spontální, *instinktivní*. To už jsme tu měli, ne? Ale chce to dopilovat.
-Jedna poctivá, pořádná akce zabere šest bodů Boje, takže pokud mi překvapení jednu takovou akci sebere, tak mám postih -6 k Boji. Zkusíme se teď zamyslet, jestli to bude stačit (tohle není školní příklad, kdy učitel chce zamyšlení od žáků a tlačí je do známého výsledku, když tyhle řádky píšu, tak to řešení opravdu neznám, prostě jen myslím nahlas).
+Jedna poctivá, pořádná akce zabere šest bodů Boje, takže pokud mi překvapení jednu takovou akci sebere, tak mám postih -6 k Boji. Zkusíme se teď zamyslet, jestli to bude stačit (tohle není školní příklad, kdy učitel chce zamyšlení od žáků a tlačí je do známého výsledku - když tyhle řádky píšu, tak to řešení opravdu neznám, prostě jen myslím nahlas).
 
-Bežná životní situace by mohla být třeba kluk, který přelezl k sousedovi na jablka a protože má dojem, že je pryč, chová se bezstrarostně. V tom se soused vynoří zpoza kůlny, protože si kluka všiml už před chvílí a číhal na něj.
+Běžná životní situace by mohla být třeba: kluk, který přelezl k sousedovi na jablka a protože má dojem, že soused je pryč, chová se bezstarostně. V tom se soused vynoří zpoza kůlny, protože si kluka všiml už před chvílí a číhal tu na něj.
 "A mám tě!" zahuláká sousedský sadař a vrhne se na mladíka, aby mu neutekl.
   - zkušený bojovník si poklepe na čelo, proč ztrácel čas mluvením, zatímco velmi zkušený bojovník pokýve souhlasně hlavou, že bojový pokřik se sadaři povedl
-Mladík je překvapený a vyděšený, má -6 k Boji (a Pán jeskyně mu chce dát ještě postih do Morálky za leknutí, pak ale nad tím moudře mávne rukou, beztak se na Morálku v DrD+ nehraje (i když to máme v plánu u příšer) a postih by musel vyjádřit něčím jiným, třeba zas dalším postihem k Boji a to už by mohlo hocha úplně vyřadit, což by přizabilo zábavu).
 
+Mladík je překvapený a vyděšený, má -6 k Boji
+  - Pán jeskyně mu chce dát ještě postih za leknutí, pak ale nad tím moudře mávne rukou, protože tak alespoň může vyrušit postih sadaře za hulákání
 
+Postarší sadař má celkem na Boj (třeba) sedm, mladík (třeba) devět, ale po započtení postihu -6 má Boj jen tři.
+  - sadař si ohlásí dvě akce *Běžím ke klukovi* a *Chytím ho* a kluk si ohlásí akci *Zdrhám jak o život*. Sadař to má ke klukovi pět metrů a Boj má větší, takže má první akci, spotřebuje pět bodů Boje na pohyb a už je u kluka... tak počkat, řekli jsme si, že Boj **neurčuje** pořadí akcí a akce se vyhodnocují až na konci kola.
+  - tak znova, sadař běží ke klukovi a obětuje pět bodů Boje na běh, aby se k nemu dostal. Kluk se v tu samou chvíli dá na útěk (no, řekněme, že o malilinkatou chvilku později, přeci jen je z toho paf, ale zas o dost svižněji, přeci jen je mladý) a věnuje tomu všechnu energii co má, tedy tři body Boje. Obšem sadaři zbyla ještě jedna akce (měl sedm bodů Boje, což jsou až dvě akce celkem), ovšem jako druhou akci ohlásil chytání kluka, takže stojí na původním místě kluka jako tvrdé Y a lapá rukou do vzduchu.... hmm to je hloupé.
+  - tak ještě trochu jinak, sadař sice jako druhou akci ohlásil *Chytám kluka*, ale jelikož jí provést nemůže, tak se buďto zastaví, aby popadl dech, nebo bude pokračovat v běhu a jelikož mu na kluka spadeno už dlouho, tak se rozhodne běžet
+    - pravidlově tedy *můžeme pokračovat v předchozí akci, i když jsme ji předem neohlásili*
+Samotné chytání kluka už pak bude běžný hod na útok a na obranu. Pro úplnost dodejme, že kluk utekl, ale sadař si došel pro jeho mamku, takže z toho nakonec beztak byl sekec mazec a kluk měl zas o důvod víc opustit rodné hnízdo a jít na zkušenou.
 
 #### Boj a délka zbraně
 Pokud máš Boj devět a nebezpečný lušištník je od tebe devět sáhů, tak ho tohle kolo neohrozíš, protože i když všechny své body Boje dáš do pohybu, dostaneš se k němu až ke konci kola a i když mu budeš fuňet do obličeje, tak na útok už ti čas nezbyde. Ovšem pokud máš v ruce třeba [dlouhou dýku](http://pph.drdplus.loc/#tabulka_zbrani_jednorucni_zbrane) s délkou 1, tak... tak nic, protože to není délka v metrech, ale v "půlmetrech", takže ti dáme do ruky radši sekeru s délkou dva, což je jeden metr a najednou by ti stačilo doběhnout osm metrů, jeden boj Boje ti zůstane a za ten lučistníka sekerou trochu poškádlíš (s postihem -5, viz výše).
@@ -333,12 +358,7 @@ Zdánlině nám tohle *hapruje* u útočníků, kteří se ani **nehnou**, např
 Na začátku je dobré hlásit všechny akce všem, aby vám nový způsob boje přešel do krve.
 
 Až se na to ale budete cítít, můžete si ale zkusit zajímavější formu hlášení akcí, anonymní. Pokud nejste sehraní bojovníci, nebo jste si nehlásili akce předem (jako mluvení, na které jste spotřebovali body Boje), tak můžete akce napsat na lístečky a položit je lícem dolů **před cíl** (akce se často opakují, takže za chvíli budeš mít balíček většiny akcí už připravený).
-Tím budete tušit, kam kdo směřuje svou pozornost, ale budete se na vzájem překvapovat, co že to ten druhý zas vymyslel. Nehledě na Pána jeskyně, kterého by tak hra mohla více bavit, když už se nebude muset snažit tvářit, jako že o plánech družiny neví a že reaguje spontálně.
-
-> TODO níže je původní text, který vznikl halabala a ze kterého čerpám pro pořádnější popis výše.
-Jestli ho chceš číst, budiž, ale je poněkud zmatený a některé myšlenky v něm nejsou ještě zralé.
-
-Boj je *čas* na akci, kterou provádím, dokončím po spotřebování Boje, nikoli na začátku - pokud útočím s pomocí Boje navíc z jiné akce, třeba veškerý Boj 10 dám do jednoho útoku, tak neútočím jako první, protože mám Boj deset, ale jako poslední, protože útok dokončím, až když spotřebuji všechen vložený Boj, tedy na nule.
+Tím budete tušit, kam kdo směřuje svou pozornost, ale budete se na vzájem překvapovat, co že to ten druhý zas vymyslel. Nehledě na Pána jeskyně, kterého by tak hra mohla více bavit, když už se nebude muset snažit tvářit, jako že o plánech družiny neví a že reaguje přirozeně.
 
 ## Magická šestka
 
@@ -348,30 +368,31 @@ Boj je *čas* na akci, kterou provádím, dokončím po spotřebování Boje, ni
     > sedlák Pecivál brání svačinu před liškou, má na Boj 6 + hodil 3 a svačinu brání hráběmi, se kterými umí sice dobře, ale ne bojovat, takže Boj = 9, na obranu spotřebuje 6 bodů Boje, na víc mu už nezbude (tři body mu propadnou, pokud je nevyužije na úpravu akce), oproti tomu zkušená liška má celkový Boj 13
     - akce s plným soustředěním jsou
         - útok
-        - obrana
+        - obrana zbraní či štítem
         - přezbrojení (tomu lze snadno snížit obtížnost připraveností, zkušenostmi a zahozením první zbraně, tedy jejím neuklízením)
-        - velký pohyb (útěk, pronásledování)
         - vyjmutí předmětu z batohu (dej přednost selskému rozumu, pokud chceš vyndat kámen z volné kapsy, moc času ti to nezabere)
 - obrana puouze uhýbáním (beze zbraně a bez štítu) žádný Boj nestojí, je to součást pohybu na bojišti
     > sedláka Pecivála liška překvapí druhým útokem ve stejném kole, na obranu hráběmi už Pecivál nemá body Boje a tak musí pouze uhýbat
 - za jeden bod Boje se můžeš posunout o jeden sáh (mnohá povolání se dokáží pohybovat v boji úsporněji, ale o tom až později)
-    - pozor na to, že každá akce s plným soustředěním stojí 6 bodů Boje, takže posun o jeden sáh ti udělá ze šesti bodů Boje pouhých pět a s tím už velké divadlo nepředvedeš
     - mezi pohyb se nepočítá výpad vpřed a opětovné ustoupení na původní pozici, ani vzájemné kroužení, ale o posun mimo původní středobod, aniž bys dal protivníkovi záminku k nějaké výhodě
 - "zadarmo" se můžeš kdykoli dát do běhu (útěk, pronásledování), ale u takového pohybu máš -6 ke všem činnostem od "teď" do konce příštího kola (ztratíš kontakt s bojem)
+  - bývá proto taktické nejdříve se opatrně vzdálit Pohybem (1 bod Boje za jeden metr) a teprve až když by nepřítel musel k tobě překonat tak velkou vzdálenost, že na útok mu už moc nezbude a bude bezzubý, tak se dát na útěk
     > "sedlák Pecivál zpanikaří, protože liška na nej dotírá nepřírozeně a beze strachu a dá se proto v půlce svého kola na nepromyšlený úprk, takže po své první akci, kdy spotřeboval 6 bodů Boje a zbývají mu 3, tyto 3 body Boje zahazuje a až do konce příštího kola má ke všemu kromě pohybu postih -6, tedy hlavně k Obranně. Kdyby trochu přemýšlel, tak by nejdříve použil 3 body Boje na posun o 3 sáhy a teprve poté se dal na útěk. Dlužno dodat, že lišku tím přestal zajímat, protože od začátku chtěla pouze jeho svačinu pro svá hladová liščata."
 - ten útěk to chce ještě promyslet
     - co například, že by mu to až na příští kolo dalo bonus +6 k Boji, aby byl rychlejší v reakcích, ale nemohl by provést nic jiného, než onen útěk?
-    - na útěku je (odpoutání z boje se mu povedlo když) ho nikdo před útěkem nezranil či jinak nezastavil (podražení nohou, chycení do lasa či bičem)
+    - na útěku tvor *je* (odpoutání z boje se mu povedlo *když*) ho nikdo před útěkem nezranil či jinak nezastavil (podražení nohou, chycení do lasa či bičem)
     - pronásledování bude to samé?
-    - hned první kolo bude počítat svou plnou Rychlost, nebo se první kolo bude počítat vzdálenost podle jeho Boje (s +6 bonusem za nahlášený útěk?), takže někdo s vyšším bojem může zareagovat a pronásledovat ho a až potom bude prchat plnou Rychlostí?
+    - hned první kolo bude počítat svou plnou Rychlost, nebo se první kolo bude počítat vzdálenost podle jeho Boje (s +6 bonusem za nahlášený útěk?), takže na jeho útěk může kdokoli zareagovat a pronásledovat ho a až potom bude prchat plnou Rychlostí?
     > "Liška se nechala sedlákovým úprkem trochu překvapit, ale ukolíbaná úspěchem z ulovené svačiny se v klidu zakousla do voskovaného papíru, aby zjistila, že je prázdný a po salámu už jen voněl, v hlavě jí vyskočilo kňučení hladových liščat a s vrčením s vrhla za sedlákem. Sedlák má tedy díky nahlášenému útěku bonus +6 k Boji a díky tomu bude na konci tohoto kola daleko 9 + 6 = 15 sáhů a pokud ho liška v tomto kole nekousne či alespoň nechytne za nohavici, tak už půjde o závod jejich nohou, ale hlavně se tím sedlák začne nebezpečně přibližovat k vesnici. Liška proto začne s pronásledováním a svých 13 bodů Boje použije na pronásledování, protože neví, že sedláka toto kolo nedožene a je tudíž na konci kola kousek za ním, takže sedlák se dostante do tempa a začne závod nohou (ve kterém je liška ve výhodě, takže se situace bude zřejmě opakovat, dokud jeden z nich nedosáhne úspěchu - liška jídla a sedlák klidu)"
 
 
 #### Bič
-- v boji dobrý tak na štípance a na odzbrojování, ale dobrý je na pronásledování, kdy uprchlíkovi při úspěšném útoku omotá nohy a podrazí ho (ten si nepočítá zbroj).
+- v boji je dobrý ledva na štípance a na odzbrojování, ale hodí se při pronásledování, kdy uprchlíkovi při úspěšném útoku omotá nohy a podrazí ho (ten si nepočítá zbroj).
     
 ### Úpravy Boje
 Boj je tedy každé kolo stejný, ale pouze *pokud to tak necháš*
+
+# TODO
 
 - téměř každá akce lze uspěchat, nebo pozdržet
     - pokud budeš pospíchat, tak výsledek akce nebude z nejzářnějších, ale budeš rychlejší než ostatní
