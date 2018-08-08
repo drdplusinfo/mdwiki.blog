@@ -1,5 +1,7 @@
 # Milníky
 
+# TODO rozdělit na free for all a milníky DrD+
+
 > Pokud chceš něco dokázat, sleduj cestu, ne cíl. Protože cílů je mnoho a až jednhoho dosáhneš, najdeš další, a další, a další...
 Zastav se u cíle, odpočiň si, ohlédni se kudy jsi šel, řádně se nadechni a jdi dál svou cestou.
 
