@@ -424,6 +424,14 @@ Hnidopišský příklad:
 - pěšák skutečně poctivě čeká ve své linii a protože je úplné nemehlo, tak nechá jezdce přijet až k sobě... no, budiž mu jeho bůh milostiv
 - o kousek dál právě nastala stejná situace, tentokrát ale jezdec narazil, protože pěšák proti němu použil obecnou fintu *Střeh se zbraní*, kterou jsme ještě nevymysleli a nějak se nám to tu zamotalo...
 
+### Rozmotávání a Střeh se zbraní
+Tak nějak jsem měl u předchozích řádek pocit, že mám v hlavě zasunuté prosté řešení nájezdníka na koni a pěšáka s dlouhým kopím v ruce, ale psal jsem a psal jsem a nic, vypadla ze mě jen finta *Střeh se zbraní*.
+Nejdřív si shrnu, co že jsem si to předtím myslel:
+
+- měl jsem dojem, že že práce s body Boje tak nějak sama vyřeší **všechny** situace podobné nájezdníkovi a pěšákovi
+  - z části se tak stalo, kdy se asi stane, že bude mít jezdec čas si odkrokovat pěšáka, aby mu to *pěkně vyšlo* na další akci
+- v hlavě mám hlavně scénu ze Statečného srdce, což je samozřejmě filmová scéna, ale zase dost uvěřitelná, kdy pěšáci dlouhou dobu čekají a dělají bezbrané a teprve v posledních okamžicích zvednou ze země skrytá kopí a nadělají paseku v řadách překvapených rytířů na koních
+
 ## Hra se skrytými akcemi
 > Život bez překvapení je jako vtip bez pointy
 
