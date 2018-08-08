@@ -18,9 +18,9 @@ Docela dlouho jsme si lámali hlavy, co s tím a tady jsou naše myšlenky a hla
 Nejdřív jsme se zaměřili na to, že nás nebaví každé kolo házet na *Boj*. Prostě to otravuje a prd z toho.
 Takže jsme hod zmrazili a rozhodli se, že co každý hodí na začátku souboje, to zůstane až do jeho konce.
 
-> hodil jsi na Boj jedenáct? Fajn, budeš mít Boj jedenáct v **každém** kole až do konce souboje.
+> hodil jsi na *Boj* jedenáct? Fajn, budeš mít *Boj* jedenáct v **každém** kole až do konce souboje.
 
-- na začátku **každého** kola se tedy Boj resetuje na hodnotu z **prvního** kola
+- na začátku **každého** kola se tedy *Boj* resetuje na hodnotu z **prvního** kola
 
 Na začátek to znělo slibně, pořadí bude pořád stejné a půjde o to, jak si s tím poradí ti, kterým zrovna tenhle souboj nesedl, protože hodili na jeho začátku málo na kostkách.
 
@@ -58,7 +58,7 @@ Aha, takže nejdřív potřebujeme znát **zdroj**, tedy odkud se *Boj* bere, po
 
 Když si vezmeme původní pravidla, tak body *Boje* ovlivňují nějaké ty základní vlastnosti, k tomu hod 2k6+ a pak spousta úprav jako dovednost se zbraní, únava a zranění, terén a tak.
 
- - průměrný nýmand z Horní dolní má postih -3 k Boji za to, že vidlemi bodnul nanejvýš tak kunu a pak co mu padne na kostkách, takže má rozptyl *Boje* mezi -1 až +9, když nepočítáme krajní případy
+ - průměrný nýmand z Horní dolní má postih -3 k *Boji* za to, že vidlemi bodnul nanejvýš tak kunu a pak co mu padne na kostkách, takže má rozptyl *Boje* mezi -1 až +9, když nepočítáme krajní případy
   - jak tímhle má platit nějakou akci?
 
 S tak velkým rozptylem by nám měla pomoci pandemie jménem *Magická šestka*, která má za úkol co nejvíce mechanik převést na číslo **šest**, pokud to dává smysl a *hod na Boj* chceme v rámci ní převést na 1k6+-.
@@ -74,7 +74,7 @@ S tak velkým rozptylem by nám měla pomoci pandemie jménem *Magická šestka*
 - *Boj* -6 je nyní nejmenší možný *Boj*, se kterým ještě mohu bojovat v tomto kole (možná je to naše domácí pravidlo, v oficiální příručce jsem to teď nenašel)
 
 
-Fajn, takže průměrný nýmand z Horní dolní už nemá rozptyl Boje mezi -1 až -9, ale -2 až 3 (opět bez krajních případů).
+Fajn, takže průměrný nýmand z Horní dolní už nemá rozptyl *Boje* mezi -1 až -9, ale -2 až 3 (opět bez krajních případů).
 Hmm, to jsme si pomohli, co s tím mínusem? Když *chceme co se dá převést na šestky*, tak by se nabízelo *chtít za každou velkou akci šest bodů Boje* (za útok, obranu se zbraní, útěk a pronásledování, kouzlení), jenže tenhle vidlák by dělal stěží figuranta. Něco tu smrdí…
 
 #### Zjednodušme postihy v boji
@@ -84,9 +84,9 @@ Hmm, to jsme si pomohli, co s tím mínusem? Když *chceme co se dá převést n
 Když jsem si před lety psal poznámky k prvním nápadům na DrD+, jedna z vět zněla, že *Boj musí být svižný*, ale není.
 
 Když neumíš se zbraní, tak máš jaké postihy? Víš to z hlavy? Já teda ne. Už jsme o tom přemýšleli a vypadlo nám z toho, že na začátku jsi **nula** a proto budeš mít všechno na nule a teprve s přibývajícími dovednostmi ti budou **přibývat bonusy**.
-Za každý jeden stupeň [dovednosti Boje s typem zbraně](https://pph.drdplus.info/#boj_se_zbrani) pěkně bonus +1 ke všemu bojovému, tedy +1 k Boji, +1 k Útoku, +1 k Obraně a nazdar.
+Za každý jeden stupeň [dovednosti Boje s typem zbraně](https://pph.drdplus.info/#boj_se_zbrani) pěkně bonus +1 ke všemu bojovému, tedy +1 k *Boji*, +1 k *Útoku*, +1 k *Obraně* a nazdar.
 
-Fajn, takže náš nýmand má Boj nula, jo, to jsme se fakt hnuli…
+Fajn, takže náš nýmand má *Boj* nula, jo, to jsme se fakt hnuli…
 
 #### Každý účastník boje má aspoň jednu akci
 
@@ -104,7 +104,7 @@ Usadili jsme se v myšlence, že každé kolo bude mít bojující *Boj* 6 + dal
 
 Jenže krom bonusů jsou tu stále i postihy. Postih za nedostatečnou sílu (kterou chceme zjednodušit na -1 ke všemu k boji za každý chybějící bod síly), postih za únavu a zranění a určitě by se ještě něco našlo.
 
-- takže když mám menší Boj než 6, nemůžu dělat **nic**?
+- takže když mám menší *Boj* než 6, nemůžu dělat **nic**?
 
 #### Kolik stojí akce
 
@@ -144,7 +144,7 @@ Z poněkud neprůhledného čísla *Boj*, které přidávalo nové možnosti (fi
 A najednou je na obtíž na prvotní změna, že na *Boj* se bude házet jen jednou na začátku souboje. Najednou jiný *Boj* nemíchá jen pořadím a nepřepíná tupě mezi stavy "teď můžu beztrestně útočit" a "jestli se budu bránit zbraní, přijdu o ten jeden jediný útok, to jediné co můžu tohle kolo souboje efektivně udělat", ale dává nám možnost **více akcí za kolo**, určuje, zda můžu v boji provádět další kulišárny a tudíž různé body *Boje* na začátku kola můžou pěkně zamíchat s akcemi, které se tohle kolo budou dít.
 *Hod na Boj* každé kolo zase dostal smysl a můžeme si škrtnout, že"
 
-- ~~každé kolo se mi Boj resetuje na hodnotu v prvním kole~~
+- ~~každé kolo se mi *Boj* resetuje na hodnotu v prvním kole~~
 
 ## Další kombinace
 > Zdroj máme, základní možnosti máme, tak přidejme další možnosti, ať se nám hezky kombinuje
@@ -172,15 +172,15 @@ A obráceně bych se mohl rozhodnout, že obranu nepotřebuji, takže se vrhnu p
 Tím jsme se dostali k vykukům, kteří by chtěli útočit s postihem -6, tedy že by nezaplatili **žádný** *Boj* a mohli by tak útočit do nekonečna.
 
 První návrh na řešení takové situace byla povinnost použít na každou akci alespoň jeden bod *Boje*. Trvalo to asi deset minut, než z nadšení nad řešením zbyla frustrace z pokračování problému.
-Ti samí vykukové by samozřejmě použili na každou akci jen jeden bod Boje, takže když mají *Boj* deset, tak by mohli provést deset akcí.
+Ti samí vykukové by samozřejmě použili na každou akci jen jeden bod *Boje*, takže když mají *Boj* deset, tak by mohli provést deset akcí.
 
 Přišlo nám to ještě chvíli dobré, protože tím by vznikly herní situace, kdy hostinský zurřivě buší do ožraly v touze vymlátit z něj alespoň část útraty, zatímco ožrala analyzuje, zda jde o komára či jiný bodavý hmyz (vzhledem k velkému postihu hostinského na útok), ale pak začaly vyskakovat jak houby po dešti situace, kdy se tohle dá zneužít a navíc by to **hodně zdržovalo** ostatní hráče.
 
 ### Nekonečná velikost akce
 
-Už jsme to trochu nastínili v příklaech, ve kterých přidáváme a ubíráme **nanejvýš šest** bodů *Boje*. Plus šest je dvojnásobek, mínus šest je polovička a více s body Boje operovat nemůžeš.
+Už jsme to trochu nastínili v příklaech, ve kterých přidáváme a ubíráme **nanejvýš šest** bodů *Boje*. Plus šest je dvojnásobek, mínus šest je polovička a více s body *Boje* operovat nemůžeš.
 
-- akce, ze které zcela odčerpáš body Boje (všech šest), tak **nezmizí**, ale budeš k ní mít postih -6
+- akce, ze které zcela odčerpáš body *Boje* (všech šest), tak **nezmizí**, ale budeš k ní mít postih -6
 
 A proč zrovna šest? Protože šest bodů *Boje* stojí jedna akce. A co akce s *volným soustředěním*, které stojí tři body *Boje*? Aha, ta to bude chcít ještě ujasnit tyhle akce.
 
@@ -190,7 +190,7 @@ Akce vyžadující *plné soustředění*, jako je útok, obrana, kouzlení a po
 Otázka zní, jestli akce s *volným soustředením*, tedy taková ta "malá akce", spotřebuje skutečně jednu **akci**.
 Je to hra s čísly, takže vytáhneme příklad a čísla:
 
-- na Boj mám celkem devět bodů Boje
+- na *Boj* mám celkem devět bodů *Boje*
 - to jsou dvě "velké" akce
 - jedna "velká" akce běžně potřebuje šest bodů *Boje*, pak už ji provádím s postihem
 - jedna "malá" akce běžně potřebuje tři body *Boje*, pak už ji provádím s postihem
@@ -203,14 +203,14 @@ Akce s volným soustředěním nemusí trvat zákonitě kratší dobu než akce 
 - v čase jedné "velké" akce stihnu dvě "malé" akce
 - v čase jedné "velké" akce stihnu dvě "malé" akce
 
-To poslední je záludné a ještě to budeme testovat, ale zatím to máme vymyšleno tak, že pokud mám na začátku kola třeba devět bodů Boje, tak mám dvě nějaké akce a tyto akce buďto provedu za sebou a nebo, pokud jsou obě s *volným soustředěním*, tak je mohu provést i **zároveň**, naráz, v jedné a té samé *vlně akcí*.
+To poslední je záludné a ještě to budeme testovat, ale zatím to máme vymyšleno tak, že pokud mám na začátku kola třeba devět bodů *Boje*, tak mám dvě nějaké akce a tyto akce buďto provedu za sebou a nebo, pokud jsou obě s *volným soustředěním*, tak je mohu provést i **zároveň**, naráz, v jedné a té samé *vlně akcí*.
 
 Poznámka: v současných pravidlech se uvádí, že když provádíš dvě akce s *volným soustředěním* zároveň, tak k nim máš [postih -3](https://pph.drdplus.info/?version=master#volne_soustredeni). To s novými pravidly o bodech *Boje* odpadá, pokud na dvě akce s volným soustředěním body *Boje* máš, tak se žádný postih nekoná.
 
 ### Počet akcí je znám hned
 > Co sis hodil, to máš
 
-Jak už to bývá, to nejjednodušší řešení je to nejlepší. Když většina akcí stojí **šest** bodů Boje a ty kratší jsou spíše doplňkové (mluvení, tahání králíků z kapes), tak máš **tolik akcí, kolik ti body *Boje* dovolí**. Když máš *Boj* sedm, tak můžeš provést dvě akce (6 + 1). A dost. Klidně si pak hraj s body *Boje*, přelévej je sem a tam mezi akcemi, ale více než dvě akce už z toho nevykřešeš.
+Jak už to bývá, to nejjednodušší řešení je to nejlepší. Když většina akcí stojí **šest** bodů *Boje* a ty kratší jsou spíše doplňkové (mluvení, tahání králíků z kapes), tak máš **tolik akcí, kolik ti body *Boje* dovolí**. Když máš *Boj* sedm, tak můžeš provést dvě akce (6 + 1). A dost. Klidně si pak hraj s body *Boje*, přelévej je sem a tam mezi akcemi, ale více než dvě akce už z toho nevykřešeš.
 
   - situace typu *"I přes bitevní vřavu budu hulákat na bandity, v jaké že jsou bezvýchodné situaci a z kapsy zatím vytáhnu bouchací kapsli"*, což bude chtít dvě tříbodové akce (protože to jsou dvě akce s *volným soustředením*), necháme na Pánu jeskyně, který jistě moudře rozhodne, že tím se vyplní jedna *běžně velká* akce za šest bodů *Boje* a nechá hrdinu zakončit svůj mocný projev prásknutím kapsle, aniž by za to vyžadoval další body *Boje* či více akcí.
 
@@ -274,7 +274,7 @@ Ono to zní úžasně reálně, ale pouze dokud neopustíme laboratoře Teoretik
 
 Dostáváme se k tomu, že onen dokonalý nápad `Boj = čas`, respektive že to jsou *jednotlivé, velmi přesné časové dílky desetisekundového kola*, je krátkozraká hloupost.
 
-- ~~Boj = posloupnost času~~
+- ~~*Boj* = posloupnost času~~
 
 Tak, a teď co s tím?
 
@@ -408,12 +408,12 @@ Postarší sadař má celkem na *Boj* (třeba) sedm, mladík (třeba) devět, al
 - dlužno dodat, že sadař si došel pro hochovu mamku, takže z toho nakonec beztak byl sekec mazec a kluk měl zas o důvod víc opustit rodné hnízdo a jít na zkušenou
 
 #### Boj a délka zbraně
-Pokud máš *Boj* devět a nebezpečný lučištník je od tebe devět metrů, tak ho tohle kolo neohrozíš, protože i když všechny své body *Boje* dáš do pohybu... tak počkat, ohrozíš, prostě nacpeš osm bodů Boje do pohybu v první akci a ve druhé ti zbyde jeden bod Boje na útok... takže lučistník je od tebe deset metrů... tak počkat, to nacpeš do pohybu v první akci všech devět bodů *Boje* a zbyde ti druhá akce, sice bez bodů *Boje*, ale pořád můžeš zaútočit s postihem -6... takže lučistník je od tebe jedenáct metrů, dostaneš se k němu až ke konci kola a i když mu budeš funět do obličeje, tak na útok už ti energie nezbyde.
+Pokud máš *Boj* devět a nebezpečný lučištník je od tebe devět metrů, tak ho tohle kolo neohrozíš, protože i když všechny své body *Boje* dáš do pohybu... tak počkat, ohrozíš, prostě nacpeš osm bodů *Boje* do pohybu v první akci a ve druhé ti zbyde jeden bod *Boje* na útok... takže lučistník je od tebe deset metrů... tak počkat, to nacpeš do pohybu v první akci všech devět bodů *Boje* a zbyde ti druhá akce, sice bez bodů *Boje*, ale pořád můžeš zaútočit s postihem -6... takže lučistník je od tebe jedenáct metrů, dostaneš se k němu až ke konci kola a i když mu budeš funět do obličeje, tak na útok už ti energie nezbyde.
 Ovšem pokud máš v ruce třeba [dlouhou dýku](https://pph.drdplus.info/#tabulka_zbrani_jednorucni_zbrane) s délkou 1, tak... tak nic, protože to není délka v metrech, ale v "půlmetrech", takže ti dáme do ruky radši kopí s délkou čtyři, což jsou dva metry a najednou bys lučistníka po doběhnutí devíti metrů zase mohl poškádlit (z devíti metrů už se zbraní s dosahem dvou metrů dosáhneš na lučistníkův jedenáctý metr), byť s útokem -6, jelikož ti došly body *Boje*.
 
 Tím jsme se dostali k délce zbraně, která podle původních pravidel přidává bonus k *Boji*. Inu, v původních pravidlech proč ne, útok máš stejně jeden za kolo, takže útočit budeš pouze tou zbraní, co jsi na začátku popadnul, ale s právě popsanými změnami? Klidně tři útoky za kolo a každý s jinou zbraní (no dobře, "klidně" úplně ne, ale útok první zbraní, přezbrojení, útok druhou zbraní, zahození zbraně a útok holou pěstí borci zvládají).
 Navíc se délka zbraně jako bonus k *Boji* započítává dle původních pravidel vždy, i když je přílišná délka zbraně vlastně nevýhodná (v malých prostorách, když se nepřítel příliš "lepí" a podobně).
-Proto chceme délku zbraně jako bonus k Boji **zrušit**, [délky zbraní](https://pph.drdplus.info/#tabulka_zbrani_jednorucni_zbrane) upravit na metry (prostě původní zmenšíme na polovic) a délku zbraně tak využiješ pouze při útoku, aby sis zvýšil dosah a **ušetřil** nějaké body *Boje*.
+Proto chceme délku zbraně jako bonus k *Boji* **zrušit**, [délky zbraní](https://pph.drdplus.info/#tabulka_zbrani_jednorucni_zbrane) upravit na metry (prostě původní zmenšíme na polovic) a délku zbraně tak využiješ pouze při útoku, aby sis zvýšil dosah a **ušetřil** nějaké body *Boje*.
 
 Zdánlině nám tohle *hapruje* u útočníků, kteří se ani **nehnou**, například voják s kopím by měl mít díky jeho délce výhodu proti jezdci s měčem, což ale popravdě má - jezdec totiž musí *spálit* body *Boje* na pohyb, na to aby se vůbec k vojákovi dostal, kdežto ten jen čeká a útok, obranu či dost možná oboje bude mít v plné síle (nehledě na finty, které se voják při výcviku s kopím naučil a kvůli kterým jezdec na konci kola dost možná zůstane s vyraženým dechem na zemi).
 
@@ -432,31 +432,32 @@ Na začátku je dobré hlásit všechny akce všem, aby vám nový způsob boje 
 Až se na to ale budete cítít, můžete si ale zkusit zajímavější formu hlášení akcí, skrytě. Pokud nejste sehraní bojovníci, nebo jste si prostě nedomluvili akce předem, tak můžete akce napsat na lístečky a položit je lícem dolů **před cíl** (akce se často opakují, takže za chvíli budeš mít balíček většiny akcí už připravený).
 Tím budete tušit, kam kdo směřuje svou pozornost, ale budete se na vzájem překvapovat, co že to ten druhý zas vymyslel. Nehledě na Pána jeskyně, kterého by tak hra mohla více bavit, když už se nebude muset snažit tvářit, jako že o plánech družiny neví a že reaguje přirozeně.
 
-## Magická šestka
+## Shrnuntí
 
 - na začátku boje mám *Boj* 6 + opravy (hlavně podle zbraně a použité vlastnosti) + 1k6+-
-- ~~každé kolo se mi Boj resetuje na hodnotu v prvním kole~~
+- ~~každé kolo se mi *Boj* resetuje na hodnotu v prvním kole~~
 - každá akce, která vyžaduje *plné soustředění*, mě stojí 6 bodů *Boje*
-    > sedlák Pecivál brání svačinu před liškou, má na Boj 6 + hodil 3 a svačinu brání hráběmi, se kterými umí sice dobře, ale ne bojovat, takže Boj = 9, na obranu spotřebuje 6 bodů Boje, na víc mu už nezbude (tři body mu propadnou, pokud je nevyužije na úpravu akce), oproti tomu zkušená liška má celkový Boj 13
+    > sedlák Pecivál brání svačinu před liškou, má na *Boj* 6 + hodil 3 a svačinu brání hráběmi, se kterými umí sice dobře, ale ne bojovat, takže *Boj* = 9, na obranu spotřebuje 6 bodů *Boje*, na víc mu už nezbude (tři body mu propadnou, pokud je nevyužije na úpravu akce), oproti tomu zkušená liška má celkový *Boj* 13
     - akce s plným soustředěním jsou
         - útok
         - obrana zbraní či štítem
         - přezbrojení (tomu lze snadno snížit obtížnost připraveností, zkušenostmi a zahozením první zbraně, tedy jejím neuklízením)
         - vyjmutí předmětu z batohu (dej přednost selskému rozumu, pokud chceš vyndat kámen z volné kapsy, moc času ti to nezabere)
 - obrana pouze uhýbáním (beze zbraně a bez štítu) žádný *Boj* nestojí, je to součást pohybu na bojišti
-  - ale můžu se uhýbání hodně soustředit a použít na něj až šest bodů *Boje* z běžné akce
-    > sedláka Pecivála liška překvapí druhým útokem ve stejném kole, na obranu hráběmi už Pecivál nemá body Boje a tak musí pouze uhýbat
-- za jeden bod *Boje* se můžu posunout o jeden metr (mnohá povolání se dokáží pohybovat v boji úsporněji, ale o tom až později)
-    - mezi pohyb se nepočítá výpad vpřed a opětovné ustoupení na původní pozici, ani vzájemné kroužení, ale o posun mimo původní středobod, aniž bys dal protivníkovi záminku k nějaké výhodě
+  - ale můžu se uhýbání více soustředit a použít na něj až šest bodů *Boje* z běžné akce
+    > sedláka Pecivála liška překvapí druhým útokem ve stejném kole, na obranu hráběmi už Pecivál nemá body *Boje* a tak musí pouze uhýbat
+- za jeden bod *Boje* se můžu posunout o jeden metr
+  - přemýšlíme o schopnostech povolání, které by jim umožnily pohybovat se v boji úsporněji
+  - mezi pohyb se nepočítá výpad vpřed a opětovné ustoupení na původní pozici, ani vzájemné kroužení, ale o posun mimo původní středobod, aniž bys dal protivníkovi záminku k nějaké výhodě
 - "zadarmo" se můžu kdykoli dát do běhu plnou Rychlostí (útěk, pronásledování), ale u takového pohybu mám -6 ke všem činnostem od "teď" do konce příštího kola (ztratím kontakt s bojem) a během současné *vlny akcí* se vystavuju nebezpečí, že mě někdo zraní, podrazí nohy a podobně
   - bývá proto taktické nejdříve se opatrně vzdálit Pohybem (1 bod *Boje* za jeden metr) a teprve až když by nepřítel musel k tobě překonat tak velkou vzdálenost, že na útok mu už moc nezbude a bude bezzubý, tak se dát na útěk
-    > "sedlák Pecivál zpanikaří, protože liška na nej dotírá nepřírozeně a beze strachu a dá se proto v půlce svého kola na nepromyšlený úprk, takže po své první akci, kdy spotřeboval 6 bodů Boje a zbývají mu 3, tyto 3 body Boje zahazuje a až do konce příštího kola má ke všemu kromě pohybu postih -6, tedy hlavně k Obranně. Kdyby trochu přemýšlel, tak by nejdříve použil 3 body Boje na posun o 3 sáhy a teprve poté se dal na útěk. Dlužno dodat, že lišku tím přestal zajímat, protože od začátku chtěla pouze jeho svačinu pro svá hladová liščata."
-- ten útěk to chce ještě promyslet
+    > "sedlák Pecivál zpanikaří, protože liška na nej dotírá nepřírozeně a beze strachu a dá se proto v půlce svého kola na nepromyšlený úprk, takže po své první akci, kdy spotřeboval 6 bodů *Boje* a zbývají mu 3, tyto 3 body *Boje* zahazuje a až do konce příštího kola má ke všemu kromě pohybu postih -6, tedy hlavně k Obranně. Kdyby trochu přemýšlel, tak by nejdříve použil 3 body *Boje* na posun o 3 sáhy a teprve poté se dal na útěk. Dlužno dodat, že lišku tím přestal zajímat, protože od začátku chtěla pouze jeho svačinu pro svá hladová liščata."
+  - ten útěk to chce ještě promyslet
     - co například, že by mu to až na příští kolo dalo bonus +6 k *Boji*, aby byl rychlejší v reakcích, ale nemohl by provést nic jiného, než onen útěk?
     - na útěku tvor *je* (odpoutání z boje se mu povedlo *když*) ho nikdo před útěkem nezranil či jinak nezastavil (podražení nohou, chycení do lasa či bičem)
     - pronásledování bude to samé?
     - hned první kolo bude počítat svou plnou Rychlost, nebo se první kolo bude počítat vzdálenost podle jeho *Boje* (s +6 bonusem za nahlášený útěk?), takže na jeho útěk může kdokoli zareagovat a pronásledovat ho a až potom bude prchat plnou Rychlostí?
-    > "Liška se nechala sedlákovým úprkem trochu překvapit, ale ukolíbaná úspěchem z ulovené svačiny se v klidu zakousla do voskovaného papíru, aby zjistila, že je prázdný a po salámu už jen voněl, v hlavě jí vyskočilo kňučení hladových liščat a s vrčením s vrhla za sedlákem. Sedlák má tedy díky nahlášenému útěku bonus +6 k Boji a díky tomu bude na konci tohoto kola daleko 9 + 6 = 15 metrů a pokud ho liška v tomto kole nekousne či alespoň nechytne za nohavici, tak už půjde o závod jejich nohou, ale hlavně se tím sedlák začne nebezpečně přibližovat k vesnici. Liška proto začne s pronásledováním a svých 13 bodů Boje použije na pronásledování, protože neví, že sedláka toto kolo nedožene a je tudíž na konci kola kousek za ním, takže sedlák se dostante do tempa a začne závod nohou (ve kterém je liška ve výhodě, takže se situace bude zřejmě opakovat, dokud jeden z nich nedosáhne úspěchu - liška jídla a sedlák klidu)"
+    > "Liška se nechala sedlákovým úprkem trochu překvapit, ale ukolíbaná úspěchem z ulovené svačiny se v klidu zakousla do voskovaného papíru, aby zjistila, že je prázdný a po salámu už jen voněl, v hlavě jí vyskočilo kňučení hladových liščat a s vrčením s vrhla za sedlákem. Sedlák má tedy díky nahlášenému útěku bonus +6 k *Boji* a díky tomu bude na konci tohoto kola daleko 9 + 6 = 15 metrů a pokud ho liška v tomto kole nekousne či alespoň nechytne za nohavici, tak už půjde o závod jejich nohou, ale hlavně se tím sedlák začne nebezpečně přibližovat k vesnici. Liška proto začne s pronásledováním a svých 13 bodů *Boje* použije na pronásledování, protože neví, že sedláka toto kolo nedožene a je tudíž na konci kola kousek za ním, takže sedlák se dostante do tempa a začne závod nohou (ve kterém je liška ve výhodě, takže se situace bude zřejmě opakovat, dokud jeden z nich nedosáhne úspěchu - liška jídla a sedlák klidu)"
 
 
 #### Bič
