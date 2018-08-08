@@ -31,7 +31,7 @@ K tomu nás napadali další možnosti, jako *Počkám jedno kolo*, abych nasál
 > Chci více útoků za kolo
 
 Od začátku nás dráždilo, že DrD+ se sice opírá o logaritmické tabulky, což vypadá ohromně, když si díky tomu můžeme spočítat vliv kouzla na rychlost nafukování balónu, ale přitom můžeme za jedno kolo (deset sekund) zaútočit jednou.
-Ve všech našich chlapsky romantických představách proklaje udatný ochránce slabších tři nenapravitelné záporáky během chviličky, kdežto při hře si hodíme každé kolo jednou na *Boj*, když máme štěstí tak jednou na útok (protože když na nás záporák [zaútočí první a my se mu radši bráníme zbraní, tak ten útok ztratíme](http://pph.drdplus.loc:88/#volba_obrany_proti_utoku_zblizka)) a pak jednou na obranu. Toť vše, nic moc.
+Ve všech našich chlapsky romantických představách proklaje udatný ochránce slabších tři nenapravitelné záporáky během chviličky, kdežto při hře si hodíme každé kolo jednou na *Boj*, když máme štěstí tak jednou na útok (protože když na nás záporák [zaútočí první a my se mu radši bráníme zbraní, tak ten útok ztratíme](https://pph.drdplus.info/#volba_obrany_proti_utoku_zblizka)) a pak jednou na obranu. Toť vše, nic moc.
 
 A tak jsme začali špekulovat, jak tohle naroubovat na *Boj*. A pak nás místo šlaku trefil blesk z čistého nebe a pravil, “žádné roubování, *Boj* je rychlost akce, čím víc *Boje*, tím víc akcí”.
 A tak začal závod v nápadech a otázkách.
@@ -69,8 +69,8 @@ S tak velkým rozptylem by nám měla pomoci pandemie jménem *Magická šestka*
 **Šestka** má už teď v DrD+ velkou roli:
 
 - šestistěnná kostka (skláním se před vlivem *Člověče, nezlob se*, které nám tenhle standard zavedlo v domácnostech)
-- [bonus o šest vyšší znamená dvojnásobek a o šest menší polovičku](http://pph.drdplus.loc:88/#scitani_a_odcitani)
-- zatraceně [mizerný úlovek](http://pph.drdplus.loc:88/#tabulka_ulovku) dává postih k odpočinku -6 (ne, to ještě není schválená změna),
+- [bonus o šest vyšší znamená dvojnásobek a o šest menší polovičku](https://pph.drdplus.info/#scitani_a_odcitani)
+- zatraceně [mizerný úlovek](https://pph.drdplus.info/#tabulka_ulovku) dává postih k odpočinku -6 (ne, to ještě není schválená změna),
 - *Boj* -6 je nyní nejmenší možný *Boj*, se kterým ještě mohu bojovat v tomto kole (možná je to naše domácí pravidlo, v oficiální příručce jsem to teď nenašel)
 
 
@@ -84,7 +84,7 @@ Hmm, to jsme si pomohli, co s tím mínusem? Když *chceme co se dá převést n
 Když jsem si před lety psal poznámky k prvním nápadům na DrD+, jedna z vět zněla, že *Boj musí být svižný*, ale není.
 
 Když neumíš se zbraní, tak máš jaké postihy? Víš to z hlavy? Já teda ne. Už jsme o tom přemýšleli a vypadlo nám z toho, že na začátku jsi **nula** a proto budeš mít všechno na nule a teprve s přibývajícími dovednostmi ti budou **přibývat bonusy**.
-Za každý jeden stupeň [dovednosti Boje s typem zbraně](http://pph.drdplus.loc:88/#boj_se_zbrani) pěkně bonus +1 ke všemu bojovému, tedy +1 k Boji, +1 k Útoku, +1 k Obraně a nazdar.
+Za každý jeden stupeň [dovednosti Boje s typem zbraně](https://pph.drdplus.info/#boj_se_zbrani) pěkně bonus +1 ke všemu bojovému, tedy +1 k Boji, +1 k Útoku, +1 k Obraně a nazdar.
 
 Fajn, takže náš nýmand má Boj nula, jo, to jsme se fakt hnuli…
 
@@ -111,22 +111,22 @@ Jenže krom bonusů jsou tu stále i postihy. Postih za nedostatečnou sílu (kt
 > Dělej si co chceš, když na to máš
 
 Potřebovali jsme jednoduché pravidlo, které zaškatulkuje akce do “ceníku" boje, protože dříve nebo později se hráči dostanou k akci, kterou pravidla **nepopisují** a oni pak budou dumat, kolik času a energie, tedy kolik bodů *Boje* by taková akce měla zabrat.
-U toho jsme vyšli z původního [rozdělení činností](http://pph.drdplus.loc:88/#cinnosti_a_koncentrace) podle duševní náročnosti na automatické, s volným soustředěním, plným soustředěním a transem (a tohle rozdělení zachováme).
+U toho jsme vyšli z původního [rozdělení činností](https://pph.drdplus.info/#cinnosti_a_koncentrace) podle duševní náročnosti na automatické, s volným soustředěním, plným soustředěním a transem (a tohle rozdělení zachováme).
 
-- [trans](http://pph.drdplus.loc:88/#trans) zabere celé kolo, pokud není výslovně uvedeno jinak
+- [trans](https://pph.drdplus.info/#trans) zabere celé kolo, pokud není výslovně uvedeno jinak
   - ale těžko se nám vymýšlí příklad, kdy by měla činnost podobná transu trvat kratší dobu než celé kolo, leda snad nějaké chvilkové mdloby…
-- činnost [s plným soustředěním](http://pph.drdplus.loc:88/#plne_soustredeni) zabere 6 bodů *Boje*
+- činnost [s plným soustředěním](https://pph.drdplus.info/#plne_soustredeni) zabere 6 bodů *Boje*
   - útok
   - obrana se zbraní či štítem
   - útěk
   - pronásledování
   - poctivé přezbrojení (s uklizením původní zbraně na snadno dostupné místo a připravení nové)
   - vytažení předmětu zahrabaného v batohu
-- činnost [s volným soustředěním](http://pph.drdplus.loc:88/#volne_soustredeni) zabere 3 body *Boje*
+- činnost [s volným soustředěním](https://pph.drdplus.info/#volne_soustredeni) zabere 3 body *Boje*
   - mluvení
   - rychlé přezbrojení (zahození původní zbraně a připravení nové)
   - vytažení předmětu z kapsy
-- [automatická činnost](http://pph.drdplus.loc:88/#automaticka_cinnost) nezabere nic
+- [automatická činnost](https://pph.drdplus.info/#automaticka_cinnost) nezabere nic
   - obrana uhýbáním
   - výkřik strachu
   - přivření očí při záblesku
@@ -205,7 +205,7 @@ Akce s volným soustředěním nemusí trvat zákonitě kratší dobu než akce 
 
 To poslední je záludné a ještě to budeme testovat, ale zatím to máme vymyšleno tak, že pokud mám na začátku kola třeba devět bodů Boje, tak mám dvě nějaké akce a tyto akce buďto provedu za sebou a nebo, pokud jsou obě s *volným soustředěním*, tak je mohu provést i **zároveň**, naráz, v jedné a té samé *vlně akcí*.
 
-Poznámka: v současných pravidlech se uvádí, že když provádíš dvě akce s *volným soustředěním* zároveň, tak k nim máš [postih -3](http://pph.drdplus.loc:88/?version=master#volne_soustredeni). To s novými pravidly o bodech *Boje* odpadá, pokud na dvě akce s volným soustředěním body *Boje* máš, tak se žádný postih nekoná.
+Poznámka: v současných pravidlech se uvádí, že když provádíš dvě akce s *volným soustředěním* zároveň, tak k nim máš [postih -3](https://pph.drdplus.info/?version=master#volne_soustredeni). To s novými pravidly o bodech *Boje* odpadá, pokud na dvě akce s volným soustředěním body *Boje* máš, tak se žádný postih nekoná.
 
 ### Počet akcí je znám hned
 > Co sis hodil, to máš
@@ -399,7 +399,7 @@ Pokud máš Boj devět a nebezpečný lušištník je od tebe devět sáhů, tak
 
 Tím jsme se dostali k délce zbraně, která nyní přidává bonus k Boji. Inu, v původních pravidlech proč ne, útok máš stejně jeden za kolo, takže útočit budeš pouze tou zbraní, co jsi na začátku popadnul, ale s právě popsanými změnami? Klidně tři útoky za kolo a každý s jinou zbraní (no dobře, "klidně" úplně ne, ale útok první zbraní, přezbrojení, útok druhou zbraní, zahození zbraně a útok holou pěstí borci zvládají).
 Navíc se délka zbraně jako bonus k Boji započítává vždy, i když je přílišná délka zbraně vlastně nevýhodná (v malých prostorách, když se nepřítel příliš "lepí" a podobně).
-Proto chceme délku zbraně jako bonus k Boji **zrušit**, [délky zbraní](http://pph.drdplus.loc:88/#tabulka_zbrani_jednorucni_zbrane) upravit na sáhy (prostě původní změnšíme na polovic) a délku zbraně tak využiješ pouze při útoku, aby sis zvýšil dosah a **ušetřil** nějaké body Boje.
+Proto chceme délku zbraně jako bonus k Boji **zrušit**, [délky zbraní](https://pph.drdplus.info/#tabulka_zbrani_jednorucni_zbrane) upravit na sáhy (prostě původní změnšíme na polovic) a délku zbraně tak využiješ pouze při útoku, aby sis zvýšil dosah a **ušetřil** nějaké body Boje.
 
 Zdánlině nám tohle *hapruje* u útočníků, kteří se ani **nehnou**, například voják s kopím by měl mít díky jeho délce výhodu proti jezdci s měčem, což ale popravdě má - jezdec totiž musí *spálit* body Boje na pohyb, na to aby se vůbec k vojákovi dostal, kdežto ten jen čeká a útok, obranu či dost možná oboje bude mít v plné síle (nehledě na finty, které se voják při výcviku s kopím naučil a kvůli kterým jezdec na konci kola dost možná zůstane s vyraženým dechem na zemi).
 
