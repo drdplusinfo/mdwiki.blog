@@ -133,6 +133,7 @@ U toho jsme vyšli z původního [rozdělení činností](http://pph.drdplus.loc
 
 Všimni si, že obranu uhnutím, tedy bez použití zbraně či štítu, můžeš provést v našem návrhu kdykoli, dokonce i když už ti žádné body *Boje* nezbyly. Počítáme ji totiž do běžného pohybu na bojišti a dáváme tak možnost bránit se komukoli kdykoli.
   
+  - přestože obrana uhýbáním nestojí v základu žádné body *Boje*, tak se na ní stále můžeš více soustředit a použít pro ni nějaké ty body *Boje*, abys získal bonus k *Obraně*
   - tím samozřejmě vyskakují čertíci typu “zloděj všechen *Boj* nacpe do útoku a obranu vyřeší uhýbáním”, ale to jsou provozní problémy, které nás nezastraší a které budeme řešit později
 
 ### Boj už není jen o rychlosti první akce
@@ -163,7 +164,7 @@ Takže když mám dejme tomu deset bodů *Boje*, tak bych mohl šest bodů *Boje
 A obráceně bych se mohl rozhodnout, že obranu nepotřebuji, takže se vrhnu po hlavě do útoku, k šesti bodům *Boje* potřebným pro útok přidám čtyři další a hned zatlačuji nepřítele do kouta.
 
   - za každý bod *Boje* navíc dostanu bonus k právě prováděné akci +1, takže za čtyři body *Boje* navíc dostanu +4 body ke **všemu**, co zrovna provádím, včetně například útoku
-    - ono to nezní špatně, ale protože jsem na útok spotřeboval všechny body *Boje*, tak jsem se tím zároveň připravil o druhou (byť zbrklejší) akci
+    - ono to nezní špatně, ale protože jsem na útok spotřeboval všechny body *Boje*, tak druhá akce, byť i tak zbrklejší, se mi smrskla na něco s postihem -6
 
 ### Nekonečný počet akcí
 > Každý systém má díru
@@ -174,6 +175,37 @@ První návrh na řešení takové situace byla povinnost použít na každou ak
 Ti samí vykukové by samozřejmě použili na každou akci jen jeden bod Boje, takže když mají *Boj* deset, tak by mohli provést deset akcí.
 
 Přišlo nám to ještě chvíli dobré, protože tím by vznikly herní situace, kdy hostinský zurřivě buší do ožraly v touze vymlátit z něj alespoň část útraty, zatímco ožrala analyzuje, zda jde o komára či jiný bodavý hmyz (vzhledem k velkému postihu hostinského na útok), ale pak začaly vyskakovat jak houby po dešti situace, kdy se tohle dá zneužít a navíc by to **hodně zdržovalo** ostatní hráče.
+
+### Nekonečná velikost akce
+
+Už jsme to trochu nastínili v příklaech, ve kterých přidáváme a ubíráme **nanejvýš šest** bodů *Boje*. Plus šest je dvojnásobek, mínus šest je polovička a více s body Boje operovat nemůžeš.
+
+- akce, ze které zcela odčerpáš body Boje (všech šest), tak **nezmizí**, ale budeš k ní mít postih -6
+
+A proč zrovna šest? Protože šest bodů *Boje* stojí jedna akce. A co akce s *volným soustředěním*, které stojí tři body *Boje*? Aha, ta to bude chcít ještě ujasnit tyhle akce.
+
+#### Od přírody malé akce
+Akce vyžadující *plné soustředění*, jako je útok, obrana, kouzlení a podobně, potřebují pro kvalitní výsledek šest bodů *Boje*. Akce s *volným soustředěním*, jako je běžná mluva, přezbrojování a vůbec vyndavání známých předmětů z dostupných míst (nikoli dna batohu), vyžadují pro kvalitní provedení tři body *Boje*.
+
+Otázka zní, jestli akce s *volným soustředením*, tedy taková ta "malá akce", spotřebuje skutečně jednu **akci**.
+Je to hra s čísly, takže vytáhneme příklad a čísla:
+
+- na Boj mám celkem devět bodů Boje
+- to jsou dvě "velké" akce
+- jedna "velká" akce běžně potřebuje šest bodů *Boje*, pak už ji provádím s postihem
+- jedna "malá" akce běžně potřebuje tři body *Boje*, pak už ji provádím s postihem
+- pokud se rozhodnu provádět s těmi devíti body *Boje* pouze malé akce...
+  - tak mám místo dvou "velkých" akcí čtyři "malé" akce, nebo zase jen dvě, byť s velkým přebytkem bodů *Boje*?
+
+Akce s volným soustředěním nemusí trvat zákonitě kratší dobu než akce s plným soustředěním, jenom je na ně potřeba méně duševní energie. Takže do jednoho kola, do deseti sekund, jich nenacpu více, ale můžu k nim provádět *zároveň* ještě něco jiného.
+
+- za kolo boje stihnu stejný počet akcí vyžadujících *plné soustředění* jako akcí vyžadujících *volné soustředění*
+- v čase jedné "velké" akce stihnu dvě "malé" akce
+- v čase jedné "velké" akce stihnu dvě "malé" akce
+
+To poslední je záludné a ještě to budeme testovat, ale zatím to máme vymyšleno tak, že pokud mám na začátku kola třeba devět bodů Boje, tak mám dvě nějaké akce a tyto akce buďto provedu za sebou a nebo, pokud jsou obě s *volným soustředěním*, tak je mohu provést i **zároveň**, naráz, v jedné a té samé *vlně akcí*.
+
+Poznámka: v současných pravidlech se uvádí, že když provádíš dvě akce s *volným soustředěním* zároveň, tak k nim máš [postih -3](http://pph.drdplus.loc:88/?version=master#volne_soustredeni). To s novými pravidly o bodech *Boje* odpadá, pokud na dvě akce s volným soustředěním body *Boje* máš, tak se žádný postih nekoná.
 
 ### Počet akcí je znám hned
 > Co sis hodil, to máš
@@ -305,24 +337,27 @@ Z instinktivních akcí vyplývají dvě zajímavosti:
 ### Převodník akcí
 > Co bylo, bylo
 
-V [Pravidlech pro hráče](https://pph.drdplus.info/#dalsi_bojove_akce) jsou tyto zvláštní bojové akce, které asi rušíme, protože je zvládneš pomocí bodů Boje:
+V [Pravidlech pro hráče](https://pph.drdplus.info/#dalsi_bojove_akce) jsou tyto zvláštní bojové akce, u kterých přemýšlíme o zrušení, protože je zvládneš přeléváním bodů *Boje*:
 
   - *[Bezhlavý útok](http://pph.drdplus.loc/#bezhlavy_utok): +2 k Útočnému číslu, +2 k Základu zranění, -5 k obraně*
-    - podobného výsledku dosáhneš, když ze své akce Obrana odebereš dva body Boje a máš tak -2 k obraně a tyto body Boje si přidáš k akci Útok, takže získáš +2 k Útoku
-      - poměr je nově výhodnější, což je schválně, protože postihování hráčů za to, že chtějí urychlit boj, nám vadil a zároveň je nyní snazší se bránit, když mohu kteroukoli akci zrušit a namísto ní se bránit (pokud jsem byl trpělivý a čekal jsem) 
-      - poznámka: plánujeme zrušit oddělené Útočné číslo a Základ zranění, které chceme sloučit za jedno číslo (Útok), které odečteš od Obrany a rozdíl jsou **výsledná** zranění
-        - například Útok 7 proti Obraně 6 znamená 1 bod Zranění
-      - poznámka: plánujeme sloučit Obranné číslo a Ochranu zbroje do jediného čísla Obrana
-        - například Obranost 4 a pobíjená zbroj s Ochranou zbroje +3 dají Obranu 7 (už víme, že chybějící Síla bude rovnou výsledný postih ke zbroji, žádná tabulka, ale ještě nevíme, jestli dovednost [Nošení zbroje](http://pph.drdplus.loc/#noseni_zbroje) bude snižovat postih, jakkoli to zní logicky, nebo zvyšovat bonus, podobně jako to bude u dovednosti [Boje se zbraní](http://pph.drdplus.loc/#boj_se_zbrani))
-  - [Soustředení na obranu](http://pph.drdplus.loc/#soustredeni_na_obranu): +2 k BČ a +2 k OČ, ale nemůžeš v tomto kole útočit
-    - tohle se dá řešit opět přeléváním bodů Boje a pokud tě útok nezajímá vůbec, tak prostě všechny body Boje použiješ na obranu
-      - opakujeme, že **během** boje už nelze měnit poměr použitých bodů Boje, takže nemůžeš dodatečně oznámit, že ze dvou běžných útoků, na které jsi použil například šeste a pět bodů Boje, uděláš jednu *skvělou* **instinktivní** obranu, na kterou bys použil jedenáct bodů Boje. Můžeš tyto útok proměnit pouze ve dvě obrany, jednu s použitím šesti a druhou s pěti body Boje. Tu *skvělou* obranu bys musel ohlásit předem a to ještě proti konkrétnímu nepříteli
-  - [Krytí spolubojovníka](http://pph.drdplus.loc/#kryti_spolubojovnika): ...*Bohužel ochránce nemá v tomto kole možnost provést vlastní útok.*
-    - vše zůstává stejné, **až na** poslední větu, že ty jakožto obětavý obránce ztratíš útok - musíš prostě jen použít jednu ze svých akcí a je samozřejmě na tobě, kolik bodů Boje na tuto Obranu spolubojovníka použiješ
-    - tuto akci samozřejmě musíš ohlásit předem na začátku kola, tedy pokud nejsi bojivník s naležitou schopností, která z Krytí spolubojovníka dělá instinktivní akci
-  - [Mířená střelba](http://pph.drdplus.loc/#mirena_strelba) - Za každé kolo míření s postihem −2 k BČ si přičte +1 k ÚČ. Celkově může postava mířením získat bonus +3 k ÚČ.
-    - kolik bodů Boje na střelbu použiješ, o tolik se ti Útok zvýší
-    - míření se tím redukuje nejdéle na jedno kolo, protože body Boje do dalšího kola nepřecházejí a mířit déle než deset sekund má možná na nehybný terč, nikoli na objekt ve víru boje
+    - podobného výsledku dosáhneš, když ze své akce *Obrana* odebereš dva body *Boje* a máš tak postih -2 k obraně a tyto body *Boje* si přidáš k akci *Útok*, takže získáš bonus +2 k *Útoku*
+      - poměr je nově výhodnější, což je schválně, protože postihování hráčů za to, že chtějí urychlit boj, nám vadil a zároveň je nyní snazší se bránit, když mohu kteroukoli akci zrušit a namísto ní ohlásit *Obranu*
+      - poznámka: plánujeme sloučit *Útočné číslo* a *Základ zranění* do jednoho čísla (*Útok*), které prostě odečteš od *Obrany* a rozdíl budou **výsledná** zranění
+        - například *Útok* 7 proti *Obraně* 6 znamená 1 bod *Zranění*
+      - druhá poznámka: plánujeme sloučit *Obranné číslo* a *Ochranu zbroje* do jediného čísla *Obrana*
+        - například *Obranost* +4 a pobíjená zbroj s *Ochranou zbroje* +3 dají *Obranu* 7
+          - také už víme, že chybějící *Síla* bude rovnou výsledný postih k *Obraně* (respektive ke všemu), žádná tabulka, ale ještě nevíme, jestli dovednost [Nošení zbroje](http://pph.drdplus.loc/#noseni_zbroje) bude snižovat postih, jakkoli to zní logicky, nebo zvyšovat bonus, podobně jako to bude u dovednosti [Boje se zbraní](http://pph.drdplus.loc/#boj_se_zbrani))
+  - *[Soustředení na obranu](http://pph.drdplus.loc/#soustredeni_na_obranu): +2 k BČ a +2 k OČ, ale nemůžeš v tomto kole útočit*
+    - tohle se dá řešit opět přeléváním bodů *Boje* a pokud tě útok nezajímá vůbec, tak prostě všechny body *Boje* použiješ na obranu
+      - opakujeme, že **během** boje už nelze měnit **poměr** použitých bodů *Boje*, takže nemůžeš dodatečně oznámit, že ze dvou běžných útoků, na které jsi použil například šest a pět bodů *Boje*, uděláš jednu *skvělou* **instinktivní** obranu, na kterou bys použil jedenáct bodů *Boje*. Tyto dva útoky můžeš proměnit pouze ve dvě obrany, jednu s použitím šesti a druhou s pěti body *Boje*. Tu *skvělou* obranu bys musel ohlásit předem a to ještě proti konkrétnímu nepříteli
+  - *[Krytí spolubojovníka](http://pph.drdplus.loc/#kryti_spolubojovnika): ...Bohužel ochránce nemá v tomto kole možnost provést vlastní útok.*
+    - vše zůstává stejné, **až na poslední větu**, že bys ty jakožto obětavý obránce ztratil útok
+      - musíš prostě jen obětovat jednu ze svých akcí na obranu svého spolubojovníka a je samozřejmě na tobě, kolik bodů *Boje* na jeho obranu použiješ
+    - tuto akci samozřejmě musíš ohlásit předem na začátku kola
+       - tedy pokud nejsi bojovník s náležitou schopností, která z *Krytí spolubojovníka* dělá *instinktivní* akci
+  - *[Mířená střelba](http://pph.drdplus.loc/#mirena_strelba) - Za každé kolo míření s postihem −2 k BČ si přičte +1 k ÚČ. Celkově může postava mířením získat bonus +3 k ÚČ.*
+    - kolik bodů *Boje* na střelbu použiješ, o tolik se ti *Útok* zvýší
+    - nedelší smyslupná doba míření se tím redukuje na jedno kolo, protože body *Boje* do dalšího kola **nepřecházejí** a mířit déle než deset sekund má smysl možná na nehybný terč, nikoli na objekt ve víru boje
     - poznámka: tohle může být ještě kámen úrazu, protože střelec se tímto může stát velmi nebezpečným (například v kombinaci s už tak velmi nebezpčenými steřleckými schopnostmi zloděje), bude to chtít **pořádně** otestovat
     
 Nejsme si ještě úplně jisti, že rušení výše uvedených zvláštních akcí je nejlepší nápad, minimálně bude škoda těch dobrých názvů, které zlepší popis boje.
@@ -380,7 +415,7 @@ Tím budete tušit, kam kdo směřuje svou pozornost, ale budete se na vzájem p
 
 - na začátku boje mám Boj 6 + opravy (hlavně podle zbraně a použité vlastnosti) + +1k6+-
 - ~~každé kolo se mi Boj resetuje na hodnotu v prvním kole~~
-- každá akce, která vyžaduje plné soustředění, mě stojí 6 bodů Boje
+- každá akce, která vyžaduje *plné soustředění*, mě stojí 6 bodů Boje
     > sedlák Pecivál brání svačinu před liškou, má na Boj 6 + hodil 3 a svačinu brání hráběmi, se kterými umí sice dobře, ale ne bojovat, takže Boj = 9, na obranu spotřebuje 6 bodů Boje, na víc mu už nezbude (tři body mu propadnou, pokud je nevyužije na úpravu akce), oproti tomu zkušená liška má celkový Boj 13
     - akce s plným soustředěním jsou
         - útok
