@@ -473,9 +473,34 @@ Nad tím se nyní snáší velké, temné **ale**.
 Takže čaroděj má stejnou šanci, že stihne seslat kouzlo, jako bojovník, že stihne máchnout mečem, zloděj, že stihne bodnout do ledvin, hraničář, že stihne zastřelit vše živé v okruhu deseti mil, theurg, že stihne rozhodit ruce a tím rozhodit nepřátele ohnivou koulí a kněz že... že... stihne spočítat své ovečky. V souboji jeden na jednoho, kdy oba soupeři používají **pouze** své speciální schopnosti, tak dobrý. Jenže pak vezme čaroděj do ruky kuši, bojovník svitek a vůbec začnou dělat něco mimo jejich specializaci a najednou ten základ *Boje* není tak samozřejmý. Nebo snad čaroděj promýšlí každou svou akci tak do hloubky, že jeho inteligence *stíhá* poziitvně ovlivňovat jeho pohyby? Bojovník dokáže svitek použít stejně rychle a přirozeně, jako své dvoubřité metrové holítko?
 A co teprve připravované kombinace povolání, co takový dobrodruh s čarodějem na třetí úrovni a zlodějem na čtvrté? To bude mít základ Boje `((Int x 3 + Zrč x 4) / 7 + Obr) / 2` ? No, jestli chcete *DrD Plus Plus*, tak proč ne, ale my to nechceme, my chceme *DrD Plus Mínus*.
 
-Než začneme střílet nápady od boku jak *Lucky Luke*, tak se zamyslíme, k čemu ten základní *Boj* v původních pravidlech vlastně je. Aby zkušenější dobrodruh mohl provést akci *dříve*, než nezkušený.
-A teď si zopkaujeme, na co jsme v těch předchozích dlouhých řádcích už přišli. *Boj* už neurčuje pořadí akcí, pouze jejich počet.
+Než začneme střílet nápady od boku jak *Lucky Luke*, tak se zamyslíme, k čemu ten základní *Boj* v původních pravidlech vlastně je: aby zkušenější dobrodruh mohl provést akci *dříve*, než nezkušený.
+A teď si zopakujeme, na co jsme v těch předchozích dlouhých řádcích už přišli: *Boj* už neurčuje pořadí akcí, pouze jejich počet.
 Takže původní potřeba, tedy rychlejší akce a tím dřívější efekt, odpadá a namísto ní je nová, byť obdobná - jak se bude zvyšovat počet akcí zkušeného dobrodruha a jestli vůbec.
+
+Začneme tím, jestli vůbec by se měl zvyšovat počet akcí s rostoucími zkušenostmi a základními vlastnostmi (Obratnost, Inteligennce...). Pokud se podívám na jeden z mála dostupných zdrojů skutečného boje v současnosti, což je bojový sport, třeba kickbox, tak mám zatraceně silý pocit, že i kdyby do ringu vlezl mistr světa ve skosku dalekém, který je na tom fyzicky určitě dobře, tak ho během pár chvil skolí průměrný kickboxer, protože prostě ví jak na to. A pokud proti sobě stojí unavený a odpočatý kickboxer, nebo zkušený a začátečník, tak je jasně vidět i převaha v počtu akcí, kdy bojovník , který je ve výhodě, si může dovolit mnohem více útoků, parádiček, hledání slabých míst, prostě z toho mám silný dojem, že větší zkušenosti, nebo lepší stav těla i duše **zvyšují** body *Boje*. Takže počet akcí, respektive *Boj* by se zvyšovat měl (nehledě na to, že to spousta hráčů ve své honbě za božstvím očekává).
+
+Fajn, a jak moc budeme *Boj* zvyšovat? A čím?
+Už jsme nakousli, že chceme možnost více povolání pro jediného dobrodruha. Kněz šmrncnutý bojovníkem líznutý hraničářem, který začínal jako zloděj.
+
+- uvažovali jsme o bonusu k *Boji* podle stylu zvoleného boje, kdo bude střílet, dostane bonus k *Boji* za *Zručnost*, kdo bude kouzlit, tak za *Inteligenci*, kdo útočit na blízko, tak za *Obratnost*
+  - ono by to docela fungovalo, kdyby nebylo více akcí za kolo - když budu střílet, pak kouzlit a nakonec vyřeším situaci ručně, tak dostanu bonus k *Boji* za co?
+
+*Boj* je číslo, které vyjadřuje orientaci v mumraji boje, vidění možností a energii, kterou dokážeme ty možnosti provést. Dává smysl, aby jedinec měl bonus za *Obratnost*, protože to je souhrn instinktů i schopnost těla reagovat. Dává smysl, aby jedinec měl bonus za *Inteligenci*, pokud ji *umí* **v boji** použít (což si koleduje o *Dovednost*, něco jako *Bojová taktika*). No jo, ale co ty různé style boje?
+
+Dostanu bonus k *Boji*:
+
+- za *Inteligenci*?
+  - **ne**, jakkoli prudká inteligence přijde v bojové vřavě nazmar, protože její vlastník neví, jak ji bez tréninku využít
+    - ale uvažujeme o dovednosti, která by umožnila *Inteligenci* v boji využít
+- za *Obratnost*?
+  - **ano**, je to souhrn instinktů, schopnost reagovat na nenadálé situace
+- za *Zručnost*?
+  - *ne*, přesnost pohybů rychlejší reakci nezajistí
+
+Nabízí se oponentura, že střelec, který je přesnější v pohybech má větší šanci na zásah a může se tak dovolit vystřelit šíp dříve než nemehla. To je pravda, ale to už máme podchyceno výše v přelévání bodů *Boje*.
+Kdo má vyšší *Zručnost*, má vyšší *Útok* a tím jistější šanci na zásah a může si tak spíše dovolit míření uspěchat (použije méně bodů *Boje* a bude tak mít postih k *Útoku*, ale zbyde mu víc energie na jiné akce).
+
+## Velikost a vliv na boj
 
 ## Hra se skrytými akcemi
 > Život bez překvapení je jako vtip bez pointy
