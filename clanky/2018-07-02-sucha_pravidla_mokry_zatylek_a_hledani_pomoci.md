@@ -103,3 +103,5 @@ Těch základních kamenů je víc, dříve jsem jim říkal *zlatá pravidla*, 
 ---
 
 - *předchozí [<< 16. 5. 2018 Krátký příběh na motivy obálky Neviditelné knihy](2018-05-16-kratky_pribeh_na_motivy_obalky_neviditelne_knihy.md)*
+- *následující [>> 10. 8. 2018 Boj](2018-08-10-boj.md)*
+

@@ -1,5 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [10. 8. 2018 Boj](clanky/2018-08-10-boj.md)
 ### [2. 7. 2018 Suchá pravidla, mokrý zátylek a hledání pomoci](clanky/2018-07-02-sucha_pravidla_mokry_zatylek_a_hledani_pomoci.md)
 ### [16. 5. 2018 Krátký příběh na motivy obálky Neviditelné knihy](clanky/2018-05-16-kratky_pribeh_na_motivy_obalky_neviditelne_knihy.md)
 ### [3. 5. 2018 Neviditelná recenze](clanky/2018-05-03-neviditelna_recenze.md)
