@@ -429,8 +429,53 @@ Tak nějak jsem měl u předchozích řádek pocit, že mám v hlavě zasunuté 
 Nejdřív si shrnu, co že jsem si to předtím myslel:
 
 - měl jsem dojem, že že práce s body Boje tak nějak sama vyřeší **všechny** situace podobné nájezdníkovi a pěšákovi
-  - z části se tak stalo, kdy se asi stane, že bude mít jezdec čas si odkrokovat pěšáka, aby mu to *pěkně vyšlo* na další akci
+  - i když z části se tak stalo, protože kdy se asi tak stane, že bude mít jezdec čas si odkrokovat vzdálenost k pěšákovi, aby mu to *pěkně vyšlo* na nájezd
 - v hlavě mám hlavně scénu ze Statečného srdce, což je samozřejmě filmová scéna, ale zase dost uvěřitelná, kdy pěšáci dlouhou dobu čekají a dělají bezbrané a teprve v posledních okamžicích zvednou ze země skrytá kopí a nadělají paseku v řadách překvapených rytířů na koních
+
+Vlastně se pořád točím kolem té původní myšlenky, která je v pravidlech pro hráče, že délka zbraně dává prostou výhodu v dřívějším zásahu a které tak trochu věřím a zároveň cítím, že je to ve většině případů blbost.
+Takže, kdy to blbost není? Na rytířském turnaji, kdy se proti sobě řítí dva jezdi se dřevci, namířenými přesně proti sobě, kdy ani jeden neuhne z rány a kdyby měl některý dřevec delší, tak určitě zasáhne protivníka dříve. A pak třeba v úzké chodbě, kdy protivník prostě nemá kam uhnout a musí projít přes onu dlouho zbraň.
+A kdy to blbost je? V těch případech, kdy **je** kam uhnout, kdy se bojuje více pohybem, než statickými údery, což je **naprostá** většina boje.
+Takže dávát někomu bonus za dlouhou zbraň má smysl jen v těch několika málo situacích, kdy protivník vyloženě leze do rány. A to je i případ scény ze Statečného srdce, kdy si jezdci jedou pro zásah, protože už jsou prostě tak moc rozjetí a tak nahuštění, že nemají čas a prostor na manévrování a my takovou scénu můžeme prostě a jednoduše vyřešit postihem k Boji za **překvapení**.
+
+Takže co nám zbylo? ~~Bonus k Boji za délku zbraně~~ rušíme a opět se dostáváme k tomu, že délku zbraně má cenu řešit jen v případě, kdy potřebujeme zjistit *dosah* zbraně, tedy jestli na cíl dosáhneš.
+
+A co ten *Střeh se zbraní*? No, na začátku jsem měl pocit, že tahle finta nám zachrání zadek a vrátí zpět uvěřitelnost scénám jako vystřižených ze Statečného srdce, ale dopadlo to lépe, *Střeh se zbraní* není potřeba, tak na něj zatím kašleme.
+
+### Příliš dlouhá zbraň
+Když už jsme u té délky zbraně, tak se nabízí ještě jeden problém k vyřešení. Co když mám příliš dlouhou zbraň? Co když jsem ponocný s halapartnou a lepí se na mě kurtyzána, ze které se záhy vyklube psychopatická vražedkyně s oblibou útočící perořízkem?
+
+Nabízí se několik řešení:
+
+- neřešit to
+- vyžadovat po útočníkovi s příliš dlouhou zbraní, aby ustoupil do použitelné vzdálenosti
+  - jenže pohyb je akce a když ustoupí, tak už zas nebude mít akci na útok...
+  - může samozřejmě přezbrojit, nejsnáze zahozením současné zbraně a použitím pěstí (nebo nohou, to pak nemusí zahazovat nic)
+
+Neřešit to můžeme kdykoli, teď se zkusíme zaměřit na tu druhou možnost, na povinný pohyb nebo přezbrojění na vhodnější zbraň.
+Přijde mi to jako pěkné zpestření boje, kdy se například zlodějové budou snažit dostat doslova na tělo svým protivníkům.
+
+ - hrozí ale, že hra bude nutit hráče používat krátké a ještě kratší zbraně, aby jim pořád někdo nestál před nosem
+
+Také záložní možnost *přezbrojit na vhodnější zbraň*, což může být často zahození současné zbraně a použití pěstí, nebo třeba použítí kopí jako hole, či odkopnutí protivníka, mi přijdou jako zajíémavé koření boje.
+
+- nebezpečí hrozí, že se z toho stane rutina a namísto boje budeme hrát kopanou
+
+To si žádá **testy**.
+
+## Různý základ boje pro různá povolání
+> Každá odlišnost má stejný základ
+
+V Pravidlech pro hráče je pro [každé povolání jiný výpočet Boje](http://pph.drdplus.loc:88/#tabulka_boje).
+Za léta hraní *DrD Plus* jsme si už dávno ty rozdílné výpočty ospravedlnili a vysvětlili, je přeci nad slunce jasné, že zloděj bude do každého svého pohybu vkládat své znalosti úskoků a podrazů, čaroděj do všeho půjde hlavou, kněz bude šířit auru svého přesvědčení a neoblomnosti a bojovník... ten to prostě vyřeší instinkty. A navíc, i když popravdě spíše *a hlavně*, to dává každému povolání přibližně stejné šance, stejnou velikost *Boje*.
+
+Nad tím se nyní snáší velké, temné **ale**.
+
+Takže čaroděj má stejnou šanci, že stihne seslat kouzlo, jako bojovník, že stihne máchnout mečem, zloděj, že stihne bodnout do ledvin, hraničář, že stihne zastřelit vše živé v okruhu deseti mil, theurg, že stihne rozhodit ruce a tím rozhodit nepřátele ohnivou koulí a kněz že... že... stihne spočítat své ovečky. V souboji jeden na jednoho, kdy oba soupeři používají **pouze** své speciální schopnosti, tak dobrý. Jenže pak vezme čaroděj do ruky kuši, bojovník svitek a vůbec začnou dělat něco mimo jejich specializaci a najednou ten základ *Boje* není tak samozřejmý. Nebo snad čaroděj promýšlí každou svou akci tak do hloubky, že jeho inteligence *stíhá* poziitvně ovlivňovat jeho pohyby? Bojovník dokáže svitek použít stejně rychle a přirozeně, jako své dvoubřité metrové holítko?
+A co teprve připravované kombinace povolání, co takový dobrodruh s čarodějem na třetí úrovni a zlodějem na čtvrté? To bude mít základ Boje `((Int x 3 + Zrč x 4) / 7 + Obr) / 2` ? No, jestli chcete *DrD Plus Plus*, tak proč ne, ale my to nechceme, my chceme *DrD Plus Mínus*.
+
+Než začneme střílet nápady od boku jak *Lucky Luke*, tak se zamyslíme, k čemu ten základní *Boj* v původních pravidlech vlastně je. Aby zkušenější dobrodruh mohl provést akci *dříve*, než nezkušený.
+A teď si zopkaujeme, na co jsme v těch předchozích dlouhých řádcích už přišli. *Boj* už neurčuje pořadí akcí, pouze jejich počet.
+Takže původní potřeba, tedy rychlejší akce a tím dřívější efekt, odpadá a namísto ní je nová, byť obdobná - jak se bude zvyšovat počet akcí zkušeného dobrodruha a jestli vůbec.
 
 ## Hra se skrytými akcemi
 > Život bez překvapení je jako vtip bez pointy
