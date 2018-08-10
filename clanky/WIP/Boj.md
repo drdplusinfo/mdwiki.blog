@@ -1,5 +1,9 @@
 # Boj
 
+10.8. 2018
+
+> Tenhle text je něco mezi konceptem, hromádkou nápadů a zamyšlením nad herní mechanikou boje v Dračím doupěti. Veškerý text je komukoli volně k dispozici, takže cokoli se ti z něj hodí, kopíruj, upravuj, šiř dál.
+
 ## Od boje chceme víc
 V DrD+ (do verze 1.0.B) je namísto výrazu *iniciativa* použito heslo *Boj* a mě se to moc líbí, protože na iniciti... inaicitiv... iniciativě jsem si leta lámal jazyk a i když je výraz *Boj* jaksi příliš chlapský, tak v Dračím doupěti se beztak řeší hlavně tahle přízemní (a jak moderní dějiny ukazují, stále žádaná) chlapská zábava, takže za mě palec nahoru.
 
@@ -50,7 +54,7 @@ Aha, takže nejdřív potřebujeme znát **zdroj**, tedy odkud se *Boj* bere, po
 
 > život na Zemi taky nejdříve potřeboval zjistit, že existují **zdroje** jako světlo, voda, uhlík, dusík a další prvky, aby díky tomu našel své **možnosti** v buňkách, aby jejich kombinacemi stvořil fotosyntézu, okysličenou krev, létání a tohle mohl **kombinovat**
 
- - ptáka s fotosyntézou sice neznáme, ale takový lenochod si pěstuje v kožichu mech, aby ho ze sebe mohl vyčesávat a jíst, prostě fotosyntézový borec!
+ - ptáka s fotosyntézou sice neznáme, ale takový lenochod si pěstuje v kožichu mech, aby ho ze sebe mohl [vyčesávat a jíst](https://www.abicko.cz/clanek/precti-si-priroda/16087/v-lenochodim-kozichu-komu-se-neleni-tomu-se-zeleni.html), prostě fotosyntézový borec.
 
 
 ### Zdroj Boje
@@ -174,20 +178,20 @@ Tím jsme se dostali k vykukům, kteří by chtěli útočit s postihem -6, tedy
 První návrh na řešení takové situace byla povinnost použít na každou akci alespoň jeden bod *Boje*. Trvalo to asi deset minut, než z nadšení nad řešením zbyla frustrace z pokračování problému.
 Ti samí vykukové by samozřejmě použili na každou akci jen jeden bod *Boje*, takže když mají *Boj* deset, tak by mohli provést deset akcí.
 
-Přišlo nám to ještě chvíli dobré, protože tím by vznikly herní situace, kdy hostinský zurřivě buší do ožraly v touze vymlátit z něj alespoň část útraty, zatímco ožrala analyzuje, zda jde o komára či jiný bodavý hmyz (vzhledem k velkému postihu hostinského na útok), ale pak začaly vyskakovat jak houby po dešti situace, kdy se tohle dá zneužít a navíc by to **hodně zdržovalo** ostatní hráče.
+Přišlo nám to ještě chvíli dobré, protože tím by vznikly herní situace, kdy hostinský zuřivě buší do ožraly v touze vymlátit z něj alespoň část útraty, zatímco ožrala analyzuje, zda jde o komára či jiný bodavý hmyz (vzhledem k velkému postihu hostinského na útok), ale pak začaly vyskakovat jak houby po dešti situace, kdy se tohle dá zneužít a navíc by to **hodně zdržovalo** ostatní hráče.
 
 ### Nekonečná velikost akce
 
-Už jsme to trochu nastínili v příklaech, ve kterých přidáváme a ubíráme **nanejvýš šest** bodů *Boje*. Plus šest je dvojnásobek, mínus šest je polovička a více s body *Boje* operovat nemůžeš.
+Už jsme to trochu nastínili v příkladech, ve kterých přidáváme a ubíráme **nanejvýš šest** bodů *Boje*. Plus šest je dvojnásobek, mínus šest je polovička a více s body *Boje* operovat nemůžeš.
 
 - akce, ze které zcela odčerpáš body *Boje* (všech šest), tak **nezmizí**, ale budeš k ní mít postih -6
 
-A proč zrovna šest? Protože šest bodů *Boje* stojí jedna akce. A co akce s *volným soustředěním*, které stojí tři body *Boje*? Aha, ta to bude chcít ještě ujasnit tyhle akce.
+A proč zrovna šest? Protože šest bodů *Boje* stojí jedna akce. A co akce s *volným soustředěním*, které stojí tři body *Boje*? Aha, ta to bude chtít ještě ujasnit tyhle akce.
 
 #### Od přírody malé akce
 Akce vyžadující *plné soustředění*, jako je útok, obrana, kouzlení a podobně, potřebují pro kvalitní výsledek šest bodů *Boje*. Akce s *volným soustředěním*, jako je běžná mluva, přezbrojování a vůbec vyndavání známých předmětů z dostupných míst (nikoli dna batohu), vyžadují pro kvalitní provedení tři body *Boje*.
 
-Otázka zní, jestli akce s *volným soustředením*, tedy taková ta "malá akce", spotřebuje skutečně jednu **akci**.
+Otázka zní, jestli akce s *volným soustředěním*, tedy taková ta "malá akce", spotřebuje skutečně jednu **akci**.
 Je to hra s čísly, takže vytáhneme příklad a čísla:
 
 - na *Boj* mám celkem devět bodů *Boje*
@@ -205,14 +209,14 @@ Akce s volným soustředěním nemusí trvat zákonitě kratší dobu než akce 
 
 To poslední je záludné a ještě to budeme testovat, ale zatím to máme vymyšleno tak, že pokud mám na začátku kola třeba devět bodů *Boje*, tak mám dvě nějaké akce a tyto akce buďto provedu za sebou a nebo, pokud jsou obě s *volným soustředěním*, tak je mohu provést i **zároveň**, naráz, v jedné a té samé *vlně akcí*.
 
-Poznámka: v současných pravidlech se uvádí, že když provádíš dvě akce s *volným soustředěním* zároveň, tak k nim máš [postih -3](https://pph.drdplus.info/?version=master#volne_soustredeni). To s novými pravidly o bodech *Boje* odpadá, pokud na dvě akce s volným soustředěním body *Boje* máš, tak se žádný postih nekoná.
+Poznámka: v současných pravidlech se uvádí, že když provádíš dvě akce s *volným soustředěním* zároveň, tak k nim máš [postih -3](https://pph.drdplus.info/#volne_soustredeni). To s novými pravidly o bodech *Boje* odpadá, pokud na dvě akce s volným soustředěním body *Boje* máš, tak se žádný postih nekoná.
 
 ### Počet akcí je znám hned
 > Co sis hodil, to máš
 
 Jak už to bývá, to nejjednodušší řešení je to nejlepší. Když většina akcí stojí **šest** bodů *Boje* a ty kratší jsou spíše doplňkové (mluvení, tahání králíků z kapes), tak máš **tolik akcí, kolik ti body *Boje* dovolí**. Když máš *Boj* sedm, tak můžeš provést dvě akce (6 + 1). A dost. Klidně si pak hraj s body *Boje*, přelévej je sem a tam mezi akcemi, ale více než dvě akce už z toho nevykřešeš.
 
-  - situace typu *"I přes bitevní vřavu budu hulákat na bandity, v jaké že jsou bezvýchodné situaci a z kapsy zatím vytáhnu bouchací kapsli"*, což bude chtít dvě tříbodové akce (protože to jsou dvě akce s *volným soustředením*), necháme na Pánu jeskyně, který jistě moudře rozhodne, že tím se vyplní jedna *běžně velká* akce za šest bodů *Boje* a nechá hrdinu zakončit svůj mocný projev prásknutím kapsle, aniž by za to vyžadoval další body *Boje* či více akcí.
+  - situace typu *"I přes bitevní vřavu budu hulákat na bandity, v jaké že jsou bezvýchodné situaci a z kapsy zatím vytáhnu bouchací kapsli"*, což bude chtít dvě tříbodové akce (protože to jsou dvě akce s *volným soustředěním*), necháme na Pánu jeskyně, který jistě moudře rozhodne, že tím se vyplní jedna *běžně velká* akce za šest bodů *Boje* a nechá hrdinu zakončit svůj mocný projev prásknutím kapsle, aniž by za to vyžadoval další body *Boje* či více akcí.
 
 ### Boj je časová osa
 > Až to přijde, tak to přijde
@@ -222,10 +226,10 @@ Jelikož jsme byli s posledním návrhem *Boje* a počtem akcí i po několika d
  * jak je to s pořadím akcí, když si zpřeházím body *Boje*?
 
 Už na začátku návrhu nám došlo, že *Boj* je vlastně **čas**. Jedno kolo bojování trvá deset sekund (což měnit nechceme) a do nich se má vměstnat tolik akcí, kolik si hráči a Pán jeskyně z bodů *Boje* obhájí.
-Pokud má ten nejrychlejší s nejrychlejších *Boj* 17, tak se dá udělat čára, která začíná nulou, končí sedmnáctkou, a celé je to ještě rozdělené ná úseky po šesti, takže je vidět, že nejrychlejší borec má *sedmnáct, (17-6=) jedenáct, (11-6=) pět*, to jest tři akce a tu poslední trochu uspěchanější. Ostatní postavy budou načmárané někde mezi tím, občas se jim začátky akcí potkají, většinou minou.
+Pokud má ten nejrychlejší s nejrychlejších *Boj* 17, tak se dá udělat čára, která začíná nulou, končí sedmnáctkou, a celé je to ještě rozdělené na úseky po šesti, takže je vidět, že nejrychlejší borec má *sedmnáct, (17-6=) jedenáct, (11-6=) pět*, to jest tři akce a tu poslední trochu uspěchanější. Ostatní postavy budou načmárané někde mezi tím, občas se jim začátky akcí potkají, většinou minou.
 
 Pro základní přehled, kdo je jak rychlý, tak dobrý, i když je toho malování nějak moc.
-Jenže když si ten nejrychlější hráč přelije *Boj* z poslední akce do první, takže tu první nafoukne na dvojnásobek a poslední zmizí a teď co. Bude jeho první akce pořád první?
+Jenže když si ten nejrychlejší hráč přelije *Boj* z poslední akce do první, takže tu první nafoukne na dvojnásobek a poslední zmizí a teď co. Bude jeho první akce pořád první?
 
 ### Časová hranice akce
 > Něco končí, něco začíná
@@ -235,11 +239,11 @@ Jenže když si ten nejrychlější hráč přelije *Boj* z poslední akce do pr
 
 Takže když se první hráč rozhodne svou poslední akci obětovat a čas z ní použít na tu první, tak tu první provádí dvakrát **pomaleji** a tudíž jí i dokončí až za dvojnásobnou dobu, takže sice svou akci začne jako první, ale její výsledek, její efekt přijde až mnohem později.
 A co nás zajímá více, jestli se na mě někdo zle podíval a já vím, že mi půjde po krku, nebo že už mě konečně nachytal na holičkách a pronikl mou důmyslnou obranou, takže mám monokl jak státní úředník? Zajímá nás, kdy přijde **výsledek**.
-A co když stojím proti čarodějovi, který zrovna začíná kouzlit? Mám čekat, až z něj vyletí ohnivá koule a pak ho teprve citlivě vyrušit štítem do obličeje? Hmm, tady nás zajimá, kdy akce **začíná**.
+A co když stojím proti čarodějovi, který zrovna začíná kouzlit? Mám čekat, až z něj vyletí ohnivá koule a pak ho teprve citlivě vyrušit štítem do obličeje? Hmm, tady nás zajímá, kdy akce **začíná**.
 
 Výsledek útočné akce se dostaví **někdy** během celé akce, podle toho, jak se zrovna sféry vyspaly. Když na útok spotřebuju půl kola, což je asi tak pět sekund, a protivníka **nezraním**, tak jsem ho pět sekund oťukával, obíhal, dělal na něj urážlivé posunky a nic z toho. Pokud jsem ho ale zranil, tak někdy během těch pěti sekund jsem se mu dostal na kobylku a praštil ho. Ale není v ničích silách předem určit, jestli to bylo na začátku akce, uprostřed, nebo někde na konci.
 
-Zato když kouzlím a na kouzlení spotřebuji polovinu kola, tak vyvolat kouzlo opravdu trvá oněch pět sekund a terpve na jejich konci se kouzlo konečně plně projeví a **po celou tu dobu** mi může někdo dát bolestivou *stopku*.
+Zato když kouzlím a na kouzlení spotřebuji polovinu kola, tak vyvolat kouzlo opravdu trvá oněch pět sekund a teprve na jejich konci se kouzlo konečně plně projeví a **po celou tu dobu** mi může někdo dát bolestivou *stopku*.
 
 Aha, takže kdo je nejrychlejší, ten si "odútočí" a "odkouzlí" to svoje, zatímco ostatní čekají poslušně na výsledek a pak zas dostanou štafetu akcí oni? Má dáti, dal? Něco tady smrdí.
 
@@ -259,7 +263,7 @@ Pořadí začne mít vliv **až** když
   - výsledek akce něco ovlivnil
   - vliv akce se projeví ještě v tomto kole
 
-Tu složitost s pořadím nám tedy přináší až ten poslední bod - takové vlivy, které se projeví ještě v **tomto** kole, ty ostatní se prostě vyřešní **v klidu** až na konci kola.
+Tu složitost s pořadím nám tedy přináší až ten poslední bod - takové vlivy, které se projeví ještě v **tomto** kole, ty ostatní se prostě vyřeší **v klidu** až na konci kola.
 
 ### Vlivy v tomto kole
 > Jak rychlý je okamžik?
@@ -270,7 +274,7 @@ Ono to zní úžasně reálně, ale pouze dokud neopustíme laboratoře Teoretik
   - spoustu opravdových zranění (ne ty odřená kolena, u kterých jsme se naučili v dětství fňukat) si uvědomíme až po nějaké chvíli, stejně jako když sražená srnka ještě stihne odběhnout na pole, kde teprve padne
   - spousta z nás své předpoklady opírá o *dřevárny*, kde se zásah počítá okamžitě
     - ale když se pak porveme o holku, tak jde hlášení zásahů stranou
-  - boj je naprostý zmatek a tvrdit s určitostí, že blesk zabil bojovníka těsně před dopadem jeho meče lze pouze na základě zpětného rozboru videzáznamu, který do DrD+ zavádět nehodláme
+  - boj je naprostý zmatek a tvrdit s určitostí, že blesk zabil bojovníka těsně před dopadem jeho meče lze pouze na základě zpětného rozboru videozáznamu, který do DrD+ zavádět nehodláme
 
 Dostáváme se k tomu, že onen dokonalý nápad `Boj = čas`, respektive že to jsou *jednotlivé, velmi přesné časové dílky desetisekundového kola*, je krátkozraká hloupost.
 
@@ -294,24 +298,24 @@ A čekat, až na mě přijde řada a ještě k tomu se dočkat toho, že moje uk
 
 #### Výsledky až konec, ale čeho?
 
-No, tak jsme si vyzkoušeli boj, ve kterém se vešekeré výsledky projeví až na konci kola a je to takové... zajímavé. Když mají všichni málo akcí, tak je to dobré, ale jakmile má někdo citelně víc akcí, nwž ostatní, začíná dostávat na frak právě *uvěřitelnost*.
+No, tak jsme si vyzkoušeli boj, ve kterém se veškeré výsledky projeví až na konci kola a je to takové... zajímavé. Když mají všichni málo akcí, tak je to dobré, ale jakmile má někdo citelně víc akcí, než ostatní, začíná dostávat na frak právě *uvěřitelnost*.
 
-On když někdo má čtyři akce za kolo, například ninja chroupající zrnka kávy a proti němu stojí tři gardisté-brigádníci, kteří na *kurzu sebeobrany s tou špičatou věcí* nedávali pozor, tak ninja po zásahu každého gardisty bude muset vyčkat až na konec kola, zda rána gardistu položila nebo ne a pokud nutně potřebuje dostat gardisty na lopatky v co nekratším čase, tak se bude muset řídit jen svým citem, dva gardisty kopnout jednou, jednoho dvakrát a pak čekat na konec kola, zda padnou k zemi všchni.
-A je tu i komplikace pro hráče, kteří bojují a škrtají si životy a zapisují si že jim hoří zadnice a... najednou je konec kola, čas se zastaví a každý začne teprve řešit dopad akce, o které se mluvilo klidně i před deseti minutama. Prostě nudná inventura. Sakra.
+On když někdo má čtyři akce za kolo, například ninja chroupající zrnka kávy a proti němu stojí tři gardisté-brigádníci, kteří na *kurzu sebeobrany s tou špičatou věcí* nedávali pozor, tak ninja po zásahu každého gardisty bude muset vyčkat až na konec kola, zda rána gardistu položila nebo ne a pokud nutně potřebuje dostat gardisty na lopatky v co nejkratším čase, tak se bude muset řídit jen svým citem, dva gardisty kopnout jednou, jednoho dvakrát a pak čekat na konec kola, zda padnou k zemi všichni.
+A je tu i komplikace pro hráče, kteří bojují a škrtají si životy a zapisují si že jim hoří zadnice a... najednou je konec kola, čas se zastaví a každý začne teprve řešit dopad akce, o které se mluvilo klidně i před deseti minutami. Prostě nudná inventura. Sakra.
 
-Takže nejdříve jsme zavrhli ~~řešení akcí **hned** jak se stanou~~  protože bychom museli řešit **přěesné** pořadí akcí každého účastníka boje, což je zdlouhavé a nudné.
+Takže nejdříve jsme zavrhli ~~řešení akcí **hned** jak se stanou~~  protože bychom museli řešit **přesné** pořadí akcí každého účastníka boje, což je zdlouhavé a nudné.
 A teď jsme i zavrhli ~~řešení akcí až na **konci kola**~~, protože už to může být příliš dlouho po té, co hráč akci zažil a zmizí tak napětí i kus uvěřitelnosti.
 
 Takže co s tím?
 
   - zkusíme řešit výsledky akcí **na konci každé vlny akcí** (lepší slovo než *vlna* zatím nemáme)
 
-Ninja, který chce skolit gardisty, jednoho z nich kopne a každý gardista po ninjovi máchne halapartnou, až na jednoho, který zpanikaří a zkouší utéct. Tím skončí první vlna akcí a vyhodnotí se. Ninja si proti každému útoku už házel na obranu (v jeho případě uhybáním), takže má zapsaná zranění (a skutečně ho dva strefili, byť jenom ratištěm) a ověří si, že žádný postih ze zranění nemá. Mezitím gardista, který chtěl utéct, zjišťuje, že sice vložil všech svých osm bodů *Boje* do útěku, ale ninja si vybral jako na potvoru právě jeho jako první cíl, takže se dopotácí na svých osm metrů, kde ho konečně naplno dožene bolest a zásah do hlavy a v cílové rovince padne. Ninja má ještě tři akce a proti němu stojí dva gardisté, kteří po pádu kolegy svorně obětují druhý útok raději na obranu.
+Ninja, který chce skolit gardisty, jednoho z nich kopne a každý gardista po ninjovi máchne halapartnou, až na jednoho, který zpanikaří a zkouší utéct. Tím skončí první vlna akcí a vyhodnotí se. Ninja si proti každému útoku už házel na obranu (v jeho případě uhýbáním), takže má zapsaná zranění (a skutečně ho dva strefili, byť jenom ratištěm) a ověří si, že žádný postih ze zranění nemá. Mezitím gardista, který chtěl utéct, zjišťuje, že sice vložil všech svých osm bodů *Boje* do útěku, ale ninja si vybral jako na potvoru právě jeho jako první cíl, takže se dopotácí na svých osm metrů, kde ho konečně naplno dožene bolest a zásah do hlavy a v cílové rovince padne. Ninja má ještě tři akce a proti němu stojí dva gardisté, kteří po pádu kolegy svorně obětují druhý útok raději na obranu.
 
 ### Povinnost hlášení akcí
 > Žalovat se nemá, ale hlásit se to musí!
 
-Když chci provést akci, která ovlivňuje ostatní, **musím** ji nahlásit na začátku kola. V průběhu kola už můžu provést jen spontální, *instinktivní* akce, což jsou v naprosté většině jen ty, které se týkají přímo mě.
+Když chci provést akci, která ovlivňuje ostatní, **musím** ji nahlásit na začátku kola. V průběhu kola už můžu provést jen spontánní, *instinktivní* akce, což jsou v naprosté většině jen ty, které se týkají přímo mě.
 Předem nahlášené akce můžu **kdykoli** vyměnit za *instinktivní*, ale nemůžu už měnit předem zvolený **poměr** *Boje* ("velikost" akce, přelévání bodů *Boje*).
 
    - pokud jsi měl *Boj* sedm, pět bodů *Boje* ses rozhodl použít na útok a tři na svou obranu, můžeš klidně uprostřed boje oznámit, že svou akci útok rušíš (pokud jsi ji samozřejmě ještě neprovedl), aby ses mohl **místo** něj bránit
@@ -338,7 +342,7 @@ Z instinktivních akcí vyplývají dvě zajímavosti:
  - **jakoukoli** akci můžeš vyměnit na poslední chvíli na *instinktivní*, například na obranu sebe sama
    - *instinktivní* akce je jen taková, kterou si jako *instinktivní* obhájíš před ostatními
      - *instinktivní* je například obrana tou zbraní, kterou jsi chtěl použít k útoku, ale už ne přezbrojení na "lepší" na poslední chvíli
-       - ovšem bojovníci specializovaní na obranu, zloději co zrovna nemají v ruce dýku a hraničáři, kteřím hrozí zničení luku, tohle zřejmě budou moci změnit
+       - ovšem bojovníci specializovaní na obranu, zloději co zrovna nemají v ruce dýku a hraničáři, kterým hrozí zničení luku, tohle zřejmě budou moci změnit
 
 ### Převodník akcí
 > Co bylo, bylo
@@ -363,15 +367,15 @@ V [Pravidlech pro hráče](https://pph.drdplus.info/#dalsi_bojove_akce) jsou tyt
       - tedy pokud nejsi bojovník s náležitou schopností, která z *Krytí spolubojovníka* dělá *instinktivní* akci
   - *[Mířená střelba](https://pph.drdplus.info/#mirena_strelba) - Za každé kolo míření s postihem −2 k BČ si přičte +1 k ÚČ. Celkově může postava mířením získat bonus +3 k ÚČ.*
     - kolik bodů *Boje* na střelbu použiješ, o tolik se ti *Útok* zvýší
-    - nejdelší smyslupná doba míření se tím redukuje na jedno kolo, protože body *Boje* do dalšího kola **nepřecházejí** a mířit déle než deset sekund má smysl možná tak na nehybný terč, nikoli na objekt ve víru boje
-    - poznámka: tohle může být ještě kámen úrazu, protože střelec se tímto může stát velmi nebezpečným (například v kombinaci s už tak velmi nebezpčenými steřleckými schopnostmi zloděje), bude to chtít **pořádně** otestovat
+    - nejdelší smysluplná doba míření se tím redukuje na jedno kolo, protože body *Boje* do dalšího kola **nepřecházejí** a mířit déle než deset sekund má smysl možná tak na nehybný terč, nikoli na objekt ve víru boje
+    - poznámka: tohle může být ještě kámen úrazu, protože střelec se tímto může stát velmi nebezpečným (například v kombinaci s už tak velmi nebezpečnými střeleckými schopnostmi zloděje), bude to chtít **pořádně** otestovat
     
 Nejsme si ještě úplně jisti, že rušení výše uvedených zvláštních akcí je nejlepší nápad, minimálně bude škoda těch dobrých názvů, které zlepšují popis boje.
 
 #### Boj a pohyb
 V originálním přehledu akcí jich ještě pár zbylo a některé z nich mají jedno společné, **pohyb**.
 Jakmile se řekne *pohyb*, obvykle se k tomu začne přilepovat i *rychlost* pohybu. Jakmile začneme řešit rychlost pohybu v něčem tak složitém, zmatkovitém a náhodném, jako je boj, tak se dostaneme tam, kde jsme před chvílí byli s *Bojem* coby *přesnými časovými úseky*.
-Přestože pravidla řeší [Rychlost](https://pph.drdplus.info/#rychlost) (coby kombinaci *Síly* a *Obratnosti*), tak v boji je tenhle údaj prakticky nepoužitelný, protože je to *stálá* rychlost ve víceméně *neměnném* prostředí, což se rozhodně nedá říct o boji, kde ti kdekdo chce podrazit nohy, bodnout tě do zad, vypálit do hruďi flek jak ze zapomenuté žehličky a tak všelijak podobně. Rychlost, tak jak je [uvedená v pravidlech pro hráče](https://pph.drdplus.info/#rychlost), se dá použít **až** když se vymaníš z boje (většina z nás tomu říká útěk, někteří třeba teleport).
+Přestože pravidla řeší [Rychlost](https://pph.drdplus.info/#rychlost) (coby kombinaci *Síly* a *Obratnosti*), tak v boji je tenhle údaj prakticky nepoužitelný, protože je to *stálá* rychlost ve víceméně *neměnném* prostředí, což se rozhodně nedá říct o boji, kde ti kdekdo chce podrazit nohy, bodnout tě do zad, vypálit do hrudi flek jak ze zapomenuté žehličky a tak všelijak podobně. Rychlost, tak jak je [uvedená v pravidlech pro hráče](https://pph.drdplus.info/#rychlost), se dá použít **až** když se vymaníš z boje (většina z nás tomu říká útěk, někteří třeba teleport).
 
 Fajn, takže v boji se všichni pohybují... jak rychle vlastně? Podle okolností, podle toho, jak jim boj sedl, podle toho kolik do pohybu věnují energie, prostě podle *na pohyb použitých bodů Boje*.
 
@@ -384,7 +388,7 @@ Fajn, takže v boji se všichni pohybují... jak rychle vlastně? Podle okolnost
 Pokud se ti podaří někoho překvapit, máš celé kolo pro sebe. Vážně? No, [podle původních pravidel ano](https://pph.drdplus.info/#prekvapeni), což je tak akorát, protože tím překvapený přijde o jednu akci (respektive se může pouze bránit tím, co má zrovna po ruce).
 Jenže teď, když může mít útočník třeba tři útoky za kolo, tak například do tebe jakožto překvapeného by bušil hlava nehlava a ty bys jen čekal, až mu dojde dech.
 
-Původní pravidla to myslela dobře, překvapení sebere překvapenému jeho akci krom sebeobrany, tedy cokoli, co není spontální, *instinktivní*. To už jsme tu měli, ne? Ale chce to dopilovat.
+Původní pravidla to myslela dobře, překvapení sebere překvapenému jeho akci krom sebeobrany, tedy cokoli, co není spontánní, *instinktivní*. To už jsme tu měli, ne? Ale chce to dopilovat.
 Jedna poctivá, pořádná akce zabere šest bodů *Boje*, takže pokud mi překvapení jednu takovou akci sebere, tak mám postih -6 k *Boji*. Zkusíme se teď zamyslet, jestli to bude stačit (tohle není školní příklad, kdy učitel chce zamyšlení od žáků a tlačí je do známého výsledku - když tyhle řádky píšu, tak to řešení opravdu neznám, prostě jen myslím nahlas).
 
 Běžná životní situace by mohla být třeba:
@@ -401,21 +405,21 @@ Mladík je překvapený a vyděšený, má -6 k *Boji*.
 Postarší sadař má celkem na *Boj* (třeba) sedm, mladík (třeba) devět, ale po započtení postihu -6 má mladík *Boj* jen tři.
  
 - sadař ohlásí akci *Běžím ke klukovi, abych ho chytil* a kluk ohlásí akci *Zdrhám jak o život*. Sadař to má ke klukovi pět metrů a *Boj* má větší, takže má první akci, spotřebuje pět bodů *Boje* na pohyb a už je u kluka... tak počkat, řekli jsme si, že *Boj* **neurčuje** pořadí akcí a akce se vyhodnocují až na konci *vlny akcí*
-- tak znova, sadař běží ke klukovi a obětuje pět bodů *Boje* na běh, aby se k nemu dostal. Kluk se v tu samou chvíli dá na útěk (no, řekněme, že o malilinkatou chvilku později, přeci jen je z toho paf, ale zas o dost svižněji, přeci jen je mladý) a věnuje tomu všechnu energii co má, tedy tři body *Boje*
-- na konci této *vlny akcí* se tedy sadař příbližil ke klukovi o pět mětrů, kluk se o tři vzdálil a jsou od sebe dva metry, teď můžou přijít na řadu další akce
+- tak znova, sadař běží ke klukovi a obětuje pět bodů *Boje* na běh, aby se k němu dostal. Kluk se v tu samou chvíli dá na útěk (no, řekněme, že o malilinkatou chvilku později, přeci jen je z toho paf, ale zas o dost svižněji, přeci jen je mladý) a věnuje tomu všechnu energii co má, tedy tři body *Boje*
+- na konci této *vlny akcí* se tedy sadař přibližil ke klukovi o pět metrů, kluk se o tři vzdálil a jsou od sebe dva metry, teď můžou přijít na řadu další akce
 - kluk už je bez bodů *Boje*, zato sadař je při chuti a zbývá mu jeden bod *Boje*, který by nejradši použil na chycení výrostka pod krkem, ale ještě na něj nedosáhne, tak se narychlo rozhodne na něj znova zařvat "Amtě!", což zadrmolí, jak je udýchaný a už už cítí klukův krk v prstech (prostě použil na akci s *volným soustředěním* namísto potřebných tří bodů *Boje* jen jeden)
 - v dalším kole už kluk *Boj* s přehledem vyhrává a zdrhá co mu síly stačí, k plotu to stihne s předstihem a sadaři tak unikne...
 - dlužno dodat, že sadař si došel pro hochovu mamku, takže z toho nakonec beztak byl sekec mazec a kluk měl zas o důvod víc opustit rodné hnízdo a jít na zkušenou
 
 #### Boj a délka zbraně
-Pokud máš *Boj* devět a nebezpečný lučištník je od tebe devět metrů, tak ho tohle kolo neohrozíš, protože i když všechny své body *Boje* dáš do pohybu... tak počkat, ohrozíš, prostě nacpeš osm bodů *Boje* do pohybu v první akci a ve druhé ti zbyde jeden bod *Boje* na útok... takže lučistník je od tebe deset metrů... tak počkat, to nacpeš do pohybu v první akci všech devět bodů *Boje* a zbyde ti druhá akce, sice bez bodů *Boje*, ale pořád můžeš zaútočit s postihem -6... takže lučistník je od tebe jedenáct metrů, dostaneš se k němu až ke konci kola a i když mu budeš funět do obličeje, tak na útok už ti energie nezbyde.
-Ovšem pokud máš v ruce třeba [dlouhou dýku](https://pph.drdplus.info/#tabulka_zbrani_jednorucni_zbrane) s délkou 1, tak... tak nic, protože to není délka v metrech, ale v "půlmetrech", takže ti dáme do ruky radši kopí s délkou čtyři, což jsou dva metry a najednou bys lučistníka po doběhnutí devíti metrů zase mohl poškádlit (z devíti metrů už se zbraní s dosahem dvou metrů dosáhneš na lučistníkův jedenáctý metr), byť s útokem -6, jelikož ti došly body *Boje*.
+Pokud máš *Boj* devět a nebezpečný lučištník je od tebe devět metrů, tak ho tohle kolo neohrozíš, protože i když všechny své body *Boje* dáš do pohybu... tak počkat, ohrozíš, prostě nacpeš osm bodů *Boje* do pohybu v první akci a ve druhé ti zbyde jeden bod *Boje* na útok... takže lučištník je od tebe deset metrů... tak počkat, to nacpeš do pohybu v první akci všech devět bodů *Boje* a zbyde ti druhá akce, sice bez bodů *Boje*, ale pořád můžeš zaútočit s postihem -6... takže lučištník je od tebe jedenáct metrů, dostaneš se k němu až ke konci kola a i když mu budeš funět do obličeje, tak na útok už ti energie nezbyde.
+Ovšem pokud máš v ruce třeba [dlouhou dýku](https://pph.drdplus.info/#tabulka_zbrani_jednorucni_zbrane) s délkou 1, tak... tak nic, protože to není délka v metrech, ale v "půlmetrech", takže ti dáme do ruky radši kopí s délkou čtyři, což jsou dva metry a najednou bys lučištníka po doběhnutí devíti metrů zase mohl poškádlit (z devíti metrů už se zbraní s dosahem dvou metrů dosáhneš na lučištníkův jedenáctý metr), byť s útokem -6, jelikož ti došly body *Boje*.
 
 Tím jsme se dostali k délce zbraně, která podle původních pravidel přidává bonus k *Boji*. Inu, v původních pravidlech proč ne, útok máš stejně jeden za kolo, takže útočit budeš pouze tou zbraní, co jsi na začátku popadnul, ale s právě popsanými změnami? Klidně tři útoky za kolo a každý s jinou zbraní (no dobře, "klidně" úplně ne, ale útok první zbraní, přezbrojení, útok druhou zbraní, zahození zbraně a útok holou pěstí borci zvládají).
 Navíc se délka zbraně jako bonus k *Boji* započítává dle původních pravidel vždy, i když je přílišná délka zbraně vlastně nevýhodná (v malých prostorách, když se nepřítel příliš "lepí" a podobně).
 Proto chceme délku zbraně jako bonus k *Boji* **zrušit**, [délky zbraní](https://pph.drdplus.info/#tabulka_zbrani_jednorucni_zbrane) upravit na metry (prostě původní zmenšíme na polovic) a délku zbraně tak využiješ pouze při útoku, aby sis zvýšil dosah a **ušetřil** nějaké body *Boje*.
 
-Zdánlině nám tohle *hapruje* u útočníků, kteří se ani **nehnou**, například voják s kopím by měl mít díky jeho délce výhodu proti jezdci s měčem, což ale popravdě má - jezdec totiž musí *spálit* body *Boje* na pohyb, na to aby se vůbec k vojákovi dostal, kdežto ten jen čeká a útok, obranu či dost možná oboje bude mít v plné síle (nehledě na finty, které se voják při výcviku s kopím naučil a kvůli kterým jezdec na konci kola dost možná zůstane s vyraženým dechem na zemi).
+Zdánlivě nám tohle *hapruje* u útočníků, kteří se ani **nehnou**, například voják s kopím by měl mít díky jeho délce výhodu proti jezdci s mečem, což ale popravdě má - jezdec totiž musí *spálit* body *Boje* na pohyb, na to aby se vůbec k vojákovi dostal, kdežto ten jen čeká a útok, obranu či dost možná oboje bude mít v plné síle (nehledě na finty, které se voják při výcviku s kopím naučil a kvůli kterým jezdec na konci kola dost možná zůstane s vyraženým dechem na zemi).
 
 Hnidopišský příklad:
 
@@ -430,19 +434,19 @@ Nejdřív si shrnu, co že jsem si to předtím myslel:
 
 - měl jsem dojem, že že práce s body Boje tak nějak sama vyřeší **všechny** situace podobné nájezdníkovi a pěšákovi
   - i když z části se tak stalo, protože kdy se asi tak stane, že bude mít jezdec čas si odkrokovat vzdálenost k pěšákovi, aby mu to *pěkně vyšlo* na nájezd
-- v hlavě mám hlavně scénu ze Statečného srdce, což je samozřejmě filmová scéna, ale zase dost uvěřitelná, kdy pěšáci dlouhou dobu čekají a dělají bezbrané a teprve v posledních okamžicích zvednou ze země skrytá kopí a nadělají paseku v řadách překvapených rytířů na koních
+- v hlavě mám hlavně scénu ze Statečného srdce, což je samozřejmě filmová scéna, ale zase dost uvěřitelná, kdy pěšáci dlouhou dobu čekají a dělají bezbranné a teprve v posledních okamžicích zvednou ze země skrytá kopí a nadělají paseku v řadách překvapených rytířů na koních
 
 Vlastně se pořád točím kolem té původní myšlenky, která je v pravidlech pro hráče, že délka zbraně dává prostou výhodu v dřívějším zásahu a které tak trochu věřím a zároveň cítím, že je to ve většině případů blbost.
 Takže, kdy to blbost není? Na rytířském turnaji, kdy se proti sobě řítí dva jezdi se dřevci, namířenými přesně proti sobě, kdy ani jeden neuhne z rány a kdyby měl některý dřevec delší, tak určitě zasáhne protivníka dříve. A pak třeba v úzké chodbě, kdy protivník prostě nemá kam uhnout a musí projít přes onu dlouho zbraň.
 A kdy to blbost je? V těch případech, kdy **je** kam uhnout, kdy se bojuje více pohybem, než statickými údery, což je **naprostá** většina boje.
-Takže dávát někomu bonus za dlouhou zbraň má smysl jen v těch několika málo situacích, kdy protivník vyloženě leze do rány. A to je i případ scény ze Statečného srdce, kdy si jezdci jedou pro zásah, protože už jsou prostě tak moc rozjetí a tak nahuštění, že nemají čas a prostor na manévrování a my takovou scénu můžeme prostě a jednoduše vyřešit postihem k Boji za **překvapení**.
+Takže dávat někomu bonus za dlouhou zbraň má smysl jen v těch několika málo situacích, kdy protivník vyloženě leze do rány. A to je i případ scény ze Statečného srdce, kdy si jezdci jedou pro zásah, protože už jsou prostě tak moc rozjetí a tak nahuštění, že nemají čas a prostor na manévrování a my takovou scénu můžeme prostě a jednoduše vyřešit postihem k Boji za **překvapení**.
 
 Takže co nám zbylo? ~~Bonus k Boji za délku zbraně~~ rušíme a opět se dostáváme k tomu, že délku zbraně má cenu řešit jen v případě, kdy potřebujeme zjistit *dosah* zbraně, tedy jestli na cíl dosáhneš.
 
 A co ten *Střeh se zbraní*? No, na začátku jsem měl pocit, že tahle finta nám zachrání zadek a vrátí zpět uvěřitelnost scénám jako vystřižených ze Statečného srdce, ale dopadlo to lépe, *Střeh se zbraní* není potřeba, tak na něj zatím kašleme.
 
 ### Příliš dlouhá zbraň
-Když už jsme u té délky zbraně, tak se nabízí ještě jeden problém k vyřešení. Co když mám příliš dlouhou zbraň? Co když jsem ponocný s halapartnou a lepí se na mě kurtyzána, ze které se záhy vyklube psychopatická vražedkyně s oblibou útočící perořízkem?
+Když už jsme u té délky zbraně, tak se nabízí ještě jeden problém k vyřešení. Co když mám příliš dlouhou zbraň? Co když jsem ponocný s halapartnou a lepí se na mě kurtizána, ze které se záhy vyklube psychopatická vražedkyně s oblibou útočící perořízkem?
 
 Nabízí se několik řešení:
 
@@ -451,12 +455,12 @@ Nabízí se několik řešení:
   - jenže pohyb je akce a když ustoupí, tak už zas nebude mít akci na útok...
   - může samozřejmě přezbrojit, nejsnáze zahozením současné zbraně a použitím pěstí (nebo nohou, to pak nemusí zahazovat nic)
 
-Neřešit to můžeme kdykoli, teď se zkusíme zaměřit na tu druhou možnost, na povinný pohyb nebo přezbrojění na vhodnější zbraň.
+Neřešit to můžeme kdykoli, teď se zkusíme zaměřit na tu druhou možnost, na povinný pohyb nebo přezbrojení na vhodnější zbraň.
 Přijde mi to jako pěkné zpestření boje, kdy se například zlodějové budou snažit dostat doslova na tělo svým protivníkům.
 
  - hrozí ale, že hra bude nutit hráče používat krátké a ještě kratší zbraně, aby jim pořád někdo nestál před nosem
 
-Také záložní možnost *přezbrojit na vhodnější zbraň*, což může být často zahození současné zbraně a použití pěstí, nebo třeba použítí kopí jako hole, či odkopnutí protivníka, mi přijdou jako zajíémavé koření boje.
+Také záložní možnost *přezbrojit na vhodnější zbraň*, což může být často zahození současné zbraně a použití pěstí, nebo třeba použití kopí jako hole, či odkopnutí protivníka, mi přijdou jako zajímavé koření boje.
 
 - nebezpečí hrozí, že se z toho stane rutina a namísto boje budeme hrát kopanou
 
@@ -465,19 +469,19 @@ To si žádá **testy**.
 ## Různý základ boje pro různá povolání
 > Každá odlišnost má stejný základ
 
-V Pravidlech pro hráče je pro [každé povolání jiný výpočet Boje](http://pph.drdplus.loc:88/#tabulka_boje).
+V Pravidlech pro hráče je pro [každé povolání jiný výpočet Boje](https://pph.drdplus.info/#tabulka_boje).
 Za léta hraní *DrD Plus* jsme si už dávno ty rozdílné výpočty ospravedlnili a vysvětlili, je přeci nad slunce jasné, že zloděj bude do každého svého pohybu vkládat své znalosti úskoků a podrazů, čaroděj do všeho půjde hlavou, kněz bude šířit auru svého přesvědčení a neoblomnosti a bojovník... ten to prostě vyřeší instinkty. A navíc, i když popravdě spíše *a hlavně*, to dává každému povolání přibližně stejné šance, stejnou velikost *Boje*.
 
 Nad tím se nyní snáší velké, temné **ale**.
 
-Takže čaroděj má stejnou šanci, že stihne seslat kouzlo, jako bojovník, že stihne máchnout mečem, zloděj, že stihne bodnout do ledvin, hraničář, že stihne zastřelit vše živé v okruhu deseti mil, theurg, že stihne rozhodit ruce a tím rozhodit nepřátele ohnivou koulí a kněz že... že... stihne spočítat své ovečky. V souboji jeden na jednoho, kdy oba soupeři používají **pouze** své speciální schopnosti, tak dobrý. Jenže pak vezme čaroděj do ruky kuši, bojovník svitek a vůbec začnou dělat něco mimo jejich specializaci a najednou ten základ *Boje* není tak samozřejmý. Nebo snad čaroděj promýšlí každou svou akci tak do hloubky, že jeho inteligence *stíhá* poziitvně ovlivňovat jeho pohyby? Bojovník dokáže svitek použít stejně rychle a přirozeně, jako své dvoubřité metrové holítko?
+Takže čaroděj má stejnou šanci, že stihne seslat kouzlo, jako bojovník, že stihne máchnout mečem, zloděj, že stihne bodnout do ledvin, hraničář, že stihne zastřelit vše živé v okruhu deseti mil, theurg, že stihne rozhodit ruce a tím rozhodit nepřátele ohnivou koulí a kněz že... že... stihne spočítat své ovečky. V souboji jeden na jednoho, kdy oba soupeři používají **pouze** své speciální schopnosti, tak dobrý. Jenže pak vezme čaroděj do ruky kuši, bojovník svitek a vůbec začnou dělat něco mimo jejich specializaci a najednou ten základ *Boje* není tak samozřejmý. Nebo snad čaroděj promýšlí každou svou akci tak do hloubky, že jeho inteligence *stíhá* pozitivně ovlivňovat jeho pohyby? Bojovník dokáže svitek použít stejně rychle a přirozeně, jako své dvoubřité metrové holítko?
 A co teprve připravované kombinace povolání, co takový dobrodruh s čarodějem na třetí úrovni a zlodějem na čtvrté? To bude mít základ Boje `((Int x 3 + Zrč x 4) / 7 + Obr) / 2` ? No, jestli chcete *DrD Plus Plus*, tak proč ne, ale my to nechceme, my chceme *DrD Plus Mínus*.
 
 Než začneme střílet nápady od boku jak *Lucky Luke*, tak se zamyslíme, k čemu ten základní *Boj* v původních pravidlech vlastně je: aby zkušenější dobrodruh mohl provést akci *dříve*, než nezkušený.
 A teď si zopakujeme, na co jsme v těch předchozích dlouhých řádcích už přišli: *Boj* už neurčuje pořadí akcí, pouze jejich počet.
 Takže původní potřeba, tedy rychlejší akce a tím dřívější efekt, odpadá a namísto ní je nová, byť obdobná - jak se bude zvyšovat počet akcí zkušeného dobrodruha a jestli vůbec.
 
-Začneme tím, jestli vůbec by se měl zvyšovat počet akcí s rostoucími zkušenostmi a základními vlastnostmi (Obratnost, Inteligennce...). Pokud se podívám na jeden z mála dostupných zdrojů skutečného boje v současnosti, což je bojový sport, třeba kickbox, tak mám zatraceně silý pocit, že i kdyby do ringu vlezl mistr světa ve skosku dalekém, který je na tom fyzicky určitě dobře, tak ho během pár chvil skolí průměrný kickboxer, protože prostě ví jak na to. A pokud proti sobě stojí unavený a odpočatý kickboxer, nebo zkušený a začátečník, tak je jasně vidět i převaha v počtu akcí, kdy bojovník , který je ve výhodě, si může dovolit mnohem více útoků, parádiček, hledání slabých míst, prostě z toho mám silný dojem, že větší zkušenosti, nebo lepší stav těla i duše **zvyšují** body *Boje*. Takže počet akcí, respektive *Boj* by se zvyšovat měl (nehledě na to, že to spousta hráčů ve své honbě za božstvím očekává).
+Začneme tím, jestli vůbec by se měl zvyšovat počet akcí s rostoucími zkušenostmi a základními vlastnostmi (Obratnost, Inteligence...). Pokud se podívám na jeden z mála dostupných zdrojů skutečného boje v současnosti, což je bojový sport, třeba kickbox, tak mám zatraceně silý pocit, že i kdyby do ringu vlezl mistr světa ve skoku dalekém, který je na tom fyzicky určitě dobře, tak ho během pár chvil skolí průměrný kickboxer, protože prostě ví jak na to. A pokud proti sobě stojí unavený a odpočatý kickboxer, nebo zkušený a začátečník, tak je jasně vidět i převaha v počtu akcí, kdy bojovník , který je ve výhodě, si může dovolit mnohem více útoků, parádiček, hledání slabých míst, prostě z toho mám silný dojem, že větší zkušenosti, nebo lepší stav těla i duše **zvyšují** body *Boje*. Takže počet akcí, respektive *Boj* by se zvyšovat měl (nehledě na to, že to spousta hráčů ve své honbě za božstvím očekává).
 
 Fajn, a jak moc budeme *Boj* zvyšovat? A čím?
 Už jsme nakousli, že chceme možnost více povolání pro jediného dobrodruha. Kněz šmrncnutý bojovníkem líznutý hraničářem, který začínal jako zloděj.
@@ -502,15 +506,31 @@ Kdo má vyšší *Zručnost*, má vyšší *Útok* a tím jistější šanci na 
 
 ## Velikost a vliv na boj
 
+V původních pravidlech [ovlivňuje *Výška* postavy její *Boj*](https://pph.drdplus.info/#oprava_boje_za_vysku). Přemýšleli jsme, co tím chtěl básník říci a vyšlo nám, že i my s tím pocitově souhlasíme, protože přece dlouhá ruka velkýho chlapa dříve trefí hlavu zákrska, než obráceně.
+No, asi jo. Jenže boj není o bezhlavém bušení do hlav a záprdek má spoustu jiných možností, jak s urostlým mezulánem vést souboj, ve kterých mu malý vzrůst může přinést i výhodu. A hlavně... to s tou délkou zbraně (v tomhle případě těla) už jsme tu měli, ne? Takový ten rytířský turnaj a různě dlouhé dřevce. Prostě dobré v laboratoři, špatné ve zběsilém boji.
+
+- *Velikost* **nebude** ovlivňovat *Boj*
+
+## Velikost terče a vliv na zásah
+Když už jsme u té velikosti, rozlouskneme ještě jednu situaci, ve které se [*Velikost* počítá a to šance na zásah zbraní na dálku](https://pph.drdplus.info/#oprava_za_velikost).
+Za prvé, proč to neplatí i pro boj na blízko? Že má přerostlý obránce šanci se bránit? Zkoušeli jste se někdy bránit naštvanému krysaříkovi? Nebo ještě hůře, kryse zahnané do kouta?
+Za druhé, vážně to dává bonus k Útoku?
+
+V původních pravidlech berou cíl jako terč, do kterého je samozřejmě snazší se trefit, když je větší. Jo, to je. Ale to se hodí vědět tak pro střelbu otráveným šípem.
+Čím větší nepřítel, tím těžší je proniknout k jeho důležitým orgánům, tím menší jsou konečné následky zranění. Jistě, tohle řeší *Odolnost* a *Obrana* nepřítele, ale v porovnání se změnou Útoku podle *Velikosti* cíle je vliv *Odolnosti* a *Obrany* mnohem větší a řešit k tomu všemu ještě zda mám o něco málo větší šanci na zásah (nikoli na zranění) střelnou zbraní nám přijde jako **zbytečná** administrativní zátěž kvůli honbě za realističností.
+
+Ještě o tom budeme přemýšlet, je tu i návrh na staré dobré abecední dělení velikostí na A (hobit a menší), B (něco jako člověk), C (kroll až obr), D (velryba, drak) E...eee? Což by dávalo postihy -1, 0, +1, +2.
+Zapaříme, uvidíme. 
+
 ## Hra se skrytými akcemi
 > Život bez překvapení je jako vtip bez pointy
 
 Na začátku je dobré hlásit všechny akce všem, aby vám nový způsob boje přešel do krve.
 
-Až se na to ale budete cítít, můžete si ale zkusit zajímavější formu hlášení akcí, skrytě. Pokud nejste sehraní bojovníci, nebo jste si prostě nedomluvili akce předem, tak můžete akce napsat na lístečky a položit je lícem dolů **před cíl** (akce se často opakují, takže za chvíli budeš mít balíček většiny akcí už připravený).
-Tím budete tušit, kam kdo směřuje svou pozornost, ale budete se na vzájem překvapovat, co že to ten druhý zas vymyslel. Nehledě na Pána jeskyně, kterého by tak hra mohla více bavit, když už se nebude muset snažit tvářit, jako že o plánech družiny neví a že reaguje přirozeně.
+Až se na to ale budete cítit, můžete si ale zkusit zajímavější formu hlášení akcí, skrytě. Pokud nejste sehraní bojovníci, nebo jste si prostě nedomluvili akce předem, tak můžete akce napsat na lístečky a položit je lícem dolů **před cíl** (akce se často opakují, takže za chvíli budeš mít balíček většiny akcí už připravený).
+Tím budete tušit, kam kdo směřuje svou pozornost, ale budete se navzájem překvapovat, co že to ten druhý zas vymyslel. Nehledě na Pána jeskyně, kterého by tak hra mohla více bavit, když už se nebude muset snažit tvářit, jako že o plánech družiny neví a že reaguje přirozeně.
 
-## Shrnuntí
+## Shrnutí
 
 - na začátku boje mám *Boj* 6 + opravy (hlavně podle zbraně a použité vlastnosti) + 1k6+-
 - ~~každé kolo se mi *Boj* resetuje na hodnotu v prvním kole~~
@@ -529,13 +549,13 @@ Tím budete tušit, kam kdo směřuje svou pozornost, ale budete se na vzájem p
   - mezi pohyb se nepočítá výpad vpřed a opětovné ustoupení na původní pozici, ani vzájemné kroužení, ale o posun mimo původní středobod, aniž bys dal protivníkovi záminku k nějaké výhodě
 - "zadarmo" se můžu kdykoli dát do běhu plnou Rychlostí (útěk, pronásledování), ale u takového pohybu mám -6 ke všem činnostem od "teď" do konce příštího kola (ztratím kontakt s bojem) a během současné *vlny akcí* se vystavuju nebezpečí, že mě někdo zraní, podrazí nohy a podobně
   - bývá proto taktické nejdříve se opatrně vzdálit Pohybem (1 bod *Boje* za jeden metr) a teprve až když by nepřítel musel k tobě překonat tak velkou vzdálenost, že na útok mu už moc nezbude a bude bezzubý, tak se dát na útěk
-    > "sedlák Pecivál zpanikaří, protože liška na nej dotírá nepřírozeně a beze strachu a dá se proto v půlce svého kola na nepromyšlený úprk, takže po své první akci, kdy spotřeboval 6 bodů *Boje* a zbývají mu 3, tyto 3 body *Boje* zahazuje a až do konce příštího kola má ke všemu kromě pohybu postih -6, tedy hlavně k Obranně. Kdyby trochu přemýšlel, tak by nejdříve použil 3 body *Boje* na posun o 3 sáhy a teprve poté se dal na útěk. Dlužno dodat, že lišku tím přestal zajímat, protože od začátku chtěla pouze jeho svačinu pro svá hladová liščata."
+    > "sedlák Pecivál zpanikaří, protože liška na něj dotírá nepřirozeně a beze strachu a dá se proto v půlce svého kola na nepromyšlený úprk, takže po své první akci, kdy spotřeboval 6 bodů *Boje* a zbývají mu 3, tyto 3 body *Boje* zahazuje a až do konce příštího kola má ke všemu kromě pohybu postih -6, tedy hlavně k Obranně. Kdyby trochu přemýšlel, tak by nejdříve použil 3 body *Boje* na posun o 3 sáhy a teprve poté se dal na útěk. Dlužno dodat, že lišku tím přestal zajímat, protože od začátku chtěla pouze jeho svačinu pro svá hladová liščata."
   - ten útěk to chce ještě promyslet
     - co například, že by mu to až na příští kolo dalo bonus +6 k *Boji*, aby byl rychlejší v reakcích, ale nemohl by provést nic jiného, než onen útěk?
     - na útěku tvor *je* (odpoutání z boje se mu povedlo *když*) ho nikdo před útěkem nezranil či jinak nezastavil (podražení nohou, chycení do lasa či bičem)
     - pronásledování bude to samé?
     - hned první kolo bude počítat svou plnou Rychlost, nebo se první kolo bude počítat vzdálenost podle jeho *Boje* (s +6 bonusem za nahlášený útěk?), takže na jeho útěk může kdokoli zareagovat a pronásledovat ho a až potom bude prchat plnou Rychlostí?
-    > "Liška se nechala sedlákovým úprkem trochu překvapit, ale ukolíbaná úspěchem z ulovené svačiny se v klidu zakousla do voskovaného papíru, aby zjistila, že je prázdný a po salámu už jen voněl, v hlavě jí vyskočilo kňučení hladových liščat a s vrčením s vrhla za sedlákem. Sedlák má tedy díky nahlášenému útěku bonus +6 k *Boji* a díky tomu bude na konci tohoto kola daleko 9 + 6 = 15 metrů a pokud ho liška v tomto kole nekousne či alespoň nechytne za nohavici, tak už půjde o závod jejich nohou, ale hlavně se tím sedlák začne nebezpečně přibližovat k vesnici. Liška proto začne s pronásledováním a svých 13 bodů *Boje* použije na pronásledování, protože neví, že sedláka toto kolo nedožene a je tudíž na konci kola kousek za ním, takže sedlák se dostante do tempa a začne závod nohou (ve kterém je liška ve výhodě, takže se situace bude zřejmě opakovat, dokud jeden z nich nedosáhne úspěchu - liška jídla a sedlák klidu)"
+    > "Liška se nechala sedlákovým úprkem trochu překvapit, ale ukolíbaná úspěchem z ulovené svačiny se v klidu zakousla do voskovaného papíru, aby zjistila, že je prázdný a po salámu už jen voněl, v hlavě jí vyskočilo kňučení hladových liščat a s vrčením s vrhla za sedlákem. Sedlák má tedy díky nahlášenému útěku bonus +6 k *Boji* a díky tomu bude na konci tohoto kola daleko 9 + 6 = 15 metrů a pokud ho liška v tomto kole nekousne či alespoň nechytne za nohavici, tak už půjde o závod jejich nohou, ale hlavně se tím sedlák začne nebezpečně přibližovat k vesnici. Liška proto začne s pronásledováním a svých 13 bodů *Boje* použije na pronásledování, protože neví, že sedláka toto kolo nedožene a je tudíž na konci kola kousek za ním, takže sedlák se dostane do tempa a začne závod nohou (ve kterém je liška ve výhodě, takže se situace bude zřejmě opakovat, dokud jeden z nich nedosáhne úspěchu - liška jídla a sedlák klidu)"
 
 
 #### Bič
