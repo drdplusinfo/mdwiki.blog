@@ -143,3 +143,10 @@ Pořád nemáš dost? Cheš další marky, více odchylek, jiné nározy? Pokra�
 - [Rasa jako charakterový rys na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=192&t=14881)
 
 Nápady od dalších hráčů:
+
+- Taktik (stratég)
+- Zženštilý (mužatka)
+- Zmatkař
+- Učenec
+- Důvěřivec (Naivka)
+- Exhibicionista
