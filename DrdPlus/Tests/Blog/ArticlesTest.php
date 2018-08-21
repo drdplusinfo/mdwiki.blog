@@ -59,7 +59,7 @@ class ArticlesTest extends TestCase
         $folders = \array_filter(
             $folders,
             function (string $folder) {
-                return $folder !== '..' && $folder !== '.' && $folder !== 'WIP'; // work in progress
+                return !\in_array($folder, ['..', '.', 'WIP', 'drakkar'], true);
             }
         );
         $relativeParentDir = '';
