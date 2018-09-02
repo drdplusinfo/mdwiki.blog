@@ -142,13 +142,35 @@ Vidíme to stejně a taky jsme pravidla nepoužívali, přestože byly situace, 
 > Lov- nároky jsou hrozně malý, nezabírá téměř žádnej čas a na samotný dovednosti téměř vůbec nezáleží. Bez určitýho vybavení by určitej druh úlovku vůbec neměl bejt možnej.
 
 V tomhle se názorově (nebo herními zážitky) rozcházíme. Jídlo v divočině sháníme pravidelně a jelikož Pán jeskyně je pes, tak byla zvířata často vyplašená, nebo se jim na poušti prostě nechtělo být, nebo se jim nechtělo lézt na hroské štíty a podobně (úpravy [Předpokladů lovu](https://pph.drdplus.info/#priprava_na_lov)), takže jsme mnohdy po hodinách stopování skončili s krysou, kterou jsme před slabšími šleny vydávali za sysla.
+I když asi zrovna tohle v pravidlech chybí, přehled situací, kdy lov nepůjde podle představ. 
 
-Přčsto tam změny plánujeme a to mírné zjednodušení a více příkladů, hlavně co s tím, když hrdina vyrazí lovit jelena a nezdaří se, ale číselně by mohl donést alespoň hrst žížal a dva křeny.
+Plánujeme mírné zjednodušení a více příkladů, například co s tím, když hrdina vyrazí lovit jelena a nezdaří se, ale číselně by mohl donést alespoň hrst žížal a dva křeny.
 
-Také chceme přidat přehled jídla, což už je vlastně nakousnuté 
+Také chceme přidat přehled kvality jídla, což už je vlastně nakousnuté v [kvalitě úlovku](https://pph.drdplus.info/#tabulka_ulovku), kde ovšem chybí postih, když jsi *úplně ohladu*. Protože obzvlášť v divočině je jedna věc něco ulovit, ale druhá z toho pak udělat jídlo, které se dá rozžvýkat a pozřít.
 
-> 9) Dovednosti- druhej stupeň by měl bejt za 2 a třetí za 3 body a omezený na úrovně (druhej po II. úrovních používání a III. po třech). Etikety by měli mýt rovnou bonus k Krs a Dus. 
+> 9) Dovednosti- druhej stupeň by měl bejt za 2 a třetí za 3 body a omezený na úrovně (druhej po II. úrovních používání a III. po třech).
+
+S tou "cenou" dovedností to cítíme stejně, s omezením na úrovně dost váháme. Ne že by nás to nenapadlo, ale za prvé to vezme svobodu (a zdopovědonost) hráčům připravit si svou postavu podle jejího dosavadního životního příběhu a za druhé chceme význam obecných dovedností trochu srazit tím, že na nich budou stavět jednotlivá povolání, takže třeba [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani) na třetím stupni už nebude *"poslední možný stupeň pro bojovníka"*, ale začátek.
+
+> Etikety by měli mít rovnou bonus k Krs a Dus.
+
+To jsi narazil na obecný problém původních pravidel DrD Plus a tím je zaokrouhlování. Zatraceně hodně čísel se musí spočítat jako průměr, takže hráč často tápe, co všechno a o kolik se mu změnilo, když se mu změnila základní vlastnost, pro [Etikety](https://pph.drdplus.info/#etiketa_podsveti) tedy *Charisma*.
+Pohráváme si s myšlenkou, že vlastnosti krásu (v pravidlech není číselně použita nikde), důstojnost (používá ji [jen hraničář](https://hranicar.drdplus.info/#bojove_akce)) a nebezpečnost (používá se docela dost, ale kdo by se s ní počítal) zrušíme a necháme to na hráčích, aby si obhájili své vysoké vedlejší vlastnosti.
+
+Pokud bychom ale tyhle vlastnosti zachovali, tak souhlasíme, že [Společenská etiketa](https://pph.drdplus.info/#spolecenska_etiketa) a [Etiketa podsvětí](https://pph.drdplus.info/#etiketa_podsveti) by rovnou měly k těmto vlastnostem přidávat jasný bonus, ať to v klíčových herních situacích nezdržuje. 
+
 > 10) Ceník- Vycházeli jste z celkem dobrejch zdrojů ale zachoval bych jako základní oběživo stříbrňáky (měďáky sou jinak úplně k ničemu)
-> Dodatky- při každym rozhovoru by se mělo házet na Krs/Dus/Neb, postavy by si neměly určovat vlastní strach, před bojem a v děsivejch situacích by se měla porovnávat Neb (+zbraně a počet) se Neb... nepřítele=bonusy, omezení, útěk.
+
+Ono na ceník je několik stížností. Je málo obsáhlý, ceny jsou zvláštní, hodnoty mincí jeden zlaťák je deset stříbrných a jeden stříbrný je deset měděných dostává v každé ekonomice na frak...
+
+- na další položky ceníku máme spoustu nápadů, tam půjde hlavně o to to nepřehnat (líbí se mi myšlenka udržovat základní ceník a další jako dodatky stranou)
+- pokud bychom zahodili měďáky a nechali jen stříbrňáky, tak by jeden stříbrňák musel mít hodnotu jako naše současná koruna, což je asi tak jeden krajíc chleba, jenže [chleba stojí](https://pph.drdplus.info/#bochnik_chleba) podle současného ceníku tři stříbrné, což je třicet mědených, což je jeden a půl měďáku za krajíc. Problém totiž nejsou ani tak měďáky, jako spíše luxus, ve kterém dříve nebo později hrdinové žijí a měďáky tak v **jejich** stylu života nemají místo. Zatím ještě nevíme co s tím, je tu zatím jen návrh na větší poměr zlaťák / stříbrňák / měďák (třeba 1 zl = 100 st = 10 000 md), ikdyž mě by se spíše líbily konkrétnější mince, jako groš, dukát, tolar, ale to zas nesedí jiným.
+  - poznámka: zkoušeli jste někdy odnést poklad, jenž generace střádaly v měďácích? A co místa, kde prostě zlaťák nevezmou, protože ho v životě neviděli a neví, jak ověřit, že je pravý?
+
+> Dodatky- při každym rozhovoru by se mělo házet na Krs/Dus/Neb
+
+
+
+> postavy by si neměly určovat vlastní strach, před bojem a v děsivejch situacích by se měla porovnávat Neb (+zbraně a počet) se Neb... nepřítele=bonusy, omezení, útěk.
 Mělo by existovat samotný psychický zranění, který se s fyzickým nesčítá.
 
