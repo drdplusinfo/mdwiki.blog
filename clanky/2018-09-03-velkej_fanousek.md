@@ -1,5 +1,7 @@
 # Velkej fanoušek
 
+*3. 9. 2018*
+
 [Húskarlar](https://huskarlar.blogspot.com/) alias [Paul](https://rpgforum.cz/forum/memberlist.php?mode=viewprofile&u=26586) si dal u práci a sestavil [krátký dotazník o DrD Plus](https://huskarlar.blogspot.com/2018/08/dotazniky-pro-ne-hrace-drd.html), za což mu děkuji.
 
 A krom odpovědí na dotazník se nám urodil ještě bonus, sáhodlouhý Cyrilův popis toho, co ho na [Dračím doupěti plus](https://www.drdplus.info) pálí.
@@ -15,19 +17,21 @@ jsem velkej fanoušek, ale mám ke hře pár připomínek.
 
 > Na hře se mi předevšim líbí smysl pro detail a velká svoboda hráčů i PJ (neni to pouze bezduchá mlátička jako jiný RPG)
 
-## Příručka pro hráče
-
-### Tvorba postavy
+## Tvorba postavy
 
 > 1\) Tvorba postavy- V zásadě tu nevidim moc problém, ale na to jak velkou svobodou rozhodování se DrD+ vyznačuje, bych rozdělení povolání úplně zrušil a nahradil ho jednotlivejma dovednostma. Hlavní vlastnosti nejsou velkej problém, ale Zloděj nemá Chr...
 
-Nahradit kompletně povolání pouze dovednostmi, ze kterých by si tak hráč mohl dle libosti vybírat a kombinovat ostrostřelce s čarodějem, to si nedovolíme. I tak by tam musela být nějaká omezení, aby hráči nevyzobávali jen ty nejvražednější a nepříliš uvěřitelné kombinace (někdo by si mohl říct, tak ať zobou, když je Pán jeskyně nechá, jenže jak víme, tak mnozí hráči jsou nenasytní a nějaký roleplaying je moc nevzrušuje, jak i ty uvádíš na tak prosté věci jako je *Dovednost se zbraní* [níže](#Dovednosti)). Řešením by byl třeba strom dovedností, které by tak navazovaly jedna na druhou, potom mi ale mizí ta volnost výběru a už od začátku musím pečlivě zvažovat, ve kterých dovednostech se budu zlepšovat, abych se dostal k těm vyšším. I teď to tak sice je, třeba u zloděje, ale ta provázanost je tam popravdě malá, než jak by to musely řešit *"dovednosti všeho pro všechny"*.
+Nahradit kompletně povolání pouze dovednostmi, ze kterých by si hráč mohl dle libosti vybírat a kombinovat ostrostřelce s čarodějem, to si nedovolíme. I tak by tam musela být nějaká omezení, aby hráči nevyzobávali jen ty nejvražednější a nepříliš uvěřitelné kombinace
+
+ - někdo by si mohl říct, *tak ať zobou, když je Pán jeskyně nechá*, jenže jak víme, tak mnozí hráči jsou nenasytní a nějaký roleplaying je moc nevzrušuje, jak i ty uvádíš na tak prosté věci jako je *Dovednost se zbraní* [níže](#Dovednosti)
+ 
+Řešením by byl třeba strom dovedností, které by tak navazovaly jedna na druhou, potom mi ale mizí ta volnost výběru a už od začátku musím pečlivě zvažovat, ve kterých dovednostech se budu zlepšovat, abych se dostal k těm vyšším. I teď to tak sice je, třeba u zloděje, ale ta provázanost je tam popravdě malá, než jak by to musely řešit *"dovednosti všeho pro všechny"*.
 
 Na druhou stranu, plánujeme kombinace povolání, takže co se schopností různých povolání týče, tak na ty základní může dosáhnout každá postava.
 
-A s tím *Charisma*... no, už teď je to zvyšování hlavních a vedlejších vlastností docela administrativní zátěž (kdo si nepoznamenal, co si zvýšil minule, tak bude tápat a nakonec to *"nějak odhadne"*), takže bůhví, jestli vůbec budeme vlastnosti dělit na nějaké hlavní a vedlejší.
+A s tím *Charisma*... no, už teď je to zvyšování hlavních a vedlejších vlastností docela administrativní zátěž (kdo si nepoznamenal, co si zvýšil minule, tak bude tápat a nakonec to *"nějak odhadne"*), takže bůhví, jestli vůbec budeme vlastnosti dělit na nějaké hlavní a vedlejší, vypočítané.
 
-Dlužno dodat, že na [Gameconu](https://gamecon.cz/) byla ještě jedna parta, která vyvíjí DrD+ 2, ale relativně potichu a ti se dávají cestou stromu dovedností, v čemž jim držím palce a obdivuji jejich odvahu do takového systému jít.
+Dlužno dodat, že na [Gameconu](https://gamecon.cz/) byla ještě jedna parta, která vyvíjí DrD+ 2, ale relativně potichu a ti se dávají cestou stromu dovedností, v čemž jim držím palce a obdivuji jejich odvahu do takového systému jít (drby o ní přidám jindy).
 
 > Body zázemí sou celkem dobře rozdělený, ale hráči maj tendenci ignorovat původ a majetek v naději, že si oboje zlepšej, mělo by bejt zdůrazněno, že původ bude pro NPC zásadní (tedy jako ve stavovské společnosti)
 
@@ -38,21 +42,14 @@ Souhlas. Tohle bude ještě oříšek, dobře popsat a případně vymyslet něj
 - jaký to vlastně je ten nemovitý majetek
 - v jakých asi spolcích a gildách je členem a co z toho může mít za výhody a podobně
 
-### Dovednosti
+## Dovednosti
 > Obrovský problém jsou dovednosti. Hráči by neměli mít možnost si brát na začátku větší stupeň než I. Mají tendenci si brát Boj s... (maj představu, že RPG je hlavně o boji) stereotypně s jednou zbraní na III, i když to nedává pro jejich postavu příliš smysl. Hráči potom začínají s minimem dovedností a představou, že "zpívat a vařit umí přece trochu každej".
 
-Jo. Je to dáno i stylem hraní, naše parta například považuje [Vaření](https://pph.drdplus.info/#vareni) a [Lov a rybolov](https://pph.drdplus.info/#lov_a_rybolov) za naprosto zásadní, protože tak často cestujeme a jídla se nám tak často nedostává, že umět uvařit pouštního červa je otázka života a smrti, ale pravdou je, že dovednosti jsou mnohdy dost silné a snadno u nich postava dosáhne maxima.
+Jo. Je to dáno i stylem hraní, naše parta například považuje [Vaření](https://pph.drdplus.info/#vareni) a [Lov a rybolov](https://pph.drdplus.info/#lov_a_rybolov) za naprosto zásadní, protože tak často cestujeme a jídla se nám tak často nedostává, že umět uvařit pouštního červa je otázka života a smrti, ale pravdou je, že dovednosti jsou mnohdy dost silné a **snadno** u nich postava dosáhne maxima.
 
-Jmenovitě ten [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani), sice je v úvodu dovedností zmíněno, že to jsou dovednosti obecné, dostupné běžným obyvatelům, ale obratem je tam dovednost [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani), kterou už žádné další povolání víc nerozvíjí, takže je to vlastně pro boj ultimátní dovednost.
+Jmenovitě ten [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani)... sice je v úvodu dovedností zmíněno, že to jsou dovednosti obecné, dostupné běžným obyvatelům, ale obratem je tam dovednost [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani), kterou už žádné další povolání víc nerozvíjí, takže je to vlastně pro boj ultimátní dovednost.
 
-Plánujeme něco v tom smyslu, co zmiňuješ, tedy další stupně dovedností "dražší" a zároveň chceme přidat ještě navazující dovednosti u povolání - například bojovník se bude moci učit [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani) na vyšší, než třetí stupeň (a taky navazující speciální dovednosti, aby to nebylo jen o číslech).
-
-> 2) Zkušenosti a úrovně- Velice obdivuju rozdělování Zk, dělá hru mnohem zajímavější, ale pátá kategorie mi připadá trochu zbytečná. Problém je, že i při minimálních cca 5 Zk na dobrodružství je přechod na další úrověň hrozně rychlej. Hráči přijdou do vesnice tam za 4 sezení něco vyřešej a už maj dost Zk.
-Osobně bych úrovně úplně zrušil, ale měly by se nějak shodovat s věkem postavy. Problém vidim ve zvyšování vlastností za celej (úspěšnej) život si postava zvýší hlavní vlastnosti o +10, což je hrozně moc.
-
-Nám zas přijde rozdělování zkušeností nepříliš šťastné, protože pak mezi (nevyzrálými) hráči vzniká rivalita, *"jak to že ten druhý dostal víc"?* Plánujeme současný systém sice zachovat, ale přidat ještě další možnosti ve smyslu *"Pán jeskyně bude dávat všem stejně"* a *"Pán jeskyně po čase rozhodne, že jste uzráli na další úroveň"* (a zkušenosti jako číslo se pak neřeší).
-
-S těmi základními vlastnostmi to bude ještě trochu oříšek, ale měnit jejich zvyšování po úrovních budeme.
+Plánujeme něco v tom smyslu, co zmiňuješ, tedy další stupně dovedností *"dražší"* a zároveň chceme přidat ještě navazující dovednosti u povolání - například bojovník se bude moci učit [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani) na vyšší, než třetí stupeň (a taky navazující speciální dovednosti, aby to nebylo jen o číslech).
 
 > 9\) Dovednosti- druhej stupeň by měl bejt za 2 a třetí za 3 body a omezený na úrovně (druhej po II. úrovních používání a III. po třech).
 
@@ -60,43 +57,56 @@ S tou *"cenou"* dovedností to cítíme stejně, ale s omezením na úrovně dos
 
 > Etikety by měli mít rovnou bonus k Krs a Dus.
 
-To jsi narazil na obecný problém původních pravidel DrD Plus a tím je zaokrouhlování. Zatraceně hodně čísel se musí spočítat jako průměr, takže hráč často tápe, co všechno a o kolik se mu změnilo, když se mu změnila základní vlastnost, pro [Etikety](https://pph.drdplus.info/#etiketa_podsveti) tedy *Charisma*.
-Pohráváme si s myšlenkou, že vlastnosti krásu (v pravidlech není číselně použita nikde), důstojnost (používá ji [jen hraničář](https://hranicar.drdplus.info/#bojove_akce)) a nebezpečnost (používá se docela dost, ale kdo by se s ní počítal) zrušíme a necháme to na hráčích, aby si obhájili své vysoké vedlejší vlastnosti.
+To jsi narazil na obecný problém původních pravidel DrD Plus a tím je zaokrouhlování. Zatraceně hodně čísel se musí spočítat jako průměr, takže hráč často tápe, co všechno a o kolik se mu změnilo, když se mu změnila základní vlastnost, což je pro [Etikety](https://pph.drdplus.info/#etiketa_podsveti) *Charisma*.
+Pohráváme si s myšlenkou, že odvozené vlastnosti *Krásu* (v pravidlech není číselně použita nikde), *Důstojnost* (používá ji [jen hraničář](https://hranicar.drdplus.info/#bojove_akce)) a *Nebezpečnost* (používá se docela dost, ale kdo by se s ní počítal) zrušíme a necháme to na hráčích, aby si slovně obhájili své vysoké vedlejší vlastnosti.
 
-Pokud bychom ale tyhle vlastnosti zachovali, tak souhlasíme, že [Společenská etiketa](https://pph.drdplus.info/#spolecenska_etiketa) a [Etiketa podsvětí](https://pph.drdplus.info/#etiketa_podsveti) by rovnou měly k těmto vlastnostem přidávat jasný bonus, ať to v klíčových herních situacích nezdržuje. 
+Pokud bychom ale tyhle vlastnosti zachovali, tak souhlasíme, že [Společenská etiketa](https://pph.drdplus.info/#spolecenska_etiketa) a [Etiketa podsvětí](https://pph.drdplus.info/#etiketa_podsveti) by rovnou měly k těmto vlastnostem přidávat jasný bonus, ať to v klíčových herních situacích nezdržuje.
 
-### Hraní postavy
-> 3\) Hraní postavy- pokud si hráči mohou sami vybrat, mají tendenci vytvářet dost nezajímavé stereotypy, bojovník, co rád bojuje a měl by zato dostávat Zk, je podle mě nic moc. Charakterník je super, ale měl by bejt nějak závaznej (hráči jsou při hraní dost selektivní) a měl by se shodovat se skrytostí citů a pocitů u kněze (hráč by neměl mít na vybranou jestli uteče před pavoukem, kterýho se má bát, popřípadě by za to měl bejt penalizovanej).
+
+## Zkušenosti
+> 2\) Zkušenosti a úrovně- Velice obdivuju rozdělování Zk, dělá hru mnohem zajímavější, ale pátá kategorie mi připadá trochu zbytečná. Problém je, že i při minimálních cca 5 Zk na dobrodružství je přechod na další úrověň hrozně rychlej. Hráči přijdou do vesnice tam za 4 sezení něco vyřešej a už maj dost Zk.
+Osobně bych úrovně úplně zrušil, ale měly by se nějak shodovat s věkem postavy. Problém vidim ve zvyšování vlastností za celej (úspěšnej) život si postava zvýší hlavní vlastnosti o +10, což je hrozně moc.
+
+Nám zas přijde rozdělování zkušeností nepříliš šťastné, protože pak mezi (nevyzrálými) hráči vzniká rivalita, *"jak to že ten druhý dostal víc"?* Plánujeme současný systém sice zachovat, ale přidat ještě další možnosti ve smyslu *"Pán jeskyně bude dávat všem stejně"* a *"Pán jeskyně po čase rozhodne, že jste uzráli na další úroveň"* (a zkušenosti jako číslo se pak neřeší).
+
+S těmi základními vlastnostmi to bude ještě trochu oříšek, ale měnit jejich zvyšování po úrovních budeme.
+ 
+> 3\) Hraní postavy- pokud si hráči mohou sami vybrat, mají tendenci vytvářet dost nezajímavé stereotypy, bojovník, co rád bojuje a měl by zato dostávat Zk, je podle mě nic moc.
+
+To je zas k systému rozdělování zkušeností, který nám nepřijde moc rozumný a chceme proto přidat další styly a současný upozadit.
+
+## Hraní postavy - charakterník
+> Charakterník je super, ale měl by bejt nějak závaznej (hráči jsou při hraní dost selektivní) a měl by se shodovat se skrytostí citů a pocitů u kněze (hráč by neměl mít na vybranou jestli uteče před pavoukem, kterýho se má bát, popřípadě by za to měl bejt penalizovanej).
 
 Udělat dobrou podporu v pravidlech pro hraní rolí a přitom nic nenařizovat, nenutit hráče za každou cenu být rozumní, to je přetěžký úkol. Ale nějaké nápady máme a zřejmě přidáme i nějaké pravidlové bonusy, které bude mít pod palcem Pán jeskyně (vzhledem k úpravám v podstatě magie by například čaroděj mohl za dobré hraní postavy a prožití strachu z pavouka dostat jeden bod magenergie).
 
-### Činnosti a hody
+## Činnosti a hody
 > 3\) Činnosti a hody- kapitola je v zásadě logická, ale neuvěřitelně složitá a frustrující. Čísla jsou neuvěřitelně abstraktní a, pokud postava provádí činnost třeba týden, už vlastně nezáleží na hodu a na předpokladech postavy. Celé situaci moc nepomáhá, že se všemi bonusy a vlastnostmi je rozdíl mezi na 1. a třeba 5. úrovni úplně propastný a je těžké odhadnout, kde by měl být základní úspěch. Navrhoval bych sjednotit tabulku úspěchů/neúspěchů/katastrofálních neúspěchů... pro všechny činnosti (třeba 0/10/20/40) a čas řešit až následně.
 
 Souhlas, tohle budeme pitvat a rozkládat na atomy a zas skládat, abychom z toho dostali systém jednoduše popsaný, s tabulkou času jen jako pomocníka v krajních situacích, nikoli základ pro cokoliv. I s těmi jednotnými hodnotami pro různé stupně úspěchu souhlasíme, něco v tomhle duchu máme už rozpracováno.
 
-### Poškození (zranění)
+## Poškození (zranění)
 > 4\) Poškození je celkem složité a není úplně realistické. Navrhoval bych systém životů úplně zrušit a nahradit ho malými/velkými/kritickými zraněními spojenými s postihy (malé zranění=postih na příští kolo, velké=postižení na den a kritické=trvalé postižení, zároveň by byla neustále šance za zabití/vyřazení/povalení protivníka zvyšovaná o zmíněné postihy).
 
-**Až** takové zjednodušení dělat nechceme, ale ve výsledku to dopadne podobně, protože každé bytosti chceme omezit řádek zranění (i řádek únavy) na šets bodů, lišit se to pak bude u odolnějších tvorů v **počtu** řádků. Za každý řádek dostaneš postih -1 ke všemu, včetně léčení a odpočinku, takže dokud budeš zraněný za méně než jeden řádek, je to vlastně škrábanec, protože se ti přes noc zahojí (obvykle, pokud třeba nespíš ve studeném bahně).
+**Až** takové zjednodušení dělat nechceme, ale ve výsledku to dopadne podobně, protože každé bytosti chceme omezit řádek zranění (i řádek únavy) na šest bodů, lišit se to pak bude u odolnějších tvorů v **počtu** řádků. Za každý řádek dostaneš postih -1 ke všemu, včetně léčení a odpočinku, takže dokud budeš zraněný za méně než jeden řádek, je to vlastně škrábanec, protože se ti přes noc zahojí (obvykle, pokud třeba nespíš ve studeném bahně).
 
-### Postižení
+## Postižení
 > Samotný systém postižení se mi v zásadě líbí, i když je dost složitý. Jenom jedy a nemoci jsou hrozně abstraktní a jejich prudkost se mi často zdá nesmyslná.
 
-Souhlas, už jenom ten zápis postižení abychom četli čtečkou QR kódu. Vlastně nejlepší postižení, které tam je popsané je podle mého názoru [rýma](https://pph.drdplus.info/#ryma) a přitom je to jen příklad. Taky plánujeme jejich očistu.
+Souhlas, už jenom ten zápis postižení abychom překládali čtečkou QR kódu. Vlastně nejlepší postižení, které tam je popsané je podle mého názoru [rýma](https://pph.drdplus.info/#ryma) a přitom je to jen příklad. Taky plánujeme jejich očistu.
 
 > Krvácení je kapitola sama pro sebe- Jestli to chápu správně, tak krvácení za půl řádku přestane po kole samo (velikost=0), ale pokud má větší velikost, prakticky se jedná o rozsudek smrti, v pravidlech jsem našel celkem 3 způsoby jak ho zastavit, ale všechny vyžadují celkem pokročilo úroveň a jsou absolutně nekoncepčně rozdílné co do pravidel. Léčení je samo o sobě velice složité a není zde nikde uvedeno, jak by měly fungovat obvazy a léky (bonus +1, +6, +10?) Půlka postižení je úplně nevyléčitelná a ta druhá zase nic nedělá.
 
-To jsi narazil [na oblast](https://pph.drdplus.info/#krvaceni), o které jsme zatím nepřemýšleli vůbec a při hře jsem se s tím ještě nesetkal (za což může náš styl hraní), ale v rámci úprav boje se k tomu určitě prokoušeme, takže díky za upozornění na podivnost.
+To jsi narazil [na oblast](https://pph.drdplus.info/#krvaceni), o které jsme zatím nepřemýšleli vůbec a při hře jsem se s tím ještě nesetkal (za což může náš styl hraní), ale v rámci úprav boje a postižení se k tomu určitě prokoušeme, takže díky za upozornění na podivnost.
 
-### Zbraně
-> 5) Zbraně- jejich statistiky jsou často poněkud zvláštní. Potřebná síla má obrovský rozsah a stejně tak zranění.
+## Zbraně
+> 5\) Zbraně- jejich statistiky jsou často poněkud zvláštní. Potřebná síla má obrovský rozsah a stejně tak zranění.
 
 Za tu podivnost může hlavně komplikovaná [Tabulka postihů ke zbrani za chybějící Sílu](https://pph.drdplus.info/#tabulka_postihu_ke_zbrani_za_chybejici_silu), kterou si z hlavy vybaví asi málokdo. Vliv chybějící Síly budeme zjednodušovat, za každý bod chybějící Síly bude postih -1 ke všemu v boji.
 
-Ještě si hrajeme s myšlenkou na potřebnou Obratnost, kdy by byla potřeba minimální Obratnost stejná, jako Útočnost zbraně a minimální Síla by byla stejná jako Zranění zbraně, protože máme silný pocit, že jedna věc je zbraň unést, ale druhá věc je využít možností zbraně.
+Ještě si hrajeme s myšlenkou na potřebnou *Obratnost*, kdy by byla potřeba minimální *Obratnost* stejná, jako Útočnost zbraně a minimální *Síla* by byla stejná jako *Zranění zbraně*, protože máme silný pocit, že jedna věc je zbraň unést (potřebná *Síla*), ale druhá věc je využít možností zbraně (potřebná *Obratnost*).
 
-### Zbroje
+## Zbroje
 > Hlavně mi zde chybí proniknutí přes brnění (dýky sekery, palice a kyje).
 
 Nám ne, takže jsme o tomhle nepřemýšleli. Máš konkrétnější představu o situaci, kterou by měla pravidla pokrývat? Jestli ti chybí jen speciální zlodějova schopnost, nebo ti chybí možnost proniknout přes brnění pro kohokoli?
@@ -104,16 +114,17 @@ Nám ne, takže jsme o tomhle nepřemýšleli. Máš konkrétnější představu
 > Zbroje by měly mít takové omezení, aby ho nebylo možné nikdy úplně eliminovat. Zbroj příliš v boji neomezuje, ale představa, že nemusí omezovat vůbec, je nesmyslná (souboje na kordy v košilích jsou jistě alespoň o trochu dynamičtější).
 
 Na to máme stejný názor a chceme u zbrojí zavést několikero změn:
-- potřebná síla zbroje je rovna Ochraně zbroje (mitrilová kroužková košile bude mít potřebnou sílu menší, ale nadprůměrnou kvalitu a Pána prstenů sem teď netahejme)
-- omezení zbroje bude také rovno Ochranně zbroje a vzhledem k "dražším" stupňům dovedností, včetně dovednosti [Nošení zbroje](https://pph.drdplus.info/#noseni_zbroje), bude těžší se omezení zbavit
-- zboj "nebude nic vážit" pouze v boji, kde se vše vyjadřuje [Omezením zbroje](https://pph.drdplus.info/#omezeni_zbroje_v_boji), ale jakmile boj skončí, tak zbroj už adrenalin nadlehčovat nebude a bude se v plné váze počítat do nákladu (skuteční hrdinové časté nošení zbroje jistě vykompenzují vyšší Sílou)
+
+- potřebná *Síla* na zbroj bude rovna *Ochraně zbroje* (mithrilová kroužková košile bude mít potřebnou sílu menší, ale nadprůměrnou kvalitu a Pána prstenů sem teď netahejme)
+- omezení zbroje bude také rovno *Ochranně zbroje* a vzhledem k "dražším" stupňům dovedností, včetně dovednosti [Nošení zbroje](https://pph.drdplus.info/#noseni_zbroje), bude těžší se omezení zbavit
+- zboj "nebude nic vážit" pouze v boji, kde se vše vyjadřuje [Omezením zbroje](https://pph.drdplus.info/#omezeni_zbroje_v_boji), ale jakmile boj skončí, tak zbroj už adrenalin nadlehčovat nebude a bude se v plné váze počítat do nákladu (skuteční hrdinové časté nošení zbroje jistě vykompenzují vyšší *Silou*)
 
 > Rány které neprojdou brněním by měli zraňovat alespoň za 1 život, nebo za únavu (převést podle tabulky až po odečtení zbroje).
 
 I o tomhle jsme přemýšleli a chvíli jsme taky koketovali s myšlenkou, že co nejde do masa, mělo by jít alespoň do modřin a bolesti (a únavy), ale postupně jsme to zavrhli. Je totiž velmi těžké najít tu hranici, kdy ránu skutečně se vším všudy zastaví zbroj (a žebra), a kdy to byla taková pecka, že i když krev neteče, tak mám vyražený dech a modřinu jak lívanec s borůvkami.
 Navíc je tu ještě jeden problém, ryze herní, a tím je rychlost boje. Každá drobná administrativa navíc zpomaluje tempo boje a hráči místo potu a funění cití povinnosti výpočtů a slyší listování v pravidlech. Proto spíše přemýšlíme o spojení Ochrany zbroje a Obranného čísla, protože zároveň chceme spojit Útočnost (sílu útoku) se Zraněním, jelikož se nám nelíbí, že nepřítele sice skvěle zasáhnu, ale pak si musím znovu hodit na zranění a přestože mi na útok padlo jako ještě nikdy, ale na zranění padlo málo, tak je z toho najednou nejtitěrnější zásah v dějinách.
 
-### Boj se zbraní
+## Boj se zbraní
 > Obrovský problém je, že systém vlastností nutí postavy používat jeden typ zbraní a díky postihům jsou ostatní úplně nepoužitelné. Navrhoval bych základní schopnost boj se zbraní/střelnou zbraní a na stupních II. a III. kategorie zkonkrétňovat.
 
 Přemýšleli jsme o tvém nápadu na *jednotný základ pro všechny typy zbraní a bonusy ke konkrétním typům až na vyšších stupních dovednosti*, ale zůstaneme při současném stavu. Ovšem změny budou.
@@ -121,7 +132,7 @@ Přemýšleli jsme o tvém nápadu na *jednotný základ pro všechny typy zbran
 Každý stupeň dovednosti už nebudou stát jeden jediný bod, ale podobně jako to má zloděj bude stát jeden bod první stupeň, dva body druhý stupeň a tři body třetí stupeň.
 Navíc hodně dovedností, a hlavně [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani), bude pokračovat i u povolání, takže třeba [Bojovník](https://bojovnik.drdplus.info) bude míž možnost se naučit [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani) až do šestého stupně (a uvažujeme i o devíti stupních, ovšem jen kvůli speciálním schopnostem, čísla se už zvyšovat nebudou).
 
-### Boj
+## Boj
 > Délka by měla být bojem omezována ještě ve větší míře (píka by na vzdálenost 1 neměla mít bonus 0, ale postih -7),
 
 To je velice těžká věc, protože s tím se musí zavést ještě pravidla pro prostor, abych mohli s jistotou tvrdit, že postava už prostě nemá místo na použití tak dlouhé zbraně. Docela se nám to ale zdařilo v posledním [návrhu Boje](/#!clanky/2018-08-10-boj.md), kde se za pohyb platí body Boje a kdo se bude chtít dostat na tělo někomu s píkou, bude muset dost popoběhnout. A na druhou stranu, jakmile se někomu s píkou nalepí někdo na tělo, tak bude muset píku zahodit, nebo za body Boje ustoupit, nebo nezvaného hosta praštit ratištěm (takže z píky zbude hůl).
@@ -153,8 +164,7 @@ Taky nám to pilo krev, zvedalo žluč a vzpřimovalo chlupy na zádech, takže 
 
 My na tohle měli domácí pravidlo, že pohyb kolem nepřítele znamenal pro nepřítele útok zdarma, ale občas kolem toho samozřejmě dohady až hádky byly. Teď máme řešení nakousnuté v onom [návrhu boje](/#!clanky/2018-08-10-boj.md), kdy se klidně můžeš promenádovat kolem nepřítele, ale musíš se pohybu plně věnovat (jeden metr za jeden bod Boje) a nebo se rozhodneš riskovat, pak se ale budeš bránit pouze Úhybem (tedy pokud se nepřítel rozhodne zaútočit, což není tak samozřejmé, jak by se mohlo zdát).
 
-
-### Střelba
+## Střelba
 > Střelba je těžká, ale realistická. Střelec by měl mít možnost na přibíhajícího nepřítele vystřelit tak jednou, dvakrát
 
 I tohle jsme nakousli v [návrhu boje](/#!clanky/2018-08-10-boj.md) a zase je to o pohybu v boji. Ještě budeme ale muset řešit dostřel zbraně, protože každý druhý má pocit, že dostřel dvacet metrů je málo, což mě zas přijde hodně - sotva asi hrdinové běhají po lese s kompozitním silovým lukem.
@@ -168,17 +178,17 @@ Máš nějaký konkrétní příklad, kde to skřípe?
 
 Souhlasíme, ale ještě jsme to nerozmýšleli. Ale když na to použiju současný [návrh boje](/#!clanky/2018-08-10-boj.md) (no, návrh zní poněkud vznešeně a oficálně, prostě tok myšlenek), tak každou Vlnu akcí ty jakožto střelec můžeš sice ohlásit, že budeš střílet vlkovi mezi očí, ale vlk ti zároveň ooznámí, že ti ukousne zadek zepředu, takže si vyber, jestli raději útok nezahodíš a nebudeš své citlivé partie chránit lépe než jen úhybem.
 
-### Pohyb a únava
+## Pohyb a únava
 > 7\) Pohyb a únava- celkem fajn jenom čísla jsou občas zvláštní a bodů únavy je hrozně málo. Postavy mají obrovskou nosnost, měly by se počítat zbraně a zbroj a vždy by měl být alespoň nějaký postih.
 
 Souhlasíme, o zbroji jsme se zmiňovali už výše, postihy za nosnost pak chceme zjednodušovat, protože není až takový odpor hráčů k tomu být naložený, jako spíš postihy počítat. 
 
-### Osvětlení a další obskurní pravidla
+## Osvětlení a další obskurní pravidla
 > 8\) Světlo, počasí...- Pravidla jsou tak složitá, že je nejspíš málokdo používá. Opět zde není jasné jak by měli fungovat různé předměty (oblečení a vůbec, jak by někdo měl chytit nějakou nemoc, nebo dostat prostě nějakej postih.
 
 Vidíme to stejně a taky jsme pravidla nepoužívali, přestože byly situace, kdy si o používání koledovaly. Ale zatím tohle odkládáme, to bude až takový bombónek nakonec.
 
-### Lov
+## Lov
 > Lov- nároky jsou hrozně malý, nezabírá téměř žádnej čas a na samotný dovednosti téměř vůbec nezáleží. Bez určitýho vybavení by určitej druh úlovku vůbec neměl bejt možnej.
 
 V tomhle se názorově (nebo herními zážitky) rozcházíme. Jídlo v divočině sháníme pravidelně a jelikož Pán jeskyně je pes, tak byla zvířata často vyplašená, nebo se jim na poušti prostě nechtělo být, nebo se jim nechtělo lézt na hroské štíty a podobně (úpravy [Předpokladů lovu](https://pph.drdplus.info/#priprava_na_lov)), takže jsme mnohdy po hodinách stopování skončili s krysou, kterou jsme před slabšími šleny vydávali za sysla.
@@ -188,7 +198,7 @@ Plánujeme mírné zjednodušení a více příkladů, například co s tím, kd
 
 Také chceme přidat přehled kvality jídla, což už je vlastně nakousnuté v [kvalitě úlovku](https://pph.drdplus.info/#tabulka_ulovku), kde ovšem chybí postih, když jsi *úplně ohladu*. Protože obzvlášť v divočině je jedna věc něco ulovit, ale druhá z toho pak udělat jídlo, které se dá rozžvýkat a pozřít.
 
-### Ceník
+## Ceník
 > 10\) Ceník- Vycházeli jste z celkem dobrejch zdrojů ale zachoval bych jako základní oběživo stříbrňáky (měďáky sou jinak úplně k ničemu)
 
 Ono na ceník je několik stížností. Je málo obsáhlý, ceny jsou zvláštní, hodnoty mincí jeden zlaťák je deset stříbrných a jeden stříbrný je deset měděných dostává v každé ekonomice na frak...
@@ -198,7 +208,7 @@ Ono na ceník je několik stížností. Je málo obsáhlý, ceny jsou zvláštn�
 Problém totiž nejsou ani tak měďáky, jako spíše luxus, ve kterém dříve nebo později hrdinové žijí a měďáky tak v **jejich** stylu života nemají místo. Zatím ještě nevíme co s tím, je tu zatím jen návrh na větší poměr zlaťák / stříbrňák / měďák (třeba 1 zl = 100 st = 10 000 md), ikdyž mě by se spíše líbily konkrétnější mince, jako groš, dukát, tolar, ale to zas nesedí jiným.
   - poznámka: zkoušeli jste někdy odnést poklad, jenž generace střádaly v měďácích? A co místa, kde prostě zlaťák nevezmou, protože ho v životě neviděli a neví, jak ověřit, že je pravý?
 
-### Vedlejší vlastnosti
+## Vedlejší vlastnosti
 > Dodatky- při každym rozhovoru by se mělo házet na Krs/Dus/Neb
 
 To zní (opět) jako když se hráči tvojí družiny chovají jinak, *"než by měli"*. Než brát všem hráčům možnost volně mluvit a nutit je do házení kostkou, tak bych pouze doporučil házení kostkou za každého počasí vaší družině.
@@ -214,7 +224,8 @@ Obecně nám totiž vadí, že každá příšera bojuje do posledního dechu a 
 
 ---
 
-Děkujeme TI za sdílení zkušeností s Dračím doupětem Plus.
+Děkujeme Ti za sdílení zkušeností s [Dračím doupětem Plus](https://www.drdplus.info).
 
 ---
 
+- *předchozí [<< 10. 8. 2018 Boj](2018-08-10-boj.md)*
