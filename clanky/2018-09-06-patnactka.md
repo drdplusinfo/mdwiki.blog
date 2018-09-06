@@ -1,6 +1,18 @@
 # Patnáctka
 
-### 11.6. 2018
+*6. 9. 2018*
+
+Během prací na DrD+ 2 (lépe řečeno na DrD+ 1.1, ale to nemá tak zvonný název, ehm), jsem vykopal i několik *představ minulosti* a níže připomínám jednu z nich.
+Napsal ji před šestnáci(!) lety jeden z původních autorů DrD+ a pro mě je to literární počin naprosto nádherný ze dvou prostých důvodů:
+
+- obsah je založen na pravých pocitech
+- text je prostý, jednoduchý
+  - ve velkém kontrastu s výslednými zašmodrchanými pravidly DrD+
+
+O jednom ze způsobů, jak se nezamotat do velkých projektů, budu psát příště, teď se pojďme ponořit do pocitů tvůrců z dob dávno minulých.
+
+---
+
 **(23.1.2002)**
 
 *"Lidé... nevěřím lidem..." pronesl Třetí, "chtěli by všechno hned..."
@@ -13,7 +25,7 @@
 "A co jestli se zachovají jako vždy?" nedal se Třetí. "Co jestli se na nás snesou jako supi a zahltí nás otázkami?"
 "Pak postavíme mezi sebe a lidi pevnou hráz, jejich otázky se o ni rozbijí a zůstanou oslyšeny... a již nic z vědění se k nim nedostane, dokud nebude Dílo dokončeno," řekl První a pozvedl ruce. Jeden po druhém přistupovaly temné postavy k Oltáři a obestoupily jej se vztyčenými pažemi. Když se jejich ruce dotkly a kruh se uzavřel, Oltář se rozzářil a nad ním se začalo ve vzduchu objevovat žhnoucí písmo Poselství:*
 
-Možná jste už, v hlubinách minulého tisíciletí, zaslechli něco o zcela nové verzi Dračího doupěte. Ne o verzi 1.6, 1.7 či snad dokonce 2.0. O zcela nové hře navazující nikoliv na pravidla a mechanismy [Dračího doupěte](https://www.altar.cz/drd/index.html), ale na samotnou jeho tradici, o hře která byla nazvána Dračí doupě Plus. Tehdy se o tom hodně mluvilo, ale o to méně se skutečně podařilo udělat. Proto byl vloni, kdy byl projekt po několika letech znovu oživen, zvolen opačný přístup. Poměrně v tichosti byl sestaven tým těch nejzkušenějších, kteří se za ta léta kolem [Dračího doupěte](https://www.altar.cz/drd/index.html) a vůbec her na hrdiny objevili, a ti, s využitím zkušeností prvního projektu, začali budovat nový herní systém. A teprve nyní, kdy je velká část práce udělána a zdá se, že nic nebrání tomu, abyste se s Dračím doupětem Plus mohli setkat ještě tento rok, Altar vývoj [Dračího doupěte Plus](http://www.altar.cz/drdplus/index.html) oficiálně oznamuje.
+Možná jste už, v hlubinách minulého tisíciletí, zaslechli něco o zcela nové verzi Dračího doupěte. Ne o verzi 1.6, 1.7 či snad dokonce 2.0. O zcela nové hře navazující nikoliv na pravidla a mechanismy [Dračího doupěte](https://www.altar.cz/drd/index.html), ale na samotnou jeho tradici, o hře která byla nazvána Dračí doupě Plus. Tehdy se o tom hodně mluvilo, ale o to méně se skutečně podařilo udělat. Proto byl vloni, kdy byl projekt po několika letech znovu oživen, zvolen opačný přístup. Poměrně v tichosti byl sestaven tým těch nejzkušenějších, kteří se za ta léta kolem [Dračího doupěte](https://www.altar.cz/drd/index.html) a vůbec her na hrdiny objevili, a ti, s využitím zkušeností prvního projektu, začali budovat nový herní systém. A teprve nyní, kdy je velká část práce udělána a zdá se, že nic nebrání tomu, abyste se s Dračím doupětem Plus mohli setkat ještě tento rok, Altar vývoj [Dračího doupěte Plus](https://www.altar.cz/drdplus/index.html) oficiálně oznamuje.
 
 Asi vás zajímá, v čem se bude Dračí doupě tolik lišit, že neuděláme prostě jen další číslované verze pravidel pro začátečníky, pokročilé i experty. Bude toho skutečně hodně. Třeba už to, že žádná pravidla pro začátečníky, pokročilé a experty nebudou existovat. Ale nepředbíhejme.
 
@@ -25,7 +37,8 @@ Naopak rozvíjet duševní vlastnosti není k zahození ani pro postavu bojovéh
 
 O co budou čarodějové, theurgové a kněží méně úspěšní v boji, o to lépe se mohou naučit vnímat svět stínový, svět duší, odrazů a tajemných vazeb mezi nimi. Citlivý theurg v něm dokáže číst jako v knize a zjistit souvislosti jinak jen těžko patrné, mocný čaroděj jej může využít k brutálním útokům, které ochromí či zcela zahubí slabšího protivníka, zkušený kněz se z něj zase leccos dozví o tajných tužbách člověka a snad v něm dokáže vyvolat i lásku či nenávist. Rozsáhlý systém mentálních soubojů si co do zajímavosti nezadá se systémem boje. To vše se dozví podrobně PJ ve své příručce, stejně jako to, jak to souvisí s magenergií, astrálními sférami, démony a bohy. Postavy jednotlivých povolání mají jen střípky informací o tom, jak svět Dračího doupěte Plus skutečně funguje, a pravdy by se měly dobírat postupně, jak roste jejich moc (pokud si to hráči nezkazí a nepřečtou si to v příručce PJ, samozřejmě).
 
-Ani postavy fyzických povolání, bojovníci, zlodějové a hraničáři, nebudou ošizeni. Na velmi vysokých úrovních vzroste jejich moc nad světem natolik, že se bude běžným lidem zdát, že vládnou schopnostmi až nadpřirozenými. Jak dokázal zloděj ukrást zlatou sošku, kterou jsem držel v oběma rukama a nespouštěl z ní oči, aniž jsem si něčeho všiml? Zdálo se mi to, nebo se ten hraničář po krátkém rozhovoru s vůdcem smečky vmísil mezi vlky a odběhl s nimi? Může vůbec jeden jediný bojovník pouhým pohledem nahnat strach dvaceti vycvičeným vojákům natolik, aby zahodili zbraně a utekli? A chcete mi snad namluvit, že postavy mohou být ještě mocnější?
+Ani postavy fyzických povolání, bojovníci, zlodějové a hraničáři, nebudou ošizeni. Na velmi vysokých úrovních vzroste jejich moc nad světem natolik, že se bude běžným lidem zdát, že vládnou schopnostmi až nadpřirozenými.
+*Jak dokázal zloděj ukrást zlatou sošku, kterou jsem držel v oběma rukama a nespouštěl z ní oči, aniž jsem si něčeho všiml? Zdálo se mi to, nebo se ten hraničář po krátkém rozhovoru s vůdcem smečky vmísil mezi vlky a odběhl s nimi? Může vůbec jeden jediný bojovník pouhým pohledem nahnat strach dvaceti vycvičeným vojákům natolik, aby zahodili zbraně a utekli? A chcete mi snad namluvit, že postavy mohou být ještě mocnější?*
 
 Nyní nezbývá, než počkat do konce roku, kdy by mělo být DrD+ a zmíněných šest povolání dokončeno. A jestli v těch šesti není vaše oblíbené povolání, pak nezoufejte, brzy se rozběhnou práce na dalších povoláních, která v sobě kombinují aspekty fyzické i duševní. Tak se časem můžete těšit na alchymistu, barda, druida, zaklínače, paladina a další rozšiřující povolání.
 
@@ -36,3 +49,7 @@ Možná vás teď napadá spousta otázek. Možná jsme vás něčím zklamali, 
 AD 2002-01-23, Altar
 
 *Převzato ze [stránek Altaru](https://www.altar.cz/drdplus/patnactka.html)*
+
+---
+
+- *předchozí [<< 3. 9. 2018 Velkej fanoušek](2018-09-03-velkej_fanousek.md)*

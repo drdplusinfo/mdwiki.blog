@@ -1,5 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [6. 9. 2018 Patnáctka](clanky/2018-09-06-patnactka.md)
 ### [3. 9. 2018 Velkej fanoušek](clanky/2018-09-03-velkej_fanousek.md)
 ### [10. 8. 2018 Boj](clanky/2018-08-10-boj.md)
 ### [2. 7. 2018 Suchá pravidla, mokrý zátylek a hledání pomoci](clanky/2018-07-02-sucha_pravidla_mokry_zatylek_a_hledani_pomoci.md)
