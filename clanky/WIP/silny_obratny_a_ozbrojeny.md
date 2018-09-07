@@ -68,6 +68,16 @@ Když už se naskytne možnost protivníka ohrozit, dojde na lámání chleba a 
 
 Ovšem se *Silou zranění* se dostáváme na tenký led, protože uvažujeme o přímém vlivu *Síly útoku* na zranění a původní "je jedno jak dobře jsi zasáhl, teď si hoď úplně znova na zranění" (tedy až na [zásah do hlavy](http://pph.drdplus.loc:88/#zasah_do_hlavy)), takže postih za chybějící *Sílu* už je vlastně započítaný v postihu k *Útoku*.
 Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md) si všechno ostatní přes *Boj* už zařídíš. Nebezpečnější *Útok*, lepší *Obrana*, větší *Zranění*, to všechno se dá "zaplatit" *Bojem*, takže?
+TODO nevidím v článku o Boji pumpování bodů Boje do akcí
 
 > Poplach!
+
+A to je přesně ten okamžik, kdy se mají v hlavě spustit poplašné sirény a varovat, že tu něco smrdí 💩.
+
+- postih za chybějící *Sílu* bude ovlivněn pravidly k *Boji*?
+- proč ta závislost?
+- je to nutné?
+- co je čí zodpovědnost?
+
+Postih za nedostatečnou *Sílu* má řešit jen a pouze postih. To co se děje s těmi čísly **potom**, to už není  jeho starost a jestli máme pocit, že za nás ten postih vyřeší něco jiného, tak ten postih nemusíme řešit vůbec.
 
