@@ -10,4 +10,4 @@
 
 [Úkoly v Trellu](https://trello.com/b/L64FNYj3/drdplusinfo)
 
-[📂 Veřejné zdrojové kódy](https://github.com/search?utf8=%E2%9C%93&q=jaroslavtyc%2Fdrd-plus)
+[📂 Veřejné zdrojové kódy](https://github.com/drdplusinfo)
