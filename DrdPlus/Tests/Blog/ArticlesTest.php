@@ -373,6 +373,29 @@ class ArticlesTest extends TestCase
     }
 
     /**
+     * @test
+     */
+    public function Links_to_rules_are_public(): void
+    {
+        $linksToRules = [];
+        foreach ($this->getExternalLinks() as $link) {
+            if (\strpos($link, '.drdplus.')) {
+                $linksToRules[] = $link;
+            }
+        }
+        self::assertNotEmpty($linksToRules, 'No links to rules have been found');
+        $localLinks = \array_filter($linksToRules, function (string $linkToRules) {
+            return \strpos($linkToRules, 'https') !== 0 || \strpos($linkToRules, 'drdplus.info') === false;
+        });
+
+        self::assertEmpty(
+            $localLinks,
+            "Every link to drdplus.info should leads to drdplus.info using https:\n"
+            . \implode("\n", $localLinks)
+        );
+    }
+
+    /**
      * @return array|string[]
      */
     protected function getExternalLinks(): array
@@ -385,26 +408,26 @@ class ArticlesTest extends TestCase
             }
             self::assertGreaterThan(
                 0,
-                \preg_match_all('~(?<links>https?://[^\'"]+)~', $content, $matches),
+                \preg_match_all('~[(](?<links>https?://[^)]+)~', $content, $matches),
                 'No external anchors found'
             );
-            $externalAnchors = $matches['links'];
+            $externalAnchors = \array_unique($matches['links']);
         }
 
         return $externalAnchors;
     }
 
-	/**
-	 * @test
-	 */
-	public function I_can_use_very_link_to_altar_without_further_redirection(): void
-	{
-		foreach ($this->getArticlesWithFullPath() as $articleFile) {
-			$content = \file_get_contents($articleFile);
-			\preg_match_all('~(?<link>(?:[[:alpha:]]+:)?//(?:www[.])?altar[.]cz)~', $content, $matches);
-			foreach ($matches['link'] as $link) {
-				self::assertSame('https://www.altar.cz', $link, 'There is a non-optimal link to Altar in article ' . \basename($articleFile));
-			}
-		}
+    /**
+     * @test
+     */
+    public function I_can_use_very_link_to_altar_without_further_redirection(): void
+    {
+        foreach ($this->getArticlesWithFullPath() as $articleFile) {
+            $content = \file_get_contents($articleFile);
+            \preg_match_all('~(?<link>(?:[[:alpha:]]+:)?//(?:www[.])?altar[.]cz)~', $content, $matches);
+            foreach ($matches['link'] as $link) {
+                self::assertSame('https://www.altar.cz', $link, 'There is a non-optimal link to Altar in article ' . \basename($articleFile));
+            }
+        }
     }
 }
