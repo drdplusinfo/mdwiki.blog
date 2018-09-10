@@ -81,3 +81,7 @@ A to je přesně ten okamžik, kdy se mají v hlavě spustit poplašné sirény 
 
 Postih za nedostatečnou *Sílu* má řešit jen a pouze postih. To co se děje s těmi čísly **potom**, to už není  jeho starost a jestli máme pocit, že za nás ten postih vyřeší něco jiného, tak ten postih nemusíme řešit vůbec.
 
+#### Bič
+> Někdy je pevná půda pod nohama rozdíl mezi životem a smrtí
+
+- v boji je dobrý ledva na štípance a na odzbrojování, ale hodí se při pronásledování, kdy uprchlíkovi při úspěšném útoku omotá nohy a podrazí ho (ten si nepočítá zbroj).
