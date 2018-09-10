@@ -67,8 +67,7 @@ Co z toho bude ovlivňovat moje příliš slabá ruka?
 Když už se naskytne možnost protivníka ohrozit, dojde na lámání chleba a ze všech pohybů a protipohybů, urážek a klamných výpadů konečně může vystartovat zbraň přímo na protivníkovo slabé místo. Jen ten start je jaksi ospalý a chybějící *Síla* tak *Útok* určitě ovlivní.
 
 Ovšem se *Silou zranění* se dostáváme na tenký led, protože uvažujeme o přímém vlivu *Síly útoku* na zranění a původní "je jedno jak dobře jsi zasáhl, teď si hoď úplně znova na zranění" (tedy až na [zásah do hlavy](http://pph.drdplus.loc:88/#zasah_do_hlavy)), takže postih za chybějící *Sílu* už je vlastně započítaný v postihu k *Útoku*.
-Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md) si všechno ostatní přes *Boj* už zařídíš. Nebezpečnější *Útok*, lepší *Obrana*, větší *Zranění*, to všechno se dá "zaplatit" *Bojem*, takže?
-TODO nevidím v článku o Boji pumpování bodů Boje do akcí
+Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md) si všechno ostatní přes *Boj* už zařídíš. Nebezpečnější *Útok*, lepší *Obrana*, větší *Zranění*, to všechno se dá ["zaplatit" *Bojem*](), takže?
 
 > Poplach!
 
