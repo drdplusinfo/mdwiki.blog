@@ -35,7 +35,7 @@ Být to v počítačové hře, proč ne. Ale ve hře textové, kde se má hlavn�
 Dračí doupě plus jsem na [web](https://www.drdplus.info) začal převádět z osobního důvodu - ve všech těch textech a tabulkách jsem se ztrácel a doufal jsem, že webová stránka zkrz naskrz prošpikovaná vzájemnými odkazy mi pomůže. Prdaljs.
 Tak jsem napsal [kalkulátor boje](https://boj.drdplus.info), který sice funguje, ale najednou jsem otrokem nějakého nástroje, kterému musím věřit, protože z hlavy si to prostě nespočítám. Fuj.
 
-A proto jsem se pustil do úprav DrD+, protože hrát ho pořád chceme, ale těch nejistot, zmatení a otazníků je v původní verzi moc a pokud mají přežít, musíme je **zjednodušit**.
+A proto jsem se pustil do úprav DrD+, protože hrát ho pořád chceme, ale těch nejistot, zmatení a otazníků je v původní verzi moc a pokud mají pravidla přežít, tak je musíme **zjednodušit**.
 
 A co s [Tabulkou postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/#tabulka_postihu_za_chybejici_silu)? Potřebujeme ji vůbec?
 
@@ -43,7 +43,7 @@ Tabulka popisuje myšlenku, že když na něco nemám dost síly, tak mě to bud
 
 *Chybí ti Síla? Tak máš stejný postih ke všemu, co se zbraní děláš.*
 
-No, zní to jednoduše. Tabulku můžeme zahodit a místo ní si každý z nás zavzpomíná na dětská léta a zkusí si spočítat, kolik *Síly* jeho hrdinovi schází do *Potřebné síly zbraně* a postih je na světě. Je to tak v pořádku? A co bonus za přebytek *Síly*?
+No, zní to jednoduše. Tabulku můžeme zahodit a místo ní si každý z nás zavzpomíná na základní školu a zkusí si spočítat, kolik *Síly* jeho hrdinovi schází do *Potřebné síly zbraně* a postih je na světě. Je to tak v pořádku? A co bonus za přebytek *Síly*?
 
 ```Postih = Síla - Potřebná síla```
 
@@ -60,14 +60,16 @@ Původní autoři se rozhodli, že realističnosti obětují vše a nějaká tab
 
 Co z toho bude ovlivňovat moje příliš slabá ruka?
 
-*Boj* mi to zdánlivě neovlivní, protože vidím pořád to samé, pohyb po bojišti mi nepříjemně těžká zbraň moc neovlivní, jenže pak přijde na řadu akce se zbraní a najednou je můj promyšlený tah v háji, už od prvního pohybu se zbraní cítím, jak je pomalá, jak mi možnosti utíkají a protivník je získává. V další akci už chápu, že moje možnosti jsou vlastně omezené a začínám se v akcích krotit. To všechno je *Boj* a to mi příliš těžká zbraň ovlivní.
+*Boj* mi to zdánlivě nezmění, protože vidím pořád to samé, pohyb po bojišti mi nepříjemně těžká zbraň moc neovlivní, jenže pak přijde na řadu akce se zbraní a najednou je můj promyšlený tah v háji, už od prvního pohybu se zbraní cítím, jak je pomalá, jak mi možnosti utíkají a protivník je získává. V další akci už chápu, že moje možnosti jsou vlastně omezené a začínám se v akcích krotit. To všechno je *Boj* a to mi příliš těžká zbraň ovlivní.
 
 Když už se naskytne možnost protivníka ohrozit, dojde na lámání chleba a ze všech pohybů a protipohybů, urážek a klamných výpadů konečně může vystartovat zbraň přímo na protivníkovo slabé místo. Jen ten start je jaksi ospalý a chybějící *Síla* tak *Útok* také ovlivní.
 
-Ovšem se *Silou zranění* se dostáváme na tenký led, protože chceme změnit původní "je jedno jak dobře jsi zasáhl, teď si hoď úplně znova na zranění" (tedy až na [zásah do hlavy](https://pph.drdplus.info/#zasah_do_hlavy)) a místo toho bude mít *Síla útoku* přímý vliv na zranění.
+Podobně je na tom *Obrana*, kde rychlost zbraně, která má zablokovat soupeřův násilný čin, je životně důležitá.
+
+Ovšem se *Silou zranění* se dostáváme na tenký led, protože chceme změnit původní *"je jedno jak dobře jsi zasáhl, teď si hoď úplně znova na zranění"* (tedy až na původní [zásah do hlavy](https://pph.drdplus.info/#zasah_do_hlavy)) a místo toho chceme, aby měla *Síla útoku* přímý vliv na zranění.
 Takže postih za chybějící *Sílu* už je po našich úpravách vlastně započítaný v postihu k *Útoku*.
 
-Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md#P%C5%99esouv%C3%A1n%C3%AD_bod%C5%AF_Boje) si všechno ostatní přes *Boj* už zařídíš, nebezpečnější *Útok*, lepší *Obrana*, větší *Zranění*, takže?
+Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md#P%C5%99esouv%C3%A1n%C3%AD_bod%C5%AF_Boje) si všechno ostatní přes *Boj* už zařídíš, nebezpečnější *Útok*, lepší *Obranu*, větší *Zranění*, takže?
 
 ## Boj
 > Poplach!
