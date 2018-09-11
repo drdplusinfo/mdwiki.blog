@@ -1,5 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [11. 9. 2018 Chybějící síla na zbraň](clanky/2018-09-11-chybejici_sila_na_zbran.md)
 ### [6. 9. 2018 Patnáctka](clanky/2018-09-06-patnactka.md)
 ### [3. 9. 2018 Velkej fanoušek](clanky/2018-09-03-velkej_fanousek.md)
 ### [10. 8. 2018 Boj](clanky/2018-08-10-boj.md)

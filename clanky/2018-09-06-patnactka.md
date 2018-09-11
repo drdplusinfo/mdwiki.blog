@@ -53,3 +53,4 @@ AD 2002-01-23, Altar
 ---
 
 - *předchozí [<< 3. 9. 2018 Velkej fanoušek](2018-09-03-velkej_fanousek.md)*
+- *následující [>> 11. 9. 2018 Chybějící síla na zbraň](2018-09-11-chybejici_sila_na_zbran.md)*
