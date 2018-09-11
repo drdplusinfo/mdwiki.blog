@@ -76,7 +76,7 @@ Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, proto�
 
 A to je přesně ten okamžik, kdy se mají v hlavě spustit poplašné sirény a varovat, že tu něco smrdí 💩.
 
-- postih za chybějící *Sílu* bude ovlivněn pravidly k *Boji*?
+- postih za chybějící *Sílu* bude ovlivňovat *Boj*?
     - proč ta závislost?
     - je to nutné?
     - co je čeho zodpovědnost?
@@ -89,9 +89,7 @@ Proto ***Boj* nebude ovlivněn chybějící *Silou***, fajn.
 
 ## Síla zranění
 
-*Síla zranění*, pokud skutečně chceme přímý vliv zásahu (*Útoku*) a zranění, by byla započítána **dvakrát** a k tomu, zda řešit **různý** postih, jiný než pro *Útok* a *Obranu*.
-
-Takže vlastnost *Síla* by ovlivnila zranění třikrát:
+*Síla zranění*, pokud skutečně budeme chtít přímý vliv zásahu (*Útoku*) a zranění, by byla započítána **dvakrát**, takže vlastnost *Síla* by ovlivnila zranění třikrát:
 
 - postih za chybějící *Sílu* k *Útoku* a tím ke zranění
     - protože chceme, aby *Útok* ovlivňoval *Zranění*
