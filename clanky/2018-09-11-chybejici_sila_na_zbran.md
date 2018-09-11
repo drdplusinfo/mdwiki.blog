@@ -81,9 +81,9 @@ A to je přesně ten okamžik, kdy se mají v hlavě spustit poplašné sirény 
     - je to nutné?
     - co je čeho zodpovědnost?
 
-Postih za chybějící *Sílu* by měl řešit jen a pouze postih. To co se děje s těmi čísly **potom**, to už není jeho starost a jestli máme pocit, že za nás ten postih vyřeší něco jiného, třeba *Boj*, tak ten postih nemusíme řešit vůbec.
+Postih za chybějící *Sílu* by měl řešit jen a pouze postih. To co se děje s těmi čísly **potom**, to už není jeho starost a jestli máme pocit, že za nás ten postih vyřeší něco jiného, třeba *Boj*, tak bychom ten postih nemuseli řešit vůbec.
 
-Problém je v tom, že *Boj* je **zdroj**, je to energie, kterou mohu použít na další akce a na jejich ovlivňování. Jakmile dovolíme něčemu, co vzniká ze zdroje (tady akci, kerá vznikla z *Boje*), aby to zas zpětně ovlivňovalo onen zdroj, tak z toho máme cyklickou závislost a dříve nebo později si z toho hodíme mašli.
+Problém je v tom, že *Boj* je **zdroj**, je to energie, kterou mohu použít na další akce a na jejich ovlivňování. Jakmile dovolíme něčemu, co vzniká ze zdroje, v tomhle případě bychom to dovolili akci, kerá vznikla z *Boje*, aby to zas zpětně ovlivňovalo onen zdroj, tak z toho máme cyklickou závislost a dříve nebo později si z toho hodíme mašli.
 
 Proto ***Boj* nebude ovlivněn chybějící *Silou***, fajn.
 
@@ -93,7 +93,7 @@ Proto ***Boj* nebude ovlivněn chybějící *Silou***, fajn.
 
 - postih za chybějící *Sílu* k *Útoku* a tím ke zranění
     - protože chceme, aby *Útok* ovlivňoval *Zranění*
-- postih za chybějící *Sílu* ke zranění
+- postih za chybějící *Sílu* přímo ke zranění
 - obecně [započítání *Síly* do zranění](https://pph.drdplus.info/#vypocet_zakladu_zraneni)
 
 Proto chceme zrušit postih ke *Zranění* za chybějící *Sílu* pro zbraň.
@@ -108,11 +108,11 @@ Pohyb mečem při obraně je pro paži jinak náročný, než při útoku?
 
 Pocitově je snazší se zbraní bránit, než útočit, protože při obraně nemusím zbraní dělat tak dlouhé pohyby - stačí když pokryju své nejbližší okolí (vnitřek kruhu). Zatímco při útoku musím zbraní hledat mezeru v protivníkově obraně a zkouším na něj dorážet z různých úhlů z vnějšku (vně kruhu), takže musím pohybovat zbraní na delší vzdálenost, stejně jako útočník ve fotbale se naběhá víc, než brankář.
 Jenže brankář brání dle dohodnutých pravidel bránu, která se ani nehne.
-Při boji se hýbe všechno, chybu v obraně může způsobit tisíc a jedna věc, nejen pohyb nepřátelského meče a a na nějaká předem dohodnutá pravidla z vysoka kašle každý, komu jde o život.
+Při boji se hýbe všechno, chybu v obraně může způsobit tisíc a jedna věc, nejen pohyb nepřátelského meče a na nějaká předem dohodnutá pravidla z vysoka kašle každý, komu jde o život.
 
 Rozdíl v požadavcích na *Sílu* při obraně zbraní a útokem zbraní je tak obtížně zjistitelný, proměnlivý a často malý až žádný, že ho prostě budeme ignorovat.
 
-**Postih za chybějící *Sílu* bude stejný jak k *Útoku* tak k *Obraně***.
+**Postih za chybějící *Sílu* ke zbrani bude stejný jak k *Útoku* tak k *Obraně***.
 
 - za jeden bod chybějící *Síly* bude postih -1 k *Útoku* a -1 k *Obraně*
 
