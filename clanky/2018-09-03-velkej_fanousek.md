@@ -29,7 +29,7 @@ Nahradit kompletně povolání pouze dovednostmi, ze kterých by si hráč mohl 
 
 Na druhou stranu, plánujeme kombinace povolání, takže co se schopností různých povolání týče, tak na ty základní může dosáhnout každá postava.
 
-A s tím *Charisma*... no, už teď je to zvyšování hlavních a vedlejších vlastností docela administrativní zátěž (kdo si nepoznamenal, co si zvýšil minule, tak bude tápat a nakonec to *"nějak odhadne"*), takže bůhví, jestli vůbec budeme vlastnosti dělit na nějaké [hlavní](http://pph.drdplus.loc:88/#tabulka_povolani), vedlejší a odvozené (které se navíc musí počítat).
+A s tím *Charisma*... no, už teď je to zvyšování hlavních a vedlejších vlastností docela administrativní zátěž (kdo si nepoznamenal, co si zvýšil minule, tak bude tápat a nakonec to *"nějak odhadne"*), takže bůhví, jestli vůbec budeme vlastnosti dělit na nějaké [hlavní](https://pph.drdplus.info/#tabulka_povolani), vedlejší a odvozené (které se navíc musí počítat).
 
 - ona *hlavní* vlastnost je ta, u které se předpokládá, že jí hrdina se svým *jediným* povoláním využívá nejvíce, což se nám teď otřásá v základech, jelikož chceme umožnit kombinace povolání (a kterépa dvě vlastnosti jsou pak hlavní, že) a chceme přidat vliv stáří, z čehož nám vyplývá, že body vlasností by se měly "kupovat" podobně jako body *Dovedností* a navíc ta, kterou si "nezaplatíš", nepotrénuješ, ti poklesne, ale o tom jindy.
 
@@ -49,7 +49,7 @@ Souhlas. Tohle bude ještě oříšek, dobře popsat a případně vymyslet něj
 
 Jo. Je to dáno i stylem hraní, naše parta například považuje za naprosto zásadní [Vaření](https://pph.drdplus.info/#vareni) a [Lov a rybolov](https://pph.drdplus.info/#lov_a_rybolov), protože tak často cestujeme a jídla se nám tak často nedostává, že umět uvařit pouštního červa je otázka života a smrti, ale pravdou je, že dovednosti jsou mnohdy dost silné a **snadno** u nich postava dosáhne maxima.
 
-Jmenovitě ten [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani)... sice je v úvodu dovedností zmíněno, že to jsou dovednosti [obecné, dostupné běžným obyvatelům](http://pph.drdplus.loc:88/#seznam_dovednosti), ale obratem je tam dovednost [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani), kterou už žádné další povolání víc nerozvíjí, takže pro boj je to vlastně ultimátní dovednost.
+Jmenovitě ten [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani)... sice je v úvodu dovedností zmíněno, že to jsou dovednosti [obecné, dostupné běžným obyvatelům](https://pph.drdplus.info/#seznam_dovednosti), ale obratem je tam dovednost [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani), kterou už žádné další povolání víc nerozvíjí, takže pro boj je to vlastně ultimátní dovednost.
 
 Plánujeme něco v tom smyslu, co zmiňuješ, tedy další stupně dovedností *"dražší"* a zároveň chceme přidat ještě navazující dovednosti u povolání - například bojovník se bude moci učit [Boj se zbraní](https://pph.drdplus.info/#boj_se_zbrani) na vyšší, než třetí stupeň (a taky navazující speciální dovednosti, aby to nebylo jen o číslech).
 
@@ -85,7 +85,7 @@ Udělat dobrou podporu v pravidlech pro hraní rolí a přitom nic nenařizovat,
 ## Činnosti a hody
 > Činnosti a hody- kapitola je v zásadě logická, ale neuvěřitelně složitá a frustrující. Čísla jsou neuvěřitelně abstraktní a, pokud postava provádí činnost třeba týden, už vlastně nezáleží na hodu a na předpokladech postavy. Celé situaci moc nepomáhá, že se všemi bonusy a vlastnostmi je rozdíl mezi na 1. a třeba 5. úrovni úplně propastný a je těžké odhadnout, kde by měl být základní úspěch. Navrhoval bych sjednotit tabulku úspěchů/neúspěchů/katastrofálních neúspěchů... pro všechny činnosti (třeba 0/10/20/40) a čas řešit až následně.
 
-Souhlas, tohle budeme pitvat a rozkládat na atomy a zas skládat, abychom z toho dostali systém jednoduše popsaný, s [tabulkou času](http://pph.drdplus.loc:88/#tabulka_casu) jen jako pomocníka v krajních situacích, nikoli základ pro cokoliv. I s těmi jednotnými hodnotami pro různé stupně úspěchu souhlasíme, něco v tomhle duchu máme už rozpracováno.
+Souhlas, tohle budeme pitvat a rozkládat na atomy a zas skládat, abychom z toho dostali systém jednoduše popsaný, s [tabulkou času](https://pph.drdplus.info/#tabulka_casu) jen jako pomocníka v krajních situacích, nikoli základ pro cokoliv. I s těmi jednotnými hodnotami pro různé stupně úspěchu souhlasíme, něco v tomhle duchu máme už rozpracováno.
 
 ## Poškození (zranění)
 > Poškození je celkem složité a není úplně realistické. Navrhoval bych systém životů úplně zrušit a nahradit ho malými/velkými/kritickými zraněními spojenými s postihy (malé zranění=postih na příští kolo, velké=postižení na den a kritické=trvalé postižení, zároveň by byla neustále šance za zabití/vyřazení/povalení protivníka zvyšovaná o zmíněné postihy).
