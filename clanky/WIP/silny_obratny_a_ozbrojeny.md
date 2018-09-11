@@ -66,8 +66,9 @@ Co z toho bude ovlivňovat moje příliš slabá ruka?
 
 Když už se naskytne možnost protivníka ohrozit, dojde na lámání chleba a ze všech pohybů a protipohybů, urážek a klamných výpadů konečně může vystartovat zbraň přímo na protivníkovo slabé místo. Jen ten start je jaksi ospalý a chybějící *Síla* tak *Útok* určitě ovlivní.
 
-Ovšem se *Silou zranění* se dostáváme na tenký led, protože uvažujeme o přímém vlivu *Síly útoku* na zranění a původní "je jedno jak dobře jsi zasáhl, teď si hoď úplně znova na zranění" (tedy až na [zásah do hlavy](http://pph.drdplus.loc:88/#zasah_do_hlavy)), takže postih za chybějící *Sílu* už je vlastně započítaný v postihu k *Útoku*.
-Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md) si všechno ostatní přes *Boj* už zařídíš. Nebezpečnější *Útok*, lepší *Obrana*, větší *Zranění*, to všechno se dá ["zaplatit" *Bojem*](), takže?
+Ovšem se *Silou zranění* se dostáváme na tenký led, protože uvažujeme o přímém vlivu *Síly útoku* na zranění a původní význam pravidel "je jedno jak dobře jsi zasáhl, teď si hoď úplně znova na zranění" (tedy až na [zásah do hlavy](http://pph.drdplus.loc:88/#zasah_do_hlavy)), takže postih za chybějící *Sílu* už je vlastně započítaný v postihu k *Útoku*.
+
+Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md) si všechno ostatní přes *Boj* už zařídíš. Nebezpečnější *Útok*, lepší *Obrana*, větší *Zranění*, to všechno se dá ["zaplatit" *Bojem*](2018-08-10-boj.md#P%C5%99esouv%C3%A1n%C3%AD_bod%C5%AF_Boje), takže?
 
 > Poplach!
 
@@ -78,7 +79,30 @@ A to je přesně ten okamžik, kdy se mají v hlavě spustit poplašné sirény 
 - je to nutné?
 - co je čí zodpovědnost?
 
-Postih za nedostatečnou *Sílu* má řešit jen a pouze postih. To co se děje s těmi čísly **potom**, to už není  jeho starost a jestli máme pocit, že za nás ten postih vyřeší něco jiného, tak ten postih nemusíme řešit vůbec.
+Postih za nedostatečnou *Sílu* má řešit jen a pouze postih. To co se děje s těmi čísly **potom**, to už není jeho starost a jestli máme pocit, že za nás ten postih vyřeší něco jiného, tak ten postih nemusíme řešit vůbec.
+
+Problém je v tom, že *Boj* je **zdroj**, je to energie, kterou mohu použít na další akce a na jejich ovlivňování. Jakmile dovolíme něčemu, co vzniká ze zdroje (tady akci, kerá vznikla z *Boje*), aby to zas zpětně ovlivňovalo zdroj, tak z toho máme cyklickou závislost a dříve nebo později to bude na mašli.
+
+Proto *Boj* nově **nebude** ovlivněn chybějící *Silou*.
+
+#### Chybějící síla ještě jednou
+
+Takže Boj není ovlivněn chybějící *Silou*, fajn.
+
+*Útok* a *Obranu* postihovat chceme, jde jen o to, zda má smysl řešit pro ně **různý** postih.
+
+Síla zranění, pokud skutečně chceme přímý vliv zásahu (*Útoku*) a zranění, by byla započítána dvakrát a jde tedy o to, zda ji **dvakrát** započítávat a k tomu, zda řešit **různý** postih.
+Vlastně by *Síla* ovlivnila zranění třikrát
+
+- postih za nedostatečnou *Sílu* k *Útoku* a tím ke zranění
+- postih za nedostatečnou *Sílu* ke zranění
+- obecně započítání *Síly* do zranění
+
+TODO zrušíme postih za nedostatečnou sílu ke zranění
+
+#### Různý postih
+
+Pohyb mečem při obraně je pro paži jinak náročný, než při útoku? Při dopadu meče TODO zranění
 
 #### Bič
 > Někdy je pevná půda pod nohama rozdíl mezi životem a smrtí
