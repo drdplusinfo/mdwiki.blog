@@ -20,7 +20,7 @@ V tomhle článku ti proto popíšu, jak stránky fungují po technické, ajťá
 
 *To základní bychom měli, stránky se načítaly, aaaleee pooomaaaluuu*
 
-Jak už jsem [psal v dopise Altaru](./2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), začátky stránek [drdplus.info](https://www.drdplus.info) byly tristní. [PPH](https://pph.drdplus.info) se načítaly tak dlouho, že jsem rychleji vyhrabal [původní PDFko](https://obchod.altar.cz/drd-prirucka-pro-hrace-everze-p-972.html?buy=Koup%C3%ADm+DrD%2B+PPH+%28Pravidla+pro+hr%C3%A1%C4%8De%29) a v něm si našel co jsem hledal.
+Jak už jsem [psal v dopise Altaru](./2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), začátky stránek [drdplus.info](https://www.drdplus.info) byly tristní. [PPH](https://pph.drdplus.info/?version=1.0) se načítaly tak dlouho, že jsem rychleji vyhrabal [původní PDFko](https://obchod.altar.cz/drd-prirucka-pro-hrace-everze-p-972.html?buy=Koup%C3%ADm+DrD%2B+PPH+%28Pravidla+pro+hr%C3%A1%C4%8De%29) a v něm si našel co jsem hledal.
 No, trochu mě to otrávilo, takže jsem se na pravidla na webu na čas vykvajznul...
 
 ## Posíláme části najednou
@@ -29,7 +29,7 @@ No, trochu mě to otrávilo, takže jsem se na pravidla na webu na čas vykvajzn
 
 *Jak dostat stránku rychleji do tvého prohlížeče?*
 
-Malá revoluce pro mě nastala objevením [webového serveru Caddy](https://caddyserver.com/), kterému stačilo [nepříliš složitým textovým souborem](https://caddyserver.com/tutorial/caddyfile) oznámit, co chci zobrazovat, a najednou jsem měl stránky s [HTTPS](https://www.vzhurudolu.cz/prirucka/https) a ještě k tomu se načítaly rychleji, jelikož využívaly [HTTP/2](https://www.vzhurudolu.cz/prirucka/http-2), což je stahování všech částí stránky *najednou* (třeba taková [Pravidla pro hráče](https://pph.drdplus.info) jsou složena z padesáti devíti částí a stahovat je po jedné, nebo všechny najednou, to už je rozdíl).
+Malá revoluce pro mě nastala objevením [webového serveru Caddy](https://caddyserver.com/), kterému stačilo [nepříliš složitým textovým souborem](https://caddyserver.com/tutorial/caddyfile) oznámit, co chci zobrazovat, a najednou jsem měl stránky s [HTTPS](https://www.vzhurudolu.cz/prirucka/https) a ještě k tomu se načítaly rychleji, jelikož využívaly [HTTP/2](https://www.vzhurudolu.cz/prirucka/http-2), což je stahování všech částí stránky *najednou* (třeba taková [Pravidla pro hráče](https://pph.drdplus.info/?version=1.0) jsou složena z padesáti devíti částí a stahovat je po jedné, nebo všechny najednou, to už je rozdíl).
 
 #### Samočinné načítání změn
 
@@ -75,7 +75,7 @@ Důvody jsou dva:
 - většina stránek má něco společného, vzhled, pravidla zobrazení na mobilu, podmínky kešování na straně návštěvníka
   - no kdo by se s tímhle psal dvakrát, neřku-li jedenáctkrát jako v případě všech pravidlových a příběhových stránek [drdplus.info](https://www.drdplus.info), to uznej
 - obsah je opravdu rozsáhlý
-  - a upravovat něco s 24876 řádky (současná velikost [PPH](https://pph.drdplus.info)) v jediném souboru, to se fakt nedá
+  - a upravovat něco s 24876 řádky (současná velikost [PPH](https://pph.drdplus.info/?version=1.0)) v jediném souboru, to se fakt nedá
 
 Proto mám vytvořený [společný základ pro všechny obsahové stránky](https://github.com/jaroslavtyc/drd-plus-rules-html-skeleton) (a [další pak pro kalkulátory](https://github.com/jaroslavtyc/drd-plus-calculator-skeleton)),
 kde řeším všechno společné. Obsah samotný mám pak rozdělený do souborů podle selského rozumu, u každých pravidel zvlášť, třeba `089a Volba zbroje.html`, `090a2 Tabulka zbrojí a přileb.html`, `090a Tabulka zbrojí a přileb - popis.html`, `090b Příprava parametrů.html` a tak dále (jo, řadím si to abecedně).
@@ -92,9 +92,9 @@ Zahazování keše je v tomhle případě krásně jednoduché - jakmile na serv
 Stránka se na serveru kešovala, fungovalo to, nebyl důvod k další změně. Respektive nebyl by, kdyby mi nevadila jedna věc.
 Spousta nadpisů a tabulek totiž neměly odkaz. Když jsem chtěl někomu poslat třeba tabulku rychlosti, musel jsem mu říct že *"je to někde dole"*.
 
-Takže jsem [sehnal nástroj](https://github.com/PhpGt/Dom), který schroupe připravenou stránku a několika málo příkazy nacpe ke všem nadpisům, ať už kapitol nebo tabulek, automaticky vytvořený odkaz. A hned bylo s [odkazováním na Tabulku rychlosti](https://pph.drdplus.info/#tabulka_rychlosti) veseleji.
+Takže jsem [sehnal nástroj](https://github.com/PhpGt/Dom), který schroupe připravenou stránku a několika málo příkazy nacpe ke všem nadpisům, ať už kapitol nebo tabulek, automaticky vytvořený odkaz. A hned bylo s [odkazováním na Tabulku rychlosti](https://pph.drdplus.info/?version=1.0#tabulka_rychlosti) veseleji.
 
-Když se něco změní, tak se něco pokazí, a protože mi to nedošlo, tak jsem automatickými odkazy sestřelil [Pravidla pro hráče](https://pph.drdplus.info). Ono totiž *rozsekat* tak velkou HTML stránku, jakou [Pravidla pro hráče](https://pph.drdplus.info) jsou, a každý ten kousek popsat objektem v programu, tak to sežere (alespoň v [PHP](https://php.net)) dost RAMky a jako každý správně vychovaný program, tak i tenhle má pevně nastavený limit, přes který vlak nejede. V tomhle případě to je [výchozích 128 MB](https://php.net/manual/en/ini.core.php), což už nestačilo, stránka padla a já na to přišel až druhý den.
+Když se něco změní, tak se něco pokazí, a protože mi to nedošlo, tak jsem automatickými odkazy sestřelil [Pravidla pro hráče](https://pph.drdplus.info/?version=1.0). Ono totiž *rozsekat* tak velkou HTML stránku, jakou [Pravidla pro hráče](https://pph.drdplus.info/?version=1.0) jsou, a každý ten kousek popsat objektem v programu, tak to sežere (alespoň v [PHP](https://php.net)) dost RAMky a jako každý správně vychovaný program, tak i tenhle má pevně nastavený limit, přes který vlak nejede. V tomhle případě to je [výchozích 128 MB](https://php.net/manual/en/ini.core.php), což už nestačilo, stránka padla a já na to přišel až druhý den.
 Neboj, pro příště už jsem pojištěný, testuji horem dolem funkčnost stránek nejen před tím, než změny zveřejním, ale teď už i [po jejich zveřejnění](https://uptimerobot.com/), právě abych se už takhle nenachytal (ale o testování radši jindy, to je pohádka na další dlouhou dobrou noc).
 
 Ovšem, když už jsem byl u té automatické změny obsahu (přidávání odkazů k nadpisům), tak už stačilo jen ždibíček, a najednou bylo vyřešeno zahazování keše ve tvém prohlížeči pro každou část, ze které je stránka poskládaná.
@@ -124,7 +124,7 @@ a zahazování keše je vyřešeno.
 
 Další velkou výhodou je, že takhle rozšířený odkaz na soubor platí pořád, i když už je jeho otisk dávno jiný, protože název souboru je vlastně pořád stejný a správný (samotný `obrazek_kone.png` pořád existuje, ať už má otisk jakýkoli, schválně [si to zkus](https://bestiar.ppj.drdplus.info/images/175.png?version=už_mě_koně_vedou)).
 
-Výsledkem je například u [Pravidel pro hráče](https://pph.drdplus.info) namísto přenesených 13.1 MB pouhých 0.4 MB (pouhá 3 %) a místo 17.5 sekundy jenom 7.5 sekundy (je to přeci jen velká stránka a prohlížeč se zapotí, než ji poskládá, i když už o ní *všechno* ví).
+Výsledkem je například u [Pravidel pro hráče](https://pph.drdplus.info/?version=1.0) namísto přenesených 13.1 MB pouhých 0.4 MB (pouhá 3 %) a místo 17.5 sekundy jenom 7.5 sekundy (je to přeci jen velká stránka a prohlížeč se zapotí, než ji poskládá, i když už o ní *všechno* ví).
 A když něco změním, například vzhled odkazů, tak se ti stáhne jen ten změněný mrňavý [soubor se vzhledem (styly)](https://pph.drdplus.info/css/generic/anchors.css?version=f430266ecbf9ceaddc17690121fcb2f5). A to se počítá!
 
 ### Vánoční úklid

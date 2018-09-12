@@ -6,7 +6,7 @@
 
 > Soukat do sebe suchý text a nepotit se u toho za krkem dokážou vysokoškoláci, Google bot a moje skartovačka. Já ne.
 
-Někdy začátkem června jsem [plácnul na Facebook](https://www.facebook.com/drdplus.info/) situační vtip, který mi toho dne najednou přistál v hlavě.
+Někdy začátkem června jsem [plácnul na Facebook](https://www.facebook.com/drdplus.info/?version=1.0) situační vtip, který mi toho dne najednou přistál v hlavě.
 Protože jsem ho sám nečekal, tak mě překvapil a pobavil a když zvedl náladu mě, tak jsem ho zveřejnil, ať se nad neštěstím jiného pobaví i jiní (ano, takový jsme národ).
 > Ze života theurga:
   "Řekli mi, že bude poslouchat na slovo. Ale neřekli na které..."

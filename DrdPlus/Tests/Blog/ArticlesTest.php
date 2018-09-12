@@ -282,7 +282,7 @@ class ArticlesTest extends TestCase
                 'previousLink' => $previousLink,
                 'previousDate' => $previousDate,
                 'nextLink' => $nextLink,
-                'nextDate' => $nextDate
+                'nextDate' => $nextDate,
             ] = $this->parseArticleLinksFromFile($articlePath);
             if ($nextArticle) { // means previously next article
                 self::assertNotEmpty(
@@ -345,7 +345,7 @@ class ArticlesTest extends TestCase
             'previousLink' => $previousMatches['previousLink'] ?? false,
             'nextName' => $nextMatches['nextName'] ?? false,
             'nextDate' => $nextDate,
-            'nextLink' => $nextMatches['nextLink'] ?? false
+            'nextLink' => $nextMatches['nextLink'] ?? false,
         ];
     }
 
@@ -392,6 +392,69 @@ class ArticlesTest extends TestCase
             $localLinks,
             "Every link to drdplus.info should leads to drdplus.info using https:\n"
             . \implode("\n", $localLinks)
+        );
+    }
+
+    /**
+     * @test
+     */
+    public function Links_to_versioned_rules_lead_to_version_one(): void
+    {
+        $linksToVersionedRules = [];
+        $regexpWithNonVersionedLinks = '~https://(?:' . \implode('|', $this->pregQuoteAll($this->getNonVersionedSubDomains(), '~')) . ')[.]drdplus[.]info~';
+        foreach ($this->getExternalLinks() as $link) {
+            if (\strpos($link, '.drdplus.info') && !\preg_match('~[.]drdplus[.]info/(?:images|css|js)/~', $link) && !\preg_match($regexpWithNonVersionedLinks, $link)) {
+                $linksToVersionedRules[] = $link;
+            }
+        }
+        self::assertNotEmpty($linksToVersionedRules, 'No links to versioned rules have been found');
+        $linksWithoutVersion = \array_filter($linksToVersionedRules, function (string $linkToVersionedRules) {
+            return \strpos($linkToVersionedRules, 'version=1.0') === false;
+        });
+
+        self::assertEmpty(
+            $linksWithoutVersion,
+            "Every link to versioned rules should have query ?version=1.0\n"
+            . \implode("\n", $linksWithoutVersion)
+        );
+    }
+
+    private function pregQuoteAll(array $values, string $delimiter): array
+    {
+        $quoted = [];
+        foreach ($values as $value) {
+            $quoted[] = \preg_quote($value, $delimiter);
+        }
+
+        return $quoted;
+    }
+
+    private function getNonVersionedSubDomains(): array
+    {
+        return ['www', 'blog', 'pribeh', 'pad', 'boj', 'formule.theurg'];
+    }
+
+    /**
+     * @test
+     */
+    public function Links_to_non_versioned_rules_have_no_version(): void
+    {
+        $linksToNonVersionedRules = [];
+        $regexpWithNonVersionedLinks = '~https://(?:' . \implode('|', $this->pregQuoteAll($this->getNonVersionedSubDomains(), '~')) . ')[.]drdplus[.]info~';
+        foreach ($this->getExternalLinks() as $link) {
+            if (\strpos($link, '.drdplus.info') && \preg_match($regexpWithNonVersionedLinks, $link)) {
+                $linksToNonVersionedRules[] = $link;
+            }
+        }
+        self::assertNotEmpty($linksToNonVersionedRules, 'No links to non-versioned rules have been found');
+        $linksWithVersion = \array_filter($linksToNonVersionedRules, function (string $linkToNonVersionedRules) {
+            return \strpos($linkToNonVersionedRules, 'version=') !== false;
+        });
+
+        self::assertEmpty(
+            $linksWithVersion,
+            "Links to non-versioned rules should have not query ?version=\n"
+            . \implode("\n", $linksWithVersion)
         );
     }
 
