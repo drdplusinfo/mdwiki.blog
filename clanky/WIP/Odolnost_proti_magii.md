@@ -42,5 +42,7 @@ Zároveň se v Dračím doupěti (všech jeho verzích) pracuje s [Duševním sv
 
 To jsou ty "technické" střípky, znalosti, které před námi už objevili slovutní i zapomenutí badatelé.
 
+TODO zmíníme animy popsané v PPJ?
+
 ### Úroveň života
-Teď si zkusíme posbírat obecnější střepiny, které v původních pravidlech nenajdeme. 
+Teď si zkusíme posbírat obecnější střepiny, které v původních pravidlech nenajdeme.
