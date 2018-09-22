@@ -115,13 +115,16 @@ Těším se na přídavky.
 ## Zdroje
 
 - [domovská stránka *Neviditelné knihy*](http://neviditelnakniha.cz/)
-  - první malé a rozverné [dobrodružství *Familiárova věž*](http://neviditelnakniha.cz/ke-stazeni/dobrodruzstvi/)
-  - [mapy](http://neviditelnakniha.cz/ke-stazeni/mapy-a-planky/)
+    - první malé a rozverné [dobrodružství *Familiárova věž*](http://neviditelnakniha.cz/ke-stazeni/dobrodruzstvi/)
+    - druhé větší a vážnější [dobrodružství *Válka neskončila*](http://neviditelnakniha.cz/ke-stazeni/dobrodruzstvi/)
+    - [mapy](http://neviditelnakniha.cz/ke-stazeni/mapy-a-planky/)
+    - [náhodné tabulky Chaosu](http://neviditelnakniha.cz/ke-stazeni/ostatni/)
+    - [náhodné tabulky pro tvorbu hrdinů i cizích postav](http://neviditelnakniha.cz/ke-stazeni/ostatni/) 
 - [pravidla pro *Dračí doupě 1.6* a *Dračí doupě II*](http://neviditelnakniha.cz/ke-stazeni/pravidla/)
   - na pravidlech pro [*Dračí doupě Plus*](https://drdplus.info) budeme teprve pracovat, o pravidlech pro [*Dračí hlídku*](https://www.dracihlidka.cz/#top) zatím zprávy nemáme
-- [*RPG fórum*](https://rpgforum.cz/forum/viewforum.php?f=310)
+- [komunita kolem Neviditelné knihy na RPG fóru](https://rpgforum.cz/forum/viewforum.php?f=310)
 - [*Drakkar* - Monumenty Agol Zaru](http://drakkar.sk/66/monumenty-agol-zaru.html)
-- [další recenze včetně komentářů k nim na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=310&t=14867)
+- [další recenze včetně komentářů k nim na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=310&t=14867):
   - [recenze ve stylu českého národního sportu "nadávání na cokoli"](http://www.d20.cz/clanky/produkty/recenze-neklidny-tauril.html)
   - [praktická recenze z pohledu hráčky (ve slovenštině)](https://www.fantasy-svet.sk/index.php/publicistika/recenzie/798-neviditelna-kniha-neklidny-tauril)
 
