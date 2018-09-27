@@ -4,10 +4,17 @@ Poslední hlasování 2018/09/16 11:02:28 pm EET
 ## Čísla
 | Celkem hlasujících | 44 |
 
+### Hrajete?
+
+> Jaký je váš vztah k DrD+?
+
 | *Dříve jsem ho hrál/a* | 23 |
 | *Stále ho hraji* | 21 |
 
-### Negativa
+### Fuj
+
+> Co se vám na DrD+ nelíbí?
+
 | Přílišná celková obtížnost pravidel | 20 |
 | Základní pravidla (hody, zranění) | 5 |
 | Pravidla pro další herní situace (naložení, cestování, rychlost...) | 23 |
@@ -51,14 +58,51 @@ Poslední hlasování 2018/09/16 11:02:28 pm EET
 
 > nevyváženost jednotlivých povolání i některých schopností v rámci povolání
 
-### Positiva
+### Bezva
+
+> Co se vám na DrD+ líbí?
+
 | Základní pravidla (hody, zranění...) | 40 |
 | Pravidla pro další herní situace (naložení, cestování, rychlost...) | 39 |
 | Povolání Theurg | 35 |
 | Tvorba postavy | 38 |
 | Systém zkušeností | 42 |
 
+### Hmm
+
+> Co byste na DrD+ zlepšili?
+
+Soubojový systém 23
+Pravidla pro další herní situace 28
+Povolání Bojovník 13
+Povolání Theurg 21
+Základní pravidla (hody, zranění) 13
+Tvorba postavy 15
+Systém zkušeností 8
+Povolání Bojovník 13
+Povolání Čaroděj 10
+Povolání Kněz 21
+Povolání Hraničář 11
+Povolání Theurg 21
+Povolání Zloděj 8
+Zranění a léčení 1
+
+> Obecně zpřehlednit "roztahaná" pravidla, kdy související jsou v různých částech příručky
+
+> Vyváženost mezi povoláníma. Čaroděj je OP *(overpowered, příliš silný)*. Hrancl (*Hraničáíř*) je složitej pro PJ (*Pána jeskyně*)
+
+> System tabulek potrebuju absolutne zmenu. Bylo by fajn vydefinovat moznou vybavu a jeji mozne itemy. To at se itemy nelisi jen cisly, ale i ruznymi abilitami. A dalsi a dalsi ...
+
+> Celý systém povolání / souboj / herní situace je příliš složitý. Dva hody kostkou by měly stačit na většinu věcí, bez hledání složitých pravidel a "jak to tady vlastně bylo?!"
+
+> Soubojový systém se mi líbí (rozdíl mezi sazažením a zraněním protivníka), jen je při vyrovnanějších protivnících je dost zdlouhavý. Tím ale trpí většina her. Také by to možná chtělo trochu vypilovat čarodějovu magii, ze začátku se mi zdál dost málo použitelný. "Vrhací" kouzla se zdála drahá a často minula, problém byl i s dotykem u vitální magie. Celkově příručka pro PJ byla dost náročná na čtení. Hlavně pasáže o sférách a fungování magie. Kdybych neměl průpravu z DrD 1.6 a určitou obecnou představu, dost bych se v tom ztratil. Pamatuju si taky, že se jedna pasáž odvolávala na obrázek (kouzelník na jakémsi jevišti světa), který byl dost o ničem.
+
+> Tvorba postavy;pridat pravidla pro alchymii, zaridit kombinace povolani
+
 ### O tabulkách
+
+> Jaký je/byl váš vztah k tabulkám ve hře?
+
 | Nechal/a bych jen Tabulku zranění a únavy, zbytek předělat | 6 |
 | Zahodil/a bych je, exponenciální závislost také 1| 3 |
 | Nevadí/ily mi | 8 |
