@@ -23,3 +23,7 @@ V DrD1 zcela chybí eskalační charakter boje (prohraná akce v jednom kole bez
 Druhá věc, která souvisí je efekt zranění. Reálně platí, kdo je vážně zraněn, je v zápětí mrtvý (drobné zranění překryje adrenalin). V DrD 1 tenhle efekt nijak nefiguruje, DrD 2 má systém jizev, které způsobují postihy, což mi přijde poměrně vydařené.
 Hlavní problém (a hlavní plus) DrD 2 je, že systém akcí je otevřený, takže když máš nějakou představu, jak ten boj funguje, můžeš ho velice dobře nasimulovat (hlásíš akce, co dávají smysl), ale umím si představit, že parta osmiletých kluků, co nedávno viděla Conana bude plácat souboje jak série totálních nesmyslů (ale to jim nemusí vadit, takže co).
 Takže závěr: pro děti DrD1 protože je jednoduché, aditivní, uzavřené a vede jim ruku. Pro dospělé DrD2, prože je situační, eskalační, a otevřené.
+
+Petrovi děkuju, protože tohle má pro nás **velkou** hodnotu.
+
+Ne že by říkal něco revolučního nebo prostě neznámého, ale řekl to velmi pěkně, srozumitelně a dokázal několika málo větami popsat hlavní rozdíl mezi starým dobrým Dračím doupětem (které jsem začal hrát v osmé třídě, takže mi jednoduchá, nereálá pravidla bohatě stačila) a Dračím doupětem II, kde se velmi odvážně rozhodli nechat zodpovědnost na vymýšlení akcí ryze na hráčích.
