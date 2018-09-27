@@ -2,30 +2,30 @@ První hlasování 2018/08/02 11:57:52 pm EET
 Poslední hlasování 2018/09/16 11:02:28 pm EET
 
 ## Čísla
-Celkem hlasujících 44
+| Celkem hlasujících | 44 |
 
-*Dříve jsem ho hrál/a* 23
-*Stále ho hraji* 21
+| *Dříve jsem ho hrál/a* | 23 |
+| *Stále ho hraji* | 21 |
 
 ### Negativa
-Přílišná celková obtížnost pravidel 20
-Základní pravidla (hody, zranění) 5
-Pravidla pro další herní situace (naložení, cestování, rychlost...) 23
-Systém povolání 7
-Systém zkušeností 7
-Soubojový systém 13
-Povolání Theurg 17
-Povolání Zloděj 6
-Povolání Kněz 14
-Povolání Bojovník 6
-Povolání Hraničář 5
-Povolání Čaroděj 4
-Způsob tvorby postavy 6
-Tvorba postavy 5
-Tabulky, tabulky, tabulky 2
-Levelování příšer 1
-Mentální souboj 1
-Složitost systému zranění a léčení 1
+| Přílišná celková obtížnost pravidel | 20 |
+| Základní pravidla (hody, zranění) | 5 |
+| Pravidla pro další herní situace (naložení, cestování, rychlost...) | 23 |
+| Systém povolání | 7 |
+| Systém zkušeností | 7 |
+| Soubojový systém | 13 |
+| Povolání Theurg | 17 |
+| Povolání Zloděj | 6 |
+| Povolání Kněz | 14 |
+| Povolání Bojovník | 6 |
+| Povolání Hraničář | 5 |
+| Povolání Čaroděj | 4 |
+| Způsob tvorby postavy | 6 |
+| Tvorba postavy | 5 |
+| Tabulky, tabulky, tabulky | 2 |
+| Levelování příšer | 1 |
+| Mentální souboj | 1 |
+| Složitost systému zranění a léčení | 1 |
 
 > Tabulky, tabulky, tabulky. Je to šílený. Co se týče povolání, bylo by snažší, kdyby prostě všechny byly levelovaný podle Role-playe jako Hraničář a Kněz.
 
@@ -52,17 +52,25 @@ Složitost systému zranění a léčení 1
 > nevyváženost jednotlivých povolání i některých schopností v rámci povolání
 
 ### Positiva
-Základní pravidla (hody, zranění...) 40
-Pravidla pro další herní situace (naložení, cestování, rychlost...) 39
-Povolání Theurg 35
-Tvorba postavy 38
-Systém zkušeností 42
+| Základní pravidla (hody, zranění...) | 40 |
+| Pravidla pro další herní situace (naložení, cestování, rychlost...) | 39 |
+| Povolání Theurg | 35 |
+| Tvorba postavy | 38 |
+| Systém zkušeností | 42 |
+
+### O tabulkách
+| Nechal/a bych jen Tabulku zranění a únavy, zbytek předělat | 6 |
+| Zahodil/a bych je, exponenciální závislost také 1| 3 |
+| Nevadí/ily mi | 8 |
+| Sjednotil/a bych je do jedné, vše se bude dále přepočítávat, ale jen s jednou tabulkou, exponenciální 7 |
+| závislost zůstává pro všechno, předělat vzorce | 7 |
+| Bez nich si tu hru nedovedu představit, dávají mi smysl a nechal/a bych je tak, jak jsou 1| 0 |
 
 ### O dovednostech
-Některé mi chybí 22
-Chtěl bych je mnohem víc provázat s povoláními 20
-Přijdou mi spíš zbytečné 7
-Současné Dovednosti mi stačí 9
+| Některé mi chybí | 22 |
+| Chtěl bych je mnohem víc provázat s povoláními | 20 |
+| Přijdou mi spíš zbytečné | 7 |
+| Současné Dovednosti mi stačí | 9 |
 
 > Dovednosti jsou dle mého mírný krok správným směrem. Ale možná bych je použil spíš jako FATE systém pracuje s aspekty a skilly. DrD+ pravidla jsou na to prostě příliš úzkoprsá a zkostnatělá.
 
@@ -73,3 +81,10 @@ Současné Dovednosti mi stačí 9
 > drobnosti co si nevyřeší jen kretén
 
 > nějak je sjednotit, zdá se mi, že jich tam je hodně jen tak random
+
+### Chcete změnu?
+
+*Respektive chcete DrD+ 2.0?*
+
+| Ano | 36 |
+| Ne | 8 |
