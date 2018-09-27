@@ -111,6 +111,9 @@ Zranění a léčení 1
 | Bez nich si tu hru nedovedu představit, dávají mi smysl a nechal/a bych je tak, jak jsou 1| 0 |
 
 ### O dovednostech
+
+> Co si myslíte o obecných dovednostech?
+
 | Některé mi chybí | 22 |
 | Chtěl bych je mnohem víc provázat s povoláními | 20 |
 | Přijdou mi spíš zbytečné | 7 |
@@ -126,9 +129,9 @@ Zranění a léčení 1
 
 > nějak je sjednotit, zdá se mi, že jich tam je hodně jen tak random
 
-### Chcete změnu?
+### A co dál
 
-*Respektive chcete DrD+ 2.0?*
+> Máte zájem o verzi 2.0?
 
 | Ano | 36 |
 | Ne | 8 |
