@@ -1,5 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [27. 9. 2018 Co chcete?](clanky/2018-09-27-co_chcete.md)
 ### [19. 9. 2018 Úhyb](clanky/2018-09-19-uhyb.md)
 ### [11. 9. 2018 Chybějící síla na zbraň](clanky/2018-09-11-chybejici_sila_na_zbran.md)
 ### [6. 9. 2018 Patnáctka](clanky/2018-09-06-patnactka.md)
