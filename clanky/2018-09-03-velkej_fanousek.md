@@ -31,9 +31,9 @@ Na druhou stranu, plánujeme kombinace povolání, takže co se schopností růz
 
 A s tím *Charisma*... no, už teď je to zvyšování hlavních a vedlejších vlastností docela administrativní zátěž (kdo si nepoznamenal, co si zvýšil minule, tak bude tápat a nakonec to *"nějak odhadne"*), takže bůhví, jestli vůbec budeme vlastnosti dělit na nějaké [hlavní](https://pph.drdplus.info/?version=1.0#tabulka_povolani), vedlejší a odvozené (které se navíc musí počítat).
 
-- ona *hlavní* vlastnost je ta, u které se předpokládá, že jí hrdina se svým *jediným* povoláním využívá nejvíce, což se nám teď otřásá v základech, jelikož chceme umožnit kombinace povolání (a kterépa dvě vlastnosti jsou pak hlavní, že) a chceme přidat vliv stáří, z čehož nám vyplývá, že body vlasností by se měly "kupovat" podobně jako body *Dovedností* a navíc ta, kterou si "nezaplatíš", nepotrénuješ, ti poklesne, ale o tom jindy.
+- ona *hlavní* vlastnost je ta, u které se předpokládá, že jí hrdina se svým *jediným* povoláním využívá nejvíce, což se nám teď otřásá v základech, jelikož chceme umožnit kombinace povolání (a kterépa dvě vlastnosti jsou pak hlavní, že) a chceme přidat vliv stáří, z čehož nám vyplývá, že body vlastností by se měly "kupovat" podobně jako body *Dovedností* a navíc ta, kterou si "nezaplatíš", nepotrénuješ, ti poklesne, ale o tom jindy.
 
-Dlužno dodat, že na [Gameconu](https://gamecon.cz/) byla dašlí parta, která taky vyvíjí DrD+ 2, ovšem relativně potichu a ti se dávají cestou stromu dovedností, v čemž jim držím palce a obdivuji jejich odvahu do takového systému jít (drby o ní přidám jindy).
+Dlužno dodat, že na [Gameconu](https://gamecon.cz/) byla další parta, která taky vyvíjí DrD+ 2, ovšem relativně potichu a ti se dávají cestou stromu dovedností, v čemž jim držím palce a obdivuji jejich odvahu do takového systému jít (drby o ní přidám jindy).
 
 > Body zázemí sou celkem dobře rozdělený, ale hráči maj tendenci ignorovat původ a majetek v naději, že si oboje zlepšej, mělo by bejt zdůrazněno, že původ bude pro NPC zásadní (tedy jako ve stavovské společnosti)
 
@@ -55,7 +55,7 @@ Plánujeme něco v tom smyslu, co zmiňuješ, tedy další stupně dovedností *
 
 > Dovednosti- druhej stupeň by měl bejt za 2 a třetí za 3 body a omezený na úrovně (druhej po II. úrovních používání a III. po třech).
 
-S tou *"cenou"* dovedností to cítíme stejně, ale s omezením na úrovně dost váháme. Ne že by nás to nenapadlo, ale za prvé to vezme svobodu (a zdopovědonost) hráčům připravit si svou postavu podle jejího dosavadního životního příběhu a za druhé chceme význam obecných dovedností trochu srazit tím, že na nich budou stavět jednotlivá povolání, takže třeba [Boj se zbraní](https://pph.drdplus.info/?version=1.0#boj_se_zbrani) na třetím stupni už nebude *"poslední možný stupeň pro bojovníka"*, ale začátek.
+S tou *"cenou"* dovedností to cítíme stejně, ale s omezením na úrovně dost váháme. Ne že by nás to nenapadlo, ale za prvé to vezme svobodu (a zodpovědnost) hráčům připravit si svou postavu podle jejího dosavadního životního příběhu a za druhé chceme význam obecných dovedností trochu srazit tím, že na nich budou stavět jednotlivá povolání, takže třeba [Boj se zbraní](https://pph.drdplus.info/?version=1.0#boj_se_zbrani) na třetím stupni už nebude *"poslední možný stupeň pro bojovníka"*, ale začátek.
 
 > Etikety by měli mít rovnou bonus k Krs a Dus.
 
@@ -119,12 +119,12 @@ Na to máme stejný názor a chceme u zbrojí zavést několikero změn:
 
 - potřebná *Síla* na zbroj bude rovna *Ochraně zbroje* (mithrilová kroužková košile bude mít potřebnou *Sílu* menší než svou *Ochranu zbroje* kvůli nadprůměrné kvalitě, ale Pána prstenů sem teď netahejme)
 - omezení zbroje bude také rovno *Ochranně zbroje* a vzhledem k "dražším" stupňům dovedností, včetně dovednosti [Nošení zbroje](https://pph.drdplus.info/?version=1.0#noseni_zbroje), bude těžší se omezení zbavit
-- zboj "nebude nic vážit" pouze v boji, kde se vše vyjadřuje [Omezením zbroje](https://pph.drdplus.info/?version=1.0#omezeni_zbroje_v_boji), ale jakmile boj skončí, tak zbroj už adrenalin nadlehčovat nebude a započítá se v plné váze do nákladu (skuteční hrdinové časté nošení zbroje jistě vykompenzují vyšší *Silou*)
+- zbroj "nebude nic vážit" pouze v boji, kde se vše vyjadřuje [Omezením zbroje](https://pph.drdplus.info/?version=1.0#omezeni_zbroje_v_boji), ale jakmile boj skončí, tak zbroj už adrenalin nadlehčovat nebude a započítá se v plné váze do nákladu (skuteční hrdinové časté nošení zbroje jistě vykompenzují vyšší *Silou*)
 
 > Rány které neprojdou brněním by měli zraňovat alespoň za 1 život, nebo za únavu (převést podle tabulky až po odečtení zbroje).
 
 I o tomhle jsme přemýšleli a chvíli jsme taky koketovali s myšlenkou, že co nejde do masa, mělo by jít alespoň do modřin a bolesti (a únavy), ale postupně jsme to zavrhli. Je totiž velmi těžké najít tu hranici, kdy ránu skutečně se vším všudy zastaví zbroj (a žebra), a kdy to byla taková pecka, že i když krev neteče, tak mám vyražený dech a modřinu jak lívanec s borůvkami.
-Navíc je tu ještě jeden problém, ryze herní, a tím je rychlost boje. Každá drobná administrativa *navíc* zpomaluje tempo boje a hráči místo potu cití povinnosti výpočtů a namísto funění slyší listování v pravidlech. Proto spíše přemýšlíme o spojení *Ochrany zbroje* a *Obranného čísla* do jediné *Obrany*, protože zároveň chceme spojit *Útočnost* (sílu útoku) se *Zraněním*, jelikož se nám nelíbí, že nepřítele sice skvěle zasáhnu, ale pak si musím znovu hodit na zranění a přestože mi na útok padlo jako ještě nikdy, jenže na zranění málo, tak je z toho najednou nejtitěrnější zásah v dějinách.
+Navíc je tu ještě jeden problém, ryze herní, a tím je rychlost boje. Každá drobná administrativa *navíc* zpomaluje tempo boje a hráči místo potu cítí povinnosti výpočtů a namísto funění slyší listování v pravidlech. Proto spíše přemýšlíme o spojení *Ochrany zbroje* a *Obranného čísla* do jediné *Obrany*, protože zároveň chceme spojit *Útočnost* (sílu útoku) se *Zraněním*, jelikož se nám nelíbí, že nepřítele sice skvěle zasáhnu, ale pak si musím znovu hodit na zranění a přestože mi na útok padlo jako ještě nikdy, jenže na zranění málo, tak je z toho najednou nejtitěrnější zásah v dějinách.
 
 ## Boj se zbraní
 > Obrovský problém je, že systém vlastností nutí postavy používat jeden typ zbraní a díky postihům jsou ostatní úplně nepoužitelné. Navrhoval bych základní schopnost boj se zbraní/střelnou zbraní a na stupních II. a III. kategorie zkonkrétňovat.
@@ -132,7 +132,7 @@ Navíc je tu ještě jeden problém, ryze herní, a tím je rychlost boje. Každ
 Přemýšleli jsme o tvém nápadu na *jednotný základ pro všechny typy zbraní a bonusy ke konkrétním typům až na vyšších stupních dovednosti*, ale zůstaneme při současném stavu. Ovšem změny budou.
 
 Jak už jsme psali výše, tak každý stupeň dovednosti už nebude stát jeden jediný bod, ale podobně jako to má zloděj bude stát jeden bod první stupeň, dva body druhý stupeň a tři body třetí stupeň.
-Navíc hodně dovedností, a hlavně [Boj se zbraní](https://pph.drdplus.info/?version=1.0#boj_se_zbrani), bude pokračovat i u povolání, takže třeba [Bojovník](https://bojovnik.drdplus.info/?version=1.0) bude míž možnost se naučit [Boj se zbraní](https://pph.drdplus.info/?version=1.0#boj_se_zbrani) až do šestého stupně (a uvažujeme i o devíti stupních, ovšem jen kvůli speciálním schopnostem, čísla se už zvyšovat nebudou).
+Navíc hodně dovedností, a hlavně [Boj se zbraní](https://pph.drdplus.info/?version=1.0#boj_se_zbrani), bude pokračovat i u povolání, takže třeba [Bojovník](https://bojovnik.drdplus.info/?version=1.0) bude mít možnost se naučit [Boj se zbraní](https://pph.drdplus.info/?version=1.0#boj_se_zbrani) až do šestého stupně (a uvažujeme i o devíti stupních, ovšem jen kvůli speciálním schopnostem, čísla se už zvyšovat nebudou).
 
 ## Boj
 > Délka by měla být bojem omezována ještě ve větší míře (píka by na vzdálenost 1 neměla mít bonus 0, ale postih -7),
@@ -159,7 +159,7 @@ Tohle nám taky vrtá hlavou. I v současném [návrhu boje](/#!clanky/2018-08-1
 - zatím nás k tomu napadlo, že pro *Úhyb* se nebude házet kostkou, prostě se sečte *Obratnost* a *Ochrana zbroje* a to bude výsledné obranné číslo *Úhybu*
     - a pokud bude někdo potřebovat pořádnou *Obranu*, no tak ať se snaží a obětuje na to akci (body *Boje*)
 
-Dodávám, že navíc chceme zrušit původní *kdo se zbraní neumí, má k ní **postih*** a namísto postihů chceme jen bonusy (pokud bojující nebude umět [Boj se zbraní](https://pph.drdplus.info/?version=1.0#boj_se_zbrani) vůbec, tak bude bojovat bez postihu, a kdo umí, bojuje s bonusem). Takže i rozdíl mezi útokem začátečníka a obranou uhybajícícho bude menší a a *Úhyb* tudíž nebude na nižších úrovních tak silný.
+Dodávám, že navíc chceme zrušit původní *kdo se zbraní neumí, má k ní **postih*** a namísto postihů chceme jen bonusy (pokud bojující nebude umět [Boj se zbraní](https://pph.drdplus.info/?version=1.0#boj_se_zbrani) vůbec, tak bude bojovat bez postihu, a kdo umí, bojuje s bonusem). Takže i rozdíl mezi útokem začátečníka a obranou uhýbajícícho bude menší a a *Úhyb* tudíž nebude na nižších úrovních tak silný.
 
 > Jeden útok za kolo je celkem fajn a situace je tak přehledná, ale zabíjet takhle slabí nepřátele (kostlivce...) neni nic moc.
 
@@ -182,7 +182,7 @@ Máš nějaký konkrétní příklad, kde to skřípe?
 > Hraničářům a zlodějům by mělo být připomenuto že na blízko se střílet nedá. Pravidla celkem umožňují střílet kuší, nebo vrhat kouzla na někoho, kdo do vás mlátí mečem, to je nesmysl a taková sebeobrana by měla být možná jen proti těm nejnemotornějším nepřátelům.
 
 Souhlasíme, ale ještě jsme to nerozmýšleli.
-Ale když na to použiju současný [návrh boje](/#!clanky/2018-08-10-boj.md) (no, návrh zní poněkud vznešeně a oficálně, prostě tok myšlenek), tak každou *Vlnu akcí* ty jakožto střelec můžeš sice ohlásit, že budeš střílet vlkovi mezi očí, ale vlk ti zároveň oznámí, že ti ukousne zadek zepředu, takže si vyber, jestli raději útok nezahodíš a nebudeš své citlivé partie chránit lépe než jen *Úhybem*.
+Ale když na to použiju současný [návrh boje](/#!clanky/2018-08-10-boj.md) (no, návrh zní poněkud vznešeně a oficiálně, prostě tok myšlenek), tak každou *Vlnu akcí* ty jakožto střelec můžeš sice ohlásit, že budeš střílet vlkovi mezi očí, ale vlk ti zároveň oznámí, že ti ukousne zadek zepředu, takže si vyber, jestli raději útok nezahodíš a nebudeš své citlivé partie chránit lépe než jen *Úhybem*.
 
 ## Pohyb a únava
 > Pohyb a únava- celkem fajn jenom čísla jsou občas zvláštní a bodů únavy je hrozně málo. Postavy mají obrovskou nosnost, měly by se počítat zbraně a zbroj a vždy by měl být alespoň nějaký postih.
@@ -211,7 +211,7 @@ Také chceme přidat přehled kvality jídla, což už je vlastně nakousnuté v
 Ono na ceník je několik stížností. Je málo obsáhlý, ceny jsou zvláštní, hodnoty mincí kdy jeden zlaťák je deset stříbrných a jeden stříbrný je deset měděných dostává v každé ekonomice na frak...
 
 - na další položky ceníku máme spoustu nápadů, tam půjde hlavně o to to nepřehnat (líbí se mi myšlenka udržovat základní ceník a další jako dodatky stranou)
-- pokud bychom zahodili měďáky a nechali jen stříbrňáky, tak by jeden stříbrňák musel mít hodnotu jako naše současná koruna, což je asi tak jeden krajíc chleba, jenže [chleba stojí](https://pph.drdplus.info/?version=1.0#bochnik_chleba) podle současného ceníku tři stříbrné, což je třicet mědených, což je jeden a půl měďáku za krajíc, nikoliv stříbrňák.
+- pokud bychom zahodili měďáky a nechali jen stříbrňáky, tak by jeden stříbrňák musel mít hodnotu jako naše současná koruna, což je asi tak jeden krajíc chleba, jenže [chleba stojí](https://pph.drdplus.info/?version=1.0#bochnik_chleba) podle současného ceníku tři stříbrné, což je třicet měděných, což je jeden a půl měďáku za krajíc, nikoliv stříbrňák.
 
 Problém totiž nejsou ani tak měďáky, jako spíše luxus, ve kterém dříve nebo později hrdinové žijí a měďáky tak v **jejich** stylu života nemají místo. Zatím ještě nevíme co s tím, je tu zatím jen návrh na větší poměr zlaťák / stříbrňák / měďák (třeba 1 zl = 100 st = 10 000 md), ikdyž mě by se spíše líbily konkrétnější mince, jako groš, dukát, tolar, ale to zas nesedí jiným.
 
