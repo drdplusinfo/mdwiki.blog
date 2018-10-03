@@ -3,7 +3,7 @@
 *6. 9. 2018*
 
 Během prací na DrD+ 2 (lépe řečeno na DrD+ 1.1, ale to nemá tak zvonný název, ehm), jsem vykopal i několik *představ minulosti* a níže připomínám jednu z nich.
-Napsal ji před šestnáci(!) lety jeden z původních autorů DrD+ a pro mě je to literární počin naprosto nádherný ze dvou prostých důvodů:
+Napsal ji před šestnácti(!) lety jeden z původních autorů DrD+ a pro mě je to literární počin naprosto nádherný ze dvou prostých důvodů:
 
 - obsah je založen na pravých pocitech
 - text je prostý, jednoduchý
