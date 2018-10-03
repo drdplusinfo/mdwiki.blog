@@ -12,9 +12,9 @@ Odpověď zní *samozřejmě ano*, vždyť tohle je Dračí doupě plus, ve kter
 
 ## S tabulkou
 
-> Mají **původní** postihy za chybějcí sílu vlastně smysl?
+> Mají **původní** postihy za chybějící sílu vlastně smysl?
 
-Druhá otázka je, jesti původní [Tabulka postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?version=1.0#tabulka_postihu_za_chybejici_silu) dává vyčerpávající přehled postihů.
+Druhá otázka je, jestli původní [Tabulka postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?version=1.0#tabulka_postihu_za_chybejici_silu) dává vyčerpávající přehled postihů.
 No, mě teda vyčerpává určitě. Sice to na první pohled vypadá krásně...
 
 - nejdříve se snižuje *Boj* (šance že něco stihnu)
@@ -32,7 +32,7 @@ Být to v počítačové hře, proč ne. Ale ve hře textové, kde se má hlavn�
 
 > Je třeba odlišovati jednoduchosti od blbosti
 
-Dračí doupě plus jsem na [web](https://www.drdplus.info) začal převádět z osobního důvodu - ve všech těch textech a tabulkách jsem se ztrácel a doufal jsem, že webová stránka zkrz naskrz prošpikovaná vzájemnými odkazy mi pomůže. Prdaljs.
+Dračí doupě plus jsem na [web](https://www.drdplus.info) začal převádět z osobního důvodu - ve všech těch textech a tabulkách jsem se ztrácel a doufal jsem, že webová stránka skrz naskrz prošpikovaná vzájemnými odkazy mi pomůže. Prdaljs.
 Tak jsem napsal [kalkulátor boje](https://boj.drdplus.info), který sice funguje, ale najednou jsem otrokem nějakého nástroje, kterému musím věřit, protože z hlavy si to prostě nespočítám. Fuj.
 
 A proto jsem se pustil do úprav DrD+, protože hrát ho pořád chceme, ale těch nejistot, zmatení a otazníků je v původní verzi moc a pokud mají pravidla přežít, tak je musíme **zjednodušit**.
