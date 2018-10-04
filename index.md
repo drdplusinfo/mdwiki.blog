@@ -1,6 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
-### [5. 10. 2018 Převaha](clanky/2018-10-05_prevaha.md)
+### [5. 10. 2018 Převaha](clanky/2018-10-05-prevaha.md)
 ### [3. 10. 2018 Co chcete?](clanky/2018-10-03-co_chcete.md)
 ### [19. 9. 2018 Úhyb](clanky/2018-09-19-uhyb.md)
 ### [11. 9. 2018 Chybějící síla na zbraň](clanky/2018-09-11-chybejici_sila_na_zbran.md)
