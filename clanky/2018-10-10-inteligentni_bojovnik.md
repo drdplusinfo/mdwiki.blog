@@ -45,6 +45,16 @@ Takže nám kapánek schází ten vliv *Inteligence* na počet akcí.
 
 A pak je tu ten druhý aspekt - zaokrouhlování. Teď je na čase uronit slzu nostalgie a zavzpomínat na **staré** dobré Dračí doupě, kde se jen sčítalo a odčítalo. Zaokrouhlování tam nemělo místo a v tom byla obrovská síla, protože hlava tak nebyla zatížena ani takovými výpočetními drobotinami a mohla se **naplno** věnovat zážitkům ze hry.
 
-### CO zvládneš, to zvládneš
+### Nemyslíš, zaplatíš
 
 A tak nás trklo, že by počet akcí mohl být roven *Inteligenci*. A hotovo.
+
+- a co nulová a záporná *Inteligence*?
+    - necháme každého provést alespoň jednu akci, ať už má *Inteligenci* sebemenší
+- takže prostý tvor nemá šanci si zvýšit šance?
+    - Paul nás v [márkách](https://paper.dropbox.com/doc/Marky-hrdinu-i-padouchu--AOfhhadcneHIdLCOjivQRmpbAQ-4WNOSwzOGzSDLguzneiHn) inspiroval *Taktikem*, který používá rozum tam, kde ostatní pouze smysly a z toho bychom chtěli udělat obenou *Dovednost*, která přidá *bojovou inteligenci*, tedy zvýší počet akcí
+- a co body *Boje*, ty pořád ovlivňují počet akcí?
+    - hmm, to budeme muset probrat
+
+### Body boje a počet akcí
+
