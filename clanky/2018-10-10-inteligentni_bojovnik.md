@@ -58,3 +58,23 @@ A tak nás trklo, že by počet akcí mohl být roven *Inteligenci*. A hotovo.
 
 ### Body boje a počet akcí
 
+Původně jsme počet akcí přímo podřizovali **celkovým** bodům *Boje*. Přestože ji mohl body *Boje* přesouvat sem a tam, tak od začátku ti už diktovaly, kolik různých činností v jednom kole zvládneš. No, nezní to *úplně* pitomě, ale je to takové strojové, takové předem naplánované, takové... nepřirozené.
+
+Teď, když jsme celé to zjišťování, kolik vlastně mám v tomhle kole akcí, zjedodušili na velikost *Inteligence*, tak bychom vliv *Boje* mohli zahodit, ne?
+No, **pevný** počet akcí by asi *Boj* ovlivňovat neměl, protože sám pevný **není**, když můžeme s body *Boje* čachrovat jak při skořápkách, ale kde není *Boj*, neměla by být ani akce, jak jsme si ukázali na případech schopnější mysli než těla, takže?
+
+Takže můžeme oprášit jeden z nápadů v [původním návrhu *Boje*](2018-08-10-boj.md) a říct, že:
+
+- jedna akce potřebuje alespoň jeden bod *Boje*
+    - to neplatí pouze pro automatickou činnost, jakou je třeba [*Úhyb*](2018-09-19-uhyb.md)
+- akcí můžeš provést kolik chceš, pokud na to máš body *Boje* a nově také *Inteligenci*
+    - s tím že každá akce stojí šest nebo tři body *Boje*, podle toho, jestli vyžaduje plné nebo volné soustředění a pokud použiješ méně bodů *Boje*, budeš mít k akci postihy
+- pokud nemáš **žádné** body *Boje*, tak nemůžeš dělat žádnou běžnou, vědomou akci, ale pořád můžeš udělat nějakou automatickou
+    - to je změna oproti původnímu návrhu, kdy bez energie na běžnou akci nešlo provést ani automatickou
+
+Tím se nám i pěkně oddělily běžné akce a automatické, kdy je více znát, že běžné akce vyžadují **vědomou** snahu (tedy body *Boje*).
+
+A co omezení bodů Boje, které lze přesouvat? To necháme prostě na šesti jako předtím? Žádná vlastnost nám to neovlivní?
+
+### Zručný přesun bodů *Boje*
+
