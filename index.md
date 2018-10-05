@@ -1,5 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [10. 10. 2018 Inteligentní bojovník](clanky/2018-10-10-inteligentni_bojovnik.md)
 ### [5. 10. 2018 Převaha](clanky/2018-10-05-prevaha.md)
 ### [3. 10. 2018 Co chcete?](clanky/2018-10-03-co_chcete.md)
 ### [19. 9. 2018 Úhyb](clanky/2018-09-19-uhyb.md)
