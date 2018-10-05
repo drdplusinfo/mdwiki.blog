@@ -74,7 +74,13 @@ Takže můžeme oprášit jeden z nápadů v [původním návrhu *Boje*](2018-08
 
 Tím se nám i pěkně oddělily běžné akce a automatické, kdy je více znát, že běžné akce vyžadují **vědomou** snahu (tedy body *Boje*).
 
-A co omezení bodů Boje, které lze přesouvat? To necháme prostě na šesti jako předtím? Žádná vlastnost nám to neovlivní?
+A co omezení bodů *Boje*, které lze přesouvat? To necháme prostě na šesti jako předtím? Žádná vlastnost nám to neovlivní?
 
 ### Zručný přesun bodů *Boje*
 
+Vrtá nám hlavou tedy ještě jedna věc, když *Inteligence* ovlivňuje počet akcí, které za kolo duševně zvládnu, tak co ovlivňuje počet bodů *Boje*, které mohu mezi akcemi přesunout?
+
+Kdybychom se bavili pouze o těle, tak můžeme říci, že důraz na jednu akci a odfláknutí druhé závisí na naší *Obratnosti*. Jenže, trochu větší důraz a trochu menší důraz... není to spíš o citu než o mrštnosti? Že by *Zručnost*? Nebo rovnou *Smysly*?
+Kdyby to byly *Smysly*, co nám umožňují citlivě rozprostřít energii mezi jednotlivé akce, tak, jak **chceme**, tak bychom museli taky říct, které z mnoha smyslů to jsou. Sluch? Zrak? Hmat? Všechny dohromady? A nejsou náhodou všechny dohromady *Zručnost*? Necháme to tedy na *Zručnosti*... počet bodů *Boje*, které můžeš přesouvat mezi akcemi, by **mohla** ovlivňovat *Zručnost*
+
+Ovšem jen o těle se se nebavíme, když jsme přijali *Inteligenci* jako ukazatel počtu akcí, které zvládnu provést. 
