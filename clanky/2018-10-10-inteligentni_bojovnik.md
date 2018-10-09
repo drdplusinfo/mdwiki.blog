@@ -65,7 +65,7 @@ A co omezení bodů *Boje*, které lze přesouvat? To necháme prostě na šesti
 Vrtá nám hlavou tedy ještě jedna věc, totiž když *Inteligence* ovlivňuje počet akcí, které za kolo duševně zvládnu, tak co ovlivňuje počet bodů *Boje*, které mohu mezi akcemi přesunout?
 
 Kdybychom se bavili pouze o těle, tak můžeme říci, že důraz na jednu akci a odfláknutí druhé závisí na naší *Obratnosti*. Jenže, *trochu větší důraz* a *trochu menší důraz*... není to spíš o citu než o mrštnosti? Že by *Zručnost*? Nebo rovnou *Smysly*?
-Kdyby to byly *Smysly*, co nám umožňují citlivě rozprostřít energii mezi jednotlivé akce, tak jak **chceme**, tak bychom museli taky říct, které z mnoha smyslů to jsou. Sluch? Zrak? Hmat? Všechny dohromady? A nejsou náhodou všechny dohromady *Zručnost*? Necháme to tedy na *Zručnosti*... počet bodů *Boje*, které můžeš přesouvat mezi akcemi, by **mohla** ovlivňovat *Zručnost*
+Kdyby to byly *Smysly*, co nám umožňují citlivě rozprostřít energii mezi jednotlivé akce, tak jak **chceme**, tak bychom museli taky říct, které z mnoha smyslů to jsou. Sluch? Zrak? Hmat? Všechny dohromady? A nejsou náhodou všechny dohromady *Zručnost*? No, není, všechny dohromady jsou Smysly, v nichž [některá povolání excelují](http://zlodej.drdplus.loc:88/#zdokonalene_smysly)... počet bodů *Boje*, které můžeš přesouvat mezi akcemi, by **mohla** ovlivňovat *Zručnost*
 
 Ovšem jen o těle se se nebavíme, když jsme přijali *Inteligenci* jako ukazatel počtu akcí, které zvládnu provést. Pokud mám dostatek tělesné *Zručnosti* na jemné nuance mezi akcemi, tak bych měl mít i dostatek duševní zručnosti, abych ty odlišné důrazy na jednotlivé akce i zvládl promyslet, nebo alespoň instinktivně odhadnout. Jenže, co je ta duševní zručnost? Že by *Inteligence*? Nebo je to prostě *Zručnost*, o které nás jen doteď nenapadlo, že v sobě vlastně skrývá i zručnost duševní, tedy schopnost promýšlet či prociťovat drobné detaily? A co *Moudrost*?
 
@@ -73,7 +73,7 @@ Ovšem jen o těle se se nebavíme, když jsme přijali *Inteligenci* jako ukaza
 Už několikrát nás napadlo, že v Dračím doupěti, žádném z nich, není moudrost. Vlastně v [Dračím doupěti II](https://drd2.cz) by být mohla ze všech verzí nejvíc, skryta v *Duši*.
 Obecně už ale máme několik let za to, že chybějící moudrost jako číslo je velká **výhoda**, protože nás nenutí hrát moudré, či naopak zbrklé jedince, prostě v tom máme volnost. A teď bychom si ji chtěli vzít kvůli boji? Co je to za nerozumný návrh? A co je to vlastně moudrost?
 
-Když se někdo chová moudře, rozumně, tak jedná s rozvahou, ví, co ho za jeho jednání čeká, dokáže to často vysvětlit i ostatním, pokud mu na to dají čas, je otevřený myšlenkám druhých a přemýšlí i o jejich názorech, protože mu zpřesňují jeho odhad budoucnosti, toho, jak to nakonec dopadne, aby se mohl lépe rozhodnout. Moudrý člověk obvykle ví, co dělá, kam jde a co z toho bude a hlavně vidí více **možností**, než ti méně osvícení.
+Když se někdo chová moudře, rozumně, tak jedná s rozvahou, ví, co ho za jeho jednání čeká, dokáže své úmysly často vysvětlit i ostatním, pokud mu na to dají čas, je otevřený myšlenkám druhých a přemýšlí i o jejich názorech, protože mu zpřesňují jeho odhad budoucnosti, toho, jak to nakonec dopadne, aby se mohl lépe rozhodnout. Moudrý člověk obvykle ví, co dělá, kam jde a co z toho bude a hlavně vidí více **možností**, než ti méně osvícení.
 
 Parafrázovat moudrost můžeme i tak, že
 
