@@ -1,0 +1,1 @@
++1 k vůli, -1 k charisma
