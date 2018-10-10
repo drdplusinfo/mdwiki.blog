@@ -446,7 +446,7 @@ class ArticlesTest extends TestCase
                 $linksToNonVersionedRules[] = $link;
             }
         }
-        self::assertNotEmpty($linksToNonVersionedRules, 'No links to non-versioned rules have been found');
+        self::assertNotEmpty($linksToNonVersionedRules, 'No links to non-versioned rules has been found');
         $linksWithVersion = \array_filter($linksToNonVersionedRules, function (string $linkToNonVersionedRules) {
             return \strpos($linkToNonVersionedRules, 'version=') !== false;
         });
@@ -492,5 +492,28 @@ class ArticlesTest extends TestCase
                 self::assertSame('https://www.altar.cz', $link, 'There is a non-optimal link to Altar in article ' . \basename($articleFile));
             }
         }
+    }
+
+    /**
+     * @test
+     */
+    public function Links_to_drd2_do_not_uses_invalid_https(): void
+    {
+        $linksToDrd2 = [];
+        foreach ($this->getExternalLinks() as $link) {
+            if (\strpos($link, '.drd2.cz')) {
+                $linksToDrd2[] = $link;
+            }
+        }
+        self::assertNotEmpty($linksToDrd2, 'No links to drd2.cz has been found');
+        $linksWithHttps = \array_filter($linksToDrd2, function (string $linkToDrd2) {
+            return \strpos($linkToDrd2, 'https') !== false;
+        });
+
+        self::assertEmpty(
+            $linksWithHttps,
+            "Links to drd2.cz should not use https as the certificate is not valid=\n"
+            . \implode("\n", $linksWithHttps)
+        );
     }
 }

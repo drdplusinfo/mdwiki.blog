@@ -8,7 +8,7 @@ Při rozsáhlém [zkoumání, pitvání a nakonec i úpravách *Boje*](2018-08-1
 
 - *Boj* bude vycházet pouze z *Obratnosti*
 - počet možných akcí v jednom kole je ovlivněn pouze *Bojem*
-- body *Boje* lze, v rámci jednoho kola, přelévat mezi akcemi jak je libo (protože se za body *Boje* dají "kupovat" bonusy)
+- body *Boje* lze, v rámci jednoho kola, přelévat mezi akcemi jak je libo (a tím si za body *Boje* "kupovat" bonusy)
 
 A trochu se nám to od té doby rozleželo. S tou *Obratností* se nám to pořád líbí, protože to je jednoduché a dává nám to smysl, ovšem jinak to už vnímáme s počtem akcí a přesouváním bodů *Boje*. 
 
@@ -17,7 +17,7 @@ A trochu se nám to od té doby rozleželo. S tou *Obratností* se nám to poř�
 V [návrhu *Boje*](2018-08-10-boj.md) jsme chtěli mít počet akcí podle bodů *Boje*, což zní celkem jednoduše:
 
 - máš tolik akcí, kolik máš bodů *Boje* vydělených šesti, zaokrouhleno nahoru
-    - třeba s *Bojem* 7 bys měl dvě akce, protože 7 / 6 = 1.16666..., zaokrouhleno nahoru jsou 2
+    - třeba s *Bojem* 7 bys měl dvě akce, protože 7 / 6 = 1.16..., zaokrouhleno nahoru jsou 2
  
 A chtěli jsme, aby ses mohl na každou akci soustředit tak, jak si zaslouží:
  
@@ -40,7 +40,7 @@ A tak nás trklo, že by počet akcí mohl být roven *Inteligenci*. A hotovo.
 - a co nulová a záporná *Inteligence*?
     - necháme každého provést alespoň jednu akci, ať už má *Inteligenci* sebemenší a prohlásíme to za instinkt
 - takže ducha prostý tvor nemá šanci si zvýšit šance?
-    - Paul nás v [markách](https://paper.dropbox.com/doc/Marky-hrdinu-i-padouchu--AOfhhadcneHIdLCOjivQRmpbAQ-4WNOSwzOGzSDLguzneiHn) inspiroval *Taktikem*, který používá rozum tam, kde ostatní dají pouze smysly a z toho bychom chtěli udělat obenou *Dovednost*, která přidá *bojovou inteligenci*, tedy zvýší počet akcí, jako kdyby měl tvor vyšší *Inteligenci*
+    - Paul nás v [markách](https://paper.dropbox.com/doc/Marky-hrdinu-i-padouchu--AOfhhadcneHIdLCOjivQRmpbAQ-4WNOSwzOGzSDLguzneiHn) inspiroval *Taktikem*, který používá rozum tam, kde ostatní dají pouze na smysly a z toho bychom chtěli udělat obecnou *Dovednost*, která přidá *bojovou inteligenci*, tedy zvýší počet akcí, jako kdyby měl tvor vyšší *Inteligenci*
 - a co body *Boje*, ty pořád ovlivňují počet akcí?
     - hmm, to budeme muset probrat...
 
@@ -48,7 +48,7 @@ A tak nás trklo, že by počet akcí mohl být roven *Inteligenci*. A hotovo.
 
 Původně jsme počet akcí přímo podřizovali **celkovým** bodům *Boje*.
 
-- přestože jsi mohl body *Boje* přesouvat sem a tam, tak od začátku ti už diktovaly, kolik různých činností v jednom kole zvládneš
+- přestože sis mohl body *Boje* přesouvat sem a tam, tak od začátku ti diktovaly, kolik různých činností v jednom kole zvládneš
 
 No, nezní to *úplně* pitomě, ale je to takové strojové, takové předem naplánované, takové... nepřirozené.
 
@@ -59,10 +59,8 @@ Takže můžeme oprášit jeden z nápadů v [původním návrhu *Boje*](2018-08
 
 - akcí můžeš provést kolik chceš, pokud na to máš body *Boje* a nově také *Inteligenci*
     - s tím, že každá akce stojí šest nebo tři body *Boje*, podle toho, jestli vyžaduje *plné* nebo *volné* soustředění
-- pokud nemáš **žádné** body *Boje* (jsou **nula**), tak pořád můžeš udělat tolik akcí, kolik ti *Inteligence* dovolí (samozřejmě s velkým postihem, viz výše)
-    - vždy alespoň jednu, plus jednu automatickou (to je změna oproti původnímu návrhu, kdy bez energie na běžnou akci, tedy bez bodů *Boje*, nešlo provést ani automatickou)
-- pokud máš body *Boje* **záporné**, tak už ti nepomůže ani *přípravný kurz na univerzitu* (můžeme tomu říkat třeba bojová paralýza), tedy nemůžeš provádět žádnou vědomou akci
-    - ale pořád můžeš provést nějakou automatickou, podvědomou (což je opět změna oproti předchozímu návrhu)
+- pokud nemáš **žádné** body *Boje* (jsou **nula**), tak pořád můžeš udělat tolik **vědomých** akcí, kolik ti *Inteligence* dovolí (samozřejmě s velkým postihem, viz výše)
+- pokud máš body *Boje* **záporné**, tak už ti nepomůže ani *přípravný kurz na univerzitu* (můžeme tomu říkat třeba bojová paralýza), tedy nemůžeš provádět žádnou **vědomou** akci
 
 A co omezení bodů *Boje*, které lze přesouvat? To necháme prostě na šesti jako předtím? Žádná vlastnost nám to neovlivní?
 
@@ -71,14 +69,14 @@ A co omezení bodů *Boje*, které lze přesouvat? To necháme prostě na šesti
 Vrtá nám hlavou tedy ještě jedna věc, totiž když mi *Inteligence* ovlivňuje počet akcí, které za kolo duševně zvládnu, tak co ovlivňuje počet bodů *Boje*, které mohu mezi akcemi přesunout?
 
 Kdybychom se bavili pouze o těle, tak můžeme říci, že důraz na jednu akci a odfláknutí druhé závisí na naší *Obratnosti*. Jenže, *trochu větší důraz* a *trochu menší důraz*... není to spíš o citu než o mrštnosti? Že by *Zručnost*? Nebo rovnou *Smysly*?
-Kdyby to byly *Smysly*, co nám umožňují citlivě rozprostřít energii mezi jednotlivé akce, tak jak **chceme**, tak bychom museli taky říct, které z mnoha smyslů to jsou. Sluch? Zrak? Hmat? Všechny dohromady? A nejsou náhodou všechny dohromady *Zručnost*? No, není, všechny dohromady jsou Smysly, v nichž například [některá povolání excelují](http://zlodej.drdplus.loc:88/#zdokonalene_smysly), zručnost nezručnost...
-Počet bodů *Boje*, které můžeš přesouvat mezi akcemi, by tedy **mohly** ovlivňovat *Smysly*
+Kdyby to byly *Smysly*, co nám umožňují citlivě rozprostřít energii mezi jednotlivé akce, tak jak **chceme**, tak bychom museli taky říct, které z mnoha smyslů to jsou. Sluch? Zrak? Hmat? Všechny dohromady? A nejsou náhodou všechny dohromady *Zručnost*? No, není, všechny dohromady jsou právě *Smysly*, v nichž například [některá povolání excelují](https://zlodej.drdplus.info/?version=1.0#zdokonalene_smysly), zručnost nezručnost...
+Počet bodů *Boje*, které můžeš přesouvat mezi akcemi, by tedy **mohly** ovlivňovat *Smysly*.
 
 Ovšem jen o těle se se nebavíme, když jsme přijali *Inteligenci* jako ukazatel počtu akcí, které zvládnu provést. Pokud mám dostatek tělesné *Zručnosti* na jemné nuance mezi akcemi, tak bych měl mít i dostatek duševní *Zručnosti*, abych ty odlišné důrazy na jednotlivé akce zvládl promyslet, nebo alespoň instinktivně odhadnout.
 Jenže, co je ta duševní zručnost? Že by *Inteligence*? Nebo je to prostě *Zručnost*, o které nás jen doteď nenapadlo, že v sobě vlastně skrývá i zručnost duševní, tedy schopnost promýšlet či prociťovat drobné detaily? A co *Moudrost*?
 
 #### S moudrostí
-Už několikrát nás napadlo, že v Dračím doupěti, žádném z nich, není moudrost. Vlastně v [Dračím doupěti II](https://drd2.cz) by být mohla ze všech verzí nejvíc, skryta v *Duši*.
+Už několikrát nás napadlo, že v Dračím doupěti, v žádném z nich, není moudrost. Vlastně v [Dračím doupěti II](http://www.drd2.cz/) by být mohla ze všech nejvíc, skryta v *Duši*.
 Obecně už ale máme několik let za to, že chybějící moudrost jako číslo je velká **výhoda**, protože nás nenutí hrát moudré, či naopak zbrklé jedince, prostě v tom máme volnost. A teď bychom si tu volnost chtěli vzít kvůli boji? Co je to za nerozumný návrh? A co je to vlastně moudrost?
 
 Když se někdo chová moudře a rozumně, tak jedná s rozvahou, ví, co ho za jeho jednání čeká, dokáže své úmysly často vysvětlit i ostatním, pokud mu na to dají čas, je otevřený myšlenkám druhých a přemýšlí i o jejich názorech, protože mu zpřesňují jeho odhad budoucnosti, toho, jak to nakonec dopadne. Moudrý člověk obvykle ví, co dělá, kam jde a co z toho bude a hlavně vidí **více možností**, než ti méně osvícení.
@@ -87,7 +85,7 @@ Parafrázovat moudrost můžeme i tak, že
 
 > Chytří tak dlouho dokazují, že něco nejde, až přijde moudrý a udělá to
 
-Kdybychom se vrátili k boji a tam hledali, kdo má větší převahu, kdo vidí více možností, kdo se dokáže starat sám o sebe a ještě zvádá radit ostatním, tak nakonec ukážeme prstem na toho, kdo má nejvíc bodů *Boje*. To nějak nesedí... aha, on by ten moudrý dost možná do boje ani nešel a snažil by se najít méně destruktivní cestu k vítězství. Či možná ještě lépe, ke spolupráci.
+Kdybychom se vrátili k boji a tam hledali, kdo má větší převahu, kdo vidí více možností, kdo se dokáže starat sám o sebe a ještě zvládá radit ostatním, tak nakonec ukážeme prstem na toho, kdo má nejvíc bodů *Boje*. To nějak nesedí... aha, on by ten moudrý dost možná do boje ani nešel a snažil by se najít méně destruktivní cestu k vítězství. Či možná ještě lépe, ke spolupráci.
 
 Ona moudrost se totiž do boje moc nehodí a necháme ji proto zatím tam, kde je, tedy skrytou ve zkušenostech a úrovních postavy.
 
@@ -96,7 +94,7 @@ Ona moudrost se totiž do boje moc nehodí a necháme ji proto zatím tam, kde j
 *Moudrost* nám vypadla, zbývá *Síla*, *Charisma* a *Vůle*.
 
 ##### Síla
-*Silou* se rozumí pevnost svalů, ale také znalost vlastního těla, kdy dokážeš zapojit i exotičtější svalstvo, jež by jiný nechal ladem a také je v *Síle* skryta odolnost tvého těla, kdy ač v mdlobách, v křečích či po bujarých oslavách stále odolává zranění a únavě.
+*Silou* se rozumí pevnost svalů, ale také znalost vlastního těla, kdy dokážeš zapojit i exotičtější svalstvo, jež by jiný nechal ladem a také je v *Síle* skryta odolnost tvého těla, kdy ač v mdlobách, v křečích či po bujarých oslavách stále odolává zranění, únavě a dalším životním zkouškám.
 
 *Síla* nám pomůže ve větším důrazu při úderu, při skoku a pohybu vůbec, při řevu, ale jak by mohla pomoci s *citem* pro rozdělení sil mezi jednotlivými akcemi... ne, *Síla* nebude to pravé ořechové.
 
@@ -108,23 +106,25 @@ Ona moudrost se totiž do boje moc nehodí a necháme ji proto zatím tam, kde j
 Zbývá *Vůle*, což je odolnost mysli proti vnějšímu tlaku, proti cizím názorům, zatnutí zubů při bolesti, únavě i stresu, je to posouvání hranic, při kterých jsi schopen ještě jednat při smyslech. Užitečná vlastnost, jen při tahání za tenké nitky boje nemá valného významu. *Vůle* nám z kandidátky také vypadla.
 
 ## Smyslný boj
-Tak jsme si prošli kolečkem námluv a ze všech bratranců a sestřenic *Inteligence*, coby hlavního generála při spřádání bojových akcí, nám zůstaly jako pobočník jen *Smysly*.
+Tak jsme si prošli kolečkem námluv a ze všech bratranců a sestřenic *Inteligence*, coby hlavního generála při spřádání bojových akcí, nám zůstaly jako kandidát na pobočníka jen *Smysly*.
 
-Tímto povyšujeme Smysly nejen na cit v prstech, citlivost uší a vnímání chutí a barev, ale také na přesnější odhad energie, kterou ta která akce snese.
+Tímto povyšujeme *Smysly* nejen na cit v prstech, citlivost uší, vnímání chutí a rozeznávání barev, ale také na přesnější rozložení energie mezi akce, jak si to hlava a situace vyžádaly.
 
 ## Závěrem
 
 - *Obratnost* ovlivňuje celkové body *Boje*
     - detaily najdeš v [návrhu boje](2018-08-10-boj.md#Shrnutí)
 - *Inteligence* přímo udává maximální počet **vědomých** akcí, které dané kolo můžeš provést
-    - dokud nejsou tvé body Boje záporné, můžeš provést alepoň jednu akci, i kdyby byla tvá *Inteligence* -6
-    - automatickou akci můžeš provést vždy, i když máš záporné body *Boje*
-    - automatických činností můžeš provést maximálně tolik, kolik můžeš provést vědomých akcí, vždy ale alespoň jednu
-    - zřejmě zavedeme dovednost *Taktika*, která ti zvýší bojovou inteligenci, tedy počet akcí navzdory tvé zabedněné hlavě
+    - dokud nejsou tvé body *Boje* záporné, můžeš provést alespoň jednu akci, i kdyby byla tvá *Inteligence* -6
+    - zřejmě zavedeme dovednost *Taktika*, která ti zvýší bojovou inteligenci, tedy přidá akce navzdory tvé zabedněné hlavě
 - *Smysly* ti umožňují přesouvat body *Boje* mezi akcemi
     - pokud nemáš *Smysly* kladné, nemůžeš mezi akcemi body *Boje* přesouvat
-    - za každý bod *Boje*, který použiješ pro akci navíc, k ní dostaneš bonus +1 a za kždý chybějící bod *Boje* budeš mít k akci postih -1
-    - možná zavedeme dovednost *Stratég*, která ti pomůže se s nedostatkem *Smyslů* vypořádat a zvýší ti počet bodů *Boje*, které budeš moci mezi akcemi přesouvat
-    - zloděj bude mít v přesouvání bodů Boje výhodu díky své dovednosti [*Zdokonalené smysly*](http://zlodej.drdplus.loc:88/#zdokonalene_smysly), což zapadá do našeho plánu stvořit z něj oportunistu, tvora, který využije každou maličkost ve svůj prospěch
+    - za každý bod *Boje*, který použiješ pro akci navíc, k ní dostaneš bonus +1 a za každý chybějící bod *Boje* budeš mít k akci postih -1
+    - možná zavedeme dovednost *Strategie*, která ti pomůže se s nedostatkem *Smyslů* vypořádat a zvýší ti počet bodů *Boje*, které budeš moci mezi akcemi přesouvat
+    - zloděj bude mít v přesouvání bodů *Boje* výhodu díky své dovednosti [*Zdokonalené smysly*](https://zlodej.drdplus.info/?version=1.0#zdokonalene_smysly), což zapadá do našeho plánu stvořit z něj oportunistu, tvora, který využije každou maličkost ve svůj prospěch
 
 To by šlo.
+
+---
+
+- *předchozí [<< 5. 10. 2018 Převaha](2018-10-05-prevaha.md)*
