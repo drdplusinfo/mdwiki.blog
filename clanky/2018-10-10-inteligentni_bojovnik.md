@@ -128,3 +128,4 @@ To by šlo.
 ---
 
 - *předchozí [<< 5. 10. 2018 Převaha](2018-10-05-prevaha.md)*
+- *následující [>> 12. 10. 2018 Kombinace povolání](2018-10-12-kombinace_povolani.md)*
