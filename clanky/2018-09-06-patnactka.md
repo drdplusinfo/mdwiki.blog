@@ -9,9 +9,11 @@ Napsal ji před šestnácti(!) lety jeden z původních autorů DrD+ a pro mě j
 - text je prostý, jednoduchý
   - ve velkém kontrastu s výslednými zašmodrchanými pravidly DrD+
 
-O jednom ze způsobů, jak se nezamotat do velkých projektů, budu psát příště, teď se pojďme ponořit do pocitů tvůrců z dob dávno minulých.
+O jednom ze způsobů, jak se nezamotat do velkých projektů, budu psát někdy příště, teď se pojďme ponořit do pocitů tvůrců z dob dávno minulých.
 
 ---
+
+## Představy minulosti
 
 **(23.1.2002)**
 
@@ -49,6 +51,39 @@ Možná vás teď napadá spousta otázek. Možná jsme vás něčím zklamali, 
 AD 2002-01-23, Altar
 
 *Převzato ze [stránek Altaru](https://www.altar.cz/drdplus/patnactka.html)*
+
+---
+
+## Závěrem
+
+### Kuchařka
+
+Jak se to mohlo stát, že tak čitelný text, takovou hloubku myšlenek dokázali tak zahrabat? Protože po pravdě nezahrabali vůbec nic. Většina pravidel je na jedné hromadě, vzájemně propletená a všechna platná najednou. Ona je to na jednu stranu obrovská volnost a svoboda, moci si vybrat ze všeho, ale taky je to zodpovědnost a bolehlav. A když se do toho přidá špetka matematických modelů a pořádně se to zapeče, aby to udrželo nejednotný základ, tak to začne být mírně nestravitelné.
+S pravidly proto pracujeme jako s recepty, které někdo před námi vymyslel, uvařil a nakonec slil dohromady. Taháme je po jednom ven, omýváme od zbytků těch ostatních a vaříme znovu a pak ochutnáváme, abychom zjistili, jestli jsou dobré jen tak, na sucho.
+
+### Slzy prosím
+
+> Tak se časem můžete těšit na alchymistu, barda, druida, zaklínače, paladina a další rozšiřující povolání.
+
+Jak krásně to zní. Zřejmě už měli nějaké ty nápady vymyšleny, po šuplíkách a ve Wordech poschovávány a drželi se navzájem na uzdě, aby dokázali dokončit velké dílo a nerozptylovali se zářnou budoucností.
+Tuhle železnou vůli jim závidím, finiš něčeho tak rozsáhlého, jako jsou pravidla DrD+, musel být doslova brutální.
+
+Ani my se zatím nepouštíme do nových povolání, protože i tak prostá věc, jako jsou [kombinace současných povolání](2018-10-12-kombinace_povolani.md) je stále nelehká, jelikož nevyváženost povolání na různých úrovních nám háže klacky pod nohy.
+
+### Krapet mimo
+
+> O co budou čarodějové, theurgové a kněží méně úspěšní v boji, o to lépe se mohou naučit vnímat svět stínový, svět duší, odrazů a tajemných vazeb mezi nimi.
+
+V tomhle vidíme pořád velký potenciál, ale v původních pravidlech se nám nezdá to odtržení světa duší a stínů od světa živých, to že je to izolovaný píšeček kouzelných povolání, do kterého ostatní nejen že nevidí, ale nemohou ani zasáhnout. Ale dřív, než začneme písek prosévat, budeme ho muset, zdánlivě paradoxě, izolovat. Vysekáme mentální souboj, čtení ve sférách i práci s magií z pravidel, zavřeme to všechno to klece a budeme na ty zákonitosti civět tak dlouho, až nás napadne, co nají společného, čím jsou provázány s živým světem a k čemu nám to vlastně je.
+
+### Zraněná veřejnost
+
+Zmiňují též, že vývoj probíhal tajně, odstřižený od veřejnosti, skoro jako nějaký vojenský výzkum. To je skvělá věc, když chceme ostatní překvapit, horší to už bývá při tvorbě, která má být pro ostatní.
+Nezastíráme, že současnou práci na DrD+ 2 odvádíme hlavně kvůli sobě, ale [názory ostatních](TODO RPG fórum), jakkoli jsou někdy až zbytečně pichlavé, jsou velmi cenné. Ono vlastně i to věčné *"děláš to špatně, vzdej to, radši dávej energii do něčeho pořádného, stejně to nikdo nechce..."* je užitečné, protože nás to neustále drží v pozornosti, zda si opravdu jen tak neujíždíme na plytké radosti z hračičkování a znovu a znovu nás tak protahuje zkouškou, zda nám všechna ta námaha za tu srandu pořád ještě stojí.
+Část z neúspěchu DrD+ připisujeme právě onomu tajemnému vývoji, kterým se sice autoři uchránili před davy rozzuřených vesničanů, ale také před jejich názory.
+Nevím, jaká byla situace **před** vydáním DrD+, troufnu si tvrdit, že pozitivnější než dnes, kdy je mnoho matadorů RPG fóra zraněných a zahořklých právě ze zklamání tolik očekávaného, *dospělého* DrD+, ale určitě se nějaké ty hlasy odporu ozývaly už tehdy a původní parta se je rozhodla neslyšet. S řevem davu se pracovat nedá, ale vyvinout v izolaci něco komplexního taky ne.
+
+Takže krok-sun-krok, nadechnout-á-ponořit, ticho-á-pranýřování...
 
 ---
 
