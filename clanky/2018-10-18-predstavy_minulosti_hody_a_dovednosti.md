@@ -4,11 +4,11 @@
 
 Historické představy původních autorů DrD+ jsme uvedli [Patnáctkou](2018-09-06-predstavy_minulosti_patnactka.md) a pokračujeme *hody a dovednostmi*. Zvláštní je, že podle data článku byla původní pravidla tou dobou už hotova, přesto jsou v textu zmiňovány situace, které z původních pravidel prostě nevykřešeme.
 
-Hříčkou osudu jest, že historický text připomínáme patnáct(!) let po jeho zveřejnění.
+Hříčkou osudu jest, že historický text připomínáme přesně patnáct let po jeho zveřejnění.
 
 ---
 
-**18. 10. 2003** 
+**(18. 10. 2003)** 
 
 ## Hody
 
@@ -50,12 +50,20 @@ Protože si každý hráč může sám vybírat, jaké obecné dovednosti a scho
 
 Prostě a jasně – žádná postava v DrD+ nebude nějaký prefabrikát, ale naopak opravdový, dýchající a originální jedinec.
 
-*18. 10. 2003, Rudolf „Jolly“ Matoušek*
+18\. 10\. 2003, Rudolf „Jolly“ Matoušek
+
+*Převzato ze [stránek Altaru](https://www.altar.cz/drdplus/hody.html)*
 
 ---
 
-Převzato ze [stránek Altaru](https://www.altar.cz/drdplus/hody.html).
+Nevíme, kde je Alaonovi konec, v pravidlech zůstal už jen chudák Hrun, od začátku odsouzen ke smrti v osamění, který v pravidlech uniká nikoli třem skřetům, ale třem trpaslíkům, leč [není mu zhůry dáno](http://pph.drdplus.loc:88/#akce).
+Navíc Hrun zaplatil životem za akci bez přípravy, kdežto v historickém článku přežil při hodu na kvalitu. Přiznáváme se, že dodnes máme v rozdílech mezi [Hodem na úspěch](http://pph.drdplus.loc:88/#zakladni_hod_na_uspech) a [Hodem na kvalitu](http://pph.drdplus.loc:88/#hod_na_kvalitu) kapánek chaos.
 
----
+## Hoď si to
+> Hodu na kvalitu se používá tehdy, pokud nás zajímá více, než jen to, zda se činnost zdařila nebo nezdařila – zajímá nás, jak kvalitní je její výsledek.
+
+Jádro pudla je v téhle větě, která trochu skrytě říká, že pokud chceme nějaké číslo, třeba kolik metrů skočíme, tak si máme hodit *na kvalitu*. Jestli nás ale zajímá pouze, zda jsme přeskočili, tak nám stačí hod *na úspěch*. Jak prostě to zní, jak velký bolehlav my z toho máme...
+Kdybychom chtěli skočit přes propast širokou tři metry, chtělo by to hodit na kvalitu skoku (takže asi na *Rychlost*) [alespoň deset](http://pph.drdplus.loc:88/#tabulka_vzdalenosti), což je dost - pokud hodím na šestistěnce krásných šest, musím mít *Rychlost* svého svalnatého, ztepilého, pružného těla alespoň čtyři, jinak se k té desítce nedohrabu. Ale když hážu na to, zda jsem prostě přeskočil či nepřeskočil, tedy hod *na úspěch*,
+
 
 - *předchozí [<< 12. 10. 2018 Kombinace povolání](2018-10-12-kombinace_povolani.md)*
