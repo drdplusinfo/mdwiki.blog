@@ -1,4 +1,4 @@
-# Patnáctka
+# Představy minulosti - *Patnáctka*
 
 *6. 9. 2018*
 
@@ -13,7 +13,7 @@ O jednom ze způsobů, jak se nezamotat do velkých projektů, budu psát někdy
 
 ---
 
-## Představy minulosti
+## Boží obavy
 
 **(23.1.2002)**
 
@@ -65,7 +65,7 @@ S pravidly proto pracujeme jako s recepty, které někdo před námi vymyslel, u
 
 > Tak se časem můžete těšit na alchymistu, barda, druida, zaklínače, paladina a další rozšiřující povolání.
 
-Jak krásně to zní. Zřejmě už měli nějaké ty nápady vymyšleny, po šuplíkách a ve Wordech poschovávány a drželi se navzájem na uzdě, aby dokázali dokončit velké dílo a nerozptylovali se zářnou budoucností.
+Jak krásně to zní. Zřejmě už měli nějaké ty nápady vymyšleny, po šuplících a ve Wordech poschovávány a drželi se navzájem na uzdě, aby dokázali dokončit velké dílo a nerozptylovali se zářnou budoucností.
 Tuhle železnou vůli jim závidím, finiš něčeho tak rozsáhlého, jako jsou pravidla DrD+, musel být doslova brutální.
 
 Ani my se zatím nepouštíme do nových povolání, protože i tak prostá věc, jako jsou [kombinace současných povolání](2018-10-12-kombinace_povolani.md) je stále nelehká, jelikož nevyváženost povolání na různých úrovních nám háže klacky pod nohy.
@@ -74,14 +74,14 @@ Ani my se zatím nepouštíme do nových povolání, protože i tak prostá věc
 
 > O co budou čarodějové, theurgové a kněží méně úspěšní v boji, o to lépe se mohou naučit vnímat svět stínový, svět duší, odrazů a tajemných vazeb mezi nimi.
 
-V tomhle vidíme pořád velký potenciál, ale v původních pravidlech se nám nezdá to odtržení světa duší a stínů od světa živých, to že je to izolovaný píšeček kouzelných povolání, do kterého ostatní nejen že nevidí, ale nemohou ani zasáhnout. Ale dřív, než začneme písek prosévat, budeme ho muset, zdánlivě paradoxě, izolovat. Vysekáme mentální souboj, čtení ve sférách i práci s magií z pravidel, zavřeme to všechno to klece a budeme na ty zákonitosti civět tak dlouho, až nás napadne, co nají společného, čím jsou provázány s živým světem a k čemu nám to vlastně je.
+V tomhle vidíme pořád velký potenciál, ale v původních pravidlech se nám nezdá to odtržení světa duší a stínů od světa živých, to že je to izolovaný píseček kouzelných povolání, do kterého ostatní nejen že nevidí, ale nemohou ani zasáhnout. Ale dřív, než začneme písek prosévat, budeme ho muset, zdánlivě paradoxně, izolovat. Vysekáme mentální souboj, čtení ve sférách i práci s magií z pravidel, zavřeme to všechno to klece a budeme na ty zákonitosti civět tak dlouho, až nás napadne, co nají společného, čím jsou provázány s živým světem a k čemu nám to vlastně je.
 
 ### Zraněná veřejnost
 
 Zmiňují též, že vývoj probíhal tajně, odstřižený od veřejnosti, skoro jako nějaký vojenský výzkum. To je skvělá věc, když chceme ostatní překvapit, horší to už bývá při tvorbě, která má být pro ostatní.
-Nezastíráme, že současnou práci na DrD+ 2 odvádíme hlavně kvůli sobě, ale [názory ostatních](TODO RPG fórum), jakkoli jsou někdy až zbytečně pichlavé, jsou velmi cenné. Ono vlastně i to věčné *"děláš to špatně, vzdej to, radši dávej energii do něčeho pořádného, stejně to nikdo nechce..."* je užitečné, protože nás to neustále drží v pozornosti, zda si opravdu jen tak neujíždíme na plytké radosti z hračičkování a znovu a znovu nás tak protahuje zkouškou, zda nám všechna ta námaha za tu srandu pořád ještě stojí.
+Nezastíráme, že současnou práci na DrD+ 2 odvádíme hlavně kvůli sobě, ale [názory ostatních](TODO RPG fórum), jakkoli jsou někdy až zbytečně pichlavé, jsou velmi cenné. Ono vlastně i to věčné *"děláš to špatně, vzdej to, radši dávej energii do něčeho pořádného, stejně to nikdo nechce..."* je užitečné, protože nás to neustále drží v pozornosti, zda si opravdu jen tak neujíždíme na plytké radosti z hračičkování a znovu a znovu jsme tak protahováni zkouškou, zda nám všechna ta námaha za tu srandu pořád ještě stojí.
 Část z neúspěchu DrD+ připisujeme právě onomu tajemnému vývoji, kterým se sice autoři uchránili před davy rozzuřených vesničanů, ale také před jejich názory.
-Nevím, jaká byla situace **před** vydáním DrD+, troufnu si tvrdit, že pozitivnější než dnes, kdy je mnoho matadorů RPG fóra zraněných a zahořklých právě ze zklamání tolik očekávaného, *dospělého* DrD+, ale určitě se nějaké ty hlasy odporu ozývaly už tehdy a původní parta se je rozhodla neslyšet. S řevem davu se pracovat nedá, ale vyvinout v izolaci něco komplexního taky ne.
+Nevím, jaká byla nálada **před** vydáním DrD+, troufnu si tvrdit, že pozitivnější než dnes, kdy je mnoho matadorů RPG fóra zraněných a zahořklých právě ze zklamání tolik očekávaného, *dospělého* DrD+, ale určitě se nějaké ty hlasy odporu ozývaly už tehdy a původní parta se je rozhodla neslyšet. S řevem davu se pracovat nedá, ale vyvinout v izolaci něco komplexního taky ne.
 
 Takže krok-sun-krok, nadechnout-á-ponořit, ticho-á-pranýřování...
 

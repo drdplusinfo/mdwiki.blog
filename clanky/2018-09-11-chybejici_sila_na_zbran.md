@@ -126,5 +126,5 @@ Postih za chybějící *Sílu* ke zbrani se nám tak smrsknul na postih -1 k *Ú
 
 ---
 
-- *předchozí [<< 6. 9. 2018 Patnáctka](2018-09-06-patnactka.md)*
+- *předchozí [<< 6. 9. 2018 Patnáctka](2018-09-06-predstavy-minulosti-patnactka.md)*
 - *následující [>> 19. 9. 2018 Úhyb](2018-09-19-uhyb.md)*
