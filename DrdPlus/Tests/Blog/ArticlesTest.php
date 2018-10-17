@@ -134,6 +134,13 @@ class ArticlesTest extends TestCase
         foreach ($this->getIndexAnchors() as $indexTitleWithDate => $filename) {
             $fileTitle = $this->fetchTitleFromFile($filename);
             $indexTitle = $this->removeDateFromTitle($indexTitleWithDate);
+            if (\strpos($fileTitle, 'Představy minulosti') === 0) {
+                self::assertRegExp(
+                    '~^Představy minulosti - [*][^*]+[*]$~u',
+                    $fileTitle,
+                    "'Představy minulosti' subtitle name should be in cursive"
+                );
+            }
             self::assertEquals(
                 $fileTitle,
                 $indexTitle,

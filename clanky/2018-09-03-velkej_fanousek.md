@@ -238,4 +238,4 @@ Děkujeme Ti za sdílení zkušeností s [Dračím doupětem Plus](https://www.d
 ---
 
 - *předchozí [<< 10. 8. 2018 Boj](2018-08-10-boj.md)*
-- *následující [>> 6. 9. 2018 Patnáctka](2018-09-06-predstavy-minulosti-patnactka.md)*
+- *následující [>> 6. 9. 2018 Patnáctka](2018-09-06-predstavy_minulosti_patnactka.md)*
