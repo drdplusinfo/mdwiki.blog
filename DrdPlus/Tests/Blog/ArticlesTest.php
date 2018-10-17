@@ -139,7 +139,7 @@ class ArticlesTest extends TestCase
                 self::assertRegExp(
                     '~^Představy minulosti - [*][^*]+[*]$~u',
                     $fileTitle,
-                    "'Představy minulosti' subtitle name should be in cursive"
+                    "'Představy minulosti' subtitle name '" . \str_replace('Představy minulosti - ', '', $fileTitle) . "' should be in cursive"
                 );
             }
             self::assertEquals(
@@ -536,11 +536,9 @@ class ArticlesTest extends TestCase
     {
         foreach ($this->getArticlesWithFullPath() as $articleFile) {
             $content = $this->getFileContent($articleFile);
-            self::assertNotContains(
-                'TODO',
-                $content,
-                'There are some unsolved TODOs in ' . \basename($articleFile),
-                true // ignore case
+            self::assertFalse(
+                \stripos($content, 'TODO'),
+                'There are some unsolved TODOs in ' . \basename($articleFile)
             );
         }
     }
