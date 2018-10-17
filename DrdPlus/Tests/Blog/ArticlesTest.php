@@ -8,6 +8,7 @@ use PHPUnit\Framework\TestCase;
 
 class ArticlesTest extends TestCase
 {
+    private $fileContents = [];
 
     /**
      * @test
@@ -252,12 +253,16 @@ class ArticlesTest extends TestCase
 
     private function getFileContent(string $filename): string
     {
-        self::assertFileExists($filename);
-        $content = \file_get_contents($filename);
-        self::assertInternalType('string', $content, 'Could not read ' . $filename);
-        self::assertNotEmpty($content, 'Empty article ' . $filename);
+        if (($this->fileContents[$filename] ?? null) === null) {
+            self::assertFileExists($filename);
+            $content = \file_get_contents($filename);
+            self::assertInternalType('string', $content, 'Could not read ' . $filename);
+            self::assertNotEmpty($content, 'Empty article ' . $filename);
 
-        return $content;
+            $this->fileContents[$filename] = $content;
+        }
+
+        return $this->fileContents[$filename];
     }
 
     /**
@@ -493,7 +498,7 @@ class ArticlesTest extends TestCase
     public function I_can_use_very_link_to_altar_without_further_redirection(): void
     {
         foreach ($this->getArticlesWithFullPath() as $articleFile) {
-            $content = \file_get_contents($articleFile);
+            $content = $this->getFileContent($articleFile);
             \preg_match_all('~(?<link>(?:[[:alpha:]]+:)?//(?:www[.])?altar[.]cz)~', $content, $matches);
             foreach ($matches['link'] as $link) {
                 self::assertSame('https://www.altar.cz', $link, 'There is a non-optimal link to Altar in article ' . \basename($articleFile));
@@ -522,5 +527,21 @@ class ArticlesTest extends TestCase
             "Links to drd2.cz should not use https as the certificate is not valid=\n"
             . \implode("\n", $linksWithHttps)
         );
+    }
+
+    /**
+     * @test
+     */
+    public function All_todos_are_solved(): void
+    {
+        foreach ($this->getArticlesWithFullPath() as $articleFile) {
+            $content = $this->getFileContent($articleFile);
+            self::assertNotContains(
+                'TODO',
+                $content,
+                'There are some unsolved TODOs in ' . \basename($articleFile),
+                true // ignore case
+            );
+        }
     }
 }
