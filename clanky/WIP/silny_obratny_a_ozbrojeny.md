@@ -9,7 +9,7 @@ Nedávno jsme si pustili myšlenky na špacír, kde se nám zapletly do [víru b
 ## Potřebná Obratnost
 > Je to potřeba?
 
-Jelikož se snažíme bojovat s přílišnou složitostí [pravidel DrD+](https://pph.drdplus.info?version=1.0), tak nejdůležitější otázka za všech je, jestli je **přidávání** nového pravidla potřeba.
+Jelikož se snažíme bojovat s přílišnou složitostí [pravidel DrD+](https://pph.drdplus.info?version=1.0&trial=1), tak nejdůležitější otázka za všech je, jestli je **přidávání** nového pravidla potřeba.
 
 No, není a je.
 

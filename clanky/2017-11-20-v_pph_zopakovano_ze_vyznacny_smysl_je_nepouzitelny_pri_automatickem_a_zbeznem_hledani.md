@@ -6,11 +6,11 @@
 
 ### Scházela poznámka o nepoužitelném význačném smyslu při zběžném hledání u Smyslů
 
-V kapitole Hledání od strany 134 s v části [Zvláštní případy - Zběžné hledání](https://pph.drdplus.info/?version=1.0#zbezne_hledani)
+V kapitole Hledání od strany 134 s v části [Zvláštní případy - Zběžné hledání](https://pph.drdplus.info/?version=1.0&trial=1#zbezne_hledani)
  je uvedeno
  > Při zběžném hledání postava nikdy nepoužije bonus za zlepšený smysl
  
-O něco dále v části [Zvláštní případy - Smysly](https://pph.drdplus.info/?version=1.0#smysly) se uvádí
+O něco dále v části [Zvláštní případy - Smysly](https://pph.drdplus.info/?version=1.0&trial=1#smysly) se uvádí
  > Při automatickém prohledávání navíc není možné mimořádný smysl vůbec použít
  
 ale chybí tu zopakování informace, že při zběžném hledání se význačný smysl také nedá použít.

@@ -27,7 +27,7 @@ Jsi tlustý, vždycky si byl a i kdybys měl pojít hlady, tak budeš, no a co? 
 Tvoje ruce jsou spíše dva kyje, kterými se dokážeš ohnat jako málokdo, jen citu se jim moc nedostává a tak se jemným pracím raději vyhýbáš a pohybuješ se častěji tam, kde je potřeba řádná síla.
 
 - (DrDO) +1 ke způsobenému zranění na blízko, -1 k *Obranosti*
-- (DrD+) +1 k *[Síle zranění](https://pph.drdplus.info/?version=1.0#vypocet_sily_zraneni)* na blízko, -2 ke *Zručnosti*
+- (DrD+) +1 k *[Síle zranění](https://pph.drdplus.info/?version=1.0&trial=1#vypocet_sily_zraneni)* na blízko, -2 ke *Zručnosti*
 
 # *Flegmatik*
 
@@ -52,7 +52,7 @@ Jsi vzteklý, jsi zuřivý, ji vášnivý, jsi boží, jsi prokletý, jsi všech
 Máš to v životě snazší a to ti dělá život těžším. Pořád trochu vyčníváš z davu, vzpřímenější než ostatní, usměvavější než ostatní, milejší než ostatní, až ti občas leze na nervy, jak se na tebe okolí culí, přestože bys rád už konečně viděl trochu drsné upřímnosti. Chabou náhradou jsou ti občasné výpady rozumově jednodušších jedinců, kteří tě berou jako konkurenčního kohouta na svém hnojišti. Postupem času sis také uvědomil, že ty věčné úlitby okolí, kdy ti snad i s utíráním zadku chtějí pomoci, ti nahlodalo schopnost řešit problémy sám.
 
 - (DrDO) +1 k *Charisma*, -1 k *Inteligenci*
-- (DrD+) +1 k *Charisma*, další +1 ke *Kráse* ([Charisma ji také ovlivní](https://pph.drdplus.info/?version=1.0#vypocet_krasy)), -1 k *Inteligenci*
+- (DrD+) +1 k *Charisma*, další +1 ke *Kráse* ([Charisma ji také ovlivní](https://pph.drdplus.info/?version=1.0&trial=1#vypocet_krasy)), -1 k *Inteligenci*
 
 # *Puntičkář*
 
@@ -102,7 +102,7 @@ Nikam se nehrneš, všude jsi raději až druhý a klidně i poslední, jakmile 
 
 Sníš všechno. Ať už je to připálené, přesolené, nedovařené nebo to ještě nestihlo umřít, tobě to tolik nevadí. Pravda, na druhou stranu si moc neužíváš dokonalá jídla vyvážených chutí a vysokých nutričních hodnot, ale život není stáž v kuchyni, život je o přežití. Alespoň ten tvůj.
 
-- (DrD+) pokud jíš [jídlo s kvalitou 11 a méně](https://pph.drdplus.info/?version=1.0#tabulka_ulovku) ([hojení](https://pph.drdplus.info/?version=1.0#hojeni_zraneni) a [odpočinek](https://pph.drdplus.info/?version=1.0#odpocinek) -2), tak má pro tebe kvalitu o dva větší, tedy postih na hojení a odpočinek je o jedna menší (místo -2 jen -1, místo -3 jen -2 a tak dále), ale kvalitní jídlo bude tvoje tělo trávit stejně zhurta, jako to nekvalitní, takže jakékoli kvalitnější jídlo má pro tebe hodnotu [nanejvýš 13 (hojení a odpočinek nanejvýš -1)](https://pph.drdplus.info/?version=1.0#tabulka_ulovku)
+- (DrD+) pokud jíš [jídlo s kvalitou 11 a méně](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_ulovku) ([hojení](https://pph.drdplus.info/?version=1.0&trial=1#hojeni_zraneni) a [odpočinek](https://pph.drdplus.info/?version=1.0&trial=1#odpocinek) -2), tak má pro tebe kvalitu o dva větší, tedy postih na hojení a odpočinek je o jedna menší (místo -2 jen -1, místo -3 jen -2 a tak dále), ale kvalitní jídlo bude tvoje tělo trávit stejně zhurta, jako to nekvalitní, takže jakékoli kvalitnější jídlo má pro tebe hodnotu [nanejvýš 13 (hojení a odpočinek nanejvýš -1)](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_ulovku)
 
 # *Soumar*
 
@@ -117,7 +117,7 @@ Sníš všechno. Ať už je to připálené, přesolené, nedovařené nebo to j
 Tak nějak tě příroda stvořila coby ideálního nosiče. Ruce máš jako lopaty, záda jako necky a co se na ně nevejde, s klidem si naskládáš na hlavu, protože tvůj krk to snese. Sem tam sice nějaký ten učenec plácne cosi o příliš namáhaných vazech a páteři, ale ty jsi hrdina a hrdinové do hrobu nepadají stářím.
 Občas máš ovšem dojem, že padneš hlady, protože ty dětské porce, co všude vydávají za jídlo pro těžce pracující, si z tebou nehezky zahrávají.
 
-- (DrD+) [Nosnost](https://pph.drdplus.info/?version=1.0#vypocet_chybejici_sily_pro_naklad) +1 (síla pro nošení, podobně jako [Atletika I](https://pph.drdplus.info/?version=1.0#atletika)), jídla potřebuje o půlku více než je obvyklé, pokud dostane jen běžnou denní porci, tak pro něj klesá [kvalita jídla](https://pph.drdplus.info/?version=1.0#tabulka_ulovku) o -2 (tedy k [hojení](https://pph.drdplus.info/?version=1.0#hojeni_zraneni) a [odpočinku](https://pph.drdplus.info/?version=1.0#odpocinek) má postih -1)
+- (DrD+) [Nosnost](https://pph.drdplus.info/?version=1.0&trial=1#vypocet_chybejici_sily_pro_naklad) +1 (síla pro nošení, podobně jako [Atletika I](https://pph.drdplus.info/?version=1.0&trial=1#atletika)), jídla potřebuje o půlku více než je obvyklé, pokud dostane jen běžnou denní porci, tak pro něj klesá [kvalita jídla](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_ulovku) o -2 (tedy k [hojení](https://pph.drdplus.info/?version=1.0&trial=1#hojeni_zraneni) a [odpočinku](https://pph.drdplus.info/?version=1.0&trial=1#odpocinek) má postih -1)
 
 # Závěr
 

@@ -421,12 +421,12 @@ class ArticlesTest extends TestCase
         }
         self::assertNotEmpty($linksToVersionedRules, 'No links to versioned rules have been found');
         $linksWithoutVersion = \array_filter($linksToVersionedRules, function (string $linkToVersionedRules) {
-            return \strpos($linkToVersionedRules, 'version=1.0') === false;
+            return !\preg_match('~([?]|&)version=1[.]0~', $linkToVersionedRules);
         });
 
         self::assertEmpty(
             $linksWithoutVersion,
-            "Every link to versioned rules should have query ?version=1.0\n"
+            "Every link to versioned rules should have query part version=1.0\n"
             . \implode("\n", $linksWithoutVersion)
         );
     }
@@ -443,7 +443,36 @@ class ArticlesTest extends TestCase
 
     private function getNonVersionedSubDomains(): array
     {
-        return ['www', 'blog', 'pribeh', 'pad', 'boj', 'formule.theurg'];
+        return ['www', 'blog', 'pribeh', 'pribeh.bestiar', 'pad', 'boj', 'niceni', 'formule.theurg'];
+    }
+
+    /**
+     * @test
+     */
+    public function Links_to_protected_rules_passes_by_trial(): void
+    {
+        $linksToProtectedRules = [];
+        $regexpWithNonVersionedLinks = '~https://(?:' . \implode('|', $this->pregQuoteAll($this->getNonProtectedSubDomains(), '~')) . ')[.]drdplus[.]info~';
+        foreach ($this->getExternalLinks() as $link) {
+            if (\strpos($link, '.drdplus.info') && !\preg_match('~[.]drdplus[.]info/(?:images|css|js)/~', $link) && !\preg_match($regexpWithNonVersionedLinks, $link)) {
+                $linksToProtectedRules[] = $link;
+            }
+        }
+        self::assertNotEmpty($linksToProtectedRules, 'No links to protected rules have been found');
+        $linksWithoutTrialPassing = \array_filter($linksToProtectedRules, function (string $linkToProtectedRules) {
+            return !\preg_match('~([?]|&)trial=1~', $linkToProtectedRules);
+        });
+
+        self::assertEmpty(
+            $linksWithoutTrialPassing,
+            "Every link to protected rules should have query part trial=1.0\n"
+            . \implode("\n", $linksWithoutTrialPassing)
+        );
+    }
+
+    private function getNonProtectedSubDomains(): array
+    {
+        return ['www', 'blog', 'pribeh', 'pribeh.bestiar', 'pad', 'boj', 'niceni', 'formule.theurg'];
     }
 
     /**

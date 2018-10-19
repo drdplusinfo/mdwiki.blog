@@ -30,9 +30,9 @@ A teď co je tedy [Dračí doupě Plus](https://www.drdplus.info)? Z části to,
 
 - tabulku úlovku rozšířit na obecnou kvalitu jídla a přidat řešení malých porcí, potřebná porce +0, poloviční porce -6 k síle hojení a odpočinku, "o hladu" -7 (?)
 - zjednodušit bonusy za obecné dovednosti, aby všechny bez rozdílu přidávaly na prvním stupni +2, na druhém +4 a na třetím +6
-- zrušit [tabulku Postihů za chybějící dovednost boje se zbraní či štítem](https://pph.drdplus.info/?version=1.0#tabulka_postihu_za_chybejici_dovednost), protože to už bude obsaženo v bonusech za tuto dovednost
+- zrušit [tabulku Postihů za chybějící dovednost boje se zbraní či štítem](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_postihu_za_chybejici_dovednost), protože to už bude obsaženo v bonusech za tuto dovednost
     - například vůdce banditů s dovedností Boje s kyji na úrovni 3 má bonus k boji i útoku +6, kdežto vesničan po rychlokurzu domobrany má s dovednosti Boje se štítem na úrovni 1 bonus k boji +2 a k obraně +2 (a vzhledem k tomu, že s kopím neumí vůbec, tak v přímém souboji nemá moc šancí, ale na druhou stranu se v rodné vesnici vyzná...)
-- zrušit tabulku [Postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?version=1.0#tabulka_postihu_ke_zbrani_za_chybejici_silu) a nahradit ji za prosté za každý bod chybějící síly máš postih -1 k Boji, Útoku, ZZ a Obraně
+- zrušit tabulku [Postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_postihu_ke_zbrani_za_chybejici_silu) a nahradit ji za prosté za každý bod chybějící síly máš postih -1 k Boji, Útoku, ZZ a Obraně
     - a to že je zbraň nepoužitelná vyplyne z Boje, protože pokud je Boj menší než 1, tak **tohle kolo** nedokáže zbraň použít
 - zrušit omezení jednoho útoku za kolo a řídit počet akcí Bojem, kdy každá akce, ať už obrana či útok zbraní, "sebere" až šest bodů boje (ale vždy alespoň jeden)
     - takže pokud někdo má se zbraní Boj 7, může zaútočit dvakrát (jednou mu to sebere šest bodů Boje, podruhé poslední jeden)
@@ -45,8 +45,8 @@ A teď co je tedy [Dračí doupě Plus](https://www.drdplus.info)? Z části to,
 - některé schopnosti povolánní "zveřejnit" jako obecné dovednosti s omezenými možnostmi
     - například kapsářství je dovednost, kterou se naučí většina dětí z ulice, přestože to často mají spíše jako nrazový přivýdělek, nežli hlavní činnost
 - některé schopnosti povolání navázat na obecné dovednosti jako jejich pokračování
-    - krom kapsářství je to například zlodějovo [Šplhání](https://zlodej.drdplus.info/?version=1.0#splhani), které je vlastně rozšířením obecné dovednosti [Šplhu a lezení](https://pph.drdplus.info/?version=1.0#splh_a_lezeni)
-    - dalším příkladem je [Dovednost boje se zbraní](https://pph.drdplus.info/?version=1.0#boj_se_zbrani)
+    - krom kapsářství je to například zlodějovo [Šplhání](https://zlodej.drdplus.info/?version=1.0&trial=1#splhani), které je vlastně rozšířením obecné dovednosti [Šplhu a lezení](https://pph.drdplus.info/?version=1.0&trial=1#splh_a_lezeni)
+    - dalším příkladem je [Dovednost boje se zbraní](https://pph.drdplus.info/?version=1.0&trial=1#boj_se_zbrani)
 - žádná pravidla nejsou ostrov sám pro sebe
     - odkazovat na dobrodružství, příběhy, materiály z jiných pravidel a her, popsat čtenáři zaměření RPG her, aby si mohl vybrat a nebyl v půlce čtení DrD+ zklamán, že čekal něco jiného
     - spousta hráčských nápadů se do pravidel nedostane, protože je těžké se dostat k autorům a je psychicky náročné odhodlat se jim napsat, proto budou v pravidlech přímo formuláře na přidávání nápadů, které budeme do pravidel zapracovávat, nebo je alespoň uchováve veřejně bokem, pokud by se snad přímo do pravidel nehodily 
@@ -60,6 +60,6 @@ A teď co je tedy [Dračí doupě Plus](https://www.drdplus.info)? Z části to,
     - *co server dovolí
     - **dokud bude ctít vlastnická práva [Altaru](https://www.altar.cz)
  - pravidla rozdělená do samostatných bloků
-    - pokud chci detaily o bojování, chci zadat adresu pph.drdplus.info/?version=1.0#**boj** a mít všechno o boji před sebou
+    - pokud chci detaily o bojování, chci zadat adresu pph.drdplus.info/?version=1.0&trial=1#**boj** a mít všechno o boji před sebou
     - blok klidně zopakuje vzorec či tabulku z jiného bloku (které budeme omezovat, co to půjde, ale občas to bez nich nepůjde), raději pár znaků navíc, než jedno listování navíc
-- omezení absolutní nadvlády [Tabulky zranění (a únavy)](https://pph.drdplus.info/?version=1.0#tabulka_zraneni), která způsobuje, že cokoli co spočítám, musím ještě převést podle tabulky
+- omezení absolutní nadvlády [Tabulky zranění (a únavy)](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_zraneni), která způsobuje, že cokoli co spočítám, musím ještě převést podle tabulky
