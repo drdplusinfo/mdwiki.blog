@@ -13,9 +13,9 @@ Od začátku jsme měli jasno, že to jediné, co vlastně musíme řešit, je *
 
 Jen si to představ, tři úrovně *Bojovníka*, dvě úrovně *Čaroděje*, celkem pět úrovní
 
-- [odolání proti kouzlu](https://carodej.drdplus.info/?version=1.0#odolani_terce_proti_kouzlu)? to vyřeší celková úroveň, což je pět
-- [pevnost mysli](https://carodej.drdplus.info/?version=1.0#vypocet_pevnosti_mysli_pro_mentalni_souboj) při *Mentálním souboji*? zase je potřeba jen celková úroveň, tedy pět
-- zkušenosti, potřebné pro první úroveň *Zloděje*? prostě zkušenosti pro budoucí celkovou, tedy šestou úroveň, [tedy 32 zkušeností](https://pph.drdplus.info/?version=1.0#tabulka_zkusenosti)
+- [odolání proti kouzlu](https://carodej.drdplus.info/?version=1.0&trial=1#odolani_terce_proti_kouzlu)? to vyřeší celková úroveň, což je pět
+- [pevnost mysli](https://carodej.drdplus.info/?version=1.0&trial=1#vypocet_pevnosti_mysli_pro_mentalni_souboj) při *Mentálním souboji*? zase je potřeba jen celková úroveň, tedy pět
+- zkušenosti, potřebné pro první úroveň *Zloděje*? prostě zkušenosti pro budoucí celkovou, tedy šestou úroveň, [tedy 32 zkušeností](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_zkusenosti)
 
 Tak prosté, tak jednoduché, tak... tak to je všechno?
 
@@ -32,9 +32,9 @@ Jakmile začneme míchat více povolání dohromady, začnou nám vyskakovat če
 
 Celkovou úroveň jsme sfoukli snadno, teď to vezmeme přes úroveň těch opovážlivců, kteří si s magií zahrávají.
 
-Krapet nám teď chybí teprve připravovaná úvaha o tom, co to vlastně magie je, odkud se její energie bere a jak se dá použít. Budeme si holt muset zatím vystačit s tím, co je [o magii v původních pravidlech](https://ppj.drdplus.info/?version=1.0#magie_projev_energie_sfer) *(pozor, odkaz vede do Příručky Pána jeskyně, zvaž, zda chceš jejím studiem přijít o krásu neznalosti)*.
+Krapet nám teď chybí teprve připravovaná úvaha o tom, co to vlastně magie je, odkud se její energie bere a jak se dá použít. Budeme si holt muset zatím vystačit s tím, co je [o magii v původních pravidlech](https://ppj.drdplus.info/?version=1.0&trial=1#magie_projev_energie_sfer) *(pozor, odkaz vede do Příručky Pána jeskyně, zvaž, zda chceš jejím studiem přijít o krásu neznalosti)*.
 
-Podle těchto původních pravidel se magická energie vezme ze sfér, na něž čas ani prostor nemají valného vlivu, [každou půlnoc](https://carodej.drdplus.info/?version=1.0#astralni_pulnoc) se vrazí do hlavy každému, kdo se jí naučil byť jen trochu používat, popřípadě si pro ni jedinec [dojde sám](https://theurg.drdplus.info/?version=1.0#vstup_do_sfer), a pak se s ní dají [sekat dýně](https://carodej.drdplus.info/?version=1.0#dekapitace), [vlnit zemí](https://theurg.drdplus.info/?version=1.0#tsunami_z_hliny_a_kameni), [přeprsknout se](https://carodej.drdplus.info/?version=1.0#domu) na míle daleko a nebo taky [lézt po stropě](https://zlodej.drdplus.info/?version=1.0#splhani) tak hladkém, že by na něm dostala smyk i moucha v medu máčená.
+Podle těchto původních pravidel se magická energie vezme ze sfér, na něž čas ani prostor nemají valného vlivu, [každou půlnoc](https://carodej.drdplus.info/?version=1.0&trial=1#astralni_pulnoc) se vrazí do hlavy každému, kdo se jí naučil byť jen trochu používat, popřípadě si pro ni jedinec [dojde sám](https://theurg.drdplus.info/?version=1.0&trial=1#vstup_do_sfer), a pak se s ní dají [sekat dýně](https://carodej.drdplus.info/?version=1.0&trial=1#dekapitace), [vlnit zemí](https://theurg.drdplus.info/?version=1.0&trial=1#tsunami_z_hliny_a_kameni), [přeprsknout se](https://carodej.drdplus.info/?version=1.0&trial=1#domu) na míle daleko a nebo taky [lézt po stropě](https://zlodej.drdplus.info/?version=1.0&trial=1#splhani) tak hladkém, že by na něm dostala smyk i moucha v medu máčená.
 
 Tam, kde se magie získává i používá, máme vyhráno
 
@@ -49,7 +49,7 @@ Horší je to s *Mentálním soubojem*.
 
 ## Souboj vcelku mentální
 
-[Síla mentálního útoku čaroděje](https://carodej.drdplus.info/?version=1.0#vypocet_sily_mentalniho_utoku) je přímo ovlivněna úrovní čaroděje. U [theurga je to velmi podobné](https://theurg.drdplus.info/?version=1.0#hod_na_utok_v_prubehu_mentalniho_souboje) a opět se použije úroveň, tentokráte samozřejmě theurga. Ostatní povolání podle pravidel neumí *Mentální útok* vyvolat ba ani se mu aktivně bránit (což je mnohdy jejich výhoda, protože svou pasivitou jsou vlastně odolnější).
+[Síla mentálního útoku čaroděje](https://carodej.drdplus.info/?version=1.0&trial=1#vypocet_sily_mentalniho_utoku) je přímo ovlivněna úrovní čaroděje. U [theurga je to velmi podobné](https://theurg.drdplus.info/?version=1.0&trial=1#hod_na_utok_v_prubehu_mentalniho_souboje) a opět se použije úroveň, tentokráte samozřejmě theurga. Ostatní povolání podle pravidel neumí *Mentální útok* vyvolat ba ani se mu aktivně bránit (což je mnohdy jejich výhoda, protože svou pasivitou jsou vlastně odolnější).
 
 Pokud to vezmeme odzadu, tak s povoláními, které se nedokáží *Mentálního souboje* zúčastnit, si nemusíme lámat navzájem hlavy, prostě ho neovlivní. Takže jestli budeš mít magické povolání namíchané s nemagickým, měl by ses *Mentálnímu souboji* raději vyhýbat, respektive dělat mrtvého brouka.
 
@@ -62,15 +62,15 @@ Vyvstávají nám otázky, proč jsou čaroděj a theurg jediní, kteří doká�
 Teď je na řadě boj!
 
 ## Zašmodrchaný boj
-Původní pravidla totiž [*Boj* vypočítávají](https://pph.drdplus.info/?version=1.0#tabulka_boje) z *Obratnosti* a, kromě bojovníka, ještě z druhé vlastnosti, pro každé povolání **jiné**.
+Původní pravidla totiž [*Boj* vypočítávají](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_boje) z *Obratnosti* a, kromě bojovníka, ještě z druhé vlastnosti, pro každé povolání **jiné**.
 Ani jsme se neodvažovali přemýšlet, jak něco takového početně řešit a rovnou jsme sjednotili všem, včetně onoho slavného nýmanda z Horní Dolní, základ *Boje* pouze na *Obratnost*, jak už jste se mohli dočíst v [návrhu *Boje*](2018-08-10-boj.md).
 
 Takže pro původní pravidla řešení neznáme, pro novou verzi už ano, jdeme dál.
 
 ## Hlavní a hlavnější vlastnost
-Když už jsme u těch vlastností, tak musíme taky řešit, která vlastnost je [hlavní a která vedlejší](https://pph.drdplus.info/?version=1.0#tabulka_povolani) a kdy. Taky ti to zní složitě?
+Když už jsme u těch vlastností, tak musíme taky řešit, která vlastnost je [hlavní a která vedlejší](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) a kdy. Taky ti to zní složitě?
 
-Když si vezmeme na paškál původní pravidla, tak se [dozvíme](https://pph.drdplus.info/?version=1.0#vliv_povolani), že
+Když si vezmeme na paškál původní pravidla, tak se [dozvíme](https://pph.drdplus.info/?version=1.0&trial=1#vliv_povolani), že
 > Výběrem svého povolání automaticky dostaneš +1 ke svým hlavním vlastnostem
 
 což je hezký, ale co s tím, když mám víc povolání?
@@ -91,7 +91,7 @@ Ono to že je bojovník silnější i obratnější, než dobrodruzi jiných zam
 Co když příběh bludného rytíře začíná ochrnutým hochem, který se od mala v sedě stará o zbroje pánů a hltá každý jejich pohyb, než se nad ním prozřetelnost ustrne a za jeho neutuchající chuť do života ho zázrakem spravenou páteří odmění?
 Co když potměšilý kapsář začínal coby tlustý, zpohodlnělý synáček kupcův, kterého otec pranýřoval za každou chybičku v účetnictví, jakýkoli úspěch přešel mlčením a když hrnec falešné trpělivosti přetekl z obou stran, tak ho nakonec vydědil s tím, že je beztak kukačka, kterou chránila nebožka matka?
 
-Ke [zvyšování tělesných a duševních vlastností](https://pph.drdplus.info/?version=1.0#zlepsovani_vlastnosti) se dostaneme příště, zatím zůstaňme u toho, že na první úrovni automatické navyšování dvou vlastností zahazujeme.
+Ke [zvyšování tělesných a duševních vlastností](https://pph.drdplus.info/?version=1.0&trial=1#zlepsovani_vlastnosti) se dostaneme příště, zatím zůstaňme u toho, že na první úrovni automatické navyšování dvou vlastností zahazujeme.
 
 ## Závěrem
 
