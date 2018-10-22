@@ -1,6 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
-### [19. 10. 2018 Nula](clanky/2018-10-19-nula.md)
+### [19. 10. 2018 Nula](clanky/2018-10-23-nula.md)
 ### [18. 10. 2018 Představy minulosti - *Hody a dovednosti*](clanky/2018-10-18-predstavy_minulosti_hody_a_dovednosti.md)
 ### [12. 10. 2018 Kombinace povolání](clanky/2018-10-12-kombinace_povolani.md)
 ### [10. 10. 2018 Inteligentní bojovník](clanky/2018-10-10-inteligentni_bojovnik.md)
