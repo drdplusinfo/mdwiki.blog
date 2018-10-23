@@ -1,0 +1,3 @@
+Na první úrovni se začíná v pubertě, v době, kdy těla chlapců a dívek ještě neznají rozdílů a ono rozdělení na silné muže a křehké ženy přichází až později.
+
+Takže co takhle z toho udělat marku? A si je vezmou na pozdějších úrovních, až uznají za vhodné, že jsou drsní chlapi nebo něžné děvy. Zároveň s tím dotaneme jednodušší začátek, kdy budou všichni mít stejnou startovní pozici a bude to tak **jednodušší**.

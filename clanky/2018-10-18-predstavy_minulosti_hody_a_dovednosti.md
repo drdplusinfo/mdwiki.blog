@@ -99,3 +99,4 @@ Krleš!
 ---
 
 - *předchozí [<< 12. 10. 2018 Kombinace povolání](2018-10-12-kombinace_povolani.md)*
+- *následující [>> 22. 10. 2018 Nula](2018-10-22-nula.md)*
