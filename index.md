@@ -1,5 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [26. 10. 2018 Neboj](clanky/2018-10-26-neboj.md)
 ### [22. 10. 2018 Nula](clanky/2018-10-22-nula.md)
 ### [18. 10. 2018 Představy minulosti - *Hody a dovednosti*](clanky/2018-10-18-predstavy_minulosti_hody_a_dovednosti.md)
 ### [12. 10. 2018 Kombinace povolání](clanky/2018-10-12-kombinace_povolani.md)
