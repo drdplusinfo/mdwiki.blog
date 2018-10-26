@@ -575,7 +575,7 @@ class ArticlesTest extends TestCase
     /**
      * @test
      */
-    public function No_word_follow_self(): void
+    public function No_duplicated_word_follow_self(): void
     {
         foreach ($this->getArticlesWithFullPath() as $articleFile) {
             $content = $this->getFileContent($articleFile);
