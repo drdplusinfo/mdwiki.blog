@@ -58,7 +58,7 @@ Těžko se totiž hledá ten **správný** okamžik, kdy se to má všechno zaho
 *Když padneš na hubu, zafňukej si, zapamatuj si to a jdi dál, rozumnější než kdy dřív.*
 
 Já to asi před rokem zkoušel s tehdy ještě pořád populární, přestože už označenou jako *zastaralou*, [aplikační keší](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache), což je technologie prohlížečů, která umožňuje **celou** stránku uložit pěkně na tvé straně a kdykoli se chceš na stránku podívat znovu, použije se ta před-uložená stránka z **tvého** počítače, takže je to pak bleskurychlé, protože už se na nic z internetu nečeká.
-A taky je peklo tu keš zahodit, když se něco v obsahu změní... a právě proto, že si na tom rozbilo hubu už spousta lidí lidí, a já se přidal, tak je už delší dobu tenhle způsob kešování označený jako *zastaralý*.
+A taky je peklo tu keš zahodit, když se něco v obsahu změní... a právě proto, že si na tom rozbilo hubu už spousta lidí, a já se přidal, tak je už delší dobu tenhle způsob kešování označený jako *zastaralý*.
 
 Takže jsem si na tom spálil prsty, vyhodil několik desítek hodin práce a celou tu slavnou *aplikační keš* zahodil.
 Ale zas jsem se něco přiučil a hlavně jsem při tom zdokonalil kešování na **straně serveru** (to je ta magická krabička někde na druhé straně drátů, která ti to všechno posílá).

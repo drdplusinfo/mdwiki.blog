@@ -240,12 +240,12 @@ class ArticlesTest extends TestCase
      */
     public function Name_of_file_is_created_from_content_title(): void
     {
-        foreach ($this->getArticlesWithFullPath() as $article) {
-            $content = $this->getFileContent($article);
-            self::assertGreaterThan(0, \preg_match('~^#(?<title>[^#\n\r]+)~', $content, $matches), 'Missing title for article ' . $article);
+        foreach ($this->getArticlesWithFullPath() as $articleFile) {
+            $content = $this->getFileContent($articleFile);
+            self::assertGreaterThan(0, \preg_match('~^#(?<title>[^#\n\r]+)~', $content, $matches), 'Missing title for article ' . $articleFile);
             $title = $matches['title'];
             $expectedFilenameWithoutDate = StringTools::toConstantLikeValue($title);
-            $fileBasename = \basename($article, '.md');
+            $fileBasename = \basename($articleFile, '.md');
             $filenameWithoutDate = \preg_replace('~^\d{4}-\d{2}-\d{2}-~', '', $fileBasename);
             self::assertSame($expectedFilenameWithoutDate, $filenameWithoutDate);
         }
@@ -569,6 +569,23 @@ class ArticlesTest extends TestCase
                 \stripos($content, 'TODO'),
                 'There are some unsolved TODOs in ' . \basename($articleFile)
             );
+        }
+    }
+
+    /**
+     * @test
+     */
+    public function No_duplicated_word_follow_self(): void
+    {
+        foreach ($this->getArticlesWithFullPath() as $articleFile) {
+            $content = $this->getFileContent($articleFile);
+            \preg_match_all('~\W(\w{4,})\s+\1\W~u', $content, $sameWords);
+            $fileBaseName = basename($articleFile);
+            if ($fileBaseName === '2018-08-10-boj.md') {
+                self::assertSame(' Plus Plus*', $sameWords[0][0] ?? '', 'Expected two same words in sequence in fight article');
+                unset($sameWords[0][0]);
+            }
+            self::assertCount(0, $sameWords[0], $fileBaseName . "\n" . var_export($sameWords[0], true));
         }
     }
 }
