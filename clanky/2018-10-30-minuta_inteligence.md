@@ -23,13 +23,13 @@ Vlastně je to takhle ještě lepší než předtím, protože původně *Inteli
 - jakožto královský badatel s *Inteligencí* dvanáct a okresní vicemistr v lehké atletice s *Obratností* dvanáct máš dvanáct akcí za minutu, tedy dvě akce za kolo
     - proč mají borci zrovna dvanáct prozradíme příště, až se dostaneme k růstu vlastností
 
-Takhle to vypadá klidněji, použitelněji a přehledněji, než původní omezení za kolo, chybí už jen jedna věc, s rozeběhem do kola kopnout.
+Takhle to vypadá klidněji, použitelněji a přehledněji, než původní příliž úzké omezení na kolo a chybí už jen jedna věc, s rozeběhem do kola kopnout.
 
 ## O kolečko míň
 
 Pořád opakujeme, že máš jednu akci za kolo, nebo dvě akce za kolo, ale co když máš oněch devět akcí za minutu? To máš jeden a půl akce za kolo? Je na čase dát kolu sbohem, alespoň v běhu boje.
 
-V návrhu *Boje* jsme dost dlouho [řešili časovou osu](2018-08-10-boj.md#Boj_a_časová_osa), až jsme se dohrabali ke zjištění, že během jednoho kola nemá smysl řešit pořadí akcí, nýbrž že každý ohlásí akci, když jsou všechny ohlášené, tak ji provede, aniž by čekal na ostatní, nažeč cíl jeho akce může vyhlásit protiakci, ale vědomou pouze v případě, že mu nějaká akce ještě zbyla. Říkali jsme tomu *vlna akcí*. A teď to vypadá podobně, jen se nám vlna akcí roztáhla na minutu.
+V návrhu *Boje* jsme dost dlouho [řešili časovou osu](2018-08-10-boj.md#Boj_a_časová_osa), až jsme se dohrabali ke zjištění, že během jednoho kola nemá smysl řešit ~~pořadí akcí~~, nýbrž že každý ohlásí akci, když jsou všechny ohlášené, tak ji provede, aniž by čekal na ostatní, nažeč cíl jeho akce může vyhlásit protiakci, ale vědomou pouze v případě, že mu nějaká akce ještě zbyla. Říkali jsme tomu *vlna akcí*. A teď to vypadá podobně, jen se nám vlna akcí roztáhla na minutu.
 
 
 ### Židle na hrbu
