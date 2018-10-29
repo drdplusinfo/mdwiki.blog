@@ -98,6 +98,10 @@ class ArticlesTest extends TestCase
         self::assertSame($indexAnchors, $sortedIndexAnchors, 'Articles are not sorted from newest to oldest in index');
     }
 
+    /**
+     * @param array $fileNames
+     * @return array|string[]
+     */
     private function sortFileNamesDescending(array $fileNames): array
     {
         \uasort($fileNames, function (string $someName, string $anotherName) {
@@ -272,10 +276,11 @@ class ArticlesTest extends TestCase
     {
         $articlePaths = $this->getArticlesWithFullPath();
         $articlePaths = $this->sortFileNamesDescending($articlePaths);
+        $articlePaths = \array_values($articlePaths); // to re-index numerically from zero
         $previousLink = '';
         $previousDate = '';
         $nextArticle = '';
-        foreach ($articlePaths as $articlePath) {
+        foreach ($articlePaths as $index => $articlePath) {
             $articleBaseName = \basename($articlePath);
             if ($previousLink) { // previous iteration reveals a link to previous article (articles are ordered from newest)
                 self::assertSame(
@@ -296,6 +301,30 @@ class ArticlesTest extends TestCase
                 'nextLink' => $nextLink,
                 'nextDate' => $nextDate,
             ] = $this->parseArticleLinksFromFile($articlePath);
+            $expectedPreviousArticlePath = $articlePaths[$index + 1] ?? null;
+            $expectedNextArticlePath = $articlePaths[$index - 1] ?? null;
+            $expectedNavigation = [];
+            if ($expectedPreviousArticlePath !== null) {
+                /** @var string $expectedPreviousArticlePath */
+                $expectedPreviousTitle = $this->fetchTitleFromFile($expectedPreviousArticlePath);
+                $expectedPreviousArticlePathBasename = \basename($expectedPreviousArticlePath);
+                $expectedPreviousArticleDate = $this->createDateFromFilename($expectedPreviousArticlePath)->format('d. m. Y');
+                $expectedNavigation[] = "- *předchozí [<< $expectedPreviousArticleDate $expectedPreviousTitle]($expectedPreviousArticlePathBasename)*";
+            }
+            if ($expectedNextArticlePath !== null) {
+                /** @var string $expectedNextArticlePath */
+                $expectedNextTitle = $this->fetchTitleFromFile($expectedNextArticlePath);
+                $expectedNextArticlePathBasename = \basename($expectedNextArticlePath);
+                $expectedNextArticleDate = $this->createDateFromFilename($expectedNextArticlePath)->format('d. m. Y');
+                $expectedNavigation[] = "- *následující [>> $expectedNextArticleDate $expectedNextTitle]($expectedNextArticlePathBasename)*";
+            }
+            $expectedNavigationString = "---\n\n" . \implode("\n", $expectedNavigation);
+            if ((!$previousLink || !$previousDate) && $expectedPreviousArticlePath) {
+                self::fail('At the bottom of article ' . $articleBaseName . " expected navigation\n$expectedNavigationString");
+            }
+            if ((!$nextLink || !$nextDate) && $expectedNextArticlePath) {
+                self::fail('At the bottom of article ' . $articleBaseName . " expected navigation\n$expectedNavigationString");
+            }
             if ($nextArticle) { // means previously next article
                 self::assertNotEmpty(
                     $nextLink,
@@ -323,14 +352,8 @@ class ArticlesTest extends TestCase
         $delimiterRegexp = '(?<delimiter>[\n\r]+---[\n\r]+)';
         $previousRegexp = '- \*předchozí \[<< (?<previousDate>\d{1,2}[.] \d{1,2}[.] \d{4}) (?<previousName>[^\]]+)\]\((?<previousLink>[^\)]+)\)\*';
         $nextRegexp = '- \*následující \[>> (?<nextDate>\d{1,2}[.] \d{1,2}[.] \d{4}) (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
-        self::assertGreaterThan(
-            0,
-            \preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches)
-            + \preg_match("~{$delimiterRegexp}?{$nextRegexp}~u", $content, $nextMatches),
-            'No previous nor next article links found in ' . \basename($filename)
-            . ", expected something like \n- *předchozí [<< 1.2.2018 Foo](2018-02-01-bar.md)*\n"
-            . "; last few lines of that file are:\n" . \mb_substr($content, \mb_strpos($content, '---') ?: \mb_strlen($content) - 200)
-        );
+        \preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches);
+        \preg_match("~{$delimiterRegexp}?{$nextRegexp}~u", $content, $nextMatches);
         if ($previousMatches && $nextMatches) {
             self::assertGreaterThan(
                 0,
