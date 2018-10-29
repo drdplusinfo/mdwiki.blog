@@ -1,6 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
-### [30. 10. 2018 Minuta inteligence](clanky/2018-10-30-minuta_inteligence.md)
+### [29. 10. 2018 Minuta inteligence](clanky/2018-10-29-minuta_inteligence.md)
 ### [26. 10. 2018 Neboj](clanky/2018-10-26-neboj.md)
 ### [22. 10. 2018 Nula](clanky/2018-10-22-nula.md)
 ### [18. 10. 2018 Představy minulosti - *Hody a dovednosti*](clanky/2018-10-18-predstavy_minulosti_hody_a_dovednosti.md)
