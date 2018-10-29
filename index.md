@@ -1,5 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [2. 11. 2018 Rozum a cit](clanky/2018-11-02-rozum_a_cit.md)
 ### [29. 10. 2018 Minuta inteligence](clanky/2018-10-29-minuta_inteligence.md)
 ### [26. 10. 2018 Neboj](clanky/2018-10-26-neboj.md)
 ### [22. 10. 2018 Nula](clanky/2018-10-22-nula.md)
