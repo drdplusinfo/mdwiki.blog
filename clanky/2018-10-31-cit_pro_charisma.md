@@ -1,6 +1,6 @@
 # Cit pro charisma
 
-*2. 11. 2018*
+*31. 10. 2018*
 
 V [Inteligentním bojovníkovi](2018-10-10-inteligentni_bojovnik.md#Zručný_přesun_bodů_Boje) jsme si položili řečnickou otázku
 
