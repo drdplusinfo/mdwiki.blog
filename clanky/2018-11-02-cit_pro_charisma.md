@@ -38,10 +38,16 @@ Tak znova, co je ta duševní zručnost? Co je ta duchovní výbava, která umo�
 Přemýšleli jsme o citu jakožto základní vlastnosti jedince, jakožto té části tvora, která má v sobě i původní charisma a připadá nám, že je to ono
 
 - zatímco inteligenci může mít i stroj, vůli bezcitný dobyvatel, tak city jsou ten tředí díl duševní skládačky, která rozšiřuje tvorům smysl života
-- dokonce už i američtí vědci zjistili, že city jsou součástí živých bytostí, když objevili tu část mozku, která je zodpovědná za city, říkají tomu amigdala a citům emoční inteligence a zjistili, že například plazy tuhle část příliš vyvinutou nemají, proto plazi neopětují lásku, ale ani se nemstí a vůbec plazí psychologové nemají *co žrát*
+- dokonce už i američtí vědci zjistili, že city jsou součástí živých bytostí, když objevili tu část mozku, která je zodpovědná za city, říkají tomu [amigdala](TODO) a citům [emoční inteligence](TODO) a zjistili, že například plazy tuhle část příliš vyvinutou nemají, proto ještěrky neopětují lásku, ale ani se nemstí a vůbec plazí psychologové *nemají co žrát*
 - charisma je jednou z částí citů, takže tam, kde se doteď v pravidlech používalo charisma, tak se teď můžou zvesela používat city a význam zůstává
 - ženy většiny ras mají v původních pravidlech [vyšší charisma než muži](http://pph.drdplus.loc:88/#tabulka_pohlavi), což nám vždycky přišlo divné, protože známe ze skušenosti spíše muže, kteří dokáží strhnout davy, ale jak už jsme se u původních pravidel DrD+ několikrát přesvědčili, tak v každém jejich kousku je nějaká dobrá myšlenka a i tady cítíme, že původní autoři tím chtěli vyjádřit právě city, které jsou doménou žen a přes které dokáží ovládnout muže, kteří pak pro ně ovládají davy
 
+Trápí nás teď jediná věc a to je název. Cit je dosti obecný, například se často mluví o citu v prstech, citlivé kůži a v dalších souvislostech s tělesnou citlivostí a navíc i my jsme ve výše uvedných bodech sklouzli k *citům* namisto *citu*. Ovšem pokud posadíme *City* vedle ostatních vlastností, tak sednou jak pěst na oko, protože všechny ostatní vlastnosti jsou v jednotném čísle, což se o citech dá říct až tak po šesti pivech.
+Proto zatím necháváme název *Cit*, částečně i kvůli síle názvu slavného literárního počinu [Rozum a cit](TODO), který nám pro tenhle název ušlapal cestičku k tomu duševnímu významu.
+
+## Závěr
+
+Charisma nám už delší dobu vybočovala z ostatních základních vlastností svým úzkým zaměřením.
 
 ---
 
