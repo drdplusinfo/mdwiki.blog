@@ -80,7 +80,7 @@ Nebezpečí je jasné a záludné zároveň - **nepřehnat to**, netlačit pravi
 
 ## Závěr
 
-*Charisma* nám už delší dobu vybočovalo z ostatních základních vlastností svým úzkým zaměřením a Vito nám konečně [pomohl](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032&start=60#p544969) udělat krok do neznáma, kde jsme našli cit, základní kámen charisma. Vyhráno ale ještě nemáme, protože přestože se charisma skládá z citu, tak to není jen jeho pasivní část, ale je to aktivní využití citu, prostě je to krapet něco jiného. Zatím nás k tomu napadlo, že *Charisma* bude odvozená vlastnost a bude se skládat z *Citu* a *Inteligence*.
+*Charisma* nám už delší dobu vybočovalo z ostatních základních vlastností svým úzkým zaměřením a Vito nám konečně [pomohl](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032&start=60#p544969) udělat krok do neznáma, kde jsme našli cit, základní kámen charisma. Vyhráno ale ještě nemáme, protože přestože se charisma skládá z citu, tak to není jen jeho pasivní část, ale je to aktivní využití citu, prostě je to krapet něco jiného. Zatím nás k tomu napadlo, že *Charisma* bude odvozená vlastnost a bude se skládat z *Citu* a *Inteligence*, jelikož charisma je cílené, vědomé, chytré (až necitelné) použití citů.
 
 A ještě prozradíme, že odvozené vlastnosti zřejmě čeká podobný osud [jako počet akcí za kolo](2018-10-29-minuta_inteligence.md#Baba_minuta), kdy výsledné číslo bude shodné s menším z obou zúčastněných vlastností, tedy už žádný průměr. Ale o tom zas až příště.
 
