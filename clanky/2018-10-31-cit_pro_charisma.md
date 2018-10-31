@@ -61,22 +61,22 @@ Proto zatím ponecháme název *Cit*, částečně pro jeho podobnější zněn�
 ## Užitek citu
 
 A je to tady, nejtěžší otázka ze všech, **co s tím *Citem***. On totiž základ té otázky je skoro až šovinistický - úplně všechny základní vlastnosti se používají v boji, *Síla* na zranění a výdrž, *Obratnost* na útok a obranu, *Zručnost* na střelbu a úpravy útoku, *Vůle* na získání čarovné síly a vědomé odolávání negativním vlivům, *Inteligence* na mentální útok i čarování, původní *Charisma* opět na mentální útok, tentokrát theurga, a na zázraky všeho druhu u kněze. Když to zjednodušíme, tak každá ta vlastnost se dá přetavit v číslo, protože chlapi čísla milují. Ovšem *Cit* je doména spíše ženská, mnohobarevná a hlavně pro chlapa hůře představitelná, než původní *Charisma*.
-Sotva teď najdeme ten hlavní účel *Citu* pro DrD+, ale alespoň zkusíme nastřelit první nápady.
+Sotva hned teď najdeme ten hlavní účel *Citu* pro DrD+, ale alespoň zkusíme nastřelit první nápady.
 
-Obecně je duševní cit vhodný pro rozpoznání pocitů, pro odhadnutí nálady, pro vycítění atmosféry. Cit se bude hodit při komunikaci s inteligentními bytostmi, se zvířaty, ale i při včasném zjištění, jak jsi na tom ty sám. Na mnoha místech, kde jsme dosud používali *Smysly* (jestli tomu obchodníkovi nevěříš, hoď si na *Smysly*, zda poznáš lež), nebo *Charisma* (hoď si na *Charisma*, zda dokážeš uklidnit splašeného koně). A vidíme užitek i při práci s tvojí vlastní únavou, kdy bys mohl díky *Citu* včas poznat, že už začíná plížívý vliv únavy a dokázal by sis cíleně ulevovat a tím nástup únavy zpomalit, nemluvě pak o různých duševních úletech, do kterých tě zejména procítěný projev kněze dokáže postřčit a u kterých bys diky *Citu* dokázal poznat dříve, než bude pozdě, že si s tebou kněz začíná dělat, co se mu zachce.
+Obecně je duševní cit vhodný pro rozpoznání pocitů, pro odhadnutí nálady, pro vycítění atmosféry. Cit se bude hodit při komunikaci s inteligentními bytostmi, se zvířaty, ale i při včasném zjištění, jak jsi na tom ty sám. Na mnoha místech, kde jsme dosud používali *Smysly* (jestli tomu obchodníkovi nevěříš, hoď si na *Smysly*, zda poznáš lež), nebo *Charisma* (hoď si na *Charisma*, zda dokážeš uklidnit splašeného koně), by se lépe vyjímal *Cit*. A vidíme užitek i při práci s tvojí vlastní únavou, kdy bys mohl díky *Citu* včas poznat, že už začíná plíživý vliv únavy a dokázal by sis cíleně ulevovat a tím nástup únavy zpomalit, nemluvě pak o různých duševních úletech, do kterých tě zejména procítěný projev kněze dokáže postrčit a u kterých bys díky *Citu* dokázal poznat dříve, než bude pozdě, že si s tebou kněz začíná dělat cochcárny.
 
 U konkrétních povolání nás napadá
 
 - bojovník lépe vycítí náladu své družiny a snáze tak v boji velí, lépe také rozpozná atmosféru mezi nepřáteli a zastrašení může cílit na jejich nejméně odhodlaného člena
-- zloděj s *Citem* vnímá tep města, zavčas pozná, že mu hoří za patama, že se ho snaží někdo napálit, nebo naopak že jeho pokus o napálení nevychází, u pokročilých a tajemných technik lépe rozpozná své limity, aby je nepřesáhl
-- čaroděj si snáze pohraje s myslí protivníka, u které snáze pozná slabá místa, dokáže lépe uspůsobit iluzi
+- zloděj intenzivněji vnímá tep města, zavčas pozná, že mu hoří za patama, že se ho snaží někdo napálit, nebo naopak že jeho pokus o napálení nevychází, u pokročilých a tajemných technik přesněji rozpozná své limity, aby je nepřesáhl
+- čaroděj snáze pozná slabá místa v mysli protivníka, dokáže lépe uzpůsobit iluzi
     - u iluzí obecně vidíme velký potenciál a brousíme si na svět iluzí zuby
-- theurg snáze započne vyjedávání se sférami a dříve pozná, že s jeho démonem není něco v pořádku
-- hraničář snáze splyne s duší lesa, ryzeji vnímá svět zvířat i rostlin
+- theurg dříve pozná, že s jeho démonem není něco v pořádku
+- hraničář dokonaleji splyne s duší lesa, ryzeji vnímá svět zvířat i rostlin
 - kněz vycítí kratší cestu do srdcí posluchačů
 - bard rychleji rozpozná náladu publika a... kuš! to sem teď nepatří
 
-Nebezpečí je jasné a záludné zároveň - **nepřehnat to**, netlačit pravidla do *Citu*, když tam jiní mohou vidět užitečnější třeba právě *Charisma*, nebo *Inteligenci*.
+Nebezpečí je jasné a záludné zároveň - **nepřehnat to**, netlačit pravidla do *Citu*, když tam jiní mohou vidět užitečnější třeba právě *Charisma*, nebo *Inteligenci*. Popravdě už teď nám krapet vadí, že třeba [Etiketa podsvětí](http://pph.drdplus.loc:88/#etiketa_podsveti) dává bonus pouze k *Charisma*, více by nám tam sedl bonus ke **všem** duševním vlastnostem, což se snadno kritizuje, ale ještě jednodušší je spadnout do stejné situace s novým, dosud nevyzkoušeným *Citem*. 
 
 ## Závěr
 
