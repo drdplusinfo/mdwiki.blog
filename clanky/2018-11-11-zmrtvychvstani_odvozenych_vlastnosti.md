@@ -1,4 +1,4 @@
-# Odvozené vlastnosti
+# Zmrtvýchvstání odvozených vlastností
 
 *5. 10. 2018*
 
