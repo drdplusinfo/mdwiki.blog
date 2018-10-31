@@ -43,7 +43,7 @@ Přemýšleli jsme o citu jakožto základní vlastnosti jedince, jakožto té �
 - charisma je jedna část citů, takže tam, kde se doteď v pravidlech používalo charisma, tak se teď můžou zvesela používat city a význam zůstává... eh, zůstává?
     - už jsme výše zmiňovali, že charisma je hlavně o ovlivňování ostatních a že osoby s vyvinutým citem nemusí mít zrovna vysoké charisma, byť je charisma součástí citu... inu, budeme se tomu muset ještě podívat na zoubek
 
-Zůstaly nám dvě otázky, jednu jsme už vyřknuli a to zda je skutečně cit nadřazený nad charisma a druhá otázka, dosud nevyřčená, je ohledně názvu, protože *Cit* je významově poněkud přetížený.
+Zůstaly nám tři otázky. Jednu jsme už vyřknuli a to zda je skutečně cit nadřazený nad charisma. Druhá otázka je ohledně názvu, protože *Cit* je významově poněkud přetížený. A třetí otázka, tak nějak samozřejmá, ale nejtěžší na zodpovězení, je herní užitek *Citu*, protože teď se s ním moc nepočítalo a jakkoli je podobnější zručnosti, než původní charisma, tak jeho účel budeme muset teprve najít.
 
 ## Cit nad Charisma
 
@@ -57,6 +57,26 @@ Problém s charisma jakožto odvozenou vlastností je nasnadě, charisma se v pr
 
 Slovo *cit* je krásně krátké, v mnohých kontextech výstižné, ale bohužel pro náš účel není všespásné. Například se často mluví o citu v prstech, citlivé kůži a v dalších souvislostech s tělesnou citlivostí a navíc i my jsme ve výše uvedených bodech sklouzli k *citům* namísto *citu*. Ovšem pokud posadíme *City* vedle Síly, *Obratnosti* a ostatních vlastností, tak *City* sednou jak pěst na oko, protože všechny ostatní vlastnosti jsou v jednotném čísle, což se o citech dá říct až tak po šesti pivech, takže nás to zas tlačí k *Citu*.
 Proto zatím ponecháme název *Cit*, částečně pro jeho podobnější znění s ostatními vlastnostmi a částečně i kvůli síle názvu slavného literárního počinu [Rozum a cit](https://cs.wikipedia.org/wiki/Rozum_a_cit), který nám pro tenhle název ušlapal cestičku k tomu *duševnímu* významu.
+
+## Užitek citu
+
+A je to tady, nejtěžší otázka ze všech, **co s tím *Citem***. On totiž základ té otázky je skoro až šovinistický - úplně všechny základní vlastnosti se používají v boji, *Síla* na zranění a výdrž, *Obratnost* na útok a obranu, *Zručnost* na střelbu a úpravy útoku, *Vůle* na získání čarovné síly a vědomé odolávání negativním vlivům, *Inteligence* na mentální útok i čarování, původní *Charisma* opět na mentální útok, tentokrát theurga, a na zázraky všeho druhu u kněze. Když to zjednodušíme, tak každá ta vlastnost se dá přetavit v číslo, protože chlapi čísla milují. Ovšem *Cit* je doména spíše ženská, mnohobarevná a hlavně pro chlapa hůře představitelná, než původní *Charisma*.
+Sotva teď najdeme ten hlavní účel *Citu* pro DrD+, ale alespoň zkusíme nastřelit první nápady.
+
+Obecně je duševní cit vhodný pro rozpoznání pocitů, pro odhadnutí nálady, pro vycítění atmosféry. Cit se bude hodit při komunikaci s inteligentními bytostmi, se zvířaty, ale i při včasném zjištění, jak jsi na tom ty sám. Na mnoha místech, kde jsme dosud používali *Smysly* (jestli tomu obchodníkovi nevěříš, hoď si na *Smysly*, zda poznáš lež), nebo *Charisma* (hoď si na *Charisma*, zda dokážeš uklidnit splašeného koně). A vidíme užitek i při práci s tvojí vlastní únavou, kdy bys mohl díky *Citu* včas poznat, že už začíná plížívý vliv únavy a dokázal by sis cíleně ulevovat a tím nástup únavy zpomalit, nemluvě pak o různých duševních úletech, do kterých tě zejména procítěný projev kněze dokáže postřčit a u kterých bys diky *Citu* dokázal poznat dříve, než bude pozdě, že si s tebou kněz začíná dělat, co se mu zachce.
+
+U konkrétních povolání nás napadá
+
+- bojovník lépe vycítí náladu své družiny a snáze tak v boji velí, lépe také rozpozná atmosféru mezi nepřáteli a zastrašení může cílit na jejich nejméně odhodlaného člena
+- zloděj s *Citem* vnímá tep města, zavčas pozná, že mu hoří za patama, že se ho snaží někdo napálit, nebo naopak že jeho pokus o napálení nevychází, u pokročilých a tajemných technik lépe rozpozná své limity, aby je nepřesáhl
+- čaroděj si snáze pohraje s myslí protivníka, u které snáze pozná slabá místa, dokáže lépe uspůsobit iluzi
+    - u iluzí obecně vidíme velký potenciál a brousíme si na svět iluzí zuby
+- theurg snáze započne vyjedávání se sférami a dříve pozná, že s jeho démonem není něco v pořádku
+- hraničář snáze splyne s duší lesa, ryzeji vnímá svět zvířat i rostlin
+- kněz vycítí kratší cestu do srdcí posluchačů
+- bard rychleji rozpozná náladu publika a... kuš! to sem teď nepatří
+
+Nebezpečí je jasné a záludné zároveň - **nepřehnat to**, netlačit pravidla do *Citu*, když tam jiní mohou vidět užitečnější třeba právě *Charisma*, nebo *Inteligenci*.
 
 ## Závěr
 
