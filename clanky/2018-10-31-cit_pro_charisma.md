@@ -65,7 +65,7 @@ Sotva hned teď najdeme ten hlavní účel *Citu* pro DrD+, ale alespoň zkusím
 
 Obecně je duševní cit vhodný pro rozpoznání pocitů, pro odhadnutí nálady, pro vycítění atmosféry. Cit se bude hodit při komunikaci s inteligentními bytostmi, se zvířaty, ale i při včasném zjištění, jak jsi na tom ty sám. Na mnoha místech, kde jsme dosud používali *Smysly* (jestli tomu obchodníkovi nevěříš, hoď si na *Smysly*, zda poznáš lež), nebo *Charisma* (hoď si na *Charisma*, zda dokážeš uklidnit splašeného koně), by se lépe vyjímal *Cit*. A vidíme užitek i při práci s tvojí vlastní únavou, kdy bys mohl díky *Citu* včas poznat, že už začíná plíživý vliv únavy a dokázal by sis cíleně ulevovat a tím nástup únavy zpomalit, nemluvě pak o různých duševních úletech, do kterých tě zejména procítěný projev kněze dokáže postrčit a u kterých bys díky *Citu* dokázal poznat dříve, než bude pozdě, že si s tebou kněz začíná dělat cochcárny.
 
-U konkrétních povolání nás napadá
+U konkrétních povolání nás teď napadá, že
 
 - bojovník lépe vycítí náladu své družiny a snáze tak v boji velí, lépe také rozpozná atmosféru mezi nepřáteli a zastrašení může cílit na jejich nejméně odhodlaného člena
 - zloděj intenzivněji vnímá tep města, zavčas pozná, že mu hoří za patama, že se ho snaží někdo napálit, nebo naopak že jeho pokus o napálení nevychází, u pokročilých a tajemných technik přesněji rozpozná své limity, aby je nepřesáhl
@@ -76,11 +76,11 @@ U konkrétních povolání nás napadá
 - kněz vycítí kratší cestu do srdcí posluchačů
 - bard rychleji rozpozná náladu publika a... kuš! to sem teď nepatří
 
-Nebezpečí je jasné a záludné zároveň - **nepřehnat to**, netlačit pravidla do *Citu*, když tam jiní mohou vidět užitečnější třeba právě *Charisma*, nebo *Inteligenci*. Popravdě už teď nám krapet vadí, že třeba [Etiketa podsvětí](http://pph.drdplus.loc:88/#etiketa_podsveti) dává bonus pouze k *Charisma*, více by nám tam sedl bonus ke **všem** duševním vlastnostem, což se snadno kritizuje, ale ještě jednodušší je spadnout do stejné situace s novým, dosud nevyzkoušeným *Citem*. 
+Nebezpečí je jasné a záludné zároveň - **nepřehnat to**, netlačit pravidla do *Citu*, když tam jiní mohou vidět užitečnější třeba právě *Charisma*, nebo *Inteligenci*. Popravdě už teď nám krapet vadí, že třeba [Etiketa podsvětí](https://pph.drdplus.info/?version=1.0&trial=1#etiketa_podsveti) dává bonus pouze k *Charisma*, více by nám tam sedl bonus ke **všem** duševním vlastnostem, což se snadno kritizuje, ale ještě jednodušší je spadnout do stejné situace s novým, dosud nevyzkoušeným *Citem*. 
 
 ## Závěr
 
-Charisma nám už delší dobu vybočovalo z ostatních základních vlastností svým úzkým zaměřením a Vito nám konečně [pomohl](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032&start=60#p544969) udělat krok do neznáma, kde jsme našli *City*, základní kámen charisma. Vyhráno ale ještě nemáme, protože přestože se charisma skládá z citu, tak to není jen jeho tupá, pasivní část, ale je to aktivní využití citu, prostě je to krapet něco jiného. Zatím nás k tomu napadlo, že *Charisma* bude odvozená vlastnost a bude se skládat z *Citu* a *Inteligence*.
+*Charisma* nám už delší dobu vybočovalo z ostatních základních vlastností svým úzkým zaměřením a Vito nám konečně [pomohl](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032&start=60#p544969) udělat krok do neznáma, kde jsme našli cit, základní kámen charisma. Vyhráno ale ještě nemáme, protože přestože se charisma skládá z citu, tak to není jen jeho pasivní část, ale je to aktivní využití citu, prostě je to krapet něco jiného. Zatím nás k tomu napadlo, že *Charisma* bude odvozená vlastnost a bude se skládat z *Citu* a *Inteligence*.
 
 A ještě prozradíme, že odvozené vlastnosti zřejmě čeká podobný osud [jako počet akcí za kolo](2018-10-29-minuta_inteligence.md#Baba_minuta), kdy výsledné číslo bude shodné s menším z obou zúčastněných vlastností, tedy už žádný průměr. Ale o tom zas až příště.
 
