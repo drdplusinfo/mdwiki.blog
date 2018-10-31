@@ -3,7 +3,7 @@
 
 > Uctěme naše drahé zesnulé nápady minutou inteligence, povstaňte prosím
 
-V [návrhu *Boje*](2018-08-10-boj.md#Počet_akcí) se počet akcí počítal dost šíleně, byť to vycházelo z dobrých předpokladů a byť jsme to navrhli s dobrým úmyslem, ale naštěstí jsme to záhy zjednodušili v [Inteligentním bojovníkovi](2018-10-10-inteligentni_bojovnik.md). Takže teď, tedy před tím, než začnou platit následující řádky, se počet vědomých akcí **za kolo** omezuje pouze na tvou *Inteligenci* a po nenápadné poznámce v [neboji](2018-10-26-neboj.md#Jenom_akce) také na tvou *Obratnost*, podle toho, kterou z těchto vlastností máš **menší**.
+V [návrhu *Boje*](2018-08-10-boj.md#Počet_akcí) se počet akcí počítal dost šíleně, byť to vycházelo z dobrých předpokladů a byť jsme to navrhli s dobrým úmyslem, ale naštěstí jsme to záhy zjednodušili v [Inteligentním bojovníkovi](2018-10-10-inteligentni_bojovnik.md). Takže teď, tedy před tím, než začnou platit následující řádky, se počet vědomých akcí **za kolo** omezuje pouze na tvou *Inteligenci* a po nenápadné poznámce v [Neboji](2018-10-26-neboj.md#Jenom_akce) také na tvou *Obratnost*, podle toho, kterou z těchto vlastností máš **menší**.
 
 ## Facka
 Ovšem i v návrhu [Inteligentního bojovníka](2018-10-10-inteligentni_bojovnik.md) jsme sami sebe natáhli na skřipec, když nám začalo být jasné, že mnozí účastníci boje nejsou žádní myslitelé, ba někteří budou mít *Inteligenci* zápornou, takže jsme byli nuceni přidat pravidlo, že **každý** tvor zvládne alespoň jednu vědomou akci a prohlásili jsme to za instinkt. Taková ta klasická *výjimka*, za kterou si máme dát navzájem facku, že vezmeme druhou o zem.
