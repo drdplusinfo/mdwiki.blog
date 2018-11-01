@@ -1,14 +1,14 @@
 # Zmrtvýchvstání odvozených vlastností
 
-*5. 10. 2018*
+*11. 11. 2018*
 
-Ve *Velkém fanouškovi* jsme zmínili, že [*Odvozené vlastnosti* zřejmě zrušíme](2018-09-03-velkej_fanousek.md#Dovednosti), částečně proto, že některé z nich se pravidlově používají minimálně až vůbec a hlavně proto, že se s nimi nechceme [počítat](http://pph.drdplus.loc:88/#urceni_aspektu_vzhledu).
+Ve *Velkém fanouškovi* jsme zmínili, že [*Odvozené vlastnosti* zřejmě zrušíme](2018-09-03-velkej_fanousek.md#Dovednosti), částečně proto, že některé z nich se pravidlově používají minimálně až vůbec a hlavně proto, že se s nimi nechceme [počítat](https://pph.drdplus.info/?version=1.0&trial=1#urceni_aspektu_vzhledu).
 
 Od té doby jsme toho na blog nasypali dost a dost, až jsme v [neboji](2018-10-26-neboj.md#Jenom_akce) poprvé použili prosté pravidlo
 
 > podle toho, kterou z těchto vlastností máš **menší**
 
-čímž jsme opět otevřeli dvěře [Odvozeným vlastnostem](http://pph.drdplus.loc:88/#tabulka_odvozenych_vlastnosti), hlavně tedy [Aspektům vzhledu](http://pph.drdplus.loc:88/#tabulka_aspektu_vzhledu), před kterými jsme ty samé dveře nedávno přibouchli.
+čímž jsme opět otevřeli dvěře [Odvozeným vlastnostem](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_odvozenych_vlastnosti), hlavně tedy [Aspektům vzhledu](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_aspektu_vzhledu), před kterými jsme ty samé dveře nedávno přibouchli.
 
 Věc je to číselně prostá, byť je v ní malý trik.
 
@@ -27,7 +27,7 @@ Vezmeme si k ruce přehled všech odvozených vlastností, které se musí poč�
 
 Vypadá to hrozně, co?
 
-Teď si udeláme malý průzkum do čísel. Bojovník na páté úrovni bude mít co nevyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně čtyři a ostatní, [vedlejší vlastnosti](http://pph.drdplus.loc:88/#tabulka_povolani) bude mít tak dva. Teď si to hodíme na porovnání dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
+Teď si udeláme malý průzkum do čísel. Bojovník na páté úrovni bude mít co nevyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně čtyři a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak dva. Teď si to hodíme na porovnání dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
 
 | Vlastnost | Hodnota dle původních pravidel VS hodnota dle nového návrhu |
 |-----|:---:|
@@ -40,4 +40,8 @@ Teď si udeláme malý průzkum do čísel. Bojovník na páté úrovni bude mí
 
 U nového návrhu je jasný propad, hlavně tam, kde se používá více základních vlastností dohromady.
 
-Teď  
+Teď
+
+---
+
+- *předchozí [<< 31. 10. 2018 Cit pro charisma](2018-10-31-cit_pro_charisma.md)*

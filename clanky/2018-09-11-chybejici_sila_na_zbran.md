@@ -69,7 +69,7 @@ Podobně je na tom *Obrana*, kde rychlost zbraně, která má zablokovat soupeř
 Ovšem se *Silou zranění* se dostáváme na tenký led, protože chceme změnit původní *"je jedno jak dobře jsi zasáhl, teď si hoď úplně znova na zranění"* (tedy až na původní [zásah do hlavy](https://pph.drdplus.info/?version=1.0&trial=1#zasah_do_hlavy)) a místo toho chceme, aby měla *Síla útoku* přímý vliv na zranění.
 Takže postih za chybějící *Sílu* už je po našich úpravách vlastně započítaný v postihu k *Útoku*.
 
-Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md#P%C5%99esouv%C3%A1n%C3%AD_bod%C5%AF_Boje) si všechno ostatní přes *Boj* už zařídíš, nebezpečnější *Útok*, lepší *Obranu*, větší *Zranění*, takže?
+Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md#Přesouvání_bodů_Boje) si všechno ostatní přes *Boj* už zařídíš, nebezpečnější *Útok*, lepší *Obranu*, větší *Zranění*, takže?
 
 ## Boj
 > Poplach!

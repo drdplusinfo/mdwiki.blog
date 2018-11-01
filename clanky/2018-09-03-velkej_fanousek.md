@@ -137,7 +137,7 @@ Navíc hodně dovedností, a hlavně [Boj se zbraní](https://pph.drdplus.info/?
 ## Boj
 > Délka by měla být bojem omezována ještě ve větší míře (píka by na vzdálenost 1 neměla mít bonus 0, ale postih -7),
 
-To je velice těžká věc, protože s tím se musí zavést ještě pravidla pro *prostor*, abych mohli s jistotou tvrdit, že postava už prostě nemá místo na použití tak dlouhé zbraně. Docela se nám to ale zdařilo v posledním [návrhu Boje](/#!clanky/2018-08-10-boj.md), kde se za pohyb platí body *Boje* a když se budeš chtít dostat na tělo někomu s píkou, budeš muset dost popoběhnout. A na druhou stranu, jakmile se někomu s píkou nalepíš na tělo, tak bude muset píku zahodit, nebo za body *Boje* ustoupit, nebo tě praštit ratištěm (takže mu z píky zbude hůl).
+To je velice těžká věc, protože s tím se musí zavést ještě pravidla pro *prostor*, abych mohli s jistotou tvrdit, že postava už prostě nemá místo na použití tak dlouhé zbraně. Docela se nám to ale zdařilo v posledním [návrhu Boje](2018-08-10-boj.md), kde se za pohyb platí body *Boje* a když se budeš chtít dostat na tělo někomu s píkou, budeš muset dost popoběhnout. A na druhou stranu, jakmile se někomu s píkou nalepíš na tělo, tak bude muset píku zahodit, nebo za body *Boje* ustoupit, nebo tě praštit ratištěm (takže mu z píky zbude hůl).
 
 > nátlak by měl snižovat vzdálenost
 
@@ -154,7 +154,7 @@ Tohle by měl vyřešit pohyb v boji, jak jsem psal výše, kdy se situace na bo
 
 > Úhyb je neskutečně silný a někdo s trošku vyšší obratností se může svým nepřátelům vysmívat.
 
-Tohle nám taky vrtá hlavou. I v současném [návrhu boje](/#!clanky/2018-08-10-boj.md#Kolik_stojí_akce) nám úhyb vykrystalizoval na volnou akci, kterou může každý provádět do alelůja, a stejně jako tobě se nám rozezněly poplašné zvony, že to smrdí výhodou pro hbité hazjlíky.
+Tohle nám taky vrtá hlavou. I v současném [návrhu boje](2018-08-10-boj.md#Kolik_stojí_akce) nám úhyb vykrystalizoval na volnou akci, kterou může každý provádět do alelůja, a stejně jako tobě se nám rozezněly poplašné zvony, že to smrdí výhodou pro hbité hazjlíky.
 
 - zatím nás k tomu napadlo, že pro *Úhyb* se nebude házet kostkou, prostě se sečte *Obratnost* a *Ochrana zbroje* a to bude výsledné obranné číslo *Úhybu*
     - a pokud bude někdo potřebovat pořádnou *Obranu*, no tak ať se snaží a obětuje na to akci (body *Boje*)
@@ -163,16 +163,16 @@ Dodávám, že navíc chceme zrušit původní *kdo se zbraní neumí, má k ní
 
 > Jeden útok za kolo je celkem fajn a situace je tak přehledná, ale zabíjet takhle slabí nepřátele (kostlivce...) neni nic moc.
 
-Taky nám to pilo krev, zvedalo žluč a vzpřimovalo chlupy na zádech, takže teď máme v [návrhu](/#!clanky/2018-08-10-boj.md) více akcí za kolo podle bodů *Boje*.
+Taky nám to pilo krev, zvedalo žluč a vzpřimovalo chlupy na zádech, takže teď máme v [návrhu](2018-08-10-boj.md) více akcí za kolo podle bodů *Boje*.
 
 > Hráči by neměli mít možnost pohybovat se jak chtějí a volně tancovat kolem nepřátel, nebo kolem těch pomalejších prostě proběhnout.
 
-My na tohle měli domácí pravidlo, že pohyb kolem nepřítele znamenal pro nepřítele útok zdarma, ale občas kolem toho samozřejmě dohady až hádky byly. Teď máme řešení nakousnuté v onom [návrhu boje](/#!clanky/2018-08-10-boj.md), kdy se klidně můžeš promenádovat kolem nepřítele, ale musíš se pohybu plně věnovat (jeden metr za jeden bod *Boje*) a nebo se rozhodneš riskovat, pak se ale budeš bránit pouze *Úhybem* (tedy pokud se nepřítel rozhodne zaútočit, což není tak samozřejmé, jak by se mohlo zdát).
+My na tohle měli domácí pravidlo, že pohyb kolem nepřítele znamenal pro nepřítele útok zdarma, ale občas kolem toho samozřejmě dohady až hádky byly. Teď máme řešení nakousnuté v onom [návrhu boje](2018-08-10-boj.md), kdy se klidně můžeš promenádovat kolem nepřítele, ale musíš se pohybu plně věnovat (jeden metr za jeden bod *Boje*) a nebo se rozhodneš riskovat, pak se ale budeš bránit pouze *Úhybem* (tedy pokud se nepřítel rozhodne zaútočit, což není tak samozřejmé, jak by se mohlo zdát).
 
 ## Střelba
 > Střelba je těžká, ale realistická. Střelec by měl mít možnost na přibíhajícího nepřítele vystřelit tak jednou, dvakrát
 
-I tohle jsme nakousli v [návrhu boje](/#!clanky/2018-08-10-boj.md) a zase je to o pohybu v boji. Ještě budeme ale muset řešit dostřel zbraně, protože každý druhý má pocit, že dostřel dvacet metrů je málo, což mě zas přijde hodně - sotva asi hrdinové běhají po lese s kompozitním silovým lukem.
+I tohle jsme nakousli v [návrhu boje](2018-08-10-boj.md) a zase je to o pohybu v boji. Ještě budeme ale muset řešit dostřel zbraně, protože každý druhý má pocit, že dostřel dvacet metrů je málo, což mě zas přijde hodně - sotva asi hrdinové běhají po lese s kompozitním silovým lukem.
 
 > a trefit někoho kdo o střelci ví a sleduje ho by mělo být obtížné
 
@@ -182,7 +182,7 @@ Máš nějaký konkrétní příklad, kde to skřípe?
 > Hraničářům a zlodějům by mělo být připomenuto že na blízko se střílet nedá. Pravidla celkem umožňují střílet kuší, nebo vrhat kouzla na někoho, kdo do vás mlátí mečem, to je nesmysl a taková sebeobrana by měla být možná jen proti těm nejnemotornějším nepřátelům.
 
 Souhlasíme, ale ještě jsme to nerozmýšleli.
-Ale když na to použiju současný [návrh boje](/#!clanky/2018-08-10-boj.md) (no, návrh zní poněkud vznešeně a oficiálně, prostě tok myšlenek), tak každou *Vlnu akcí* ty jakožto střelec můžeš sice ohlásit, že budeš střílet vlkovi mezi očí, ale vlk ti zároveň oznámí, že ti ukousne zadek zepředu, takže si vyber, jestli raději útok nezahodíš a nebudeš své citlivé partie chránit lépe než jen *Úhybem*.
+Ale když na to použiju současný [návrh boje](2018-08-10-boj.md) (no, návrh zní poněkud vznešeně a oficiálně, prostě tok myšlenek), tak každou *Vlnu akcí* ty jakožto střelec můžeš sice ohlásit, že budeš střílet vlkovi mezi očí, ale vlk ti zároveň oznámí, že ti ukousne zadek zepředu, takže si vyber, jestli raději útok nezahodíš a nebudeš své citlivé partie chránit lépe než jen *Úhybem*.
 
 ## Pohyb a únava
 > Pohyb a únava- celkem fajn jenom čísla jsou občas zvláštní a bodů únavy je hrozně málo. Postavy mají obrovskou nosnost, měly by se počítat zbraně a zbroj a vždy by měl být alespoň nějaký postih.

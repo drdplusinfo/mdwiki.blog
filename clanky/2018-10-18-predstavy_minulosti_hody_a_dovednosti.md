@@ -67,7 +67,7 @@ Jinak řečeno
 
 - past, proti které hážu, má úplně jiná pravidla, než výsledek, kterého chci dosáhnout
 
-Tohle už jsme někde řešili, ne? V [úhybu](2018-09-19-uhyb.md#Snaha versus náhoda) přece.
+Tohle už jsme někde řešili, ne? V [úhybu](2018-09-19-uhyb.md#Snaha_versus_náhoda) přece.
 Došli jsme tam k tomu, že u 2k6 je jeden hod kostkou snaha a ten druhý hod je náhoda a že dobrodruh sotva vládne svou vůlí i svou štěstěnou zároveň. Ještě se tomu budeme věnovat, ale zatím nám to přijde jako dobrý směr, jak vybřednout ze *tří univerzálních hodů*.
 
 ### Nech sa páči
