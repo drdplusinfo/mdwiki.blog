@@ -27,7 +27,7 @@ Vezmeme si k ruce přehled všech odvozených vlastností, které se musí poč�
 
 Vypadá to hrozně, co?
 
-Teď si udeláme malý průzkum do čísel. Bojovník na páté úrovni bude mít co nevyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně čtyři a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak dva. Teď si to hodíme na porovnání dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
+Teď si udeláme malý průzkum do čísel. Bojovník na páté úrovni bude mít co nevyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně pět a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak dva. Teď si to hodíme na porovnání dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
 
 | Vlastnost | Hodnota dle původních pravidel VS hodnota dle nového návrhu |
 |-----|:---:|
@@ -38,9 +38,10 @@ Teď si udeláme malý průzkum do čísel. Bojovník na páté úrovni bude mí
 | *Rychlost* | 4 ... 4 |
 | *Charisma* | 2 ... 2 |
 
-U nového návrhu je jasný propad, hlavně tam, kde se používá více základních vlastností dohromady.
+U nového návrhu je jasný propad, hlavně tam, kde se používá více základních vlastností dohromady, což dává logiku.
+Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě asi ne, protože hráč bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - aby zvýšil své šance na přežití, jdeme dál.
 
-Teď
+Teď si zkusíme hrdinu těsně před sešlostí věkem, tedy na dvacáté první úrovni. Pokud to bude stále náš bojovník, bude mít *Sílu* a *Obratnost* podle původních pravidel asi tak dvanáct, ostatní vlastnosti 
 
 ---
 
