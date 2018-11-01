@@ -27,19 +27,41 @@ Vezmeme si k ruce přehled všech odvozených vlastností, které se musí poč�
 
 Vypadá to hrozně, co?
 
-Teď si udeláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na dvacáté první úrovni, bojovník na slovo vzatý, bude mít co nevyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak pět. Teď si to hodíme na porovnání dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
+Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na dvacáté první úrovni, bojovník na slovo vzatý, bude mít co nevyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak pět. Teď si to hodíme na porovnání dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
 
-| Vlastnost | Hodnota dle původních pravidel | hodnota dle nového návrhu |
+| Vlastnost | Hodnota dle původních pravidel | Hodnota dle *nejmenší vlastnosti* |
 |-----|:---:|:---:|
 | *Krása* | (11 + 5)/2 + 5/2 = **11** | **5** |
 | *Nebezpečnost* | (11 + 5)/2 + 5/2 = **11** | **5** |
-| *Důstojnost* | (5 + 5)/2 + 5 = **10** | **5** |
+| *Důstojnost* | (5 + 5)/2 + 5/2 = **8** | **5** |
 | *Výdrž* | (11 + 5)/2 = **8** | **5** |
 | *Rychlost* | (11 + 11)/2  = **11** | **11** |
 | *Charisma* | (5 + 5)/2 = **5** | **5** |
 
 U nového návrhu je jasný propad, hlavně tam, kde se kombinují vysoké a nízké vlastnosti, což znamená hlavní a vedlejší, což dává logiku.
-Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě asi ne, protože hráč bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - aby zvýšil své šance na přežití. No, jdeme dál.
+Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě ani ne, protože **hráč** bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - aby zvýšil své šance na přežití. No, jdeme dál.
+
+Další změna, kterou jsme nedávno navrhli, posunuje nulové začátečnické vlastnosti z [nuly na šest](2018-10-22-nula.md#Šestka), mění to něco? No, když se posunul začátek, tak se taky pusunul konec, ne? Ani ne, už jsme naznačovali, že horní hranice vlastností [bude dvanáct](2018-10-29-minuta_inteligence.md#Baba_minuta), sice jsme neřekli, že to není absolutní strop, ale pokud teď trochu předběhneme dobu, tak můžeme vyřknout naprosto nepromyšlený stav našeho borce, který bude na neuvěřitelné jednadvacáté úrovni mít
+
+- *Sílu* patnáct
+- *Obratnost* deset
+- *Zručnost* sedm
+- psychické vlastnosti svorně na dvanácti
+
+Změní to nějak zásadně naši tabulku výsledků?
+
+| Vlastnost | Hodnota dle původních pravidel | Hodnota dle *nejmenší vlastnosti* |
+|-----|:---:|:---:|
+| *Krása* | (10 + 7)/2 + 12/2 = **15** | **7** |
+| *Nebezpečnost* | (15 + 12)/2 + 12/2 = **20** | **12** |
+| *Důstojnost* | (12 + 12)/2 + 12/2 = **18** | **12** |
+| *Výdrž* | (15 + 12)/2 = **14** | **12** |
+| *Rychlost* | (15 + 10)/2  = **13** | **10** |
+| *Charisma* | (12 + 12)/2 = **12** | **12** |
+
+*Mimochodem, všimli jste si, že ty závorky jsou úplně k ničemu, tedy pokud zaokrouhlujeme až úplně na konci (což my děláme)?*
+
+Zatímco u před hozích hodnot to vypadalo, že úplně mimo je náš nový návrh, u kterého jsou výsledné hodnoty zatraceně níž, než podle původních pravidel, tak s o něco vyššími vlastnostmi se najedou úplně rozsypala původní pravidla - nebo ti připadá v pořádku mít nebezpečnost dvacet? Vždyť by se před tebou strachy utíkaly i pařezy. Z tohole souboje vychází vítězně nový návrh, takže zatím je to jedna:jedna na zápasy.
 
 ---
 
