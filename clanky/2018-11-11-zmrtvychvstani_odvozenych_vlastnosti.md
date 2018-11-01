@@ -27,21 +27,19 @@ Vezmeme si k ruce přehled všech odvozených vlastností, které se musí poč�
 
 Vypadá to hrozně, co?
 
-Teď si udeláme malý průzkum do čísel. Bojovník na páté úrovni bude mít co nevyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně pět a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak dva. Teď si to hodíme na porovnání dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
+Teď si udeláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na dvacáté první úrovni, bojovník na slovo vzatý, bude mít co nevyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak pět. Teď si to hodíme na porovnání dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
 
-| Vlastnost | Hodnota dle původních pravidel VS hodnota dle nového návrhu |
-|-----|:---:|
-| *Krása* | 4 ... 2 |
-| *Nebezpečnost* | 4 ... 2 |
-| *Důstojnost* | 3 ... 2 |
-| *Výdrž* | 3 ... 2 |
-| *Rychlost* | 4 ... 4 |
-| *Charisma* | 2 ... 2 |
+| Vlastnost | Hodnota dle původních pravidel | hodnota dle nového návrhu |
+|-----|:---:|:---:|
+| *Krása* | (11 + 5)/2 + 5/2 = **11** | **5** |
+| *Nebezpečnost* | (11 + 5)/2 + 5/2 = **11** | **5** |
+| *Důstojnost* | (5 + 5)/2 + 5 = **10** | **5** |
+| *Výdrž* | (11 + 5)/2 = **8** | **5** |
+| *Rychlost* | (11 + 11)/2  = **11** | **11** |
+| *Charisma* | (5 + 5)/2 = **5** | **5** |
 
-U nového návrhu je jasný propad, hlavně tam, kde se používá více základních vlastností dohromady, což dává logiku.
-Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě asi ne, protože hráč bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - aby zvýšil své šance na přežití, jdeme dál.
-
-Teď si zkusíme hrdinu těsně před sešlostí věkem, tedy na dvacáté první úrovni. Pokud to bude stále náš bojovník, bude mít *Sílu* a *Obratnost* podle původních pravidel asi tak dvanáct, ostatní vlastnosti 
+U nového návrhu je jasný propad, hlavně tam, kde se kombinují vysoké a nízké vlastnosti, což znamená hlavní a vedlejší, což dává logiku.
+Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě asi ne, protože hráč bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - aby zvýšil své šance na přežití. No, jdeme dál.
 
 ---
 
