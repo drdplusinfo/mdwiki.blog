@@ -87,6 +87,15 @@ Teď zpátky k číslu, *Krása* se původně zjišťovala
     - takže z projevu, což začne platit v okamžiku, kdy se jedinec může předvést před ostatními
 
 A co *Síla*, pevné tělo nepřitahuje? *Inteligence* vyzařující z očí či z projevu nezaujme? Snad jen *Vůle* a *City* jsou stranou, protože ani jedna z těchto dvou vlastností nebývá vidět hned a když už, tak jejich projev málokdo považuje za součást krásy. Aha, *Inteligence* tam patří, ale *Cit* ne? Tak to můžeme škrtnout *Charisma*, u kterého jsme zjistili, že se skládá z *Inteligence* a *Citu* a nahradit ho prostě *Inteligencí*.
+Hmm, takže nově jsme nahradili *Charisma* za *Inteligenci*, přemýšlíme o přidání *Síly* a vlastně si nejsme jisti, jestli se nenajde jediněc, kterého nejvíce oslní ṕevná *Vůle* a porozumění *Citem*. To jsme si teda pomohli...
+
+Krásu proto odsouváme na neurčito a je dost možné, že k ní pouze přidáme popis, příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
+
+## Nebezpečnost
+
+Z některých osob jde prostě strach.
+
+
 
 ---
 
