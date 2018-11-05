@@ -20,7 +20,7 @@ Vezmeme si k ruce přehled všech odvozených vlastností, které se musí poč�
 
 | Vlastnost | Výpočet |
 |-----|:---:|
-| *Krása* | (*Obratnost* + *Zručnost*)/2 + *Chrarisma*/2 |
+| *Krása* | (*Obratnost* + *Zručnost*)/2 + *Charisma*/2 |
 | *Nebezpečnost* | (*Síla*+*Vůle*)/2 + *Charisma*/2 |
 | *Důstojnost* | (*Inteligence* + *Vůle*)/2 + *Charisma*/2 |
 | *Výdrž* | (*Síla* + *Vůle*)/2 |
@@ -29,7 +29,7 @@ Vezmeme si k ruce přehled všech odvozených vlastností, které se musí poč�
 
 Vypadá to hrozně, co?
 
-Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na dvacáté první úrovni, bojovník na slovo vzatý, bude mít co nevyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání výsledky dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
+Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na dvacáté první úrovni, bojovník na slovo vzatý, bude mít co nejvyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání výsledky dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
 
 | Vlastnost | Hodnota dle *původních pravidel* | Hodnota dle *nejmenší vlastnosti* |
 |-----|:---:|:---:|
@@ -71,7 +71,11 @@ Z tohohle souboje vychází vítězně nový návrh, takže zatím je to jedna:j
 
 A co dál? Dál si připomeneme, na co jsme přišli v [Inteligentním bojovníkovi](2018-10-10-inteligentni_bojovnik.md#Zkrátka_inteligence) a to, že pro počet akcí potřebuju jak *Obratnost*, tak i *Inteligenci*, přičemž značná *Obratnost* s nízkou *Inteligencí* je tělo bez vlády a vysoká *Inteligence* s neohrabanou *Obratností* je vláda bez těla. Prostě výsledkem je **nižší** z obou vlastností, žádný průměr. Neplatí tohle náhodou pro každou kombinaci vlastností? Nebo alespoň pro některé?
 
-## Krása
+## Vlastnosti jedna po druhé
+
+Nastal čas vytáhnout klepadlo, metlu a vyprášit *Odvozené vlastnosti*, co to jen půjde.
+
+### Krása
 
 Krása má mnoho podob, ta nejviditelnější je nehybný vzhled, další je pak v ladnosti pohybu, další v jasnosti hlasu, další v chemii mezi dvěma bytostmi a určitě by se ještě něco našlo. Popravdě, krása je dobrý kandidát na vyškrtnutí z číselných pravidel, protože je zatraceně komplexní a pro každého v něčem jiném, ale jak jsme si už řekli, [chlapi čísla milujou](2018-10-31-cit_pro_charisma.md#Užitek_citu) a určitě se najde hráč, který se bude opájet krásou své *dvanáctky*.
 
@@ -82,7 +86,7 @@ Teď zpátky k číslu, *Krása* se původně zjišťovala
 - z *Obratnosti*
     - proč ne, to je ta pružnost těla, která je vidět i když tvor jen tak postává
 - ze *zručnosti*
-    - to bude ta ladnost pohybů, to plynulé, klidné a přesné ovádání těla, které mnohé fascinuje
+    - to bude ta ladnost pohybů, to plynulé, klidné a přesné ovládání těla, které mnohé fascinuje
 - z *Charisma*
     - takže z projevu, což začne platit v okamžiku, kdy se jedinec může předvést před ostatními
 
@@ -91,7 +95,7 @@ Hmm, takže nově jsme nahradili *Charisma* za *Inteligenci*, přemýšlíme o p
 
 Krásu proto odsouváme na neurčito a je dost možné, že k ní pouze přidáme popis, příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
 
-## Nebezpečnost
+### Nebezpečnost
 
 Z některých osob jde prostě strach. Někdo je tichý a jen upřeně zírá s lehkým úšklebkem v koutku úst, jiný funí, poulí očima, žíly mu nabíhají na krku, další se dívá nepřítomně, nezaujatě, ignorující prosby a nářky a z těch všech jde strach, pokud máme pocit, že nás můžou **ohrozit**.
 
@@ -100,32 +104,32 @@ Původní *Nebezpečnost* se počítala
 - ze *Síly*
     - těžko se bránit silnějšímu, pokud je tu šance, že nás chytne do svého železného objetí
 - z *Vůle*
-    - chladné jednání vždycky děsilo, obzvlášť když jde o utrpení
+    - chladné jednání vždycky děsilo, obzvlášť k utrpení
 - z *Charisma*
-    - cílený psychický nátlak na obět se hodí, pokud ji chceme zahnat do úzkých
+    - cílený psychický nátlak na oběť se hodí, pokud ji chceme zahnat do úzkých
 
 A *Inteligence* ne? Nikdy tě nemrazilo z génia, který živé tvory považuje za omyl evoluce? Snad jen *Zručnost* a možná *Obratnost* nezasahují do prvotního pocitu nebezpečí, ale jen do doby, než si uvědomíš, že protivník tě v obou vlastnostech převyšuje a že proti němu nemáš moc šancí.
 
-To už je druhá odvozená vlastnost, do které se nám hodí každá základní vlastnost, něco tady smrdí... No, zkusíme další.
+To už je druhá odvozená vlastnost, do které se nám hodí každá základní vlastnost, něco tady smrdí... No, zkusíme další a smrad [vyvětráme až na závěr](#Ale).
 
-## Důstojnost
+### Důstojnost
 
-Klid, rozvaha, seběvědomí a nekončící vzdor i v těžkých chvílích udržují *Důstojnost* jedince na živu.
+Klid, rozvaha, sebevědomí a nekončící vzdor i v těžkých chvílích udržují *Důstojnost* jedince na živu.
 
 Původně se *Důstojnost* počítala
 
-- z *Intelience*
+- z *Inteligence*
     - je snazší překonat ponížení, když známe více možností, jak ze šlamastiky ven, takže proč ne
 - z *Vůle*
     - zejména v těžkých chvílích je *Vůle* klíčová pro udržení své osobnosti v celku, takže ano
 - *Charisma*
     - inu, je jednodušší zachovat si svobodnou vůli, když ovlivníme ty, kteří nám ji chtějí vzít, takže ano
 
-Že by do důstojnosti zasahovala některá z tělesných vlsatností, to se nám nezdá, snad jen lehce *Zručnost*, díky které je snazší nést se vznešeně a klidně, což na mnohé důstojně zapůsobí. Ovšem máme tu ono *Charisma*, o kterém už víme, že je to spojení *Citu* a *Inteligence* a protože *Inteligenci* už v *Důstojnosti* máme, tak otázka je, zda ji ovlivní také *Cit*.
+Že by do důstojnosti zasahovala některá z tělesných vlastností, to se nám nezdá, snad jen lehce *Zručnost*, díky které je snazší nést se vznešeně a klidně, což na mnohé důstojně zapůsobí. Ovšem máme tu ono *Charisma*, o kterém už víme, že je to spojení *Citu* a *Inteligence* a protože *Inteligenci* už v *Důstojnosti* máme, tak otázka je, zda ji ovlivní také *Cit*.
 *Cit* ovlivní přívětivost nebo nepříjemnost, celkový příznivý či špatný dojem u ostatních, ale že by přímo *Důstojnost*... nebo že by šlo *Cit* použít k vycítění toho, co ostatní považují za důstojné a toho se držet? Nebo naopak vycítit, čím tě chtějí ponížit a tomu vědomě odolat? Že by ten *Cit* a tím vlastně celé Charisma byly pro důstojnost přeci jenom důležité?
 *Důstojnost* je tak vlastně spolupráce všech tří základních duševních vlastností a my se můžeme začít ptát, zda můžeme u *Důstojnosti* použít pravidlo *nejmenší z vlastností*, ovšem necháme si to až ke konci.
 
-## Výdrž
+### Výdrž
 
 Neomdlít se zranění, přežít jed, vydržet ještě chvíli trýznivou žízeň, to vše a mnohem více zkouší, kolik vydržíme.
 
@@ -139,7 +143,7 @@ V původních pravidlech je výdrž spojením
 
 Výdrž vypadá stabilně, i u ní se můžeme začít ptát, jestli pro ní jde použít pravidlo nejmenší z vlastností, jen nám začíná narůstat tlak na takovéto klasické **ale**. Ale co když je tvor v bezvědomí, ale co když necítí své tělo, ale k tomu se dostaneme až za chvíli.
 
-## Rychlost
+### Rychlost
 
 Přeskočit, vyhnout se, kmitat nohama v přesném sledu, využívat podloží, odrážet se od překážek a další drobnosti skládají dohromady rychlost pohybu.
 
@@ -150,17 +154,62 @@ V původních pravidlech je kombinuje
 - *Obratnost*
     - jestli něco vyjadřuje rychlost pohybů, tak je to *Obratnost*, takže ano, *Obratnost* je také právoplatným členem *Rychlosti*
 
-Chvíli jsme koketovali s *Inteligencí*, protože chytřejší tvor dokáže lépe využít prostor a třeba najít rychlejší cestu, ale brzy jsme zjistili, že jsme sem začali tahat dovednosti a zvláštní schopnosti povolání, takže necháváme *Rychlost* tak, jak je, bez připomínek. *TODO velikost postavy*.
+Chvíli jsme koketovali s *Inteligencí*, protože chytřejší tvor dokáže lépe využít prostor a třeba najít rychlejší cestu, ale brzy jsme zjistili, že jsme sem začali tahat dovednosti a zvláštní schopnosti povolání, takže necháváme *Rychlost* tak, jak je, bez připomínek. Totiž, vlastně ne tak docela, zapomněli jsme na vliv *Velikosti*.
+Řešili jsme to na RPG fóru, kde jsme se dohrabali až k [matematickým důkazům](TODO) a zkrácený závěr je, že
 
-Vnitřně jsme si už prošli myšlenkovým pochodem, který nás dovedl k prostému zjištění, že takové zjednodušené pravidlo lze bez obav použít jen na tvory stavbou těla podobné člověku, protože zajíce bychom jinak chytali do klobouků jak motýly.
+- velikost nemá na rychlost tvora přímý vliv
+- když je větší tvor rychlejší než menší, tak je to kvůli vyšší *Síle*, nikoli kvůli delších nohou
 
-## Charisma
+Takže ještě jednou, *Rychlost* necháváme **téměř** tak, jak je, jen rušíme ~~vliv *Velikosti*~~ na *Rychlost*.
 
-To už jsme [řešili](2018-10-31-cit_pro_charisma.md), ne?
+A ještě přidáme poznámku k výpočtu *Rychlosti* - vnitřně jsme si už prošli myšlenkovým pochodem, který nás dovedl k prostému zjištění, že prostá kombinace *Síly* a *Obratnosti* lze pro *Rychlost* bez obav použít jen na tvory *stavbou těla* podobné člověku, protože bychom jinak zajíce chytali do klobouků jak motýly.
+Obecně jde právě o onu stavbu těla, která s *Rychlostí* nakonec zamává natolik, že u příšer s takovými počty nepochodíme.
 
-## Ale
+I na *Rychlost* můžeme použít pravidlo *menší z obou vlastností*.
 
-TODO Ale když mícháme tělesné a duševní vlastnosti, tak to skřípe - Krásu asi chceme když tvor spí a duše je vypnutá, ale dá se ovlivnit aktivně, stejně tak nebezpečnost by se měla rozdělit na tu pasivní, když někdo jen tak je, a na aktivní, když se někdo snaží zastrašovat a podobně i Výdrž, kde Vůle je aktivní boj s následky, které tělo nezvládá (a mělo by to unavovat?).
+### Charisma
+
+Zapůsobit na ostatní, strhnout je na svou stranu, ovlivnit jejich rozhodnutí, vyvolat v nich záměrný pocit a vůbec ovlivňovat emoce ostatních tak, jak ty pískáš, to je tvé charisma.
+
+Ovšem Charisma jsme už [řešili](2018-10-31-cit_pro_charisma.md), ne?
+
+Připomeneme pouze, že nově je *Charisma* použití
+
+- *Citu*
+    - což je nová základní vlastnost, v níž jsou ženy často ve výhodě
+- *Inteligence*
+    - s jejíž pomocí *Cit* cíleně použiješ na ovlivnění ostatních
+
+Také na *Charisma* můžeme použít pravidlo *menší z obou vlastností*.
+
+## Ale to je smrad
+
+A je to tady, dostáváme se konečně k tomu, co jsme naznačovali už [u *Krásy*](#Krása), že u některých odvozených vlastností něco smrdí, občas to zaskřípe a vůbec je to jedno velké **ale**.
+
+Na onen zápach jsme upozorňovali u *Krásy*, *Nebezpečnosti* a *Výdrže*, ale nenašli jsme ho u *Důstojnosti*, *Rychlosti* a *Charisma*. Co je na těhle dvou skupinách tak odlišného? A co mají vlastnosti ze stejné skupiny natolik shodného?
+Je to kombinace tělesných a duševních vlastností, slovy [Dračího doupěte II](http://drd2.cz) je to kombinace *Těla* a *Duše*. Tam, kde se *Tělo* a *Duše* míchají, tam nám to smrdí, a tam kde jsou vlastnosti složeny pouze z *Těla* nebo pouze z *Duše*, tam je to v pořádku. Jde se větrat.
+
+### Větrání smradu
+
+Když to vezmeme po popořadě, tak *Krása* nás bude zajímat zejména ta pasivní, taková, která tvorovi nezmizí, ani když spí a duše je *vypnutá*, což je *Krása* **tělesná**. Ovšem *Krása* se dá cíleně ovlivnit, ať už koketováním, ošacením, dojmem vyšší důležitosti a dalšími prvky na hraně podvodu, které mají souhrnně opačný efekt než pocit ohrožení u *Nebezpečnosti* a tím je pocit výhody. Pokud získám na svou stranu tak pěkného tvora, dostanu za odměnu zdravější děti, majetek, vliv a bůhví co nám ještě život nabulíkoval, že se může hodit.
+
+#### Druhy krás
+
+Zkusíme si nejdříve dát dohromady pasivní část *Krásy*, potom tu aktivní.
+
+Pasivní *Krásu* bychom poskládali ze *Síly* a *Obratnosti*, u kterých známe přesná čísla a pak z věku, *Rasy*, aktuálního stavu těla jakým je nový účes, oholená tvář, neštovice, zlomený nos a spoustu dalšího. Ano, správně, to jediné, co dokážeme pro pasivní *Krásu* vypotit, je **základ** tělesné *Krásy* a to ještě jen pro rasu, ze které tvor vzešel, k čemuž dokážeme přidat už jen nějaké ty rady hráčům, jak asi vnímají krásu každé z ras ty ostatní rasy. A to si rozhodně necháme na jindy.
+
+Na své okolí můžeš zapůsobit mnoha činnostmi, ladným pohybem vycházejícím z tvé *Zručnosti*, vtipnými poznámkami a postřehem, kdy kombinuješ svou *Inteligenci* a *Cit*, tedy používáš své *Charisma* a mnoha triky od [*Svádění*](http://pph.drdplus.loc:88/#svadeni), přes [drahý a ještě dražší vzhled](http://ppj.drdplus.loc:88/#cenik_obleceni) až po [aristokratické vystupování](http://pph.drdplus.loc:88/#puvod). Je toho tolik, že šanci na rozmotání takového klubka vidíme pouze v *Dovednostech*, které jako jeden ze svých efektů budou mít vliv na *Krásu*, ale ne kumulativně, prostě *kdo dá víc, ten má poslední slovo*.
+
+Tímto opouštíme nejisté vody *Krásy*, kterou si dáme k večeři jindy,
+
+#### Nebezpečnost
+
+stejně tak nebezpečnost by se měla rozdělit na tu pasivní, když někdo jen tak je, a na aktivní, když se někdo snaží zastrašovat
+
+#### Výdrž
+
+a podobně i Výdrž, kde Vůle je aktivní boj s následky, které tělo nezvládá (a mělo by to unavovat?).
 
 ---
 
