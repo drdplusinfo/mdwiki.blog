@@ -87,15 +87,67 @@ Teď zpátky k číslu, *Krása* se původně zjišťovala
     - takže z projevu, což začne platit v okamžiku, kdy se jedinec může předvést před ostatními
 
 A co *Síla*, pevné tělo nepřitahuje? *Inteligence* vyzařující z očí či z projevu nezaujme? Snad jen *Vůle* a *City* jsou stranou, protože ani jedna z těchto dvou vlastností nebývá vidět hned a když už, tak jejich projev málokdo považuje za součást krásy. Aha, *Inteligence* tam patří, ale *Cit* ne? Tak to můžeme škrtnout *Charisma*, u kterého jsme zjistili, že se skládá z *Inteligence* a *Citu* a nahradit ho prostě *Inteligencí*.
-Hmm, takže nově jsme nahradili *Charisma* za *Inteligenci*, přemýšlíme o přidání *Síly* a vlastně si nejsme jisti, jestli se nenajde jediněc, kterého nejvíce oslní ṕevná *Vůle* a porozumění *Citem*. To jsme si teda pomohli...
+Hmm, takže nově jsme nahradili *Charisma* za *Inteligenci*, přemýšlíme o přidání *Síly* a vlastně si nejsme jisti, jestli se nenajde jedinec, kterého nejvíce oslní pevná *Vůle* a porozumění *Citem*. To jsme si teda pomohli...
 
 Krásu proto odsouváme na neurčito a je dost možné, že k ní pouze přidáme popis, příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
 
 ## Nebezpečnost
 
-Z některých osob jde prostě strach.
+Z některých osob jde prostě strach. Někdo je tichý a jen upřeně zírá, s lehkým úsměvem v koutku úst, jiný funí, poulí očima, žíly mu nabíhají na krku, další se dívá nepřítomně, nezaujatě, ignorující prosby a nářky a z těch všech jde strach, pokud máme pocit, že nás můžou hrozit.
+
+Původní *Nebezpečnost* se počítala
+
+- ze *Síly*
+    - těžko se bránit silnějšímu, pokud je tu šance, že nás chytne do svého železného objetí
+- z *Vůle*
+    - chladné jednání vždycky děsilo, obzvlášť když jde o utrpení
+- z *Charisms*
+    - cílený psychický nátlak na obět se hodí, pokud ji chceme zahnat do úzkých
+
+A *Inteligence* ne? Nikdy tě nemrazilo z génia, který živé tvory považuje za omyl evoluce? Neděsil tě bezcitný zuřivec, kterého bolest ostatních nezajímá? Snad jen *Zručnost* a možná *Obratnost* nezasahují do prvotního pocitu nebezpečí, ale jen do doby, než si uvědomíš, že protivník tě v obou vlastnostech převyšuje a že proti nemáš moc šancí.
+
+To už je druhá odvoená vlastnost, do které se nám hodí každá vlastnost, něco tady smrdí... Zkusíme další.
+
+## Důstojnost
+
+Klid, rozvaha, seběvědomí a nekončící vzdor i v těžkých chvílích udržují *Důstojnost* jedince na živu.
+
+Původně se *Důstojnost* počítala
+
+- z *Intelience*
+    - je snazší překonat ponížení, když znáte více možností, jak ze šlamastiky ven, takže proč ne
+- z *Vůle*
+    - zejména v těžkých chvílích je *Vůle* klíčová pro udržení své osobnosti v celku, takže ano
+- *Charisma*
+    - inu, je jednodušší zachovat si svobodnou vůli, když ovlivníte ty, kteří vám ji chtějí vzít, takže ano
+
+Že by do důstojnosti zasahovala některá z tělesných vlsatností, to se nám nezdá, snad jen lehce *Zručnost*, díky které je snazší nést se vznešeně a klidně, což na mnohé důstojně zapůsobí. Ovšem máme tu ono *Charisma*, o kterém už víme, že je to spojení *Citu* a *Inteligence* a protože *Inteligenci* už v *Důstojnosti* máme, tak otázka je, zda ji ovlivní také *Cit*. Nezdá se, *Cit* ovlivní přívětivost nebo nepříjemnost, celkový příznivý či špatný dojem u ostatních, ale že by přímo *Důstojnost*, to asi ne.
+Takže z *Důstojnosti* mám jednodušší odvozenou vlastnost, složenou z *Inteligence* a *Vůle*. Jdeme dál.
 
 
+## Výdrž
+
+Nepoddat se zranění, přežít jed, vydržet ještě chvíli trýznivou žízeň, to vše a mnohem více pokouší, kolik vydržíme.
+
+
+V původních pravidlech je výdrž spojením
+
+- Síly
+    - už při hledání základů pro *Charisma* jsme o Síle [mluvili jako o síle těla](2018-10-31-cit_pro_charisma.md#Nějaká_drobnost), o jeho odolnosti na tělesnou zátěž, takže jo, *Síla* do *Výdrže* patří
+- Vůle
+    - to je v bledě modrém to samé jako *Síla*, jelikož jsme už [souhlasili](Nějaká_drobnost), že *Vůle* je silou ducha a podobně jako zátěži odolává tělo, tak nám může pomoci potíže překonat i silná mysl, takže s *Vůlí* také souhlasíme
+
+Jen nám začíná narůstat tlak na takovéto klasické **ale**... Za chvíli se k němu dostaneme.
+
+## Rychlost
+
+## Charisma
+
+To už jsme [řešili](2018-10-31-cit_pro_charisma.md), ne?
+
+## Ale
+
+TODO Ale když mícháme tělesné a duševní vlastnosti, tak to skřípe - Krásu asi chceme když tvor spí a duše je vypnutá, ale dá se ovlivnit aktivně, stejně tak nebezpečnost by se měla rozdělit na tu pasivní, když někdo jen tak je, a na aktivní, když se někdo snaží zastrašovat a podobně i Výdrž, kde Vůle je aktivní boj s následky, které tělo nezvládá (a mělo by to unavovat?).
 
 ---
 
