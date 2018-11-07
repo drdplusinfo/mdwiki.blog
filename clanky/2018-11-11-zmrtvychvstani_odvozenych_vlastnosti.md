@@ -25,9 +25,9 @@ Vezmeme si k ruce přehled všech odvozených vlastností, které se musí poč�
 | *Rychlost* | (*Síla* + *Obratnost*)/2 |
 | *Charisma* | (*Cit* + *Inteligence*)/2 |
 
-Vypadá to hrozně, co?
+*Vypadá to hrozně, co?*
 
-Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na dvacáté první úrovni, bojovník na slovo vzatý, bude mít co nejvyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u člověka z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání výsledky dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
+Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na dvacáté první úrovni, bojovník na slovo vzatý, bude mít co nejvyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u [člověka](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_ras) z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání výsledky dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
 
 | Vlastnost | Hodnota dle *původních pravidel* | Hodnota dle *nejmenší vlastnosti* |
 |-----|:---:|:---:|
@@ -40,7 +40,7 @@ Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina t
 
 *Mimochodem, všimli jste si, že ty závorky jsou úplně k ničemu, tedy pokud zaokrouhlujeme až úplně na konci (což my děláme)?*
 
-U nového návrhu je jasný propad, hlavně tam, kde se kombinují vysoké a nízké vlastnosti, což znamená [hlavní a vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani), což dává logiku.
+U nového návrhu je jasný propad, hlavně tam, kde se kombinují vysoké a nízké vlastnosti, což znamená [hlavní a vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani), což dává logiku, když místo průměru použijeme jen mrňouse.
 Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě ani ne, protože **hráč** bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - aby zvýšil své šance na přežití. Takže nic, jdeme dál.
 
 Další změna, kterou jsme nedávno navrhli, posunuje nulové začátečnické vlastnosti z [nuly na šest](2018-10-22-nula.md#Šestka), změní tohle něco? No, když se posunul začátek, tak se taky posunul konec, ne? Ani ne, už jsme naznačovali, že horní hranice vlastností [bude dvanáct](2018-10-29-minuta_inteligence.md#Baba_minuta). Trochu jsme ale zatajili, že to není absolutní strop, takže pokud teď trochu předběhneme dobu, tak můžeme vyřknout naprosto *nepromyšlený* stav našeho borce, který bude na neuvěřitelné jednadvacáté úrovni mít
@@ -61,7 +61,7 @@ Změní to nějak zásadně naši tabulku výsledků?
 | *Rychlost* | (15 + 10)/2  = **13** | **10** |
 | *Charisma* | (12 + 12)/2 = **12** | **12** |
 
-Zatímco u předchozích hodnot to vypadalo, že *úplně mimo* je náš nový návrh, tak s o něco vyššími vlastnostmi se najedou naprosto rozsypala původní pravidla. Nebo ti připadá v pořádku mít nebezpečnost dvacet? Vždyť by před tebou zdrhaly i pařezy.
+Zatímco u předchozích hodnot to vypadalo, že *úplně mimo* je náš nový návrh, tak s o něco vyššími vlastnostmi se najedou naprosto rozsypala původní pravidla. Nebo ti připadá v pořádku mít nebezpečnost dvacet? Vždyť by před tebou utíkaly i pařezy.
 
 Z tohohle souboje vychází vítězně nový návrh, takže zatím je to jedna:jedna na zápasy.
 
