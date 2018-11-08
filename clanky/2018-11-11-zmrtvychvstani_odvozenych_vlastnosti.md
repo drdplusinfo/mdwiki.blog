@@ -65,7 +65,7 @@ Zatímco u předchozích hodnot to vypadalo, že *úplně mimo* je náš nový n
 
 Z tohohle souboje vychází vítězně nový návrh, takže zatím je to jedna:jedna na zápasy.
 
-A co dál? Dál si připomeneme, na co jsme přišli v [Inteligentním bojovníkovi](2018-10-10-inteligentni_bojovnik.md#Zkrátka_inteligence) a to, že pro počet akcí potřebuju jak *Obratnost*, tak i *Inteligenci*, přičemž značná *Obratnost* s nízkou *Inteligencí* je tělo bez vlády a vysoká *Inteligence* s neohrabanou *Obratností* je vláda bez těla. Prostě výsledkem je **nižší** z obou vlastností, žádný průměr. Neplatí tohle náhodou pro každou kombinaci vlastností? Nebo alespoň pro některé?
+A co dál? Dál si připomeneme, na co jsme přišli v [Inteligentním bojovníkovi](2018-10-10-inteligentni_bojovnik.md#Zkrátka_inteligence) a to, že pro počet akcí potřebuju jak *Obratnost*, tak i *Inteligenci*, přičemž značná *Obratnost* s nízkou *Inteligencí* je tělo bez vlády a vysoká *Inteligence* s neohrabanou *Obratností* je vláda bez těla. Prostě výsledkem je **nižší** z obou vlastností, ~~žádný průměr~~. Neplatí tohle náhodou pro každou kombinaci vlastností? Nebo alespoň pro některé?
 
 Ovšem než se k odpovědi dostaneme, budeme si muset nejdříve v odvozených vlastnostech trochu uklidit. 
 
@@ -77,9 +77,7 @@ Nastal čas vytáhnout klepadlo, metlu a vyprášit *Odvozené vlastnosti*, co t
 
 Krása má mnoho podob, ta nejviditelnější je nehybný vzhled, další je pak v ladnosti pohybu, další v jasnosti hlasu, další v chemii mezi dvěma bytostmi a určitě by se ještě něco našlo. Popravdě, krása je dobrý kandidát na vyškrtnutí z číselných pravidel, protože je zatraceně komplexní a pro každého spočívá v něčem jiném, ale jak jsme si už řekli, [chlapi čísla milujou](2018-10-31-cit_pro_charisma.md#Užitek_citu) a určitě se najde hráč, který se bude opájet krásou své *dvanáctky*.
 
-*Dáváme si za úkol popsat v pravidlech *Krásu* tak volně, aby každému bylo jasné, že číslo, které dostane, je ryze orientační a obecné a na každého bude ve finále jeho krása působit jinak.*
-
-Teď zpátky k číslu, *Krása* se původně zjišťovala
+*Krása* se původně zjišťovala
 
 - z *Obratnosti*
     - proč ne, to je ta pružnost těla, která je vidět i když tvor jen tak postává
@@ -189,22 +187,24 @@ Je to kombinace tělesných a duševních vlastností, slovy [Dračího doupěte
 
 ### Větrání smradu
 
-Když to vezmeme popořadě, tak *Krása* nás bude zajímat zejména ta pasivní, taková, která tvorovi nezmizí, ani když spí a jeho duše je *vypnutá*, což je *Krása* **tělesná**.
-Ovšem *Krása* se dá cíleně ovlivnit, ať už koketováním, ošacením, dojmem vyšší důležitosti a dalšími prvky na hraně podvodu, které mají souhrnně opačný efekt než pocit [ohrožení u *Nebezpečnosti*](#Nebezpečnost) a tím je pocit **výhody**. Pokud získám na svou stranu *tak* pěkného tvora, dostanu za odměnu úspěšnější děti, získám majetek, zvýším svůj vliv a bůhví co nám ještě život nabulíkoval, že se může hodit.
+Když to vezmeme popořadě a dáme ještě jednu šanci *Kráse*, tak nás bude zajímat zejména ta pasivní, taková, která tvorovi nezmizí, ani když spí a jeho duše je *vypnutá*, což je *Krása* **tělesná**.
+Ovšem *Krása* se dá cíleně ovlivnit, ať už koketováním, ošacením, dojmem vyšší důležitosti a dalšími prvky na hraně podvodu, které mají souhrnně opačný efekt než pocit [ohrožení u *Nebezpečnosti*](#Nebezpečnost) a tím je pocit **výhody**. Pokud získám na svou stranu *tak* pěkného tvora, dostanu za odměnu úspěšnější děti, další majetek, větší vliv a bůhví co nám ještě život nabulíkoval, že se může hodit.
 
 #### Druhy krás
 
 Zkusíme si nejdříve dát dohromady pasivní část *Krásy*, potom tu aktivní.
 
-Pasivní *Krásu* bychom poskládali ze *Síly* a *Obratnosti*, u kterých známe přesná čísla a pak z věku, pak z *Rasy*, aktuálního stavu těla jakým je nový účes, oholená tvář, neštovice, zlomený nos a spoustu dalšího. Ano, správně, to jediné, co dokážeme pro pasivní *Krásu* vypotit, je **základ** tělesné *Krásy* a to ještě jen pro rasu, ze které tvor vzešel, k čemuž dokážeme přidat už jen nějaké ty rady hráčům, jak krásné se asi vnímají rasy navzájem. A to si rozhodně necháme na jindy.
+Pasivní *Krásu* bychom poskládali ze *Síly* a *Obratnosti*, u kterých známe přesná čísla a pak z věku, pak z *Rasy*, aktuálního stavu těla jakým je nový účes, oholená tvář, neštovice, zlomený nos a spoustu dalšího. Ano, správně, to jediné, co dokážeme pro pasivní *Krásu* vypotit, je **základ** tělesné *Krásy* a to ještě jen pro rasu, ze které tvor vzešel, k čemuž dokážeme přidat už jen nějaké ty rady hráčům, jak krásné se asi vnímají rasy navzájem.
 
-Pro úplnost si projdeme ještě aktivní složku *Krásy*, kdy na své okolí můžeš zapůsobit mnoha činnostmi, ať už ladným pohybem vycházejícím z tvé *Zručnosti*, vtipnými poznámkami a postřehem při rozhovoru s využitíím tvé *Inteligence* a *Citu*, tedy *Charisma* a mnoha triky od [*Svádění*](https://pph.drdplus.info/?version=1.0&trial=1#svadeni), přes [drahý a ještě dražší vzhled](https://ppj.drdplus.info/?version=1.0&trial=1#cenik_obleceni) až po [aristokratické vystupování](https://pph.drdplus.info/?version=1.0&trial=1#puvod). Je toho tolik, že šanci na rozmotání takového klubka vidíme pouze v *Dovednostech*, které jako jeden ze svých efektů budou mít vliv na *Krásu*, ale nejspíše ne kumulativně, prostě *kdo dá víc, ten má poslední slovo*.
+Aktivní složkou *Krásy* je pak mnoho činností, kterými působíš na své okolí, ať už ladným pohybem vycházejícím z tvé *Zručnosti*, vtipnými poznámkami a postřehem při rozhovoru s využitíím tvé *Inteligence* a *Citu*, tedy *Charisma* a mnoha triky od [*Svádění*](https://pph.drdplus.info/?version=1.0&trial=1#svadeni), přes [drahý a ještě dražší vzhled](https://ppj.drdplus.info/?version=1.0&trial=1#cenik_obleceni) až po [aristokratické vystupování](https://pph.drdplus.info/?version=1.0&trial=1#puvod). Je toho tolik, že šanci na rozmotání takového klubka vidíme pouze v *Dovednostech*, které jako jeden ze svých efektů budou mít vliv na *Krásu*, ale nejspíše ne kumulativně, prostě *kdo dá víc, ten má poslední slovo*.
 
-Tímto opouštíme nejisté vody *Krásy*, kterou pravděpodobně v číselné formě zrušíme. Beztak je jen předskokanem *Charisma*.
+Jo, ani druhý pokus o záchranu *Krásy* nevyšel, takže ji pravděpodobně v číselné formě zrušíme, beztak je jen předskokanem *Charisma*.
 
-#### Nebezpečnost
+Tímto opouštíme nejisté vody *Krásy* a dáváme si za úkol popsat v pravidlech *Krásu* tak volně, aby každému bylo jasné, že čím inteligentnější tvor, tím více je krása ovlivněna více přesvědčením a módou, než praktičností a že se mezi rasami, národy i skupinami její ideál dost liší.
 
-Nebezpečnost si taky koleduje o rozdělení na pasivní složku, tu část, která platí i ve spánku (nebo se snad spícího draka nebojíš?) a na aktivní složku, kterou můžeš činorodě ovlivňovat.
+#### Nebezpečný spánek
+
+*Nebezpečnost* si taky koleduje o rozdělení na pasivní složku, tu část, která platí i ve spánku (nebo se snad spícího draka nebojíš?) a na aktivní složku, kterou můžeš činorodě ovlivňovat.
 
 Pasivní nebezpečnost vidíme v
 
@@ -215,9 +215,10 @@ Pasivní nebezpečnost vidíme v
 - ve výbavě
     - *nevím co je to za nulu, ale jestli ví, že co drží v pazouře není klepadlo na koberce, tak já to balím*
 - v počtu
-    - tohle by ale mělo řešit pravidlo *Hejna*, což je v tomhle případě vlastně sčítání *Síly* - dostaneme se k němu někdy příště
+    - *neletí ten mrak nějak rychle?*
+    - číselně by to ale mělo řešit pravidlo *Hejna*, což je v tomhle případě vlastně sčítání *Síly* - dostaneme se k němu někdy příště
 
-Pasivní nebezpečnost je tedy rovna *Síle*, ostatní části pokryjeme *Pověstí* (kterou ještě nemáme promyšlenou popisem výbavy a radami pro Pána jeskyně
+Pasivní nebezpečnost je tedy rovna *Síle*, ostatní části pokryjeme *Pověstí* (kterou ještě nemáme promyšlenou) a radami pro Pána jeskyně, jak řešit nebezpečnost z předmětů, ošacení a výbavě vůbec. A taky chceme oprášit pravidlo *Hejna*, které bychom chtěli natolik univerzální, aby platilo pro dva hrdiny zvedající železnou mříž a stejně tak pro mračno žíznivých komárů.
 
 #### Výdrž
 
