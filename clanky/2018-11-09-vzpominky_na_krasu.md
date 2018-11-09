@@ -37,7 +37,7 @@ Když nad tím zmatkem dumáme, tak vidíme u *Krásy* dvě složky, které se n
 Ta jednodušší složka je pasivní *Krása*, taková, která tvorovi nezmizí, ani když spí a jeho duše je *vypnutá*, což je *Krása* tělesná, stálá.
 Ovšem *Krása* se dá cíleně ovlivnit, ať už koketováním, ošacením, dojmem vyšší důležitosti a dalšími prvky na hraně podvodu, které mají souhrnně opačný efekt než pocit **ohrožení** u *Nebezpečnosti* a tím je pocit **výhody**
 
-- pokud získám na svou stranu *tak* pěkného tvora, dostanu za odměnu úspěšnější děti, další majetek, větší vliv a bůhví co nám ještě život nabulíkoval, že se může hodit
+- pokud získám na svou stranu *tak* pěkného tvora, dostanu za odměnu úspěšnější potomky, další majetek, větší vliv a bůhví co nám ještě život nabulíkoval, že se může hodit
 
 Takže se nám Krása rozpadá na dvě složky, aktivní, převážně krátkodobá a pasivní, převážně dlouhodobá.
 
