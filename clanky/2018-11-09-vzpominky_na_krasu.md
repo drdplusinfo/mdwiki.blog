@@ -4,7 +4,7 @@
 
 > Kdybychom za krásné považovali jen krásné, byl by svět krásnější
 
-Původně tento text vznikal jako součást návrhu na oživení [Odvozených vlastností](http://pph.drdplus.loc/#odvozene_vlastnosti), které už měly [na kahánku](2018-09-03-velkej_fanousek.md#Dovednosti), ale původní oživovací návrh nám postupně přerostl v tak velkou hromadu myšlenek, až jsme řekli *dost!* a *Krásu* oddělili sem. A i tak je toho dost.
+Původně tento text vznikal jako součást návrhu na oživení [Odvozených vlastností](https://pph.drdplus.info/?version=1.0&trial=1#odvozene_vlastnosti), které už měly [na kahánku](2018-09-03-velkej_fanousek.md#Dovednosti), ale původní oživovací návrh nám postupně přerostl v tak velkou hromadu myšlenek, až jsme řekli *dost!* a *Krásu* oddělili sem. A i tak je toho dost.
 
 ## Dost krásy
 
@@ -54,4 +54,8 @@ Tímto opouštíme nejisté vody *Krásy* a dáváme si za úkol popsat v pravid
 
 ## Závěrem
 
-*Krásu* jako [Odvozenou vlastnost](http://pph.drdplus.loc/#odvozene_vlastnosti) se nám nepodařilo oživit, už proto, že většinu situací za ni vyřeší *Charisma* a zbytek jsou spíše příležitosti pro pořádné hraní role, než hod kostkou. *Krásu* proto odsouváme na neurčito a je dost možné, že v pravidlech ji pouze popíšememe, přidáme příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [číselně nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
+*Krásu* jako [Odvozenou vlastnost](https://pph.drdplus.info/?version=1.0&trial=1#odvozene_vlastnosti) se nám nepodařilo oživit, už proto, že většinu situací za ni vyřeší *Charisma* a zbytek jsou spíše příležitosti pro pořádné hraní role, než hod kostkou. *Krásu* proto odsouváme na neurčito a je dost možné, že v pravidlech ji pouze popíšememe, přidáme příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [číselně nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
+
+---
+
+- *předchozí [<< 31. 10. 2018 Cit pro charisma](2018-10-31-cit_pro_charisma.md)*
