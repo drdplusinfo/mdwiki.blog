@@ -39,7 +39,7 @@ Ovšem *Krása* se dá cíleně ovlivnit, ať už koketováním, ošacením, doj
 
 - pokud získám na svou stranu *tak* pěkného tvora, dostanu za odměnu úspěšnější potomky, další majetek, větší vliv a bůhví co nám ještě život nabulíkoval, že se může hodit
 
-Takže se nám Krása rozpadá na dvě složky, aktivní, převážně krátkodobá a pasivní, převážně dlouhodobá.
+Takže se nám *Krása* rozpadá na dvě složky, aktivní, převážně krátkodobá a pasivní, převážně dlouhodobá.
 
 ## Druhy krás
 
