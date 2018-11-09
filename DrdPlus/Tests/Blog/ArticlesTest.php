@@ -425,7 +425,7 @@ class ArticlesTest extends TestCase
 
         self::assertEmpty(
             $localLinks,
-            "Every link to drdplus.info should leads to drdplus.info using https. You can use regexp\nhttp://([^.]+[.]drdplus)[.]loc:88/\nhttps://$1.info/?version=1.0&trial=1\n"
+            "Every link to drdplus.info should leads to drdplus.info using https. You can use regexp\nhttp://([^.]+[.]drdplus)[.]loc/\nhttps://$1.info/?version=1.0&trial=1\n\n"
             . \implode("\n", $localLinks)
         );
     }
