@@ -4,7 +4,7 @@
 
 > Kdybychom za krásné považovali jen krásné, byl by svět krásnější
 
-Původně tento text vznikal jako součást návrhu na **oživení** [Odvozených vlastností](https://pph.drdplus.info/?version=1.0&trial=1#odvozene_vlastnosti), které už měly [na kahánku](2018-09-03-velkej_fanousek.md#Dovednosti), ale původní text nám postupně přerostl v tak velkou hromadu myšlenek, až jsme řekli *dost!* a *Krásu* oddělili sem. A i tak je toho dost.
+Původně tento text vznikal jako součást návrhu na **oživení** všech [Odvozených vlastností](https://pph.drdplus.info/?version=1.0&trial=1#odvozene_vlastnosti), které už měly [na kahánku](2018-09-03-velkej_fanousek.md#Dovednosti), ale původní text nám postupně přerostl v tak velkou hromadu myšlenek, až jsme řekli *dost!* a *Krásu* vyčlenili sem. A i tak je toho dost.
 
 A teď vzhůru za záchranou *Krásy*!
 
@@ -34,12 +34,12 @@ Jde se uklízet.
 
 Když nad tím zmatkem dumáme, tak vidíme u *Krásy* dvě složky, které se navzájem doplňují, ale **dohromady** je neukočírujeme.
 
-Ta jednodušší složka je pasivní *Krása*, taková, která tvorovi nezmizí, ani když spí a jeho duše je *vypnutá*, což je *Krása* tělesná.
+Ta jednodušší složka je pasivní *Krása*, taková, která tvorovi nezmizí, ani když spí a jeho duše je *vypnutá*, což je *Krása* tělesná, stálá.
 Ovšem *Krása* se dá cíleně ovlivnit, ať už koketováním, ošacením, dojmem vyšší důležitosti a dalšími prvky na hraně podvodu, které mají souhrnně opačný efekt než pocit **ohrožení** u *Nebezpečnosti* a tím je pocit **výhody**
 
 - pokud získám na svou stranu *tak* pěkného tvora, dostanu za odměnu úspěšnější děti, další majetek, větší vliv a bůhví co nám ještě život nabulíkoval, že se může hodit
 
-Takže se nám Krása rozpadá na dvě složky, aktivní a pasivní.
+Takže se nám Krása rozpadá na dvě složky, aktivní, převážně krátkodobá a pasivní, převážně dlouhodobá.
 
 ## Druhy krás
 
@@ -47,7 +47,7 @@ Zkusíme si nejdříve dát dohromady tu jednodušší, stálejší, pasivní č
 
 ### Pasivní krása
 
-Pasivní *Krásu* bychom poskládali ze *Síly* a *Obratnosti*, u kterých známe přesná čísla, dále z věku nebol-li sešlosti těla, z *Rasy*, z aktuálního stavu těla jakým je nový účes, oholená tvář, neštovice, zlomený nos, chybějící řezák a spoustu dalšího. Ano, správně, to jediné, co dokážeme pro pasivní *Krásu* vypotit, je **základ** tělesné *Krásy* a to ještě jen pro tu rasu, ze které tvor vzešel, k čemuž dokážeme přidat už jen nějaké ty rady, jak krásné se asi vnímají rasy navzájem. No, moc zjednodušeně to nezní ani po onom oddělení aktivní složky *Krásy*.
+Pasivní *Krásu* bychom poskládali ze *Síly* a *Obratnosti*, u kterých známe přesná čísla, dále z věku nebo-li sešlosti těla, z *Rasy*, z aktuálního stavu těla jakým je nový účes, oholená tvář, neštovice, zlomený nos, chybějící řezák a spoustu dalšího. Ano, správně, to jediné, co dokážeme pro pasivní *Krásu* vypotit, je **základ** tělesné *Krásy* a to ještě jen pro tu rasu, ze které tvor vzešel, k čemuž dokážeme přidat už jen nějaké ty rady, jak krásné se asi vnímají rasy navzájem. No, moc zjednodušeně to nezní ani po onom oddělení aktivní složky *Krásy*.
 
 Ale dejme té aktivní složce šanci.
 
@@ -59,6 +59,8 @@ Aktivní složkou *Krásy* je plejáda činností, kterými zapůsobíš na své
 
 Hmm, ani ne. *Krása* je ve většině herních situací jen předskokanem *Charisma* a zbytek jsou spíše příležitosti pro pořádné hraní role, než hod kostkou.
 
+To se nám to zachraňování *Krásy* nějak nevyvedlo.
+
 ## Odložená krása
 
 Pokus o záchranu *Krásy* nám nevyšel a dost možná ji v číselné formě prostě zrušíme.
@@ -67,7 +69,7 @@ Tímto opouštíme nejisté vody *Krásy* a dáváme si za úkol popsat v pravid
 
 ## Závěrem
 
-*Krásu* jako [Odvozenou vlastnost](https://pph.drdplus.info/?version=1.0&trial=1#odvozene_vlastnosti) se nám nepodařilo oživit, už proto, že většinu situací za ni vyřeší *Charisma*. *Krásu* proto odsouváme na neurčito a je dost možné, že v pravidlech ji pouze popíšememe, přidáme příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [číselně nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
+*Krásu* jako [Odvozenou vlastnost](https://pph.drdplus.info/?version=1.0&trial=1#odvozene_vlastnosti) se nám nepodařilo oživit, už proto, že většinu situací za ni vyřeší *Charisma*. *Krásu* proto odsouváme na neurčito a je dost možné, že v pravidlech ji pouze popíšeme, přidáme příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [číselně nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
 
 ---
 
