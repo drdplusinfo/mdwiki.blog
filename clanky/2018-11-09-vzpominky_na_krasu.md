@@ -12,7 +12,7 @@ A teď vzhůru za záchranou *Krásy*!
 
 Krása má mnoho podob, ta nejviditelnější je nehybný vzhled, další je pak v ladnosti pohybu, další v jasnosti hlasu, další v chemii mezi dvěma bytostmi a určitě by se ještě něco našlo. Popravdě, krása je dobrý kandidát na **vyškrtnutí** z číselných pravidel, protože je zatraceně komplexní a pro každého spočívá v něčem jiném, ale jak jsme si už řekli, [chlapi čísla milujou](2018-10-31-cit_pro_charisma.md#Užitek_citu) a určitě se najde hráč, který by se rád opájel krásou svého *numera*.
 
-Stojí nám takový užitek *Krásy* za to [počítání](http://pph.drdplus.loc/#vypocet_krasy)?
+Stojí nám takový užitek *Krásy* za to [počítání](https://pph.drdplus.info/?version=1.0&trial=1#vypocet_krasy)?
 
 Nejdříve se podíváme, z čeho se *Krása* zjišťovala původně
 

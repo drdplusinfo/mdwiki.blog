@@ -425,8 +425,10 @@ class ArticlesTest extends TestCase
 
         self::assertEmpty(
             $localLinks,
-            "Every link to drdplus.info should leads to drdplus.info using https. You can use regexp\nhttp://([^.]+[.]drdplus)[.]loc/\nhttps://$1.info/?version=1.0&trial=1\n\n"
-            . \implode("\n", $localLinks)
+            "Every link to drdplus.info should leads to drdplus.info using https:\n"
+            . \implode("\n", $localLinks) . "\n"
+            ."You can use\n"
+            . 'sed --in-place --regexp-extended --expression=\'s~http://([^.]+[.]drdplus)[.]loc/~https://\1.info/?version=1.0\&trial=1~g\' clanky/*.md'
         );
     }
 
