@@ -1,6 +1,6 @@
 # Zmrtvýchvstání odvozených vlastností
 
-*11. 11. 2018*
+*15. 11. 2018*
 
 > Poslední lopata se líně zhoupla dolů, hlína a štěrk naposledy zabubnovaly na dubové víko a byla tma. Klidná, konejšivá, věčná tma. A z té tmy se ozývalo ťukání, tiché, nepravidelné a jakoby nejisté a kdo špicoval uši, mohl zaslechnout tenké hlásky, které se překrývaly navzájem "My už nebudeme složité. My už jsme taky primitivové. Nechybíme vám?"
 
@@ -27,7 +27,7 @@ Vezmeme si k ruce přehled všech odvozených vlastností, které se musí poč�
 
 *Vypadá to hrozně, co?*
 
-Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na dvacáté první úrovni, bojovník na slovo vzatý, bude mít co nejvyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u [člověka](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_ras) z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání výsledky dle původních pravidel a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
+Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na dvacáté první úrovni, bojovník na slovo vzatý, bude mít co nejvyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u [člověka](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_ras) z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání výsledky dle *původních pravidel* a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
 
 | Vlastnost | Hodnota dle *původních pravidel* | Hodnota dle *nejmenší vlastnosti* |
 |-----|:---:|:---:|
@@ -38,7 +38,7 @@ Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina t
 | *Rychlost* | (11 + 11)/2  = **11** | **11** |
 | *Charisma* | (5 + 5)/2 = **5** | **5** |
 
-*Mimochodem, všimli jste si, že ty závorky jsou úplně k ničemu, tedy pokud zaokrouhlujeme až úplně na konci (což my děláme)?*
+*Mimochodem, všimli jste si, že ty závorky jsou úplně k ničemu? Tedy pokud zaokrouhlujete až úplně na konci, což my děláme.*
 
 U nového návrhu je jasný propad, hlavně tam, kde se kombinují vysoké a nízké vlastnosti, což znamená [hlavní a vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani), což dává logiku, když místo průměru použijeme jen mrňouse.
 Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě ani ne, protože **hráč** bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - aby zvýšil své šance na přežití. Takže nic, jdeme dál.
@@ -61,7 +61,7 @@ Změní to nějak zásadně naši tabulku výsledků?
 | *Rychlost* | (15 + 10)/2  = **13** | **10** |
 | *Charisma* | (12 + 12)/2 = **12** | **12** |
 
-Zatímco u předchozích hodnot to vypadalo, že *úplně mimo* je náš nový návrh, tak s o něco vyššími vlastnostmi se najedou naprosto rozsypala původní pravidla. Nebo ti připadá v pořádku mít nebezpečnost dvacet? Vždyť by před tebou utíkaly i pařezy.
+Zatímco u předchozích hodnot to vypadalo, že *úplně mimo* je náš nový návrh, tak s o něco vyššími vlastnostmi se najednou naprosto rozsypala původní pravidla. Nebo ti připadá v pořádku mít nebezpečnost dvacet? Vždyť by před tebou utíkaly i pařezy.
 
 Z tohohle souboje vychází vítězně nový návrh, takže zatím je to jedna:jedna na zápasy.
 
@@ -75,21 +75,7 @@ Nastal čas vytáhnout klepadlo, metlu a vyprášit *Odvozené vlastnosti*, co t
 
 ### Krása
 
-Krása má mnoho podob, ta nejviditelnější je nehybný vzhled, další je pak v ladnosti pohybu, další v jasnosti hlasu, další v chemii mezi dvěma bytostmi a určitě by se ještě něco našlo. Popravdě, krása je dobrý kandidát na vyškrtnutí z číselných pravidel, protože je zatraceně komplexní a pro každého spočívá v něčem jiném, ale jak jsme si už řekli, [chlapi čísla milujou](2018-10-31-cit_pro_charisma.md#Užitek_citu) a určitě se najde hráč, který se bude opájet krásou své *dvanáctky*.
-
-*Krása* se původně zjišťovala
-
-- z *Obratnosti*
-    - proč ne, to je ta pružnost těla, která je vidět i když tvor jen tak postává
-- ze *Zručnosti*
-    - to bude ta ladnost pohybů, to plynulé, klidné a přesné ovládání těla, které mnohé fascinuje
-- z *Charisma*
-    - takže z projevu, což začne platit v okamžiku, kdy se jedinec může předvést před ostatními
-
-A co *Síla*, pevné tělo a projev fyzické nadvlády nepřitahuje? *Inteligence* vyzařující z očí či z projevu nezaujme? Snad jen *Vůle* a *City* jsou stranou, protože ani jedna z těchto dvou vlastností nebývá vidět hned a když už, tak jejich projev málokdo považuje za součást krásy. Aha, *Inteligence* tam patří, ale *Cit* ne? Tak to můžeme škrtnout *Charisma*, u kterého jsme zjistili, že se skládá z *Inteligence* a *Citu* a nahradit ho prostě *Inteligencí*.
-Hmm, takže nově jsme nahradili *Charisma* za *Inteligenci*, přemýšlíme o přidání *Síly* a vlastně si nejsme jisti, jestli se nenajde jedinec, kterého nejvíce oslní pevná *Vůle* a porozumění *Citem*. To jsme si teda pomohli...
-
-Krásu proto odsouváme na neurčito a je dost možné, že k ní pouze přidáme popis, příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
+Krása má mnoho podob, ta nejviditelnější... tak počkat, tohle už jsme [vyřešili](2018-11-09-vzpominky_na_krasu.md), ne? Krásu jsme přece zakopali a na její místo posadili *Charisma*. Jdeme dál.
 
 ### Nebezpečnost
 
@@ -180,31 +166,20 @@ Také na *Charisma* můžeme použít pravidlo *menší z obou vlastností*.
 
 ## Ale to je smrad
 
-A je to tady, dostáváme se konečně k tomu, co jsme naznačovali už [u *Krásy*](#Krása), že u některých odvozených vlastností něco smrdí, občas to zaskřípe a vůbec je to jedno velké **ale**.
+A je to tady, dostáváme se konečně k tomu, co jsme naznačovali už [u *Krásy*](2018-11-09-vzpominky_na_krasu.md#Druhy_krás), že u některých odvozených vlastností něco smrdí, občas to zaskřípe a vůbec je to jedno velké **ale**.
 
 Na onen zápach jsme upozorňovali u *Krásy*, *Nebezpečnosti* a *Výdrže*, ale nenašli jsme ho u *Důstojnosti*, *Rychlosti* a *Charisma*. Co je na těhle dvou skupinách tak odlišného? A co mají vlastnosti ze stejné skupiny natolik shodného?
 Je to kombinace tělesných a duševních vlastností, slovy [Dračího doupěte II](http://drd2.cz) je to kombinace *Těla* a *Duše*. Tam, kde se *Tělo* a *Duše* míchají, tam nám to smrdí, a tam kde jsou vlastnosti složeny pouze z *Těla* nebo pouze z *Duše*, tam je to v pořádku. Jde se větrat.
 
 ### Větrání smradu
 
-Když to vezmeme popořadě a dáme ještě jednu šanci *Kráse*, tak nás bude zajímat zejména ta pasivní, taková, která tvorovi nezmizí, ani když spí a jeho duše je *vypnutá*, což je *Krása* **tělesná**.
-Ovšem *Krása* se dá cíleně ovlivnit, ať už koketováním, ošacením, dojmem vyšší důležitosti a dalšími prvky na hraně podvodu, které mají souhrnně opačný efekt než pocit [ohrožení u *Nebezpečnosti*](#Nebezpečnost) a tím je pocit **výhody**. Pokud získám na svou stranu *tak* pěkného tvora, dostanu za odměnu úspěšnější děti, další majetek, větší vliv a bůhví co nám ještě život nabulíkoval, že se může hodit.
-
-#### Druhy krás
-
-Zkusíme si nejdříve dát dohromady pasivní část *Krásy*, potom tu aktivní.
-
-Pasivní *Krásu* bychom poskládali ze *Síly* a *Obratnosti*, u kterých známe přesná čísla a pak z věku, pak z *Rasy*, aktuálního stavu těla jakým je nový účes, oholená tvář, neštovice, zlomený nos a spoustu dalšího. Ano, správně, to jediné, co dokážeme pro pasivní *Krásu* vypotit, je **základ** tělesné *Krásy* a to ještě jen pro rasu, ze které tvor vzešel, k čemuž dokážeme přidat už jen nějaké ty rady hráčům, jak krásné se asi vnímají rasy navzájem.
-
-Aktivní složkou *Krásy* je pak mnoho činností, kterými působíš na své okolí, ať už ladným pohybem vycházejícím z tvé *Zručnosti*, vtipnými poznámkami a postřehem při rozhovoru s využitíím tvé *Inteligence* a *Citu*, tedy *Charisma* a mnoha triky od [*Svádění*](https://pph.drdplus.info/?version=1.0&trial=1#svadeni), přes [drahý a ještě dražší vzhled](https://ppj.drdplus.info/?version=1.0&trial=1#cenik_obleceni) až po [aristokratické vystupování](https://pph.drdplus.info/?version=1.0&trial=1#puvod). Je toho tolik, že šanci na rozmotání takového klubka vidíme pouze v *Dovednostech*, které jako jeden ze svých efektů budou mít vliv na *Krásu*, ale nejspíše ne kumulativně, prostě *kdo dá víc, ten má poslední slovo*.
-
-Jo, ani druhý pokus o záchranu *Krásy* nevyšel, takže ji pravděpodobně v číselné formě zrušíme, beztak je jen předskokanem *Charisma*.
-
-Tímto opouštíme nejisté vody *Krásy* a dáváme si za úkol popsat v pravidlech *Krásu* tak volně, aby každému bylo jasné, že čím inteligentnější tvor, tím více je krása ovlivněna více přesvědčením a módou, než praktičností a že se mezi rasami, národy i skupinami její ideál dost liší.
+Když to vezmeme popořadě a dáme ještě jednu šanci *Kráse*, tak... tak nic, *Krása* je vlastně u ledu, takže další na řadě je *Nebezpečnost* a její tělesná a duševní složka.
 
 #### Nebezpečný spánek
 
-*Nebezpečnost* si taky koleduje o rozdělení na pasivní složku, tu část, která platí i ve spánku (nebo se snad spícího draka nebojíš?) a na aktivní složku, kterou můžeš činorodě ovlivňovat.
+TODO není nebezpečnost jen převrácená Krása? Asi ne, představy o nebezepečí jsou celkem jednotné.
+
+I *Nebezpečnost* si koleduje o rozdělení na pasivní složku, tu část, která platí i ve spánku (nebo se snad spícího draka nebojíš?) a na aktivní složku, kterou můžeš činorodě ovlivňovat.
 
 Pasivní nebezpečnost vidíme v
 
@@ -218,9 +193,13 @@ Pasivní nebezpečnost vidíme v
     - *neletí ten mrak nějak rychle?*
     - číselně by to ale mělo řešit pravidlo *Hejna*, což je v tomhle případě vlastně sčítání *Síly* - dostaneme se k němu někdy příště
 
-Pasivní nebezpečnost je tedy rovna *Síle*, ostatní části pokryjeme *Pověstí* (kterou ještě nemáme promyšlenou) a radami pro Pána jeskyně, jak řešit nebezpečnost z předmětů, ošacení a výbavě vůbec. A taky chceme oprášit pravidlo *Hejna*, které bychom chtěli natolik univerzální, aby platilo pro dva hrdiny zvedající železnou mříž a stejně tak pro mračno žíznivých komárů.
+Pasivní nebezpečnost je tedy rovna *Síle*, ostatní pasivní části pokryjeme *Pověstí* (kterou ještě nemáme promyšlenou) a radami pro Pána jeskyně, jak řešit nebezpečnost z předmětů, ošacení a výbavě vůbec. A taky chceme oprášit [pravidlo *Hejna*](http://bestiar.drdplus.loc/#charakteristika_hejna), které bychom chtěli natolik univerzální, aby platilo pro dva hrdiny zvedající železnou mříž a stejně tak pro mračno žíznivých komárů.
 
-#### Výdrž
+TODO aktivní složka nebezpečnosti
+
+- Charisma
+
+#### Výdržostatní
 
 a podobně i Výdrž, kde Vůle je aktivní boj s následky, které tělo nezvládá (a mělo by to unavovat?).
 
