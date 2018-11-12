@@ -199,7 +199,7 @@ TODO aktivní složka nebezpečnosti
 
 - Charisma
 
-#### Výdržostatní
+#### Výdrž
 
 a podobně i Výdrž, kde Vůle je aktivní boj s následky, které tělo nezvládá (a mělo by to unavovat?).
 
