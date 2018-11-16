@@ -1,6 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
-### [15. 11. 2018 Vydrž!](clanky/2018-11-15-vydrz.md)
+### [20. 11. 2018 Vydrž!](clanky/2018-11-20-vydrz.md)
 ### [9. 11. 2018 Vzpomínky na krásu](clanky/2018-11-09-vzpominky_na_krasu.md)
 ### [31. 10. 2018 Cit pro charisma](clanky/2018-10-31-cit_pro_charisma.md)
 ### [29. 10. 2018 Minuta inteligence](clanky/2018-10-29-minuta_inteligence.md)
