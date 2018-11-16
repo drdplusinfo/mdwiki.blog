@@ -53,7 +53,7 @@ A teď co je tedy [Dračí doupě Plus](https://www.drdplus.info)? Z části to,
 - pravidla jsou živá
     - když nás enbo hráče něco dobrého napadne, přidáme to do pravidel, když se něco neosvědčí, zas to odebereme či předěláme a forma pravidel nás v rom nesmí brzdit (proto budou pravidla primárně online)
         - je potřeba každou změnu **dobře** popsat v *Přehledu změn*
-- zrušit *někdy 2k6+, někdy 1k6* a postavit náhodu na 1k6+-, **všude**
+- zrušit *někdy 2k6+, někdy 1k6* a postavit náhodu na 1k6±, **všude**
     - dvě kostky mají totiž příliš velký rozptyl a zkušenosti dobrodruhů jsou pak často druhořadé, takže hráči jen tupě hází a odevzdaně čekají, jak to dopadne
     - ona ta *magická šestka* je vlastně prostoupena celými pravidly, jakýkoli bonus zvýšený o šest je dvojnásobek, snížený o šest je polovička 
 - celá pravidla vždy* dostupná v poslední verzi pro každého**
