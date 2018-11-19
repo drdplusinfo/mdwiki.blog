@@ -74,4 +74,4 @@ Tímto opouštíme nejisté vody *Krásy* a dáváme si za úkol popsat v pravid
 ---
 
 - *předchozí [<< 31. 10. 2018 Cit pro charisma](2018-10-31-cit_pro_charisma.md)*
-- *následující [>> 20. 11. 2018 Vydrž!](2018-11-20-vydrz.md)*
+- *následující [>> 19. 11. 2018 Vydrž!](2018-11-19-vydrz.md)*
