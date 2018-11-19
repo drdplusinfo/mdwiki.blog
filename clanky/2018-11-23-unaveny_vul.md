@@ -2,7 +2,15 @@
 
 *23. 11. 2018*
 
-Začalo to nenápadně, nejdříve jsme prohlásili, že 
+Začalo to nenápadně, nejdříve jsme prohlásili, že [odvozené vlastnosti asi zrušíme](2018-09-03-velkej_fanousek.md#Dovednosti), protože se nám nechce se s nimi počítat, potom jsme skutečně [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md) a vzápětí [*Výdrž* i s *Odolností*](2018-11-19-vydrz.md#Závěr). Ovšem zatímco z *Krásy* nezbylo nic a po *Odolnosti* zůstala jen *Síla*, tak *Výdrž* nám narazila hlavou do zdi a my teď budeme studovat statiku, abychom odhalili, zda tu zeď prorazila, nebo se nám to jenom zdálo.
+
+Připomeňme si poslední slova *Výdrže*
+
+> a po mém skonu po *Odolnosti* s *Vůlí* tesknit budete
+
+A je to tak, *Výdrž* se nám totiž rozsypala na pasivní odolnost těla a aktivní odolávání *Vůlí*, přičemž most mezi tělem a duší nám chce postavit únava, tedy energie, kterou naše tělo zaplatí za výkon naší hlavy.
+
+A mimochodem, chceme zrušit ty třípísmenné zkratky jako *Sil*, *Obr*, nebo třeba *Vol*, která měla vždycky být *Vůl*, kdyby jenom se původní autoři nebáli, že ta zkratka bude pro smích. Ale prodávat duši čtenářů kvůli pravidlu hodnému České pošty nechceme.
 
 ## Zaplať
 > Všechno má svou cenu, jenom najít kupce
