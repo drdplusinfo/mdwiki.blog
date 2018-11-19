@@ -2,6 +2,8 @@
 
 *25. 11. 2018*
 
+Začalo to nenápadně, nejdříve jsme prohlásili, že 
+
 ## Zaplať
 > Všechno má svou cenu, jenom najít kupce
 
