@@ -1,6 +1,6 @@
 # Unavený vůl
 
-*25. 11. 2018*
+*23. 11. 2018*
 
 Začalo to nenápadně, nejdříve jsme prohlásili, že 
 
@@ -83,3 +83,7 @@ A teď jak se nám *tohle* může hodit v potlačování slabosti *Vůlí*?
 Když spojíme návrh na předplacenou odolnost, která nám vyřešila problém s přemýšlením, kdy se má s placením začít, dohromady s návrhem na *dočasnou únavu*, která nám skrytě řeší problém s přemýšlením, kdy se má s placením skončit, dostaneme následující návrh.
 
 S jak velkým postihem chci svou *Vůlí* bojovat je na mě, byť zvládnu nejvýše potlačit tak velký, jaká je má *Vůle*, ovšem okamžitě za něj získávám přesně tolik bodů *Únavy*, o kolik jsem dokázal postih srazit. Toť vše, zbytek vyřeší krátkodobá a dlíuhodobá únava. TODO
+
+---
+
+- *předchozí [<< 19. 11. 2018 Vydrž!](2018-11-19-vydrz.md)*
