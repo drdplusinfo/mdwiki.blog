@@ -6,16 +6,16 @@ Začalo to nenápadně, nejdříve jsme prohlásili, že [odvozené vlastnosti a
 
 Připomeňme si teď poslední slova *Výdrže*
 
-> a po mém skonu nebude nikoho, kdo by oddal *Odolnost* za *Vůli*
+> a po mém skonu nezbude nikoho, kdo by oddal *Odolnost* s *Vůlí*
 
-A je to tak, *Výdrž* se nám totiž rozsypala na pasivní odolnost těla a aktivní odolávání *Vůlí*. Ale jako most mezi tělem a duší se nabídla *Únava*, tedy energie, kterou naše tělo zaplatí za naši tvrdohlavost.
+A je to tak, *Výdrž* se nám totiž rozsypala na pasivní odolnost těla vyjádřenou *Sílou*, a aktivní odolávání *Vůlí*. Ale jako most mezi tělem a duší se nabídla *Únava*, tedy energie, kterou naše tělo zaplatí za naši tvrdohlavost.
 
-A mimochodem, chceme zrušit ty [třípísmenné zkratky](http://pph.drdplus.loc:88/#tabulka_povolani) jako *Sil*, *Obr*, nebo třeba *Vol*, která měla vždycky být *Vůl*, kdyby jenom se původní autoři nebáli, že se najde nějakej vůl, kterému by byla pro smích. Nám ovšem do smíchu nebylo, protože zkratky jsou povětšinu času hlavě zkratkou do pekel zmatení a nejistoty.
+A mimochodem, chceme zrušit ty [třípísmenné zkratky](http://pph.drdplus.loc:88/#tabulka_povolani) jako *Sil*, *Obr*, nebo třeba *Vol*, která vždycky měla být *Vůl*, kdyby jenom se původní autoři nebáli, že se najde nějakej vůl, kterému by byla pro smích. Nám ovšem do smíchu nebylo, protože zkratky jsou povětšinu času hlavě zkratkou do pekel zmatení a nejistoty.
 
 ## Zaplať
 > Všechno má svou cenu, jenom najít kupce
 
-Jo, v každé změně je zakopán pes, vlastně máme často pocit, že se procházíme po psím hřbitově. Tady je rov s nápisem *Nechtěli to spojit, tak to zapojili*.
+V předchozím článku o *Výdrži* jsme dospěli k [závěru](2018-11-19-vydrz.md), že *Výdrž*, to **spojení** *Síly* a *Vůle*, je potřeba změnit, **rozpojit** na pasivivní samozřejměou a aktivní volitelnou složku. Jo, v každé změně je zakopán pes, vlastně máme často pocit, že se procházíme po psím hřbitově. Tady je rov s nápisem *Nechtěli to spojit, tak to zapojili*.
 Od začátku tohohle článku směřujeme k tomu, že nechceme číselné **spojení** *Síly* a *Vůle* a přitom jsme se před chvílí dostali k tomu, že obě vlastnosti chceme zapojit. Jen ne ve stejný okamžik, ale za sebou.
 Právě teď začíná tomuhle nápadu hra o život, protože jedna věc je domácí zabydlené pravidlo, které se probudí jednou za čas a druhá věc je jádro psaných pravidel.
 
