@@ -15,9 +15,10 @@ A mimochodem, chceme zrušit ty [třípísmenné zkratky](http://pph.drdplus.loc
 ## Zaplať
 > Všechno má svou cenu, jenom najít kupce
 
-V předchozím článku o *Výdrži* jsme dospěli k [závěru](2018-11-19-vydrz.md), že *Výdrž*, to **spojení** *Síly* a *Vůle*, je potřeba změnit, **rozpojit** na pasivivní samozřejměou a aktivní volitelnou složku. Jo, v každé změně je zakopán pes, vlastně máme často pocit, že se procházíme po psím hřbitově. Tady je rov s nápisem *Nechtěli to spojit, tak to zapojili*.
-Od začátku tohohle článku směřujeme k tomu, že nechceme číselné **spojení** *Síly* a *Vůle* a přitom jsme se před chvílí dostali k tomu, že obě vlastnosti chceme zapojit. Jen ne ve stejný okamžik, ale za sebou.
-Právě teď začíná tomuhle nápadu hra o život, protože jedna věc je domácí zabydlené pravidlo, které se probudí jednou za čas a druhá věc je jádro psaných pravidel.
+V předchozím článku o *Výdrži* jsme dospěli k [závěru](2018-11-19-vydrz.md), že *Výdrž*, to **spojení** *Síly* a *Vůle*, je potřeba změnit, **rozpojit** na pasivní samozřejmou a aktivní volitelnou složku. Jo, v každé změně je zakopán pes, vlastně máme často pocit, že se procházíme po psím hřbitově. Tady je rov s nápisem *Nechtěli to spojit, tak to zapojili*.
+Od začátku článku [Vydrž!](2018-11-19-vydrz.md) jsme směřovali k tomu, že nechceme číselné spojení *Síly* a *Vůle* a přitom jsme se v závěru dostali k tomu, že obě vlastnosti chceme zapojit, že chceme, aby **spolupracovali** a jako spojnici mezi odlišnými světy těla a duše jsme našli *Únavu*.
+
+Vlastně podobný nápad vznikl v naší družině už před několika lety, ale bylo to jen o slovní dohodě a o citu. Ale teď začíná tomuhle nápadu hra o život, protože jedna věc je domácí zabydlené pravidlo, které se probudí jednou za čas a druhá věc je jádro psaných pravidel.
 
 ### Hra o život
 Herně bychom chtěli, abychom si hodili na *Odolnost* našeho těla a zjistili, zda nám [neštovice](https://ppj.drdplus.info/?version=1.0&trial=1#tabulka_nemoci) začínají podlamovat nohy a pokud tělo bitvu prohrává, tak abychom měli možnost zatnout zuby a **když je to potřeba**, dokázali překonat oslabení.
@@ -27,9 +28,9 @@ Napadá nás k tomu
 - že za takové *Zatnutí zubů* se bude platit *Únavou*
 - že by to šlo použít při jakékoli *zesílené snaze*
     - třeba při čarování, když potřebuješ kouzlo uspěchat, nebo na něj nemáš dost magenergie a potřebuješ sáhnout do tělesných rezerv
-    - nebo při nárazovém tělesném výkonu jako zoufalý skok přes propast, vyrvání řetězů
-    - že bychom *zesílenou snahu* mohi pojmenovat *Přehánění*, protože lepší název pro vyšší stupeň snahy nás zatím nenapadl
-    - že přehnaná snaha může mít za následek křeče, přetržené vazy, mdloby a další následky
+    - nebo při nárazovém tělesném výkonu jako zoufalý skok přes propast, vyrvání řetězů, řev podlamující kolena smrtící přesile
+    - že bychom *zesílenou snahu* mohli pojmenovat *Přehánění*, protože lepší název pro vyšší stupeň snahy nás zatím nenapadl 🤔
+    - že přehnaná snaha může mít za následek chyby, křeče, přetržené vazy, mdloby a další následky
 - že je potřeba vyřešit čas, za který ti *Únava* přibude
 
 Cenu v bodech *Únavy* vidíme jasnou, samotné použití pak vidíme taky růžově, ovšem velkým oříškem bude **čas**.
@@ -37,14 +38,14 @@ Pojďme nejdřív k ceně za *Zatínání zubů*, čas nečas.
 
 #### Cena
 
-Přihodí se mi, že mě dožene bolest hlavy ze včerejšího opíjení celníků, která mě potrápí postihem -1 k tělesným úkonům a (protože je Pán jeskyně zákeřnost sama) -2 k duševním činnostem. Jindy bych tiše trpěl, ale teď potřebuju zabrat a postih se mi vážně nehodí do krámu, takže ho zkusím potlačit. Kolik mě *tohle* bude stát síly?
-Cena v podobě *Únavy* se přímo nabízí a to jeden bod *Únavy* za **dočasné** potlačení postihu o jedna.
+Přihodí se mi, že mě dožene bolest hlavy ze včerejšího opíjení celníků, která mě potrápí postihem -1 k tělesným úkonům a protože je Pán jeskyně zákeřnost sama, tak taky -2 k duševním činnostem. Jindy bych tiše trpěl, ale stín halapartny za oknem mi dává jasný signál, že teď potřebuju zabrat a postih se mi vážně nehodí do krámu, takže ho zkusím potlačit. Kolik mě *tohle* bude stát síly?
+Cena v podobě *Únavy* se přímo nabízí a to jeden bod *Únavy* za **dočasné** potlačení postihu o jedna, prostě jedna ku jedné.
 V mém případě bych se tedy měl unavit během *přemáhání se* za jeden bod *Únavy*, pokud bojuju s kocovinou při pohybu a za dva body *Únavy*, pokud bojuju s kocovinou při přemýšlení.
 
 Vyvstávají nám otázky
 
-- musím "platit" zvlášť za potlačení tělesného postihu a zvlášť za potlačení duševního postihu?
-    - odpoveď vidíme jasně, je to pořád jedna a ta samá příčina, jen s různým dopadem na různé činnosti, takže když už jsem dokázal kocovinu potlačit při přemýšlení, tak jsem ji zároveň a stejnou měrou potlačil i pro lezení po stromě
+- musím "platit" **zvlášť** za potlačení tělesného postihu a **zvlášť** za potlačení duševního postihu?
+    - TODO vážně? odpověď vidíme jasně, je to pořád jedna a ta samá příčina, jen s různým dopadem na různé činnosti, takže když už jsem dokázal kocovinu potlačit při přemýšlení, tak jsem ji zároveň a stejnou měrou potlačil i pro lezení po stromě
 - jak velký postih dokážu potlačit?
     - nejjednoduší pravidlo by bylo *Potlačit dokážeš postih až do výše tvé *Vůle*,* ale ještě si s tím nejsme jisti kvůli nedávnému navýšení vlastností z [nuly na šest](2018-10-22-nula.md), takže každý zdravý začátečník by hned dokázal potlačit postih až -6, což je ještě o jedna větší postih, než [nejvyšší možný](2018-10-22-nula.md#Nekonečný_začátek)
  
