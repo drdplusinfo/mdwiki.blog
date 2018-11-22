@@ -10,7 +10,7 @@ Připomeňme si teď poslední slova *Výdrže*
 
 A je to tak, *Výdrž* se nám totiž rozsypala na pasivní odolnost těla vyjádřenou *Silou*, a aktivní odolávání duše vyjádřené *Vůlí*. Ale jako **most** mezi tělem a duší se nabídla *Únava*, tedy energie, kterou naše tělo zaplatí za naši tvrdohlavost.
 
-A mimochodem, chceme zrušit ty [třípísmenné zkratky](http://pph.drdplus.loc:88/#tabulka_povolani) jako *Sil*, *Obr*, nebo třeba *Vol*, která vždycky měla být *Vůl*, kdyby jenom se původní autoři nebáli, že se najde nějakej vůl, kterému by byla pro smích. Nám ovšem do smíchu nebylo, protože zkratky jsou povětšinu času hlavě zkratkou do pekel dlážděnou zmatením a nejistotou.
+A mimochodem, chceme zrušit ty [třípísmenné zkratky](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) jako *Sil*, *Obr*, nebo třeba *Vol*, která vždycky měla být *Vůl*, kdyby jenom se původní autoři nebáli, že se najde nějakej vůl, kterému by byla pro smích. Nám ovšem do smíchu nebylo, protože zkratky jsou povětšinu času hlavě zkratkou do pekel dlážděnou zmatením a nejistotou.
 
 ## Zaplať
 > Všechno má svou cenu, jenom najít kupce
