@@ -175,9 +175,21 @@ A je to.
 
 ## Závěr
 
-S jak velkým postihem chci svou *Vůlí* bojovat je na mě, byť zvládnu nejvýše potlačit tak velký, jaká je má *Vůle*, ovšem okamžitě za něj získávám přesně tolik bodů *Únavy*, o kolik jsem dokázal postih srazit.
+Vlastně co celé bylo náročnější, než jsme si na začátku mysleli, hlavně proto, že se nám do počítání zase připletl čas. Ale zvládli jsme to a můžeme to shrnout tak, že
 
-Mimochodem, za to odolování postihu, to placení *Únavou*, si skoro koleduje o názvosloví *Vyčerpat se*, jako bychom to už někde [slyšeli](TODO DrDII).
+- s jak velkým postihem chceš svou *Vůlí* bojovat je jen na tobě
+    - ale **nanejvýše** zvládneš potlačit postih tak velký, jaká je tvá **současná** *Vůle*
+        - jelikož ti postih obvykle postihuje všechno, včetně *Vůle*, tak ti postih vlastně ovlivňuje i samotnou tvou schopnost postih potlačit, takže když jsi například *opravdu* unavený, tak s tím prostě už *opravdu* nic neuděláš
+- za potlačení postihu získáš **okamžitě** tolik bodů *Únavy*, o kolik sis postih srazil
+    - například pokud sis potlačil postih ze zranění z mínus tří na mínus jedna, tak se unavíš za dva body únavy
+- potlačení postihu **ztrácíš** ve chvíli, kdy dostaneš *Únavu* z činnosti, kterou právě provádíš
+    - při něčem co unavuje jako sprint tedy musíš řešit potlačení postihu **znovu** už po dvou kolech, při něčem co unavuje jako běh po pěti minutách [a tak dále a tak dále](http://pph.drdplus.loc/#tabulka_unavy_z_pohybu)
+        - samozřejmě že ve hře bude stačit řešit až celkovou únavu někdy na konci, pokud tedy tvá Únava nebude ovlivňovat děj
+- pokud jsi před chvílí dokázal odolat **většímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvvé odolávání ještě nepřestalo platit, tak prostě platí nadále
+    - ovšem žádné body *Ǔnavy* si tím nedomažeš, prostě je teď náročnost menší, ale ty ses už připravil na větší
+- ovšem pokud jsi před chvílí dokázal odolávat **menšímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání stále platí, tak **stále** odoláváš tomu menšímu postihu, takže jestli chceš odolávat více, musíš **hned** obětovat další body *Únavy* a to tolik, o kolik chceš postih **ještě** snížit
+
+Mimochodem, to odolávání postihu, to placení *Únavou* si skoro koleduje o názvosloví *Vyčerpat se*, jaké používá Dračí doupě II. Holt některé nápady platí i mimo vlastní hranice.
 
 ---
 
