@@ -12,15 +12,15 @@ A je to tak, *Výdrž* se nám totiž rozsypala na pasivní odolnost těla vyjá
 
 A mimochodem, chceme zrušit ty [třípísmenné zkratky](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) jako *Sil*, *Obr*, nebo třeba *Vol*, která vždycky měla být *Vůl*, kdyby jenom se původní autoři nebáli, že se najde nějakej vůl, kterému by byla pro smích. Nám ovšem do smíchu nebylo, protože zkratky jsou povětšinu času hlavě zkratkou do pekel dlážděnou zmatením a nejistotou.
 
-## Zaplať
-> Všechno má svou cenu, jenom najít kupce
+## Do hromady
+> Rozděl a panuj
 
 V předchozím článku o *Výdrži* jsme dospěli k [závěru](2018-11-19-vydrz.md), že *Výdrž*, to **spojení** *Síly* a *Vůle*, je potřeba změnit, **rozpojit** na pasivní samozřejmou a aktivní volitelnou složku. Jo, v každé změně je zakopán pes a u odvozených vlastností máme pocit, že se procházíme po psím hřbitově. Tady je rov s nápisem *Ani smrt mě nerozdělí*.
 Od začátku článku [Vydrž!](2018-11-19-vydrz.md) jsme totiž směřovali k tomu, že nechceme číselné spojení *Síly* a *Vůle* a přitom jsme se dostali k závěru, že obě vlastnosti chceme zapojit, tedy že je chceme oddělené, ale zároveň aby **spolupracovali** a jako spojnici mezi odlišnými světy těla a duše jsme našli *Únavu*.
 
 Vlastně podobný nápad vznikl v naší družině už před několika lety, ale bylo to jen o slovní dohodě a o citu. Ale teď začíná tomuhle nápadu hra o život, protože jedna věc je domácí zabydlené pravidlo, které se probudí jednou za čas a druhá věc je jádro psaných pravidel.
 
-## Hra o život
+### Hra o život
 Herně bychom chtěli, abychom si hodili na *Odolnost* našeho těla a zjistili, zda nám [neštovice](https://ppj.drdplus.info/?version=1.0&trial=1#tabulka_nemoci) začínají podlamovat nohy a pokud tělo bitvu prohrává, tak abychom měli možnost zatnout zuby a **když je to potřeba**, dokázali překonat oslabení.
 
 Napadá nás k tomu
@@ -37,7 +37,8 @@ Cenu v bodech *Únavy* vidíme jasnou, samotné použití *zesílené snahy* pak
 
 Pojďme nejdřív k tomu nejjednoduššímu, k **ceně** za *Zatínání zubů*, čas nečas.
 
-### První cena
+### Zaplať
+> Všechno má svou cenu, jenom najít kupce
 
 Přihodí se mi, že mě dožene bolest hlavy ze včerejšího opíjení celníků, která mě potrápí postihem -1 k tělesným úkonům a protože je Pán jeskyně zákeřnost sama, tak taky -2 k duševním činnostem. Jindy bych tiše trpěl, ale stín halapartny za oknem mi dává jasný signál, že teď potřebuju zabrat a postih se mi vážně nehodí do krámu, takže ho zkusím potlačit. Kolik mě *tohle* bude stát síly?
 
@@ -117,7 +118,7 @@ Zahoďme chaotické rozpínání a smrskávání časových úseků a zanechme d
 
 Fajn, *zahozeno*, *zanecháno*, jenže kudy dál?
 
-## Řád a neřád
+## Řád neřád
 
 > Zmatek zavřený v krabici je bordel, který se dá uklidit
 
