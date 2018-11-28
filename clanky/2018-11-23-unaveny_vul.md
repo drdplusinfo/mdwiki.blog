@@ -21,19 +21,19 @@ Od začátku článku [Vydrž!](2018-11-19-vydrz.md) jsme totiž směřovali k t
 Vlastně podobný nápad vznikl v naší družině už před několika lety, ale bylo to jen o slovní dohodě a o citu. Ale teď začíná tomuhle nápadu hra o život, protože jedna věc je domácí zabydlené pravidlo, které se probudí jednou za čas a druhá věc je jádro psaných pravidel.
 
 ### Hra o život
-Herně bychom chtěli, abychom si hodili na *Odolnost* našeho těla a zjistili, zda nám [neštovice](https://ppj.drdplus.info/?version=1.0&trial=1#tabulka_nemoci) začínají podlamovat nohy a pokud tělo bitvu prohrává, tak abychom měli možnost zatnout zuby a **když je to potřeba**, dokázali překonat oslabení.
+Herně bychom chtěli, abychom si hodili na *Odolnost* našeho těla a zjistili, zda nám [neštovice](https://ppj.drdplus.info/?version=1.0&trial=1#tabulka_nemoci) začínají podlamovat nohy *TODO něco specifičtějšího pro neštovice* a pokud tělo bitvu prohrává, tak abychom měli možnost zatnout zuby a **když je to potřeba**, dokázali překonat oslabení.
 
 Napadá nás k tomu
 
 - že za takové *Zatnutí zubů* budeš platit *Únavou*
-- že bys to použít při jakékoli *zesílené snaze*
+- že bys to mohl použít při jakékoli *zesílené snaze*
     - třeba při čarování, když potřebuješ kouzlo uspěchat, nebo na něj nemáš dost magenergie a potřebuješ sáhnout do tělesných rezerv
-    - nebo při nárazovém tělesném výkonu jako zoufalý skok přes propast, vyrvání řetězů, řev co podlomí kolena smrtící přesile
+    - nebo při nárazovém tělesném výkonu jako zoufalý skok přes propast, vyrvání řetězů, řev podlamující kolena smrtící přesile
 - že přehnaná snaha může přivodit chybu, křeče, přetržené vazy, mdloby a další následky
 - že je potřeba vyřešit čas, za který ti *Únava* přibude
 - že zatím nevíme, zda *zesílenou snahu* pojmenovat *Přehánění*, *Zatnuté zuby*, *Zesílená snaha* nebo ještě nějak jinak 🤔
 
-Cenu v bodech *Únavy* vidíme jasnou, samotné použití *zesílené snahy* pak vidíme taky růžově, ovšem velkým oříškem bude **čas**.
+Cenu v bodech *Únavy* vidíme jasnou, samotné použití *zesílené snahy* pak vidíme taky jasně, ovšem velkým oříškem bude **čas**.
 
 Pojďme nejdřív k tomu nejjednoduššímu, k **ceně** za *Zatínání zubů*, čas nečas.
 
@@ -44,7 +44,7 @@ Přihodí se mi, že mě dožene bolest hlavy ze včerejšího opíjení celník
 
 - cena v podobě *Únavy* se přímo nabízí a to jeden bod *Únavy* za **dočasné** potlačení postihu o jedna, prostě jedna ku jedné
 
-V mém případě bych se tedy měl unavit během *přemáhání se* za jeden bod *Únavy*, pokud bojuju s kocovinou při pohybu, třeba až polezu na střechu, a za dva body *Únavy*, pokud bojuju s kocovinou při přemýšlení, třeba až se budu snažit rozpomenout se, kterým směrem je ústí kanalizace.
+V mém případě bych se tedy měl unavit během *přemáhání se* za jeden bod *Únavy*, až polezu na střechu, tedy při pohybu, a za dva body *Únavy*, až se budu snažit rozpomenout se, kterým směrem je ústí kanalizace, tedy při přemýšlení.
 
 Vyvstávají nám otázky
 
@@ -55,7 +55,7 @@ Vyvstávají nám otázky
 
 > Budete platit zvlášť, nebo dohromady?
 
-S placením zvlášť či jednou a dost to vidíme jasně, je to pořád jedna a ta samá příčina, jen s různým dopadem na různé činnosti, takže když už jsem dokázal kocovinu potlačit při přemýšlení, tak jsem ji zároveň a stejnou měrou potlačil i pro lezení po stromě.
+S placením zvlášť či jednou a dost to vidíme jasně, je to pořád jedna a ta samá příčina, jen s různým dopadem na různé činnosti, takže když už jsem dokázal kocovinu potlačit při lezení na střechu, tak jsem ji zároveň a stejnou měrou potlačil i pro přemýšlení.
 
 *Vážně? Zní to nějak moc matematicky a suše. Takže když mě bolí zub a chci zpívat, tak jednou překonaná bolest u zpěvu je pak pro mě vyřešená i při luštění křížovky?*
 
@@ -69,15 +69,16 @@ A teď vyřešme, jaký největší postih ještě dokážu potlačit.
 
 #### Potlač
 
-Nejjednodušší pravidlo pro maximální velikost potlačeného postihu by bylo *"Potlačit dokážeš postih až do výše tvé *Vůle*"*, ale ještě si s tím nejsme jisti kvůli nedávnému navýšení vlastností z [nuly na šest](2018-10-22-nula.md), takže každý zdravý začátečník by hned dokázal potlačit postih až -6, což je skoro až [zmrtvýchvstání](2018-10-22-nula.md#Nekonečný_začátek).
-I když vlastně... není ono to samoregulační? Když mám postih mínus šest a *Vůli* běžně plus šest, tak mám vlastně zrovna teďka *Vůli* nula, to už toho moc nepotlačím. Takže samo od sebe se vlastně potlačování postihu omezilo nanejvýš na polovinu *Vůle*, protože třeba postih mínus pět nám z šestkové *Vůle* nechá jen jedničku, takže z postihu už potlačím jen `(-5 + (Vůle +6 - postih 5) = -1)` mínus jedna. No vida jak se tohle vyřešilo.
+Nejjednodušší pravidlo pro maximální velikost potlačeného postihu by bylo *"Potlačit dokážeš postih až do výše tvé *Vůle*"*. Ovšem trochu nám zavařilo nedávné navýšení vlastností z [nuly na šest](2018-10-22-nula.md), po kterém každý zdravý začátečník dokáže potlačit postih až -6, což je skoro až [zmrtvýchvstání](2018-10-22-nula.md#Nekonečný_začátek).
+
+I když vlastně... není ono to samoregulační? Když mám postih mínus šest a *Vůli* běžně plus šest, tak mám vlastně výslednou *Vůli* nula, to už toho moc nepotlačím. A takový postih mínus pět mi z šestkové *Vůle* nechá jen jedničku, takže z postihu už potlačím jen `(-5 + (Vůle +6 - postih 5) = -1)` mínus jedna. No vida jak se tohle vyřešilo.
 
 *A co rekurze?*
 
 Začínáme mít alergii na hnidopichy... Ale jo, přiznáváme, že rekurze je problém. Když si totiž snížím postih o jedna, tak se mi vlastně sníží i postih k *Vůli*, ne? Takže si můžu zase o kousek snížit postih, zase se mi vrátí kousek *Vůle*, zase potlačím postih... a najednou jsem bez postihu. Takže?
 
-Takže je na čase si uvědomit, že boj s postihem, ať už je to bolest, únava, strach nebo co nám to teď zrovna hází klacky od nohy, je **nekonečný**. Nemůžeme postih jednou provždy porazit a pak hodovat na jeho kostech, ale musíme s ním pořád a pořád a pořád bojovat, neustále, imrvére, furt. A když si tohle uvědomíme, tak zjistíme, že když se rozhodnu si snížit postih k psychickým vlastnostem a například ze svého postihu mínus pět a zbytkovou *Vůlí* jedna udělám postih mínus čtyři a tím se mi *Vůle* zvýší na dva, tak s postihem vlastně pořád bojuju, takže i kdybych se rozhodnul **ještě víc** postih potlačit, nemám už z čeho brát. Můj postih pro boj s postihem a má *Vůle* jsou pořád a pořád a pořád stejné, tedy postih má mínus pět a *Vůle* jedna.
-Dá se to říct i tak, že když nadlehčím sousedce tašku s nákupem co to jde a s funěním z váhy pěti kilo udělám čtyři, tak taška je vlastně o kilo lehčí, ale **ne pro mě**, pro mě váží pořád pět, protože já jsem ta síla, co ji od začátku zvedá. Což mi připomíná, že bych měl začít posilovat... a nebo ne, jdu shánět tašku na kolečkách.
+Takže je na čase si uvědomit, že boj s postihem, ať už je to bolest, únava, strach nebo co nám to teď zrovna hází klacky od nohy, je **nekonečný**. Nemůžeme postih jednou provždy porazit a pak hodovat na jeho kostech, ale musíme s ním pořád a pořád a pořád bojovat, neustále, imrvére, furt. A když si tohle uvědomíme, tak zjistíme, že když se rozhodnu si snížit postih k psychickým vlastnostem a například ze svého postihu mínus pět a zbytkovou *Vůlí* jedna udělám postih mínus čtyři a tím se mi *Vůle* zvýší na dva, tak s postihem vlastně pořád bojuju, takže i kdybych se rozhodnul **ještě víc** postih potlačit, nemám už z čeho brát. Můj postih a má *Vůle* jsou **pro boj s postihem** pořád a pořád a pořád stejné.
+Dá se to říct i tak, že když nadlehčím sousedce tašku s nákupem co to jde a s funěním z váhy pěti kilo udělám čtyři, tak taška je vlastně o kilo lehčí, ale **ne pro mě**, pro mě váží pořád kil pět, protože já jsem ta síla, co ji od začátku zvedá. Což mi připomíná, že bych měl začít posilovat... a nebo ne, jdu shánět tašku na kolečkách.
 
 A teď pojďme na seřizování hodinek.
 
@@ -85,14 +86,14 @@ A teď pojďme na seřizování hodinek.
 
 Potíž s časem je, že když se budu snažit horečně přečíst zakázanou kapitolu v knize Hříchů, tak mi bude *Únava* přibývat přeci jen pomaleji, než když budu rvát holýma rukama menhir, z pod něhož vyčuhují pruhované onuce mého pomalejšího druha.
 
-Důležité je *nezavádět nové pravidlo tam, kde už nějaké je*, takže správná otázka zní *Je tu už nějaké obecné pravidlo na trvání akcí?* Hmm, jsou tu [kola boje](2018-10-29-minuta_inteligence.md), je tu [Tabulka času](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_casu), je tu [Tabulka opravy bonusu za čas](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_opravy_bonusu_za_cas), pravidlo pro [Pevně stanovenou dobu](https://pph.drdplus.info/?version=1.0&trial=1#pevne_stanovena_doba) a nebo [Pevně stanovený výsledek](https://pph.drdplus.info/?version=1.0&trial=1#pevne_stanoveny_vysledek)... no dobrý, ale co s tím? Všechna tahle pravidla vypadají na první pohled použitelně, ale jejich **platidlem je čas**, jenže my vlastně hledáme jako **platidlo *Únavu*** a čas až jako její měřítko. Takže znova, správnější otázka bude *Je tu nějaké pravidlo na Únavu v čase*? No jéje, máme přeci [Únavu jako...](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu) (postávání, šourání, chůze, spěch, běh, sprint), tu už vypadá použitelně.
+Důležité je *nezavádět nové pravidlo tam, kde už nějaké je*, takže správná otázka zní *Je tu už nějaké obecné pravidlo na trvání akcí?* Hmm, jsou tu [kola boje](2018-10-29-minuta_inteligence.md), je tu [Tabulka času](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_casu), je tu [Tabulka opravy bonusu za čas](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_opravy_bonusu_za_cas), pravidlo pro [Pevně stanovenou dobu](https://pph.drdplus.info/?version=1.0&trial=1#pevne_stanovena_doba) a nebo [Pevně stanovený výsledek](https://pph.drdplus.info/?version=1.0&trial=1#pevne_stanoveny_vysledek)... no dobrý, ale co s tím? Všechna tahle pravidla vypadají na první pohled použitelně, ale jejich **platidlem je čas**, jenže my vlastně hledáme jako **platidlo *Únavu*** a čas až jako její měřítko. Takže znova, správnější otázka bude *Je tu nějaké pravidlo na Únavu v čase*? No jéje, máme přeci [Únavu jako...](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu) (postávání, šourání, chůze, spěch, běh, sprint), to už vypadá použitelně.
 
-### Opice po kouskách
-Fajn, takže po pitce se strážníky mám opici, že by mi knížecí zvěřinec mohl závidět a z ní postih -1 k tělesným činnostem, takže po kanalizačním dobrodružství se radši už jen tak poflakuju, ovšem dokud nezjistím, že mi nějak podezřele zlehknul opasek. Jakmile mi dojde, která bije, vrhnu se za zlodějem naplno, tudíž sprintuju, takže mi má přibývat [jeden bod únavy za dvě kola](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu). Jenže mě zpomaluje kocovina a to se teď opravdu nehodí, takže zaberu naplno, primát neprimát, a postihu se zbavím. Zaplatím za to jedním bodem únavy za... za... no za **stejnou dobu**, za jakou mi přibude únava z právě prováděné činnosti, tedy ze sprintu, takže za dvě kola. Prostě se mi k jednomu bodu únavy přilepí ještě jeden a **zdvojnásobí** se mi tak náročnost sprintu.
+### Kousky opice
+Fajn, takže po pitce se strážníky mám opici, že by mi knížecí zvěřinec mohl závidět a z ní postih -1 k tělesným činnostem, takže po kanalizačním dobrodružství se radši už jen tak poflakuju, ovšem dokud nezjistím, že mi nějak podezřele zlehknul opasek. Jakmile mi dojde, která bije, vrhnu se naplno za zlodějem, tudíž sprintuju, takže mi má přibývat [jeden bod únavy za dvě kola](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu). Jenže mě zpomaluje kocovina a to se teď opravdu nehodí, takže zaberu naplno, primát neprimát, a postihu se na chvíli zbavím. Zaplatím za to jedním bodem únavy za... za... no za **stejnou dobu**, za jakou mi přibude únava z právě prováděné činnosti, tedy ze sprintu, takže za dvě kola. Prostě se mi k jednomu bodu únavy přilepí ještě jeden.
 
-Ovšem biřicové si našeho zběsilého závodu všimli a oba nás v průjezdu překvapili ratištěm do čelistí, takže zatímco oba pliveme krev, já se snažím převzít kontrolu nad situací, nasadím své *Charisma* a... a sakra, kocovina se hlásí i teď, tak to ne! Soustředím se a s bolestí hlavy zabojuju. Pán jeskyně mi určí, že jelikož se při monologu snažím spěchat, aby mě snad strážci zákona nestihli předčasně umlčet, tak se unavuji [jako při spěchu](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu), tedy jeden bod únavy za půl hodiny. No, tak dlouho snad mluvit nebudu, ovšem abych se zbavil postihu -2, musím zaplatit dvěma body *Únavy*, ovšem za stejnou dobu jako při spěchu, takže za půl hodiny, kdy mi místo jednoho budu *Únavy* mají přibýt tři, takže se mi **ztrojnásobí** náročnost přesvědčování strážníků, ale v tak krátkém čase, že mi to snad Pán jeskyně odpustí, ne?
+Ovšem biřicové si našeho zběsilého závodu všimnou a oba nás v průjezdu překvapí ratištěm do čelistí, takže zatímco oba pliveme krev, já se snažím převzít kontrolu nad situací, nasadím své *Charisma* a... a sakra, kocovina se hlásí i teď, tak to ne! Soustředím se a s bolestí hlavy zabojuju. Pán jeskyně mi určí, že jelikož se při monologu snažím spěchat, aby mě snad strážci zákona nestihli předčasně umlčet, tak se unavuji [jako při spěchu](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu), tedy jeden bod únavy za půl hodiny. No, tak dlouho snad mluvit nebudu, ovšem abych se zbavil postihu -2 k psychickým činnostem, musím zaplatit dvěma body *Únavy*, ovšem za stejnou dobu jako při spěchu, takže za půl hodiny, kdy mi k jednomu budu *Únavy* mají přibýt další dva, takže se mi vlastně ztrojnásobí náročnost přesvědčování strážníků, ale v tak krátkém čase, že mi to snad Pán jeskyně odpustí, ne?
 
-Ne. Tedy odpustil by, jenže si neodpustil poznámku, že jsme sprintovali celkem deset kol, takže mám vlastně už deset bodů *Únavy*, což je další postih -1 za *Únavu* a k tomu si přisadí, že se mi špatně mluví s pusou plnou krve, za což mi dá další postih k mluvení -2. Za co mě trestá?! Chvíli se handrkuju s ostatními hráči, jestli se krvi v puse dá odolávat *Vůlí*, až to nakonec rozsekne Pán jeskyně s tím, že je to postih víc za bolest, než za krev a já tak dostanu zelenou, abych zkusil potlačit i tenhle postih. Celkem tedy chci odolat postihu `-2 kocovina -1 únava -2 bolest = -5` během půl hodiny, což Pán jeskyně rozpočítá na postih -1 na šest minut, takže po mě chce jeden bod *Únavy* s tím, že mluvím skoro pět minut... Ne, to **nezní jednoduše**.
+Ne. Tedy odpustil by, jenže si neodpustil poznámku, že jsme sprintovali celkem deset kol, takže mám vlastně už deset bodů *Únavy*, což je další postih -1 za *Únavu* a k tomu si přisadí, že se mi špatně mluví s pusou plnou krve, za což mi dá další postih k mluvení -2. Za co mě trestá?! Chvíli se handrkuju s ostatními hráči, jestli se krvi v puse dá odolávat *Vůlí*, až to nakonec rozsekne Pán jeskyně s tím, že je to postih víc za bolest, než za krev a já tak dostanu zelenou, abych zkusil potlačit i tenhle postih. Celkem tedy chci odolat během půl hodiny postihu `-2 kocovina -1 únava -2 bolest = -5`, což Pán jeskyně rozpočítá na postih -1 na šest minut, takže po mě chce jeden bod *Únavy* s tím, že mluvím skoro pět minut... Ne, to **nezní jednoduše**.
 
 Vidíme, že není problém s odoláváním postihu *Vůlí*, pokud odoláváme po celou dobu, za kterou **běžně** dostaneme bod *Únavy*, ale jakmile se dostaneme k dlouhodobější činnosti a my musíme **rozpočítávat** kolik se **asi** tak bodů *Únavy* vleze do toho krátkého časového úseku, tak to začne být na hlavu. Takhle ne.
 
@@ -104,11 +105,11 @@ S pocitem, že nás čas vodí za nos, jsme začali navrhovat různá řešení 
 
 - *tak si to předplať*
 
-Tak si to zkusíme. Pokud chci odolávat kocovině, bolesti zubů s příchutí ohmataného ratiště a navrch spocené únavě ze sprintu, což je celkem postih -5, tak si musím úplné potlačení postihu zaplatit pěti body *Únavy*, to už víme. A *předplacení* navrhuje, abychom ty body *Únavy* zaplatili **hned**, žádné ~~rozpočítávání~~ v čase. Jo, to zní rozhodně jednodušeji.
+Tak si to zkusíme. Pokud chci odolávat kocovině, bolesti zubů s příchutí ohmataného ratiště a navrch spocené únavě ze sprintu, což je celkem postih -5, tak si musím úplné potlačení postihu zaplatit pěti body *Únavy*, to už [víme](#Kousky_opice). A *předplacení* navrhuje, abychom ty body *Únavy* zaplatili **hned**, žádné ~~rozpočítávání~~ v čase. Jo, to zní rozhodně jednodušeji.
 
 *A bez postihu žili šťastně až do smrti.*
 
-Právě... jak **dlouho** to *předplacení* bude trvat? Předplatil jsem si mluvení bez postihu na půl hodiny, jenže po pár větách se zlodějíček vzpamatuje a zatímco mi strážníci visí na zkrvavených rtech, on zas frkne, takže honička začne nanovo. Pořád je postih upozaděn na celou půlhodinu?  Předplatné stále platí? To asi ne, sprint unavuje už po dvou kolech.
+Právě... jak **dlouho** to *předplacení* bude trvat? Předplatil jsem si mluvení bez postihu na půl hodiny, jenže po pár větách se zlodějíček vzpamatuje a zatímco mi strážníci visí na zkrvavených rtech, on zas frnkne, takže honička začne nanovo. Pořád je postih upozaděn na celou půlhodinu?  Předplatné stále platí? To asi ne, když sprint unavuje už po dvou kolech.
 Takže po dvou kolech mi předplacení zmizí a musím platit každé dvě kola znovu, tentokrát ale bez postihu za úder do čelisti, protože pusou se od dlažby neodrážím, samozřejmě. Jenže chmaták po pár uličkách zařve *Pomóóóć, vraždááá!*, takže za chvíli se musím zase obhajovat slovně, tentokráte před stahující se smyčkou rozvášněného davu. Že já blbec neřval první...
 A teď co, platí ještě to první předplacení pro mluvení? Nebo to sprint "sežral"? Pořád tu něco smrdí.
 
