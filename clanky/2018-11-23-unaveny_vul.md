@@ -56,7 +56,7 @@ Vyvstávají nám otázky
 
 S placením zvlášť či jednou a dost to vidíme jasně, je to pořád jedna a ta samá příčina, jen s různým dopadem na různé činnosti, takže když už jsem dokázal kocovinu potlačit při přemýšlení, tak jsem ji zároveň a stejnou měrou potlačil i pro lezení po stromě.
 
-*Vážně? Zní to nějak moc matematicky a suše. Takže když mě bolí zub a chci zpívat, tak jednou překonananá bolest u zpěvu je pak pro mě vyřešená i při luštění křížovky?*
+*Vážně? Zní to nějak moc matematicky a suše. Takže když mě bolí zub a chci zpívat, tak jednou překonaná bolest u zpěvu je pak pro mě vyřešená i při luštění křížovky?*
 
 Kdo sem pustil toho hnidopicha... Fajn, tak se zamyslíme hlouběji.
 Ve chvíli, kdy začnu dělat nějakou činnost, tak se nastavuju na současné podmínky - oťukávám si nepřítele, kterým je mnohdy bolest, někdy prostě slabost a učím se ho porazit v konkrétní situaci, třeba bolest hlavy při lezení po prosluněné střeše. Když se situace změní, například si kecnu za sopouch a zavřu oči, hledajíc v hlavě vzpomínku na kanalizační síť, tak... hmmm... tak je to jiná situace, jiné prostředí a asi budu muset bolest hlavy porazit úplně znovu, v úplně nových podmínkách. Sakra, to nezní jako jádro jednoduchého pravidla.
@@ -126,11 +126,11 @@ Zamotali jsme se až do míchání různých náročností, až při jejich pře
 
 Když pajdám prašnou cestou, v krku sucho, v botě mokro, tak mi pomalu přibývá únava za to, jak se snažím nezdržovat při chůzi ostatní. Když se zaseknu na jahodách, boj s bolestí přestane být důležitý, já si hovím v úvozu a přibývání únavy se nekoná. Když pak popoběhnu za ostatními, kteří mi mezitím zmizeli za zatáčkou, boj s bolestí se vystupňuje a ručička energie začne povážlivě klesat. Sotva je doběhnu, zas zvolním a přibývání únavy opět klesne na snesitelnou, byť pořád citelnou úroveň.
 Ani na chvíli mě při takových prostocvicích nenapadne, že bych bolest měl z předchozího pohybu nějak předzvládnutou, že bych se vrátil do stavu, který mám už zvládnutý, únava prostě jen přibývá rychleji, nebo pomaleji, toť vše.
-Běžně přibývání únavy řešíme až po akci, tedy po boji, po cestování, po doběhnutí padoucha, po přeplavání zátoky a pouze ve vzácných situacích, kdy cítíme, kterak nám vliv únavy může zavařit už během akce, se obtěžujeme ji řešit dříve. U potlačování postihu je to ale jinak, tam nám únava, respetive směsice podráždění, soustředění a zhoršeného vnímání naskočí ihned, odliv síly je téměř skokový a okamžitý, byť další únava přichází už pozvolně.
+Běžně přibývání únavy řešíme až po akci, tedy po boji, po cestování, po doběhnutí padoucha, po přeplavání zátoky a pouze ve vzácných situacích, kdy cítíme, kterak nám vliv únavy může zavařit už během akce, se obtěžujeme ji řešit dříve. U potlačování postihu je to ale jinak, tam nám únava, respektive směsice podráždění, soustředění a zhoršeného vnímání naskočí ihned, odliv síly je téměř skokový a okamžitý, byť další únava přichází už pozvolně.
 Dává nám proto smysl *"předplácet si"* boj s postihem, protože je to vlastně *okamžité zaplacení* za snahu. A k tomu přidáváme, že *zaplacení za potlačení postihu* únavou končí ve chvíli, kdy nám přibude únava běžným způsobem, z prováděné činnosti.
 
 Pokud tedy pokorně promlouvám ke strážníkům, tváříc se, že je vidím poprvé, tak okamžitě platím za postih, který se snažím potlačit, v mém případě tedy celých mínus pět... a sakra, nedávno jsme si přece řekli, že postih ovlivňuje **všechno**, včetně *Vůle* a že nemůžu potlačit větší postih, než kolik mi zbytková *Vůle* dovolí, takže jestli mám *Vůli* šest a postih mínus pět... na to jsme krapet zapomněli, v takovém případě dokážu potlačit postih sotva o jedna a s mínus čtyřkou budu rád, když mi strážci neubalí ještě jednu za znevažování úřední osoby.
-No, dejme tomu, že jsem hrdina na slovo vzatý a má *Vůle* je krásných deset, takže při setkání se střážníky mi po ráně do zubů zbývá pět a já dokážu postih potlačit jen tak tak celý.
+No, dejme tomu, že jsem hrdina na slovo vzatý a má *Vůle* je krásných deset, takže při setkání se strážníky mi po ráně do zubů zbývá pět a já dokážu postih potlačit jen tak tak celý.
 Za potlačení postihu zaplatím potřebné body *Únavy* **hned**, v mém hrdinštějším případě tedy pět bodů. A jakmile se znovu rozeběhnu za zlodějíčkem, tak **okamžitě** platím znovu, protože mluvení byla zátěž psychická, kdežto běh je ryze tělesný, tentokráte jen tři body *Únavy*, jelikož mě rozbitá pusa v běhu nelimituje. Když mě pak obklopí dav zuřivých maloměšťáků, tak zjistím, jak byl pro mě ten sprint vlastně sakra náročný, zaškrtám si nechutné množství bodů *Únavy* a začnu zase řešit potlačování postihu při mluvení... a sakra, tady mám navázat kde? Na to předchozí potlačování postihu při rozhovoru se strážníky? Za to jsem ale žádné běžné body *Únavy* nedostal, takže mi stále platí předchozí předplatné?
 
 Hmm, to nám to rozdělení na tělesné a psychické postihy začíná dostávat kapánek trhliny.
@@ -141,7 +141,7 @@ V úvodu jsme se utvrdili v tom, že má smysl rozlišovat mezi postihem k psych
 
 Když se vrátíme k dělení postihů, tak připomeneme, že už před nějakou dobou jsme zjistili, že postih by [měl ovlivňovat **všechno**](2018-10-22-nula.md#Padavka), od skoku dalekého, přes švitoření s opačným pohlavím až po *Sílu*, *Odolnost*, *Vůli* a všechny další zdánlivě neotřesitelné atributy. Tak kde jsme najednou vzali nějaké dělení?
 
-U *Krásy* a u *Výdrže* jsme [poznali](2018-11-19-vydrz.md#Závěr), že by bylo fajn odlišovat pasivní a aktivní složku a že ta pasivní, samozřejmá, je mnohdy zastoupena tělesnými vlastnostmi, kdežto aktívní, snaživá a kontrolovatelná, je zastoupena duševními vlastnostmi. Svým způsobem jsme se dostali k tomu, že tělo je ovládáno duší a že tahle souhra těla a duše, ta citelná posloupnost a závislost, nám mnohde chybí.
+U *Krásy* a u *Výdrže* jsme [poznali](2018-11-19-vydrz.md#Závěr), že by bylo fajn odlišovat pasivní a aktivní složku a že ta pasivní, samozřejmá, je mnohdy zastoupena tělesnými vlastnostmi, kdežto aktivní, snaživá a kontrolovatelná, je zastoupena duševními vlastnostmi. Svým způsobem jsme se dostali k tomu, že tělo je ovládáno duší a že tahle souhra těla a duše, ta citelná posloupnost a závislost, nám mnohde chybí.
 
 Když to zjednodušíme, tak závislost duše na těle máme v *Únavě* a závislost těla na duši máme ve *Snaze* (hod na snahu pomocí 1k6±) a právě také v *potlačování postihů*. A to poslední se snažíme vyřešit od začátku tohohle článku.
 
@@ -157,19 +157,19 @@ Pomůže nám to s tím potlačováním postihu v různých situacích?
 
 ## Nahoru a dolů
 
-Pokud tedy řeším postih v našem příkladu, kdy jsem zadýchaný, s kocovinou v hlavě a třískami řatiště v hubě, tak pro úplné potlačení postihu při mluvení se strážníky se vyčerpám za pět bodů *Únavy* a to **hned**, ovšem až do prvního vyčíselní běžně získané únavy mám pokoj a řešit to nemusím.
+Pokud tedy řeším postih v našem příkladu, kdy jsem zadýchaný, s kocovinou v hlavě a třískami ratiště v hubě, tak pro úplné potlačení postihu při mluvení se strážníky se vyčerpám za pět bodů *Únavy* a to **hned**, ovšem až do prvního vyčíslení běžně získané únavy mám pokoj a řešit to nemusím.
 
 Pak ovšem přijde na řadu další sprint za zlodějíčkem, ke kterému mám postih **jen** mínus tři, takže...?
 
 *Pozor, automat nevrací drobné*
 
-Konečně taky nějaká pomocná poznámka! Přesně, pokud odolávám vysokému postihu, třeba oněch mínus pět u mluvení, a po chvíli potřebuju odolávat menšímu postihu, třeba oněch mínus tři k běhu, tak se mi žádné body *Ǔnavy* neodepíšou, žádná energie se mi nevrátí. Tedy pokud se nám nechce zase řešit poměry času.
+Konečně taky nějaká pomocná poznámka! Přesně, pokud odolávám vysokému postihu, třeba oněch mínus pět u mluvení, a po chvíli potřebuju odolávat menšímu postihu, třeba oněch mínus tři k běhu, tak se mi žádné body *Únavy* neodepíšou, žádná energie se mi nevrátí. Tedy pokud se nám nechce zase řešit poměry času.
 
 Fajn, nižší postih mě tedy netrápí, protože už odolávám postihu mínus pět, takže mám nejenom předplaceno, ale i přeplaceno a **dokud** mi Pán jeskyně nenapaří bod únavy za sprint, tak odolávání postihu řešit nemusím.
 
 Ovšem sprint unavuje každá dvě kola, takže už po chvíli se opět dostávám k tomu, že bych měl znovu řešit odolávání postihu, avšak v tu chvíli potřebuju odolávat postihu už jen mínus tři, takže jestli chci pořád sprintovat bez postihu, budu muset platit třemi body *Únavy* ke každému bodu *Únavy* ze sprintu.
 
-Pak se zase dostanu k mluvení, když mě obestoupí dav agresivních čumilů, ovšem na mluvení mám stále postih mínus pět, kdežto ze sprintu si přináším odolání postihu **pouze** mínus tři, takže... no, takže nastal čas doplatit rozdíl a protože mi jde opravdu o kejhák, tak **okamžitě** zaplatím zbývající dva body *Ǔnavy*, abych dokázal tu městskou lůzu přesvědčit o své nevinně.
+Pak se zase dostanu k mluvení, když mě obestoupí dav agresivních čumilů, ovšem na mluvení mám stále postih mínus pět, kdežto ze sprintu si přináším odolání postihu **pouze** mínus tři, takže... no, takže nastal čas doplatit rozdíl a protože mi jde opravdu o kejhák, tak **okamžitě** zaplatím zbývající dva body *Únavy*, abych dokázal tu městskou lůzu přesvědčit o své nevinně.
 
 A je to.
 
@@ -185,9 +185,11 @@ Vlastně co celé bylo náročnější, než jsme si na začátku mysleli, hlavn
 - potlačení postihu **ztrácíš** ve chvíli, kdy dostaneš *Únavu* z činnosti, kterou právě provádíš
     - při něčem co unavuje jako sprint tedy musíš řešit potlačení postihu **znovu** už po dvou kolech, při něčem co unavuje jako běh po pěti minutách [a tak dále a tak dále](http://pph.drdplus.loc/#tabulka_unavy_z_pohybu)
         - samozřejmě že ve hře bude stačit řešit až celkovou únavu někdy na konci, pokud tedy tvá Únava nebude ovlivňovat děj
-- pokud jsi před chvílí dokázal odolat **většímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvvé odolávání ještě nepřestalo platit, tak prostě platí nadále
-    - ovšem žádné body *Ǔnavy* si tím nedomažeš, prostě je teď náročnost menší, ale ty ses už připravil na větší
+- pokud jsi před chvílí dokázal odolat **většímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání ještě nepřestalo platit, tak prostě platí nadále
+    - ovšem žádné body *Únavy* si tím nedomažeš, prostě je teď náročnost menší, ale ty ses už připravil na větší
 - ovšem pokud jsi před chvílí dokázal odolávat **menšímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání stále platí, tak **stále** odoláváš tomu menšímu postihu, takže jestli chceš odolávat více, musíš **hned** obětovat další body *Únavy* a to tolik, o kolik chceš postih **ještě** snížit
+
+TODO zmínit, že jsme řešili hlavně odolávání postihu, ale že pokukujeme po dalším použití pro zesílenou snahu.
 
 Mimochodem, to odolávání postihu, to placení *Únavou* si skoro koleduje o názvosloví *Vyčerpat se*, jaké používá Dračí doupě II. Holt některé nápady platí i mimo vlastní hranice.
 
