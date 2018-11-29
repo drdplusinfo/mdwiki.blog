@@ -193,14 +193,14 @@ Vlastně co celé bylo náročnější, než jsme si na začátku mysleli, hlavn
     - například pokud sis potlačil postih ze zranění z mínus tří na mínus jedna, tak se unavíš za dva body *Únavy*
 - potlačení postihu **ztrácíš** ve chvíli, kdy dostaneš *Únavu* z činnosti, kterou právě provádíš
     - při něčem co unavuje jako sprint tedy musíš řešit potlačení postihu **znovu** už po dvou kolech, při něčem co unavuje jako běh **znovu** po pěti minutách [a tak dále a tak dále](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu)
-        - samozřejmě že ve hře bude stačit řešit až celkovou únavu někdy na konci, pokud tedy tvá Únava nebude ovlivňovat děj
+        - samozřejmě že ve hře bude stačit řešit až celkovou únavu někdy na konci akce, pokud tedy tvá *Únava* nebude ovlivňovat děj
 - pokud jsi před chvílí dokázal odolat **většímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání ještě nepřestalo platit, tak prostě platí nadále
     - ovšem žádné body *Únavy* si tím neodmažeš, prostě je teď náročnost menší, než na kterou ses už připravil
-- ovšem pokud jsi před chvílí dokázal odolávat **menšímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání stále platí, tak stále odoláváš tomu **menšímu** postihu, takže jestli chceš odolávat více, musíš **hned** obětovat další body *Únavy* a to tolik, o kolik chceš postih **ještě** snížit
+- ovšem pokud jsi před chvílí dokázal odolávat **menšímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání stále platí, tak stále odoláváš tomu **menšímu** postihu, takže jestli chceš odolávat více, musíš **hned** obětovat další body *Únavy* a to tolik, o kolik chceš postih **ještě** snížit, prostě to doplatíš
 
 Taky jsme načali, že pro *Vůli* hledáme další využití, krom potlačování postihu také pro *zvýšenou snahu*, kdy se cíleně vyčerpáš, abys dosáhl nárazově lepšího výsledku, musíme si to ale ještě promyslet.
 
-S čím nejsme spojeni je výsledná složitost pravidla. Líbilo by se nám něco jednoznačného jako "snížil sis postih na následující akci", jenže to si kvůli neblahým zkušenostem s nedoslovnými pravidly a zákonnými hráči nedovolíme. Pokusíme se být otevření dalším zjednodušením, třeba nám nějaké cvrkne do nosu. 
+S čím nejsme spojeni je výsledná složitost pravidla. Líbilo by se nám něco prostého jako "snížil sis postih na následující akci", jenže to si kvůli neblahým zkušenostem s nedoslovnými pravidly a doslovnými hráči nedovolíme. Budeme otevřeni dalším zjednodušením, třeba nám nějaké cvrkne do nosu. 
 
 Mimochodem, to odolávání postihu a vůbec celé to placení *Únavou* si skoro koleduje o názvosloví *Vyčerpat se*, jaké používá Dračí doupě II. Holt některé nápady platí i mimo vlastní hranice.
 
