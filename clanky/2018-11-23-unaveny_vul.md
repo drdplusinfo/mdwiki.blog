@@ -164,9 +164,9 @@ Pomůže nám tohle sebemrskačské zjištění s oním potlačováním postihu 
 
 ## Nahoru a dolů
 
-Takže 
+Takže předplacené odolávání tělesnému a duševnímu postihu už nerozlišujeme, zbývá nám ale ještě jedna věc k vyřešení, různé velikosti postihu v různých situacích.
 
-Pokud tedy řeším postih v našem příkladu, kdy jsem zadýchaný, s kocovinou v hlavě a třískami ratiště v hubě, tak pro úplné potlačení postihu při mluvení se strážníky se vyčerpám za pět bodů *Únavy* a to **hned**, ovšem až do prvního vyčíslení běžně získané únavy mám pokoj a řešit to nemusím.
+Pokud řeším postih v našem příkladu, kdy jsem zadýchaný, s kocovinou v hlavě a třískami ratiště v hubě, tak pro úplné potlačení postihu během hovoru se strážníky se vyčerpám za pět bodů *Únavy* a to **hned**, ovšem až do prvního vyčíslení běžně získané únavy mám pokoj a řešit to nemusím.
 
 Pak ovšem přijde na řadu další sprint za zlodějíčkem, ke kterému mám postih **jen** mínus tři, takže...?
 
@@ -188,15 +188,15 @@ Vlastně co celé bylo náročnější, než jsme si na začátku mysleli, hlavn
 
 - s jak velkým postihem chceš svou *Vůlí* bojovat je jen na tobě
     - ale **nanejvýše** zvládneš potlačit postih tak velký, jaká je tvá **současná** *Vůle*
-        - jelikož ti postih obvykle postihuje všechno, včetně *Vůle*, tak ti postih vlastně ovlivňuje i samotnou tvou schopnost postih potlačit, takže když jsi například *opravdu* unavený, tak s tím prostě už *opravdu* nic neuděláš
+        - jelikož ti postih obvykle postihuje všechno, včetně *Vůle*, tak ti postih vlastně ovlivňuje i samotnou tvou schopnost tento postih potlačit, takže když jsi například *opravdu* unavený, tak s tím prostě už *opravdu* nic neuděláš
 - za potlačení postihu získáš **okamžitě** tolik bodů *Únavy*, o kolik sis postih srazil
-    - například pokud sis potlačil postih ze zranění z mínus tří na mínus jedna, tak se unavíš za dva body únavy
+    - například pokud sis potlačil postih ze zranění z mínus tří na mínus jedna, tak se unavíš za dva body *Únavy*
 - potlačení postihu **ztrácíš** ve chvíli, kdy dostaneš *Únavu* z činnosti, kterou právě provádíš
-    - při něčem co unavuje jako sprint tedy musíš řešit potlačení postihu **znovu** už po dvou kolech, při něčem co unavuje jako běh po pěti minutách [a tak dále a tak dále](http://pph.drdplus.loc/#tabulka_unavy_z_pohybu)
+    - při něčem co unavuje jako sprint tedy musíš řešit potlačení postihu **znovu** už po dvou kolech, při něčem co unavuje jako běh **znovu** po pěti minutách [a tak dále a tak dále](http://pph.drdplus.loc/#tabulka_unavy_z_pohybu)
         - samozřejmě že ve hře bude stačit řešit až celkovou únavu někdy na konci, pokud tedy tvá Únava nebude ovlivňovat děj
 - pokud jsi před chvílí dokázal odolat **většímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání ještě nepřestalo platit, tak prostě platí nadále
-    - ovšem žádné body *Únavy* si tím nedomažeš, prostě je teď náročnost menší, ale ty ses už připravil na větší
-- ovšem pokud jsi před chvílí dokázal odolávat **menšímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání stále platí, tak **stále** odoláváš tomu menšímu postihu, takže jestli chceš odolávat více, musíš **hned** obětovat další body *Únavy* a to tolik, o kolik chceš postih **ještě** snížit
+    - ovšem žádné body *Únavy* si tím neodmažeš, prostě je teď náročnost menší, než na kterou ses už připravil
+- ovšem pokud jsi před chvílí dokázal odolávat **menšímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání stále platí, tak stále odoláváš tomu **menšímu** postihu, takže jestli chceš odolávat více, musíš **hned** obětovat další body *Únavy* a to tolik, o kolik chceš postih **ještě** snížit
 
 TODO zmínit, že jsme řešili hlavně odolávání postihu, ale že pokukujeme po dalším použití pro zesílenou snahu.
 
