@@ -1,6 +1,6 @@
 # Unavený vůl
 
-*23. 11. 2018*
+*30. 11. 2018*
 
 Začalo to nenápadně, nejdříve jsme prohlásili, že [odvozené vlastnosti asi zrušíme](2018-09-03-velkej_fanousek.md#Dovednosti), protože se nám nechce se s nimi počítat, potom jsme skutečně [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md) a vzápětí [*Výdrž* i s *Odolností*](2018-11-19-vydrz.md#Závěr). Ovšem zatímco z *Krásy* nezbylo nic a po *Odolnosti* zůstala jen *Síla*, tak *Výdrž* nám narazila hlavou do zdi a my teď budeme studovat statiku, abychom odhalili, zda tu zeď prorazila, nebo se nám to jenom zdálo.
 
@@ -21,7 +21,7 @@ Od začátku článku [Vydrž!](2018-11-19-vydrz.md) jsme totiž směřovali k t
 Vlastně podobný nápad vznikl v naší družině už před několika lety, ale bylo to jen o slovní dohodě a o citu. Ale teď začíná tomuhle nápadu hra o život, protože jedna věc je domácí zabydlené pravidlo, které se probudí jednou za čas a druhá věc je jádro psaných pravidel.
 
 ### Hra o život
-Herně bychom chtěli, abychom si hodili na *Odolnost* našeho těla a zjistili, zda nám [neštovice](https://ppj.drdplus.info/?version=1.0&trial=1#tabulka_nemoci) začínají podlamovat nohy *TODO něco specifičtějšího pro neštovice* a pokud tělo bitvu prohrává, tak abychom měli možnost zatnout zuby a **když je to potřeba**, dokázali překonat oslabení.
+Herně bychom chtěli, abychom si hodili na *Odolnost* našeho těla a zjistili, zda nám [neštovice](https://ppj.drdplus.info/?version=1.0&trial=1#tabulka_nemoci) začínají podlamovat nohy a pokud tělo bitvu prohrává, tak abychom měli možnost zatnout zuby a **když je to potřeba**, dokázali překonat oslabení.
 
 Napadá nás k tomu
 
@@ -164,11 +164,11 @@ Pomůže nám tohle sebemrskačské zjištění s oním potlačováním postihu 
 
 ## Nahoru a dolů
 
-Takže předplacené odolávání tělesnému a duševnímu postihu už nerozlišujeme, zbývá nám ale ještě jedna věc k vyřešení, různé velikosti postihu v různých situacích.
+Takže předplacené odolávání tělesnému a duševnímu postihu už nerozlišujeme, zbývá nám však ještě jedna věc k vyřešení a to *různé velikosti postihu v různých situacích*.
 
 Pokud řeším postih v našem příkladu, kdy jsem zadýchaný, s kocovinou v hlavě a třískami ratiště v hubě, tak pro úplné potlačení postihu během hovoru se strážníky se vyčerpám za pět bodů *Únavy* a to **hned**, ovšem až do prvního vyčíslení běžně získané únavy mám pokoj a řešit to nemusím.
 
-Pak ovšem přijde na řadu další sprint za zlodějíčkem, ke kterému mám postih **jen** mínus tři, takže...?
+Pak ovšem přijde na řadu další sprint za zlodějíčkem, ke kterému mám postih namísto pěti **jen** mínus tři, takže...?
 
 *Pozor, automat nevrací drobné*
 
@@ -192,15 +192,19 @@ Vlastně co celé bylo náročnější, než jsme si na začátku mysleli, hlavn
 - za potlačení postihu získáš **okamžitě** tolik bodů *Únavy*, o kolik sis postih srazil
     - například pokud sis potlačil postih ze zranění z mínus tří na mínus jedna, tak se unavíš za dva body *Únavy*
 - potlačení postihu **ztrácíš** ve chvíli, kdy dostaneš *Únavu* z činnosti, kterou právě provádíš
-    - při něčem co unavuje jako sprint tedy musíš řešit potlačení postihu **znovu** už po dvou kolech, při něčem co unavuje jako běh **znovu** po pěti minutách [a tak dále a tak dále](http://pph.drdplus.loc/#tabulka_unavy_z_pohybu)
+    - při něčem co unavuje jako sprint tedy musíš řešit potlačení postihu **znovu** už po dvou kolech, při něčem co unavuje jako běh **znovu** po pěti minutách [a tak dále a tak dále](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu)
         - samozřejmě že ve hře bude stačit řešit až celkovou únavu někdy na konci, pokud tedy tvá Únava nebude ovlivňovat děj
 - pokud jsi před chvílí dokázal odolat **většímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání ještě nepřestalo platit, tak prostě platí nadále
     - ovšem žádné body *Únavy* si tím neodmažeš, prostě je teď náročnost menší, než na kterou ses už připravil
 - ovšem pokud jsi před chvílí dokázal odolávat **menšímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání stále platí, tak stále odoláváš tomu **menšímu** postihu, takže jestli chceš odolávat více, musíš **hned** obětovat další body *Únavy* a to tolik, o kolik chceš postih **ještě** snížit
 
-TODO zmínit, že jsme řešili hlavně odolávání postihu, ale že pokukujeme po dalším použití pro zesílenou snahu.
+Taky jsme načali, že pro *Vůli* hledáme další využití, krom potlačování postihu také pro *zvýšenou snahu*, kdy se cíleně vyčerpáš, abys dosáhl nárazově lepšího výsledku, musíme si to ale ještě promyslet.
 
-Mimochodem, to odolávání postihu, to placení *Únavou* si skoro koleduje o názvosloví *Vyčerpat se*, jaké používá Dračí doupě II. Holt některé nápady platí i mimo vlastní hranice.
+S čím nejsme spojeni je výsledná složitost pravidla. Líbilo by se nám něco jednoznačného jako "snížil sis postih na následující akci", jenže to si kvůli neblahým zkušenostem s nedoslovnými pravidly a zákonnými hráči nedovolíme. Pokusíme se být otevření dalším zjednodušením, třeba nám nějaké cvrkne do nosu. 
+
+Mimochodem, to odolávání postihu a vůbec celé to placení *Únavou* si skoro koleduje o názvosloví *Vyčerpat se*, jaké používá Dračí doupě II. Holt některé nápady platí i mimo vlastní hranice.
+
+*Ha! Červené kamaše a bosé nohy, cítím svůj váček, mé úspory! Teď už mi neutečeš, chmatáku, krleš!*
 
 ---
 

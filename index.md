@@ -1,6 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
-### [23. 11. 2018 Unavený vůl](clanky/2018-11-23-unaveny_vul.md)
+### [30. 11. 2018 Unavený vůl](clanky/2018-11-30-unaveny_vul.md)
 ### [19. 11. 2018 Vydrž!](clanky/2018-11-19-vydrz.md)
 ### [9. 11. 2018 Vzpomínky na krásu](clanky/2018-11-09-vzpominky_na_krasu.md)
 ### [31. 10. 2018 Cit pro charisma](clanky/2018-10-31-cit_pro_charisma.md)
