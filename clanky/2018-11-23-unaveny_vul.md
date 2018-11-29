@@ -101,7 +101,7 @@ Vliv času nám dává zabrat, ale to jsme čekali, takže ještě nehážeme ku
 
 ## Předplacená odolnost
 
-S pocitem, že nás čas vodí za nos, jsme začali navrhovat různá řešení a jedno z těch smysluplnějších znělo
+S pocitem, že nás čas vodí za nos, jsme si drbali nosy, hlavy, pak i ruce a plácali jeden nápad přes druhý, až se konečně objevil jeden smysluplnější:
 
 - *tak si to předplať*
 
@@ -110,18 +110,22 @@ Tak si to zkusíme. Pokud chci odolávat kocovině, bolesti zubů s příchutí 
 *A bez postihu žili šťastně až do smrti.*
 
 Právě... jak **dlouho** to *předplacení* bude trvat? Předplatil jsem si mluvení bez postihu na půl hodiny, jenže po pár větách se zlodějíček vzpamatuje a zatímco mi strážníci visí na zkrvavených rtech, on zas frnkne, takže honička začne nanovo. Pořád je postih upozaděn na celou půlhodinu?  Předplatné stále platí? To asi ne, když sprint unavuje už po dvou kolech.
-Takže po dvou kolech mi předplacení zmizí a musím platit každé dvě kola znovu, tentokrát ale bez postihu za úder do čelisti, protože pusou se od dlažby neodrážím, samozřejmě. Jenže chmaták po pár uličkách zařve *Pomóóóć, vraždááá!*, takže za chvíli se musím zase obhajovat slovně, tentokráte před stahující se smyčkou rozvášněného davu. Že já blbec neřval první...
-A teď co, platí ještě to první předplacení pro mluvení? Nebo to sprint "sežral"? Pořád tu něco smrdí.
+Takže po dvou kolech mi předplacení zmizí a musím platit každé dvě kola znovu, tentokrát ale bez postihu za úder do čelisti, protože pusou se od dlažby neodrážím, ikdyž by se to v zatáčkách hodilo. Jenže chmaták po pár uličkách zařve *Pomóóóć, vraždááá!*, takže za chvíli se musím zase obhajovat slovně, tentokráte před stahující se smyčkou rozvášněného davu. Že já blbec neřval první...
+A teď co, platí ještě to první předplacení pro mluvení? Nebo to sprint "sežral"?
+
+Pořád tu něco smrdí...
 
 Ona je to vlastně stejná komplikace, jakou jsme [řešili v rozsáhlém *Boji*](2018-08-10-boj.md#Výsledky_až_na_konec,_ale_čeho?) a to je právě ten čas. Proměnlivý, v každém okamžiku s trochu jiným vlivem, vonící realističností a smrdící složitostí a zmatením.
 
-Zahoďme chaotické rozpínání a smrskávání časových úseků a zanechme dokonalé vzorkování digitálním převodníkům.
+Zahoďme chaotické rozpínání a smrskávání časových úseků a zanechme dokonalé vzorkování času digitálním převodníkům.
 
 Fajn, *zahozeno*, *zanecháno*, jenže kudy dál?
 
 ## Řád neřád
 
 > Zmatek zavřený v krabici je bordel, který se dá uklidit
+
+TODO odsud je to neučesané
 
 Pár náznaků jednoduchosti v zamotaném světě bolesti, únavy a nepohodlí jsme už našli. Řešíme zvlášť potlačování postihů k tělesným činnostem a zvlášť k duševním, což nezní jako zjednodušení, ale v jiném úhlu pohledu řešíme **dohromady** všechny tělesné postihy a **dohromady** všechny duševní. A taky jsme znovuobjevili [Únavu jako...](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu), která má svou krásu v přirozenosti, s jakou si jednotlivé stupně náročnosti představujeme.
 Zamotali jsme se až do míchání různých náročností, až při jejich překrývání se, přerušování se navzájem, nemůžeme tedy nějak jednoduše vyřešit tuhle složitost?
