@@ -107,7 +107,7 @@ S pocitem, že nás čas vodí za nosy, jsme si nosy drbali, pak hlavy, pak i ru
 
 - *tak si to předplať*
 
-Tak si to zkusíme. Pokud chci odolávat kocovině, bolesti zubů s příchutí ohmataného ratiště a navrch spocené únavě ze sprintu, což je celkem postih -5, tak si musím úplné potlačení postihu zaplatit pěti body *Únavy*, to už [víme](#Kousky_opice). A *předplacení* navrhuje, abychom ty body *Únavy* zaplatili **hned a všechny**, žádné ~~rozpočítávání~~ v čase. Jo, to zní rozhodně jednodušeji.
+Tak si to zkusíme. Pokud chci odolávat kocovině, bolesti zubů s příchutí ohmataného ratiště a navrch zpocené únavě ze sprintu, což je celkem postih -5, tak si musím úplné potlačení postihu zaplatit pěti body *Únavy*, to už [víme](#Kousky_opice). A *předplacení* navrhuje, abychom ty body *Únavy* zaplatili **hned a všechny**, žádné ~~rozpočítávání~~ v čase. Jo, to zní rozhodně jednodušeji.
 
 *A bez postihu žili šťastně až do smrti.*
 
@@ -177,9 +177,9 @@ Pak ovšem přijde na řadu další sprint za zlodějíčkem, ke kterému mám p
 
 *Pozor, automat nevrací drobné*
 
-Konečně taky nějaká pomocná poznámka! Přesně, pokud odolávám vysokému postihu, třeba oněch mínus pět u mluvení, a po chvíli potřebuju odolávat menšímu postihu, třeba oněch mínus tři k běhu, tak se mi žádná energie nevrátí, žádné body *Únavy* se mi neodepíšou. Tedy pokud se nám nechce zase řešit ty poměry času.
+Konečně taky nějaká pomocná poznámka! Přesně, pokud odolávám vysokému postihu, třeba oněch mínus pět u mluvení, a po chvíli potřebuju odolávat menšímu postihu, třeba oněch mínus tři k běhu, tak se mi žádná energie nevrátí, žádné body *Únavy* se mi neodepíšou. Tedy pokud bych nechtěl zase řešit ty poměry času.
 
-Fajn, nižší postih mě tedy netrápí, protože už odolávám postihu mínus pět, takže mám nejenom předplaceno, ale i přeplaceno a **dokud** mi Pán jeskyně nenapaří bod únavy za sprint, tak odolávání postihu řešit nemusím.
+Fajn, nižší postih mě tedy netrápí, protože už odolávám postihu mínus pět, takže mám nejenom předplaceno, ale i přeplaceno a **dokud** mi Pán jeskyně nenapaří bod únavy za sprint, tak nové odolávání postihu řešit nemusím.
 
 Ovšem sprint unavuje každá dvě kola, takže už po chvíli se opět dostávám k tomu, že bych měl znovu řešit odolávání postihu a to mínus tři, takže jestli chci pořád sprintovat bez postihu, budu muset platit třemi body *Únavy* navíc ke každému bodu *Únavy* ze sprintu.
 
@@ -189,7 +189,15 @@ A je to.
 
 ## Závěr
 
-Vlastně co celé bylo náročnější, než jsme si na začátku mysleli, hlavně proto, že se nám do počítání zase připletl čas. Ale zvládli jsme to a můžeme to shrnout tak, že
+Vlastně co celé bylo náročnější, než jsme si na začátku mysleli, hlavně proto, že se nám do počítání zase připletl čas. Ale zvládli jsme to a co nezvládne *Síla* našeho těla, to můžeme dočasně potlačit silou naší *Vůle*.
+
+S čím nejsme spojeni je výsledná složitost pravidla. Líbilo by se nám něco prostého jako *"snížil sis postih na následující akci"*, jenže to si kvůli neblahým zkušenostem s nedoslovnými pravidly a doslovnými hráči nedovolíme. Budeme otevřeni dalším zjednodušením, třeba nám nějaké cvrkne do nosu.
+
+Taky jsme načali, že pro *Vůli* hledáme další využití, krom potlačování postihu také pro *zvýšenou snahu*, kdy se cíleně vyčerpáš, abys dosáhl nárazově lepšího výsledku, musíme si to ale ještě promyslet.
+
+Mimochodem, to odolávání postihu a vůbec celé to placení *Únavou* si skoro koleduje o názvosloví *Vyčerpat se*, jaké používá Dračí doupě II. Holt některé nápady platí i mimo vlastní hranice.
+
+A teď si shrneme *odolávání postihu* pravidlově:
 
 - s jak velkým postihem chceš svou *Vůlí* bojovat je jen na tobě a tvé *Vůli*
     - **nanejvýše** zvládneš potlačit postih tak velký, jaká je tvá **současná** *Vůle*
@@ -202,12 +210,6 @@ Vlastně co celé bylo náročnější, než jsme si na začátku mysleli, hlavn
 - pokud jsi před chvílí dokázal odolat **většímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání ještě nepřestalo platit, tak prostě platí nadále
     - ovšem žádné body *Únavy* si tím neodmažeš, prostě je teď náročnost menší, než na kterou ses už připravil
 - ovšem pokud jsi před chvílí dokázal odolávat **menšímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání stále platí, tak stále odoláváš tomu **menšímu** postihu, takže jestli chceš odolávat více, musíš **hned** obětovat další body *Únavy* a to tolik, o kolik chceš postih **ještě** snížit, prostě to doplatíš
-
-Taky jsme načali, že pro *Vůli* hledáme další využití, krom potlačování postihu také pro *zvýšenou snahu*, kdy se cíleně vyčerpáš, abys dosáhl nárazově lepšího výsledku, musíme si to ale ještě promyslet.
-
-S čím nejsme spojeni je výsledná složitost pravidla. Líbilo by se nám něco prostého jako "snížil sis postih na následující akci", jenže to si kvůli neblahým zkušenostem s nedoslovnými pravidly a doslovnými hráči nedovolíme. Budeme otevřeni dalším zjednodušením, třeba nám nějaké cvrkne do nosu. 
-
-Mimochodem, to odolávání postihu a vůbec celé to placení *Únavou* si skoro koleduje o názvosloví *Vyčerpat se*, jaké používá Dračí doupě II. Holt některé nápady platí i mimo vlastní hranice.
 
 *Ha! Červené kamaše a bosé nohy, cítím svůj váček, mé úspory! Teď už mi neutečeš, dlouhoprsťáku, krleš!*
 
