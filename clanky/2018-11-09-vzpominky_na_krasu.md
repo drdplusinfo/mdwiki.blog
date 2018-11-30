@@ -4,7 +4,7 @@
 
 > Kdybychom za krásné považovali jen krásné, byl by svět krásnější
 
-Původně tento text vznikal jako součást návrhu na **oživení** všech [Odvozených vlastností](https://pph.drdplus.info/?version=1.0&trial=1#odvozene_vlastnosti), které už měly [na kahánku](2018-09-03-velkej_fanousek.md#Dovednosti), ale původní text nám postupně přerostl v tak velkou hromadu myšlenek, až jsme řekli *dost!* a *Krásu* vyčlenili sem. A i tak je toho dost.
+Původně tento text vznikal jako součást návrhu na **oživení** všech [Odvozených vlastností](https://pph.drdplus.info/?version=1.0&trial=1#odvozene_vlastnosti), které už [měly na kahánku](2018-09-03-velkej_fanousek.md#Dovednosti), ale původní text nám postupně přerostl v tak velkou hromadu myšlenek, až jsme řekli *dost!* a *Krásu* vyčlenili sem. A i tak je toho dost.
 
 A teď vzhůru za záchranou *Krásy*!
 
@@ -39,7 +39,7 @@ Ovšem *Krása* se dá cíleně ovlivnit, ať už koketováním, ošacením, doj
 
 - pokud získám na svou stranu *tak* pěkného tvora, dostanu za odměnu úspěšnější potomky, další majetek, větší vliv a bůhví co nám ještě život nabulíkoval, že se může hodit
 
-Takže se nám *Krása* rozpadá na dvě složky, aktivní, převážně krátkodobá a pasivní, převážně dlouhodobá.
+Takže se nám *Krása* rozpadá na dvě složky, aktivní, převážně krátkodobou a pasivní, převážně dlouhodobou.
 
 ## Druhy krás
 
@@ -49,7 +49,7 @@ Zkusíme si nejdříve dát dohromady tu jednodušší, stálejší, pasivní č
 
 Pasivní *Krásu* bychom poskládali ze *Síly* a *Obratnosti*, u kterých známe přesná čísla, dále z věku nebo-li sešlosti těla, z *Rasy*, z aktuálního stavu těla jakým je nový účes, oholená tvář, neštovice, zlomený nos, chybějící řezák a spoustu dalšího. Ano, správně, to jediné, co dokážeme pro pasivní *Krásu* vypotit, je **základ** tělesné *Krásy* a to ještě jen pro tu rasu, ze které tvor vzešel, k čemuž dokážeme přidat už jen nějaké ty rady, jak krásné se asi vnímají rasy navzájem. No, moc zjednodušeně to nezní ani po onom oddělení aktivní složky *Krásy*.
 
-Ale dejme té aktivní složce šanci.
+Dejme teď šanci té aktivní složce.
 
 ### Aktivní krása
 
