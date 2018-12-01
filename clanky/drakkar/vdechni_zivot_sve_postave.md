@@ -2,7 +2,7 @@
 
 Ahoj, celkově mi ten článek přijde dobrý a pro Drakkar pak jako bonus, že je v něm ženský cit. Hodně článků v Drakkaru se týká vojenské historie, společenských vrstev, staveb a vůbec toho tvrdého chlapského světa, ale psychologických témat je tam jak šafránu, rád bych proto tvůj článek v Drakkaru viděl.
 
-To co bych u čláku uvítal a co v něm není, to je jeho členění, rozpad do menších celků, které na sebe navazují, ale přitom jsou nezávislé (protože čtenář je ze všeho nejvíce hlavně lenoch a menší bloky textu s velkými nadpisy pomáhají čtenáři se duševně nadechnout a pokračovat dál).
+To co bych u článku uvítal a co v něm není, to je jeho členění, rozpad do menších celků, které na sebe navazují, ale přitom jsou nezávislé (protože čtenář je ze všeho nejvíce hlavně lenoch a menší bloky textu s velkými nadpisy pomáhají čtenáři se duševně nadechnout a pokračovat dál).
 
 Vidím tu témata
 
@@ -70,3 +70,11 @@ Ještě zbývá postavu pojmenovat, což je další věc, která se odvíjí od 
 Takže máte postavu, její motivaci, minulost, povolání a jméno – a už vám jen zbývá vytvořit její budoucnost. Tedy směle do toho!
 
 > Končí to jako návod a já návody nerad, mám raději rady a zkušenosti, takže osobně by mi byl příjemnější závěr ve smyslu *Minulost i budoucnost své postavy máš ve svých rukou, jen je vytvořit. Tedy směle do toho!*
+
+
+---
+
+V celém textu je pak jeden styl, který mi osobně není moc po chuti a to je styl příspěvků RPG fóra, ve kterých se to hemží anglickými názvy a zkratkami. Ty tu často používáš staty a bacrkground a setting a classy a podobně, což mě odtrhuje od citlivého tématu a vrhá mě to do technické debaty, kde se postava stává výsledkem kombinací pravidel, nikoli živoucí bytostí. Na druhou stranu... je v tom kus osobitosti, prostě takhle mluvíš, ve světě anglických hesel žijí tvoje postavy a je to takhle pro tebe zřejmě samozřejmější.
+Takže to nechávám na tobě, jen jsem ti chtěl říct, že některé hráče to rozptyluje.
+
+Díky za tvou snahu, Kostřivec
