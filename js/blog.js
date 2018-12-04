@@ -541,7 +541,9 @@ function googlemapsReady() {
         var b;
         b = window.location.hash.substring(window.location.hash.startsWith("#!") ? 2 : 1), b = decodeURIComponent(b);
         var c = b.indexOf("#");
-        -1 !== c ? (a.md.inPageAnchor = b.substring(c + 1), a.md.mainHref = b.substring(0, c)) : a.md.mainHref = b
+        -1 !== c
+            ? (a.md.inPageAnchor = b.substring(c + 1), a.md.mainHref = b.substring(0, c))
+            : a.md.mainHref = b
     }
 
     function o() {
@@ -828,7 +830,7 @@ function googlemapsReady() {
             e.find("a").attr("href", c), e.hide();
             var f = !1;
             b.mouseenter(function () {
-                f = !0, a.md.util.wait(300).then(function () {
+                f = !0, a.md.util.wait(10).then(function () {
                     f && e.fadeIn(200)
                 })
             }), b.mouseleave(function () {
