@@ -2,6 +2,13 @@
 
 *3. 12. 2018*
 
+Před šestnácti lety byl internet ještě v plenkách (TODO nějakou perličku z historie), v domácnostech si ho užívali jen vyvolení v práci a na sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici čtyři tisíce za měsíc přes jeden z prvních modemů, jehož anténu jsem měl zaraženou mezi střešními taškami a který mě ubezpečoval svým píp pipíp pip, že za minutku se dozvím, jestli budu připojen.
+V těchto digitálně dobrodružných dobách původní autoři Dračího doupěte plus řešili formu, jakou je dostanou k nám, hráčům a zvolili jednoznačného vítěze, osvědčený papír.
+
+Aby bylo jasno, my papír milujeme. Není nad to pravidlům vytlačeným do celulózy uříznout hřbet, jednotlivé listy vyvařit v černém čaji, kávě, cibulových slupkách nebo co zrovna ve špajzu barví, napatlat jim kraje smůlou rozpuštěnou v ředidle (TODO Kód ředidla), provrtat, svázat lýkovým provázkem, skrýt je do desek ze sešité březové kúry, nalepené králičí kožky a přicvaknuté ošlapané podkovy a pak s tímhle výtvorem, vonícím smůlou a poctivou prací bouchnout při hře do stolu a zahromovat *"Já že neumím číst?! Jak si vůbec dovolujete pane, při pohledu na tento vzácný manuskript, mě, hrdinovi z bitvy u Kovarů, říkat pravdu do očí?!"*
+Jenže papír je médium stejné krásné, jako stálé a my moc dobře víme, že obsah, který je neměnný, je buďto dokonalý, nebo mrtvý a jelikož *Dračí doupě plus 2* budeme ještě nějaký ten pátek ladit, tak na papír si ho budete muset dát sami. My budeme pravidla vydávat digitálně, internetově a pořád. Jakmile uzraje nějaká změna, nápad, drobnůstka, šup s tím do světa. O tom by se papíru ani nezdálo.
+Malá rada: jestli budete tisknout pravidla laserovou tiskárnou, tak papíry v čaji vyvařujte a nejlépe přežehlete **před** tiskem, protože potom se vám prach namáčknutý fotocitlivým válcem rozvaří a můžete si s výsledkem leda tak zapálit v krbu, vyzkoušeno za vás.
+
 ---
 
 ## Poslové
