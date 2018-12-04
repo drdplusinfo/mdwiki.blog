@@ -216,3 +216,4 @@ A teď si shrneme *odolávání postihu* pravidlově:
 ---
 
 - *předchozí [<< 19. 11. 2018 Vydrž!](2018-11-19-vydrz.md)*
+- *následující [>> 03. 12. 2018 Představy minulosti - *Poslové*](2018-12-03-predstavy_minulosti_poslove.md)*

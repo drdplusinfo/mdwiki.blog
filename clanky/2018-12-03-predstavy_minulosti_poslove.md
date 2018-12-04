@@ -79,4 +79,4 @@ Převzato ze [stránek Altaru](https://www.altar.cz/drdplus/poslove.html)
 
 ---
 
-- *předchozí [<< 22. 10. 2018 Nula](2018-10-22-nula.md)*
+- *předchozí [<< 30. 11. 2018 Unavený vůl](2018-11-30-unaveny_vul.md)*
