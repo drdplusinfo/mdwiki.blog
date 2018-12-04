@@ -1,3 +1,31 @@
+body {
+    font-size: 16px;
+}
+
+h1, .h1 {
+    font-size: 3em;
+}
+
+h2, .h2 {
+    font-size: 2.5em;
+}
+
+h3, .h3 {
+    font-size: 2em;
+}
+
+h4, .h4 {
+    font-size: 1.7em;
+}
+
+h5, .h5 {
+    font-size: 1.4em;
+}
+
+h6, .h6 {
+    font-size: 1.2em
+}
+
 /* hide the main content while we assemble everything */
 .md-hidden-load {
     display: none;
@@ -51,14 +79,12 @@
     /* don't use floating for smaller screens */
     .md-float-left .col-sm-8, .md-float-left .col-sm-4, .md-float-left .col-sm-2 {
         width: 100%;
-        max-width: !important;
-        min-width: 100%;
+        min-width: 100% !important;
     }
 
     .md-float-right .col-sm-8, .md-float-right .col-sm-4, .md-float-right .col-sm-2 {
         width: 100%;
-        max-width: !important;
-        min-width: 100%;
+        min-width: 100% !important;
     }
 }
 
@@ -79,7 +105,6 @@
 }
 
 #md-all .md-copyright-footer {
-    background-color: !important;
     font-size: smaller;
     padding: 1em;
 }
