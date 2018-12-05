@@ -4,18 +4,18 @@
 
 ## Úvodem
 
-Před šestnácti lety byl internet ještě v plenkách (TODO nějakou perličku z historie), v domácnostech si ho užívali jen vyvolení v práci a na sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici čtyři tisíce za měsíc přes jeden z prvních modemů, jehož anténu jsem měl zaraženou mezi střešními taškami a který mě ubezpečoval svým píp pipíp pip, že za minutku se dozvím, jestli budu připojen.
+Před šestnácti lety byl internet ještě v plenkách (TODO nějakou perličku z historie), v domácnostech si ho užívali jen vyvolení v práci a na velkoměstských sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici čtyři tisíce za měsíc přes jeden z prvních modemů, jehož anténu jsem měl zaraženou mezi střešními taškami a který mě ubezpečoval svým píp pipíp pip, že za minutku se dozvím, jestli budu připojen.
 V těchto digitálně dobrodružných dobách původní autoři *Dračího doupěte plus* řešili formu, jakou dostanou pravidla k nám, hráčům a zvolili jednoznačného vítěze, osvědčený papír.
 
-Aby bylo jasno, my papír milujeme. Není nad to pravidlům vytlačeným do celulózy uříznout hřbet, jednotlivé listy vyvařit v černém čaji, kávě, cibulových slupkách nebo co zrovna ve špajzu barví, napatlat seříznuté okraje smrkovou smůlou rozpuštěnou v ředidle (TODO Kód ředidla), provrtat hřebíkem v Narexce, svázat lýkovým provázkem, skrýt je do desek ze sešité březové kúry, nalepené králičí kožky a přicvaknuté ošlapané podkovy a pak s tímhle výtvorem, vonícím lesem a poctivou prací, bouchnout při hře do stolu a zahromovat *"Já že neumím číst?! Jak si vůbec dovolujete pane, při pohledu na tento svatý manuskript, mě, hrdinovi z bitvy u Kovarů, říkat pravdu do očí?!"*
+Aby bylo jasno, my papír milujeme. Není nad to pravidlům vytlačeným do celulózy uříznout hřbet, jednotlivé listy vyvařit v černém čaji, kávě, cibulových slupkách nebo co zrovna ve špajzu barví, napatlat seříznuté okraje smrkovou smůlou rozpuštěnou v ředidle (TODO Kód ředidla), provrtat hřebíkem sklíčeným v Narexce, svázat lýkovým provázkem, skrýt do desek ze sešité březové kúry, nalepené králičí kožky a přicvaknuté ošlapané podkovy a pak s tímhle výtvorem, vonícím lesem a poctivou prací, bouchnout při hře do stolu a zahromovat *"Já že neumím číst?! Jak si vůbec dovolujete pane, při pohledu na tento svatý manuskript, mě, hrdinovi z bitvy u Kovarů, říkat pravdu do očí?!"*
 Jenže papír je médium stejné krásné, jako stálé a my moc dobře víme, že obsah, který je neměnný, je buďto dokonalý, nebo mrtvý a jelikož *Dračí doupě plus 2* budeme ještě nějaký ten pátek ladit, tak si ho na papír budete muset dát sami. My budeme pravidla vydávat digitálně, internetově a pořád. Jakmile uzraje nějaká změna, nápad, drobnůstka, šup s tím do světa. O tom by se papíru ani nezdálo.
 
 Malá rada: jestli budete tisknout pravidla laserovou tiskárnou, tak papíry v černém čaji vyvařujte a nejlépe přežehlete **před** tiskem, protože potom se vám prach (TODO specifikovat prach z laserové tiskárny) namáčknutý fotocitlivým válcem rozvaří a můžete si s výsledkem leda tak zapálit v krbu, vyzkoušeno za vás.
 
 ### Smyslný potlesk
-Ještě než se ponoříme do historie, která nám i po letech má co říct, tak bych chtěl poukázat na tu samozřejmou krásu, která se line zachycenou událostí *Poslů a Patnáctky*. Znovu tak ukazuje, jak důležitý je příběh, jak snadno a přirozeně dokáže čtenářovi zasadit do hlavy smysl a porozumnění.
+Ještě než se ponoříme do historie, která nám i po letech má co říct, tak bych chtěl poukázat na tu samozřejmou krásu, která se line v zachycené události *Poslů a Patnáctky*. Znovu tak ukazuje, jak důležitý je příběh, jak snadno a přirozeně dokáže čtenářovi zasadit do hlavy smysl a porozumění.
 
-Příběh proto nepodceňujte, protože ať už budete mít (TODO největší raketa od space X), sochu způsobující gravitační odchylky (TODO největší socha na světě v Indii) nebo záplatu na zadku v jiné barvě, tak bez příběhu jen těžko předáte ostatním smysl toho všeho a bez smyslu ani jedno nikoho nezajímá.
+Příběh proto nepodceňujte, protože ať už budete mít (TODO největší raketa od space X), sochu způsobující gravitační odchylky (TODO největší socha na světě v Indii) nebo záplatu na zadku v jiné barvě, tak bez příběhu jen těžko předáte ostatním smysl toho všeho a bez smyslu ani jedno nebude nikoho zajímat.
 
 ---
 
@@ -43,7 +43,7 @@ Cože je to za podivnou volbu? Proč dáváme k sobě dvě tak různá povolán�
  „A odpověď?“
  „Odpověď, ctihodní, neexistuje,“ zašeptal hlas a sál naplnilo tíživé ticho.
  „Což žádná z Možností se jim nelíbí, což žádná nevyhovuje formuli lidských přání?“ zeptal se nakonec Čtvrtý. 
- „Lidé jsou zvláštní tvorové, jejich činy nemají řád, natož pak jejich přání,“ odpověděl . „To, co jeden přivítá, druhý odmítne, to, co se jednomu líbí, druhému bude proti mysli. Nebylo Možnosti, která by se zalíbila všem, nebylo však Možnosti, která by si nezískala přízeň mnohých. Byli tací, kterým se líbily všechny Možnosti, byli i tací, kterým se nikdy žádn  á líbit nebude. Vaše otázka tedy nemá odpověď.“ 
+ „Lidé jsou zvláštní tvorové, jejich činy nemají řád, natož pak jejich přání,“ odpověděl . „To, co jeden přivítá, druhý odmítne, to, co se jednomu líbí, druhému bude proti mysli. Nebylo Možnosti, která by se zalíbila všem, nebylo však Možnosti, která by si nezískala přízeň mnohých. Byli tací, kterým se líbily všechny Možnosti, byli i tací, kterým se nikdy žádná líbit nebude. Vaše otázka tedy nemá odpověď.“ 
  „I neexistence odpovědi je jistou odpovědí,“ pravil První a pokynem ruky Posly propustil.*
 
 ---
@@ -66,7 +66,7 @@ Jak vidíte, tento způsob nabízí hráči více možností než systém původ
 
 Zatímco bojovník a čaroděj přistupují ke světu kolem sebe poměrně přímo a podmaňují si jej silou anebo vůlí, zloděj a theurg volí raději méně přímé cesty.
 
-Na tomto místě by možná bylo dobré zmínit se o tom, kdo to vlastně theurg v DrD+ je. Dalo by se říci, že je to jakési spojení mága a theurga z původního DrD. Narozdíl od čaroděje nemá nadání k tomu, aby pracoval přímo s magenergií, nemá schopnosti podřídit ji své vůli. Jeho umění je založeno mnohem více na poznání zákonitostí duševního a astrálního světa a na hledání cest, jak pomocí těchto znalostí dosáhnout svého. Theurg nesesílá naučená kouzla – namísto toho se učí, jak sestavit kouzlo přesně podle svých potřeb a jakými způsoby získat energii k jeho seslání. Práce theurga je totiž založená na spolupráci s astrálními sférami, pomocí kterých dokáže nejen kouzlit, ale třeba i povolávat démony. Navíc je mistr jemných mentálních praktik, především co se týče informací (zatímco vypálit někomu mysl, to je spíše doména čaroděje). Nabízí se tu přirovnání k rozdílu mezi bojovníkem a zlodějem: stejně jako zloděj, i theurg se snaží využít všech možných výhod, které mu prostředí poskytuje, aby dosáhl svého s vynaložením co nejmenšího úsilí; zatímco čaroděj nebo bojovník rozvíjí především sílu vlastního těla nebo mysli a jejich umění se zaměřuje na její využití.
+Na tomto místě by možná bylo dobré zmínit se o tom, kdo to vlastně theurg v DrD+ je. Dalo by se říci, že je to jakési spojení mága a theurga z původního DrD. Na rozdíl od čaroděje nemá nadání k tomu, aby pracoval přímo s magenergií, nemá schopnosti podřídit ji své vůli. Jeho umění je založeno mnohem více na poznání zákonitostí duševního a astrálního světa a na hledání cest, jak pomocí těchto znalostí dosáhnout svého. Theurg nesesílá naučená kouzla – namísto toho se učí, jak sestavit kouzlo přesně podle svých potřeb a jakými způsoby získat energii k jeho seslání. Práce theurga je totiž založená na spolupráci s astrálními sférami, pomocí kterých dokáže nejen kouzlit, ale třeba i povolávat démony. Navíc je mistr jemných mentálních praktik, především co se týče informací (zatímco vypálit někomu mysl, to je spíše doména čaroděje). Nabízí se tu přirovnání k rozdílu mezi bojovníkem a zlodějem: stejně jako zloděj, i theurg se snaží využít všech možných výhod, které mu prostředí poskytuje, aby dosáhl svého s vynaložením co nejmenšího úsilí; zatímco čaroděj nebo bojovník rozvíjí především sílu vlastního těla nebo mysli a jejich umění se zaměřuje na její využití.
 
 Předpokládáme-li, že mnozí hráči si rádi zvolí postavu takovou, která odpovídá jejich způsobu uvažování, pak by hráčům zloděje nebo theurga přímočarý archetypový přístup nemusel vyhovovat. Proto jsme u těchto povolání zvolili přístup o něco složitější, ale dávající hráči téměř absolutní svobodu. Umění theurga i zloděje sestává z velkého množství nejrůznějších dovedností, které si hráč při tvorbě postavy nebo při postupu na další úroveň vybírá zcela dle svého uvážení. Jsou zde samozřejmě mistrovské dovednosti, jejichž zvládnutí je podmíněno znalostí příslušných základních i pokročilých dovedností, ale hráč už není limitován tím, že určitá schopnost je dosažitelná právě určité úrovni – když se na ni bude od začátku soustředit a vybírat si související dovednosti, může se k ní dostat poměrně rychle.
 
@@ -96,16 +96,22 @@ Převzato ze [stránek Altaru](https://www.altar.cz/drdplus/poslove.html)
 
 ## Závěrem
 
-Tři odlišné přístupy vývoje u šesti různých povolání, to je něco mezi šílenstvím a hrdinstvím. Přitom jsme hodněkrát slyšeli, že bojovník je slabý, čaroděj plochý, hraničář podivný, kněz z jiného světa, theurg všemocný a zloděj půlka armády a na tom všem je něco pravdy, ale nidky jsme vlastně neslyšeli přímé odsouzení jednoho z těch tří přístupů.
+Tři odlišné *přístupy* vývoje u šesti různých povolání, to je něco mezi šílenstvím a hrdinstvím, nad kterým se kupodivu hráči nepozastavují. Hodněkrát jsme slyšeli, že bojovník je slabý, čaroděj plochý, hraničář podivný, kněz z jiného světa, theurg všemocný a zloděj půlka armády a na tom všem je něco pravdy, ale vlastně nikdy jsme neslyšeli přímé odsouzení byť jen jednoho z těch tří *přístupů*.
 
-Většina hráčů, kteří si představovali novou verzi Dračího doupěte plus, chtěla jako základ pro povolání použít přístup zloděje, tedy strom dovedností, rostoucí náročnost jejich jednotlivých stupnů a ostatní přístupy ignorovali, byla by ale hloupost ostatní svévolně opustit, že jsou zbytečné. Já kupříkladu nejvíc žeru kněze, tu sílu slova a davu, která rozšiřuje hru o zástupy zoufalců, toužících po Pravdě, což už se nedá říct o našem Pánu jeskyně, ale k tomu se dostaneme.
+Většina hráčů, kteří si představovali novou verzi Dračího doupěte plus, chtěla jako základ pro povolání použít *přístup* zloděje, tedy strom dovedností a rostoucí náročnost jejich jednotlivých stupňů, zatímco ostatní *přístupy* ignorovali, byla by od nás ale hloupost ostatní svévolně opustit a na základě většiny tvrdit, že jsou zbytečné.
+Já kupříkladu nejvíc žeru kněze, tu sílu slova a davu, která rozšiřuje hru o zástupy prostého lidu, toužícího po Pravdě, což už se sice nedá říct o našem Pánu jeskyně, ale to je chybějícím jednoduchým základem, nikoli celkově špatným konceptem.
 
-Proč se těší zlodějský přístup největší popularitě je prostá přehlednost, známá budoucnost, cukříček jménem *kombinace*. Celý svět hraje už několik staletí šachy, přestože nemůžou opustit čtvercovou hrací plochu, přestože všechno co udělají, vidí jejich protivník a žádné překvapení ze zálohy se nekoná. Ale ještě více lidí hraje karty, kde je štěstena dalším hráčem, kde neví, co přijde příští kolo. Tvůrci pravidel obykle milují kombinace a svou zálibu si ukájí tvorbou podmínek, na které nakonec nalepí nějaký znělý název, takže šachy a zlodějský přehledný strom dovedností je pro ně nejpřirozenější. Ale rozhodně to není jediná, nejlepší cesta, hráči jsou různí, s různými talenty, zálibami a duševními zraněními, každý z nich rezonuje s jiným přístupem.
-Prostě a jednoduše je to přesně tak složité, jak před šestnácti lety *Poslové a patnáctka* zjistili, každý chce něco jiného.
+Důvodem, proč se těší zlodějský *přístup* největší popularitě, je prostá přehlednost, jasná budoucnost, cukříček jménem známé *kombinace*. Celý svět hraje kupříkladu už několik staletí šachy, přestože hráči nemůžou opustit čtvercovou herní plochu a přestože všechno, co udělají, vidí jejich protivník a žádné překvapení ze zálohy se nekoná. Ale ještě více lidí hraje karty, kde je štěstěna dalším hráčem a u kterých se může příští kolo všechno změnit.
+Tvůrci pravidel obvykle milují právě *kombinace* a svou zálibu si ukájí tvorbou podmínek, na které nakonec nalepí nějaký znělý název. Pro ně jsou šachy a zlodějský přehledný strom dovedností to nejpřirozenější. Ale rozhodně to není jediná, nejlepší cesta, hráči jsou různí, s různými talenty, zálibami a duševními zraněními, každý z nich rezonuje s jiným *přístupem*, mnoho tvůrců pravidel se rychle po jejich dotvoření vrhnou na další systém, ještě lepší, ještě kombinativnější, bez starých chyb a s novými nápady a vůbec si často lžou do kapsy, jen aby ospravedlnili svou závislost na tvorbě, zatímco hráči bez šachových ambicí zůstávají věrni původnímu systému.
+Prostě a jednoduše je problematika přístupů k povoláním přesně tak složitá, jak před šestnácti lety *Poslové a patnáctka* zjistili. Každý z nás chce prostě něco jiného.
 
-My ještě nevíme, jak to nakonec s přístupem k povoláním bude, ale tušíme už, že potřebují jednotnější základ pro chvíle, kdy se řeší čísla (pracovně tomu říkáme *Ceník moci*), aby povolání na sejných úrovních ovlivňovala svět stejnou silou, ale zároveň nechceme přijít o tu diverzitu, o odlišné přístupy jednotlivých povolání, které vycházejí ze stylu života té které postavy.
+My ještě nevíme, jak to nakonec s *přístupy* k povoláním bude, ale tušíme už, že potřebují jednotnější základ pro chvíle, kdy se řeší čísla (pracovně tomu říkáme *Ceník moci*), aby povolání na stejných úrovních ovlivňovala svět stejnou silou, ale zároveň nechceme přijít o tu diverzitu, o odlišné *přístupy* jednotlivých povolání, které vycházejí k jejich přístupu k životu.
 
-Na pozadí pravidel pro jednotlivá povolání by tedy měly tikat šachy, pro všechny stejná síla zdrojů, ale každé povolání by své zdroje mělo být schopno používat po svém, tak jak si jeho životní filozofie žádá.
+Na pozadí pravidel pro jednotlivá povolání by tedy měly tikat šachy s pevnými pravidly, pro všechny stejná síla zdrojů, ale každé povolání by své zdroje mělo být schopno používat po svém, tak jak si jeho životní filozofie žádá.
+
+### Jednotné zdroje
+
+> Když zdroje, tak pro všechny
 
 Nadhodíme pár příkladů se zdroji a možnostmi
 
@@ -114,7 +120,23 @@ Nadhodíme pár příkladů se zdroji a možnostmi
     - zloděj je dává jako zástavu v boji téměř přímém, mírně nakřivo
     - theurg s nimi může platit sférám
     - čaroděj o ně přichází příliš intenzivními kouzly
-    - TODO kněz a hraničář
+    - kněz dokáže svou životní sílu předat přátelům v nouzi
+    - hraničář dokáže přes svou životní sílu vnímat sílu jiných
+- všichni mají *Únavu*
+    - každý může vložit část své energie do důrazné akce, ať už jde o běžnou činnost, nebo zvláštní schopnost
+
+Jsou to jen nápady, ale cílem je nemít izolovaný zdroj, který by využívala jen některá povolání, zatímco ostatním by jen ležela ladem. Tedy umožnit každému povolání, aby zdroj využíval ku prospěchu všech, v případě zloděje alespoň sobě.
+
+#### Kouzelný oříšek
+
+Velkým oříškem bude magie a čáry obecně, protože zatímco práce s *Únavou* a *Zraněním* je snadno představitelná, tak u magie to zavání beztrestnou všemocností vyvolených. Dnes se běžně stane, že se čaroděj ráno probere se zářící hlavou, opláchne si obličej v bystřině, procvičí ztuhlé svalstvo hrou na mandolínu, načež se vrhne mezi bandu hrdlořezů, aby po chvíli na původních místech zbojníků vycházely lehké obláčky dýmu a čaroděj si s hvízdáním vykračoval do hostince zase si trochu schrupnout.
+K tomu máme zatím jen jeden nápad, zato odvážný a to zrušit magenergii. Platidlem by pak byla *Únava*, kdy pouťový kouzelníček před zraky prosťáčků předvede [Světlo](http://carodej.drdplus.loc/#svetlo) na konci hole, aby za zuřivého potlesku omdlel po třetím přídavku vyčerpáním, zatímco zkušený čaroděj-dobrodruh by si po půl dne studia ve své věži bez oken odskočí na toaletu, překvapen náhle, že si zapomněl zhasnout. Hodně tento nápad opíráme o [Únavu jako...](http://pph.drdplus.loc/#tabulka_unavy_z_pohybu) (postávání, ploužení, chůze, spěch, běh, sprint), která je velmi přehledná, dobře představitelná a jako nevýhodu vidíme zatím jen její malou škálu. Zakouzlíme, uvidíme.
+
+### Prvočísla
+
+Pravidla pro jednotlivá povolání tedy chceme postavit na jednotných základech pro čísla ve výsledcích a náročnosti, chceme ale zachovat velmi odlišná prostředí, ve kterých se povolání cítí jako ryba ve vodě a ve kterých budou mít nesporné výhody oproti ostatním.
+
+Jak moc tahle představa ovlivní současná povolání a styl jejich hraní, to zatím ani neodhadujeme, ale až takový odhad vznikne, nenecháme si ho jen pro sebe.
 
 ---
 
