@@ -37,12 +37,9 @@ I když jsou v DrD+ stále přítomna povolání, vývoj postavy není ani náho
 
 I čaroděj se může učit bojovat, bojovník může trénovat plížení a zloděj má možnost získat znalosti o magii. Omezení povoláním sice způsobí, že se nikdo nevyzná v přírodě tak dobře jako hraničář a nikdo se nebude umět plížit tak tiše jako zloděj, ale přesto budou mít všichni možnost věnovat se alespoň okrajově jakémukoli oboru.
 
-
 A jak je tato volnost v DrD+ řešena? V prvé řadě tu jsou pro všechny postavy tzv. obecné dovednosti. Umožní zlepšovat se ve všech možných oborech a nejsou závislé na povoláních. Patří sem celá řada dovedností, jako je Boj s dýkou, Etiketa podsvětí, Nošení zbroje, Šplh a lezení atd. Hráč si z nich může libovolně vybírat a zlepšovat se v nich podle svého přání.
 
-
 Vedle obecných dovedností tu pak jsou schopnosti povolání, které jsou specifické pro každé povolání a příslušníci každého povolání se mohou učit jen ty svoje. Část schopností povolání je v podstatě zdokonalenou verzí obecných dovedností (jako třeba lepší boj se zbraní) a část dává i úplně nové možnosti (jako je schopnost čarovat nebo naslouchat bohům).
-
 
 Zatímco obecné dovednosti jsou veskrze přirozené a nepřekračují hranice lidských možností, mohou jít schopnosti povolání mnohem, mnohem dále. Dávají nejen např. možnost bojovat lépe než dokáže jakýkoli člověk ve skutečném světě, ale umožní ještě víc. Mocný zloděj se může proměňovat ve stín, nejlepší bojovník dokáže holou pěstí prorazit kamennou zeď a hraničář na vysoké úrovni umí projít ohnivým peklem bez zranění.
 

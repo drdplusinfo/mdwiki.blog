@@ -7,20 +7,21 @@
 Před šestnácti lety byl internet ještě v plenkách (TODO nějakou perličku z historie), v domácnostech si ho užívali jen vyvolení v práci a na sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici čtyři tisíce za měsíc přes jeden z prvních modemů, jehož anténu jsem měl zaraženou mezi střešními taškami a který mě ubezpečoval svým píp pipíp pip, že za minutku se dozvím, jestli budu připojen.
 V těchto digitálně dobrodružných dobách původní autoři *Dračího doupěte plus* řešili formu, jakou dostanou pravidla k nám, hráčům a zvolili jednoznačného vítěze, osvědčený papír.
 
-Aby bylo jasno, my papír milujeme. Není nad to pravidlům vytlačeným do celulózy uříznout hřbet, jednotlivé listy vyvařit v černém čaji, kávě, cibulových slupkách nebo co zrovna ve špajzu barví, napatlat seříznuté okraje smůlou rozpuštěnou v ředidle (TODO Kód ředidla), provrtat hřebíkem v Narexce, svázat lýkovým provázkem, skrýt je do desek ze sešité březové kúry, nalepené králičí kožky a přicvaknuté ošlapané podkovy a pak s tímhle výtvorem, vonícím smůlou a poctivou prací, bouchnout při hře do stolu a zahromovat *"Já že neumím číst?! Jak si vůbec dovolujete pane, při pohledu na tento svatý manuskript, mě, hrdinovi z bitvy u Kovarů, říkat pravdu do očí?!"*
+Aby bylo jasno, my papír milujeme. Není nad to pravidlům vytlačeným do celulózy uříznout hřbet, jednotlivé listy vyvařit v černém čaji, kávě, cibulových slupkách nebo co zrovna ve špajzu barví, napatlat seříznuté okraje smrkovou smůlou rozpuštěnou v ředidle (TODO Kód ředidla), provrtat hřebíkem v Narexce, svázat lýkovým provázkem, skrýt je do desek ze sešité březové kúry, nalepené králičí kožky a přicvaknuté ošlapané podkovy a pak s tímhle výtvorem, vonícím lesem a poctivou prací, bouchnout při hře do stolu a zahromovat *"Já že neumím číst?! Jak si vůbec dovolujete pane, při pohledu na tento svatý manuskript, mě, hrdinovi z bitvy u Kovarů, říkat pravdu do očí?!"*
 Jenže papír je médium stejné krásné, jako stálé a my moc dobře víme, že obsah, který je neměnný, je buďto dokonalý, nebo mrtvý a jelikož *Dračí doupě plus 2* budeme ještě nějaký ten pátek ladit, tak si ho na papír budete muset dát sami. My budeme pravidla vydávat digitálně, internetově a pořád. Jakmile uzraje nějaká změna, nápad, drobnůstka, šup s tím do světa. O tom by se papíru ani nezdálo.
-Malá rada: jestli budete tisknout pravidla laserovou tiskárnou, tak papíry v čaji vyvařujte a nejlépe přežehlete **před** tiskem, protože potom se vám prach (TODO specifikovat prach z laserové tiskárny) namáčknutý fotocitlivým válcem rozvaří a můžete si s výsledkem leda tak zapálit v krbu, vyzkoušeno za vás.
+
+Malá rada: jestli budete tisknout pravidla laserovou tiskárnou, tak papíry v černém čaji vyvařujte a nejlépe přežehlete **před** tiskem, protože potom se vám prach (TODO specifikovat prach z laserové tiskárny) namáčknutý fotocitlivým válcem rozvaří a můžete si s výsledkem leda tak zapálit v krbu, vyzkoušeno za vás.
 
 ### Smyslný potlesk
 Ještě než se ponoříme do historie, která nám i po letech má co říct, tak bych chtěl poukázat na tu samozřejmou krásu, která se line zachycenou událostí *Poslů a Patnáctky*. Znovu tak ukazuje, jak důležitý je příběh, jak snadno a přirozeně dokáže čtenářovi zasadit do hlavy smysl a porozumnění.
 
-Nepodceňujte příběh, protože ať už budete mít (TODO největší raketa od space X), sochu způsobující gravitační odchylky (TODO největší socha na světě v Indii) nebo záplatu na zadku v jiné barvě, tak bez příběhu jen těžko předáte ostatním jejich smysl a bez smyslu ani jedno nikoho nezajímá.
+Příběh proto nepodceňujte, protože ať už budete mít (TODO největší raketa od space X), sochu způsobující gravitační odchylky (TODO největší socha na světě v Indii) nebo záplatu na zadku v jiné barvě, tak bez příběhu jen těžko předáte ostatním smysl toho všeho a bez smyslu ani jedno nikoho nezajímá.
 
 ---
 
-## Poslové
+**(24. 6. 2002)**
 
-*24. 6. 2002*
+## Poslové
 
 Až poprvé spatříte Dračí doupě Plus na pultech obchodů, možná budete překvapeni tím, do kolika knih a jakým způsobem je rozčleněno. Tedy byli byste překvapeni, kdybyste si nepřečetli tento článek.
 
@@ -90,6 +91,30 @@ Jednotlivé systémy vývoje postavy ve skutečnosti stojí na stejných základ
 AD 2002-06-24, Altar
 
 Převzato ze [stránek Altaru](https://www.altar.cz/drdplus/poslove.html)
+
+---
+
+## Závěrem
+
+Tři odlišné přístupy vývoje u šesti různých povolání, to je něco mezi šílenstvím a hrdinstvím. Přitom jsme hodněkrát slyšeli, že bojovník je slabý, čaroděj plochý, hraničář podivný, kněz z jiného světa, theurg všemocný a zloděj půlka armády a na tom všem je něco pravdy, ale nidky jsme vlastně neslyšeli přímé odsouzení jednoho z těch tří přístupů.
+
+Většina hráčů, kteří si představovali novou verzi Dračího doupěte plus, chtěla jako základ pro povolání použít přístup zloděje, tedy strom dovedností, rostoucí náročnost jejich jednotlivých stupnů a ostatní přístupy ignorovali, byla by ale hloupost ostatní svévolně opustit, že jsou zbytečné. Já kupříkladu nejvíc žeru kněze, tu sílu slova a davu, která rozšiřuje hru o zástupy zoufalců, toužících po Pravdě, což už se nedá říct o našem Pánu jeskyně, ale k tomu se dostaneme.
+
+Proč se těší zlodějský přístup největší popularitě je prostá přehlednost, známá budoucnost, cukříček jménem *kombinace*. Celý svět hraje už několik staletí šachy, přestože nemůžou opustit čtvercovou hrací plochu, přestože všechno co udělají, vidí jejich protivník a žádné překvapení ze zálohy se nekoná. Ale ještě více lidí hraje karty, kde je štěstena dalším hráčem, kde neví, co přijde příští kolo. Tvůrci pravidel obykle milují kombinace a svou zálibu si ukájí tvorbou podmínek, na které nakonec nalepí nějaký znělý název, takže šachy a zlodějský přehledný strom dovedností je pro ně nejpřirozenější. Ale rozhodně to není jediná, nejlepší cesta, hráči jsou různí, s různými talenty, zálibami a duševními zraněními, každý z nich rezonuje s jiným přístupem.
+Prostě a jednoduše je to přesně tak složité, jak před šestnácti lety *Poslové a patnáctka* zjistili, každý chce něco jiného.
+
+My ještě nevíme, jak to nakonec s přístupem k povoláním bude, ale tušíme už, že potřebují jednotnější základ pro chvíle, kdy se řeší čísla (pracovně tomu říkáme *Ceník moci*), aby povolání na sejných úrovních ovlivňovala svět stejnou silou, ale zároveň nechceme přijít o tu diverzitu, o odlišné přístupy jednotlivých povolání, které vycházejí ze stylu života té které postavy.
+
+Na pozadí pravidel pro jednotlivá povolání by tedy měly tikat šachy, pro všechny stejná síla zdrojů, ale každé povolání by své zdroje mělo být schopno používat po svém, tak jak si jeho životní filozofie žádá.
+
+Nadhodíme pár příkladů se zdroji a možnostmi
+
+- všichni mají *Životy*, respektive *Zranění*
+    - bojovník je dává všanc v přímém souboji
+    - zloděj je dává jako zástavu v boji téměř přímém, mírně nakřivo
+    - theurg s nimi může platit sférám
+    - čaroděj o ně přichází příliš intenzivními kouzly
+    - TODO kněz a hraničář
 
 ---
 

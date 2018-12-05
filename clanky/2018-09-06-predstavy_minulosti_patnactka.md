@@ -13,9 +13,9 @@ O jednom ze způsobů, jak se nezamotat do velkých projektů, budu psát někdy
 
 ---
 
-## Boží obavy
-
 **(23.1.2002)**
+
+## Boží obavy
 
 *"Lidé... nevěřím lidem..." pronesl Třetí, "chtěli by všechno hned..."
 "Máš pravdu, chybí jim trpělivost trpaslíků, vyrovnanost a odstup elfů i poklid hobitího života..." pokýval hlavou Osmý. "Přesto však... je na nich něco... fascinujícího..."
