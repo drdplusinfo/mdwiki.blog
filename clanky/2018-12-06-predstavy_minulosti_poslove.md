@@ -4,18 +4,18 @@
 
 ## Úvodem
 
-Před šestnácti lety byl internet ještě v plenkách (TODO nějakou perličku z historie), který si v domácnostech užívali jen vyvolení na velkoměstských sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici čtyři tisíce za měsíc přes modem od Sagemu, jehož anténu jsem měl zaraženou mezi střešními taškami a který mě přes kroucenou dvoulinku ubezpečoval svým píp pipíp pip, že za minutku se dozvím, jestli budu připojen.
+Před šestnácti lety byl internet ještě [v plenkách](https://www.computerhope.com/history/2002.htm), v domácnostech si ho užívali jen vyvolení na velkoměstských sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici čtyři tisíce za měsíc přes modem od Sagemu, jehož anténu jsem měl zaraženou mezi střešními taškami a který mě přes kroucenou dvoulinku ubezpečoval svým píp pipíp pip, že za minutku se dozvím, jestli budu připojen.
 V těchto digitálně dobrodružných dobách původní autoři *Dračího doupěte plus* řešili formu, jakou dostanou pravidla k nám, hráčům a zvolili jednoznačného vítěze, osvědčený papír.
 
-Aby bylo jasno, my papír milujeme. Není nad to pravidlům vytlačeným do celulózy uříznout hřbet, jednotlivé listy vyvařit v černém čaji, kávě, cibulových slupkách nebo co zrovna ve špajzu barví, napatlat seříznuté okraje smrkovou smůlou rozpuštěnou v ředidle (TODO Kód ředidla), provrtat hřebíkem sklíčeným v Narexce, svázat lýkovým provázkem, skrýt do desek ze sešité březové kúry, nalepené králičí kožky a přicvaknuté ošlapané podkovy a pak s tímhle výtvorem, vonícím lesem a poctivou prací, bouchnout při hře do stolu a zahromovat *"Já že neumím číst?! Jak si vůbec dovolujete pane, při pohledu na tento svatý manuskript, mě, hrdinovi z bitvy u Kovarů, říkat pravdu do očí?!"*
+Aby bylo jasno, my papír milujeme. Není nad to pravidlům vytlačeným do celulózy uříznout hřbet, jednotlivé listy vyvařit v černém čaji, kávě, cibulových slupkách nebo co zrovna ve špajzu barví, napatlat seříznuté okraje smrkovou smůlou rozpuštěnou v ředidle S 6005, provrtat hřebíkem sklíčeným v Narexce, svázat lýkovým provázkem, skrýt do desek ze sešité březové kúry, nalepené králičí kožky a přicvaknuté ošlapané podkovy a pak s tímhle výtvorem, vonícím lesem a poctivou prací, bouchnout při hře do stolu a zahromovat *"Já že neumím číst?! Jak si vůbec dovolujete pane, při pohledu na tento svatý manuskript, mě, hrdinovi z bitvy u Kovarů, říkat pravdu do očí?!"*
 Jenže papír je médium stejné krásné, jako stálé a my moc dobře víme, že obsah, který je neměnný, je buďto dokonalý, nebo mrtvý a jelikož *Dračí doupě plus 2* budeme ještě nějaký ten pátek ladit, tak si ho na papír budete muset dát sami. My budeme pravidla vydávat digitálně, internetově a pořád. Jakmile uzraje nějaká změna, nápad, drobnůstka, šup s tím do světa. O tom by se papíru ani nezdálo.
 
-Malá rada: jestli budete tisknout pravidla laserovou tiskárnou, tak papíry v černém čaji vyvařujte a nejlépe přežehlete **před** tiskem, protože potom by se vám prach (TODO specifikovat prach z laserové tiskárny) namáčknutý fotocitlivým válcem odloupal a s výsledkem byste si mohli leda tak zapálit v krbu, vyzkoušeno za vás.
+Malá rada: jestli budete tisknout pravidla laserovou tiskárnou, tak papíry v černém čaji vyvařujte a nejlépe přežehlete **před** tiskem, protože potom by se vám toner namáčknutý zažehlovacím válcem odloupal a s výsledkem byste si mohli leda tak zapálit v krbu, vyzkoušeno za vás.
 
 ### Smyslný potlesk
 Ještě než se ponoříme do historie, která nám i po letech má co říct, tak bych chtěl poukázat na tu samozřejmou krásu, která se line v zachycené události *Poslů a Patnáctky*. Znovu tak ukazuje, jak důležitý je příběh, jak snadno a přirozeně dokáže čtenářovi zasadit do hlavy smysl a porozumění.
 
-Příběh proto nepodceňujte, protože ať už budete mít (TODO největší raketa od space X), sochu způsobující gravitační odchylky (TODO největší socha na světě v Indii) nebo záplatu na zadku v jiné barvě, tak bez příběhu jen těžko předáte ostatním smysl toho všeho a bez smyslu ani jedno nebude nikoho zajímat.
+Příběh proto nepodceňujte, protože ať už budete mít na dvorku [Falcon heavy](https://www.spacex.com/falcon-heavy), [sochu tak velkou](https://echo24.cz/a/Siwca/indie-odhalila-nejvetsi-sochu-sveta-je-dvakrat-vyssi-nez-socha-svobody),že způsobuje gravitační odchylky nebo záplatu na zadku v jiné barvě, tak bez příběhu jen těžko předáte ostatním smysl toho všeho a bez smyslu ani jedno nebude nikoho zajímat.
 
 ---
 
