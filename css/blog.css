@@ -1,5 +1,7 @@
 body {
     font-size: 16px;
+    background: url(/images/rules-background.png?version=40fd24846865c459e4f38300e2ae9377) repeat-y #FFEDD5 left fixed;
+    background-size: contain;
 }
 
 h1, .h1 {
@@ -107,4 +109,16 @@ h6, .h6 {
 #md-all .md-copyright-footer {
     font-size: smaller;
     padding: 1em;
+}
+
+.panel {
+    background-color: transparent;
+}
+
+.list-group {
+    background-color: transparent;
+}
+
+.list-group-item {
+    background-color: transparent;
 }
