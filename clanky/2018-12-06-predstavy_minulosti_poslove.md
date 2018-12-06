@@ -4,18 +4,18 @@
 
 ## Úvodem
 
-Před šestnácti lety byl internet ještě [v plenkách](https://www.computerhope.com/history/2002.htm), v domácnostech si ho užívali jen vyvolení na velkoměstských sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici čtyři tisíce za měsíc přes modem od Sagemu, jehož anténu jsem měl zaraženou mezi střešními taškami a který mě přes kroucenou dvoulinku ubezpečoval svým píp pipíp pip, že za minutku se dozvím, jestli budu připojen.
+Před šestnácti lety byl internet ještě [v plenkách](https://www.computerhope.com/history/2002.htm), stálé připojení si užívali jen vyvolení na velkoměstských sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici během měsíce čtyři tisíce přes modem od Sagemu, jehož anténu jsem měl zaraženou mezi střešními taškami kvůli menším výpadkům a který mě přes kroucenou dvoulinku ubezpečoval svým píp pipíp pip, že za minutku se dozvím, jestli budu připojen.
 V těchto digitálně dobrodružných dobách původní autoři *Dračího doupěte plus* řešili formu, jakou dostanou pravidla k nám, hráčům a zvolili jednoznačného vítěze, osvědčený papír.
 
-Aby bylo jasno, my papír milujeme. Není nad to pravidlům vytlačeným do celulózy uříznout hřbet, jednotlivé listy vyvařit v černém čaji, kávě, cibulových slupkách nebo co zrovna ve špajzu barví, napatlat seříznuté okraje smrkovou smůlou rozpuštěnou v ředidle S 6005, provrtat hřebíkem sklíčeným v Narexce, svázat lýkovým provázkem, skrýt do desek ze sešité březové kúry, nalepené králičí kožky a přicvaknuté ošlapané podkovy a pak s tímhle výtvorem, vonícím lesem a poctivou prací, bouchnout při hře do stolu a zahromovat *"Já že neumím číst?! Jak si vůbec dovolujete pane, při pohledu na tento svatý manuskript, mě, hrdinovi z bitvy u Kovarů, říkat pravdu do očí?!"*
+Aby bylo jasno, my papír milujeme. Není nad to pravidlům vytlačeným do celulózy uříznout hřbet, jednotlivé listy vyvařit v černém čaji od Jemči, napatlat seříznuté okraje smrkovou smůlou rozpuštěnou v ředidle S 6005, provrtat hřebíkem sklíčeným v Narexce, svázat lýkovým provázkem, skrýt do desek ze sešité březové kúry, nalepené králičí kožky a přicvaknuté ošlapané podkovy a pak s tímhle výtvorem, vonícím lesem a poctivou prací, bouchnout při hře do stolu a zahromovat *"Já že neumím číst?! Jak si vůbec dovolujete pane, při pohledu na tento svatý manuskript, mě, hrdinovi z bitvy u Kovarů, říkat pravdu do očí?!"*
 Jenže papír je médium stejné krásné, jako stálé a my moc dobře víme, že obsah, který je neměnný, je buďto dokonalý, nebo mrtvý a jelikož *Dračí doupě plus 2* budeme ještě nějaký ten pátek ladit, tak si ho na papír budete muset dát sami. My budeme pravidla vydávat digitálně, internetově a pořád. Jakmile uzraje nějaká změna, nápad, drobnůstka, šup s tím do světa. O tom by se papíru ani nezdálo.
 
 Malá rada: jestli budete tisknout pravidla laserovou tiskárnou, tak papíry v černém čaji vyvařujte a nejlépe přežehlete **před** tiskem, protože potom by se vám toner namáčknutý zažehlovacím válcem odloupal a s výsledkem byste si mohli leda tak zapálit v krbu, vyzkoušeno za vás.
 
-### Smyslný potlesk
+### Smyslný příběh
 Ještě než se ponoříme do historie, která nám i po letech má co říct, tak bych chtěl poukázat na tu samozřejmou krásu, která se line v zachycené události *Poslů a Patnáctky*. Znovu tak ukazuje, jak důležitý je příběh, jak snadno a přirozeně dokáže čtenářovi zasadit do hlavy smysl a porozumění.
 
-Příběh proto nepodceňujte, protože ať už budete mít na dvorku [Falcon heavy](https://www.spacex.com/falcon-heavy), [sochu tak velkou](https://echo24.cz/a/Siwca/indie-odhalila-nejvetsi-sochu-sveta-je-dvakrat-vyssi-nez-socha-svobody),že způsobuje gravitační odchylky nebo záplatu na zadku v jiné barvě, tak bez příběhu jen těžko předáte ostatním smysl toho všeho a bez smyslu ani jedno nebude nikoho zajímat.
+Příběh proto nepodceňujte, protože ať už budete mít na dvorku [Falcon heavy](https://www.spacex.com/falcon-heavy), za náhonem [sochu tak velkou](https://echo24.cz/a/Siwca/indie-odhalila-nejvetsi-sochu-sveta-je-dvakrat-vyssi-nez-socha-svobody), že způsobuje gravitační odchylky nebo záplatu na zadku v jiné barvě, tak bez příběhu jen těžko předáte ostatním smysl toho všeho a bez smyslu ani jedno nebude nikoho zajímat.
 
 ---
 
@@ -98,16 +98,18 @@ Převzato ze [stránek Altaru](https://www.altar.cz/drdplus/poslove.html)
 
 Tři odlišné *přístupy* vývoje u šesti různých povolání, to je něco mezi šílenstvím a hrdinstvím, nad kterým se kupodivu hráči nepozastavují. Hodněkrát jsme slyšeli, že bojovník je slabý, čaroděj plochý, hraničář podivný, kněz z jiného světa, theurg všemocný a zloděj půlka armády a na tom všem je něco pravdy, ale vlastně nikdy jsme neslyšeli přímé odsouzení byť jen jednoho z těch tří *přístupů*.
 
-Většina hráčů, kteří si představovali novou verzi Dračího doupěte plus, chtěla jako základ pro povolání použít *přístup* zloděje, tedy strom dovedností a rostoucí náročnost jejich jednotlivých stupňů, zatímco ostatní *přístupy* ignorovali, byla by od nás ale hloupost ostatní svévolně opustit a na základě většiny tvrdit, že jsou zbytečné.
+Většina tvůrců-teoretiků, kteří si představovali novou verzi Dračího doupěte plus, chtěla jako základ pro povolání použít *přístup* zloděje, tedy strom dovedností a rostoucí náročnost jejich jednotlivých stupňů, zatímco ostatní *přístupy* ignorovali, byla by od nás ale hloupost ostatní *přístupy* svévolně opustit a na základě tvůrčí většiny tvrdit, že jsou zbytečné.
 Já kupříkladu nejvíc žeru kněze, tu sílu slova a davu, která rozšiřuje hru o zástupy prostého lidu, toužícího po Pravdě, což už se sice nedá říct o našem Pánu jeskyně, ale to je chybějícím jednoduchým základem, nikoli celkově špatným konceptem.
 
-Důvodem, proč se těší zlodějský *přístup* největší popularitě, je prostá přehlednost, jasná budoucnost, cukříček jménem známé *kombinace*. Celý svět hraje kupříkladu už několik staletí šachy, přestože hráči nemůžou opustit čtvercovou herní plochu a přestože všechno, co udělají, vidí jejich protivník a žádné překvapení ze zálohy se nekoná. Ale ještě více lidí hraje karty, kde je štěstěna dalším hráčem a u kterých se může příští kolo všechno změnit.
-Tvůrci pravidel obvykle milují právě *kombinace* a svou zálibu si ukájí tvorbou podmínek, na které nakonec nalepí nějaký znělý název. Pro ně jsou šachy a zlodějský přehledný strom dovedností to nejpřirozenější. Ale rozhodně to není jediná, nejlepší cesta, hráči jsou různí, s různými talenty, zálibami a duševními zraněními, každý z nich rezonuje s jiným *přístupem*, mnoho tvůrců pravidel se rychle po jejich dotvoření vrhnou na další systém, ještě lepší, ještě kombinativnější, bez starých chyb a s novými nápady a vůbec si často lžou do kapsy, jen aby ospravedlnili svou závislost na tvorbě, zatímco hráči bez šachových ambicí zůstávají věrni původnímu systému.
-Prostě a jednoduše je problematika přístupů k povoláním přesně tak složitá, jak před šestnácti lety *Poslové a patnáctka* zjistili. Každý z nás chce prostě něco jiného.
+Důvodem, proč se těší zlodějský *přístup* největší popularitě, je prostá přehlednost, jasná budoucnost, cukříček jménem * **známé** kombinace*. Celý svět hraje kupříkladu už několik staletí šachy, přestože hráči nemůžou opustit titěrnou čtvercovou herní plochu a přestože všechno, co udělají, vidí jejich protivník a žádné překvapení ze zálohy se nekoná.
+
+Tvůrci pravidel obvykle milují právě *kombinace* a svou zálibu si ukájí tvorbou podmínek, na které nakonec nalepí nějaký znělý název. Pro ně jsou šachy a zlodějský přehledný strom dovedností to nejpřirozenější. Ale rozhodně to není jediná, nejlepší cesta, hráči jsou různí, s různými talenty, zálibami a duševními zraněními, každý z nich rezonuje s jiným *přístupem*.
+Zatímco mnoho tvůrců pravidel se po jejich dotvoření rychle vrhnou na další systém, ještě lepší, ještě kombinativnější, bez starých chyb a s novými nápady a vůbec si často lžou do kapsy, jen aby ospravedlnili svou závislost na tvorbě, tak běžní hráči bez šachových ambicí zůstávají věrni původnímu systému.
+Prostě a jednoduše je problematika přístupů k povoláním přesně tak složitá, jak před šestnácti lety *Poslové a patnáctka* zjistili. **Každý z nás chce prostě něco jiného**.
 
 My ještě nevíme, jak to nakonec s *přístupy* k povoláním bude, ale tušíme už, že potřebují jednotnější základ pro chvíle, kdy se řeší čísla (pracovně tomu říkáme *Ceník moci*), aby povolání na stejných úrovních ovlivňovala svět stejnou silou, ale zároveň nechceme přijít o tu diverzitu, o odlišné *přístupy* jednotlivých povolání, které vycházejí k jejich přístupu k životu.
 
-Na pozadí pravidel pro jednotlivá povolání by tedy měly tikat šachy s pevnými pravidly, pro všechny stejná síla zdrojů, ale každé povolání by své zdroje mělo být schopno používat po svém, tak jak si jeho životní filozofie žádá.
+Na pozadí pravidel pro jednotlivá povolání by tedy měly tikat šachy s pevnými pravidly, se stejnou silou zdrojů pro všechny, ale každé povolání by zdroje mělo být schopno používat po svém, tak jak si jeho životní filozofie žádá.
 
 ### Jednotné zdroje
 
@@ -121,15 +123,15 @@ Nadhodíme pár příkladů se zdroji a možnostmi
     - theurg s nimi může platit sférám
     - čaroděj o ně přichází příliš intenzivními kouzly
     - kněz dokáže svou životní sílu předat přátelům v nouzi
-    - hraničář dokáže přes svou životní sílu vnímat sílu jiných
+    - hraničář dokáže přes svou životní sílu vnímat a ovlivňovat sílu jiných
 - všichni mají *Únavu*
     - každý může vložit část své energie do důrazné akce, ať už jde o běžnou činnost, nebo zvláštní schopnost
 
-Jsou to jen nápady, ale cílem je nemít izolovaný zdroj, který by využívala jen některá povolání, zatímco ostatním by jen ležela ladem. Tedy umožnit každému povolání, aby zdroj využíval ku prospěchu všech, v případě zloděje alespoň sobě.
+Zatím to jsou jen nápady, ale cílem je nemít izolovaný zdroj, který by využívala pouze některá povolání, zatímco ostatním by jen ležela ladem. Tedy umožnit každému povolání, aby zdroj využíval ku prospěchu všech, v případě zloděje alespoň ku prospěchu sobě.
 
 #### Kouzelný oříšek
 
-Velkým oříškem bude magie a čáry obecně, protože zatímco práce s *Únavou* a *Zraněním* je snadno představitelná, tak u magie to zavání beztrestnou všemocností vyvolených. Dnes se běžně stane, že se čaroděj ráno probere se zářící hlavou, opláchne si obličej v bystřině, procvičí ztuhlé svalstvo hrou na mandolínu, načež se vrhne mezi bandu hrdlořezů, aby po chvíli na původních místech zbojníků vycházely lehké obláčky dýmu a čaroděj si s hvízdáním vykračoval do hostince zase si trochu schrupnout.
+Velkým oříškem bude magie a čáry obecně, protože zatímco práce s *Únavou* a *Zraněním* je snadno představitelná, tak u magie to zavání beztrestnou všemocností vyvolených. Dnes se běžně stane, že se čaroděj ráno probere se zářící hlavou, opláchne si obličej v bystřině, procvičí ztuhlé svalstvo hrou na mandolínu, načež se vrhne mezi bandu hrdlořezů, aby po chvíli na původních místech zbojníků vycházely lehké obláčky dýmu a čaroděj si s hvízdáním vykračoval do hostince počkat u zelňačky zas na půlnoc.
 K tomu máme zatím jen jeden nápad, zato odvážný a to zrušit magenergii. Platidlem by pak byla *Únava*, kdy pouťový kouzelníček před zraky prosťáčků předvede [Světlo](https://carodej.drdplus.info/?version=1.0&trial=1#svetlo) na konci hole, aby za zuřivého potlesku omdlel po třetím přídavku vyčerpáním, zatímco zkušený čaroděj-dobrodruh by si po půl dne studia ve své věži bez oken odskočí na toaletu, překvapen náhle, že si zapomněl zhasnout. Hodně tento nápad opíráme o [Únavu jako...](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu) (postávání, ploužení, chůze, spěch, běh, sprint), která je velmi přehledná, dobře představitelná a jako nevýhodu vidíme zatím jen její malou škálu. Zakouzlíme, uvidíme.
 
 ### Prvočísla

@@ -138,3 +138,11 @@ h6, .h6 {
     padding: 0.3em 0.5em;
     line-height: normal;
 }
+
+hr {
+    border-top: 1px solid #cbbdaa;
+}
+
+blockquote {
+    border-left: 5px solid #cbbdaa;
+}
