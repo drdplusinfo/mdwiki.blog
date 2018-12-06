@@ -122,3 +122,19 @@ h6, .h6 {
 .list-group-item {
     background-color: transparent;
 }
+
+.navbar {
+    background-color: #cbbdaa;
+    margin-bottom: 0;
+    min-height: auto;
+}
+
+.navbar-brand {
+    padding: 0.3em 0.5em;
+    line-height: normal;
+}
+
+.nav > li > a {
+    padding: 0.3em 0.5em;
+    line-height: normal;
+}

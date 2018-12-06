@@ -880,19 +880,19 @@ function googlemapsReady() {
         if (!(a("#md-menu").length <= 0)) {
             o = "top";
             var b = a("#md-menu").children(), c = "";
-            c += '<div id="md-main-navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">', c += '<div class="navbar-header">', c += '<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">', c += '<span class="sr-only">Toggle navigation</span>', c += '<span class="icon-bar"></span>', c += '<span class="icon-bar"></span>', c += '<span class="icon-bar"></span>', c += "</button>", c += '<a class="navbar-brand" href="#"></a>', c += "</div>", c += '<div class="collapse navbar-collapse navbar-ex1-collapse">', c += '<ul class="nav navbar-nav" />', c += '<ul class="nav navbar-nav navbar-right" />', c += "</div>", c += "</div>";
+            c += '<div id="md-main-navbar" class="navbar navbar-default navbar-static-top" role="navigation">', c += '<div class="navbar-header">', c += '<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">', c += '<span class="sr-only">Toggle navigation</span>', c += '<span class="icon-bar"></span>', c += '<span class="icon-bar"></span>', c += '<span class="icon-bar"></span>', c += "</button>", c += '<a class="navbar-brand" href="#"></a>', c += "</div>", c += '<div class="collapse navbar-collapse navbar-ex1-collapse">', c += '<ul class="nav navbar-nav" />', c += '<ul class="nav navbar-nav navbar-right" />', c += "</div>", c += "</div>";
             var e = a(c);
             e.appendTo("#md-menu"), a("#md-menu ul.nav").eq(0).append(b), a("#md-menu").prependTo("#md-all");
             var f = a("#md-menu h1").toptext();
-            a("#md-menu h1").remove(), a("a.navbar-brand").text(f), a("#md-body").css("margin-top", "70px"), a.md.stage("pregimmick").subscribe(function (a) {
+            a("#md-menu h1").remove(), a("a.navbar-brand").text(f), a.md.stage("pregimmick").subscribe(function (a) {
                 d(), a()
             })
         }
     }
 
     function c() {
-        var b = a("#md-main-navbar").height() + 10;
-        a("#md-body").css("margin-top", b + "px")
+        /*var b = a("#md-main-navbar").height() + 10;
+        a("#md-body").css("margin-top", b + "px")*/
     }
 
     function d() {
@@ -900,15 +900,10 @@ function googlemapsReady() {
             return b = a("#md-main-navbar").height(), b > 35 && 481 > b
         }, 25);
         d.done(function () {
-            b = a("#md-main-navbar").height(), c();
+            b = a("#md-main-navbar").height();
             var d = a.md.util.repeatUntil(20, function () {
                 return b !== a("#md-main-navbar").height()
             }, 25);
-            d.done(function () {
-                c()
-            }), a.md.util.wait(2e3).done(function () {
-                c()
-            })
         })
     }
 
