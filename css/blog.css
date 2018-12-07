@@ -136,7 +136,7 @@ h6, .h6 {
 
 .nav > li > a {
     padding: 0.3em 0.5em;
-    line-height: normal;
+    line-height: inherit;
 }
 
 hr {
