@@ -1,6 +1,6 @@
 # Představy minulosti - *Poslové*
 
-*6. 12. 2018*
+*7. 12. 2018*
 
 ## Úvodem
 
