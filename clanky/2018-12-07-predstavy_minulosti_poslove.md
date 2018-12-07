@@ -15,7 +15,7 @@ Malá rada: jestli budete tisknout pravidla laserovou tiskárnou, tak papíry v 
 ### Smyslný příběh
 Ještě než se ponoříme do historie, která nám i po letech má co říct, tak bych chtěl poukázat na tu samozřejmou krásu, která se line v zachycené události *Poslů a Patnáctky*. Znovu tak ukazuje, jak důležitý je příběh, jak snadno a přirozeně dokáže čtenářovi zasadit do hlavy smysl a porozumění.
 
-Příběh proto nepodceňujte, protože ať už budete mít na dvorku [Falcon heavy](https://www.spacex.com/falcon-heavy), za náhonem [sochu tak velkou](https://echo24.cz/a/Siwca/indie-odhalila-nejvetsi-sochu-sveta-je-dvakrat-vyssi-nez-socha-svobody), že způsobuje gravitační odchylky nebo záplatu na zadku v jiné barvě, tak bez příběhu jen těžko předáte ostatním smysl toho všeho a bez smyslu ani jedno nebude nikoho zajímat.
+Příběh proto nepodceňujte, protože ať už budete mít na dvorku [Falcon heavy](https://www.spacex.com/falcon-heavy), za náhonem [sochu tak velkou](https://echo24.cz/a/Siwca/indie-odhalila-nejvetsi-sochu-sveta-je-dvakrat-vyssi-nez-socha-svobody), že způsobuje gravitační odchylky, nebo záplatu na zadku v jiné barvě, tak bez příběhu jen těžko předáte ostatním smysl toho všeho a bez smyslu ani jedno nebude nikoho zajímat.
 
 ---
 
