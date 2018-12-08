@@ -107,7 +107,7 @@ Tvůrci pravidel obvykle milují právě *kombinace* a svou zálibu si ukájí t
 Zatímco mnoho tvůrců pravidel se po jejich dotvoření rychle vrhnou na další systém, ještě lepší, ještě kombinativnější, bez starých chyb a s novými nápady a vůbec často lžou sami sobě, jen aby ospravedlnili svou závislost na tvorbě, tak běžní hráči bez šachových ambicí zůstávají věrni původnímu systému.
 Prostě a jednoduše je problematika přístupů k povoláním přesně tak složitá, jak před šestnácti lety *Poslové a patnáctka* zjistili. **Každý z nás chce prostě něco jiného**.
 
-My ještě nevíme, jak to nakonec s *přístupy* k povoláním bude, ale tušíme už, že potřebují jednotnější základ pro chvíle, kdy se řeší čísla (pracovně tomu říkáme *Ceník moci*), aby povolání na stejných úrovních ovlivňovala svět stejnou silou, ale zároveň nechceme přijít o tu diverzitu, o odlišné *přístupy* jednotlivých povolání, které vycházejí k jejich přístupu k životu.
+My ještě nevíme, jak to nakonec s *přístupy* k povoláním bude, ale tušíme už, že potřebují jednotnější základ pro chvíle, kdy se řeší čísla (pracovně tomu říkáme *Ceník moci*), aby povolání na stejných úrovních ovlivňovala svět stejnou silou, ale zároveň nechceme přijít o tu diverzitu, o odlišné *přístupy* jednotlivých povolání, které vycházejí z jejich přístupu k životu.
 
 Na pozadí pravidel pro jednotlivá povolání by tedy měly tikat šachy s pevnými pravidly, se stejnou silou zdrojů pro všechny, ale každé povolání by zdroje mělo být schopno používat po svém, tak jak si jeho životní filozofie žádá.
 
