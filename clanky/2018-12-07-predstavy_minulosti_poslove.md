@@ -4,7 +4,7 @@
 
 ## Úvodem
 
-Před šestnácti lety byl internet ještě [v plenkách](https://www.computerhope.com/history/2002.htm), stálé připojení si užívali jen vyvolení na velkoměstských sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici během jediného měsíce celé čtyři tisíce korun s modemem od Sagemu, jehož anténu jsem zarazil mezi střešními tašky kvůli lepšímu signálu a který mě svým tichým blikáním ubezpečoval, že se za minutku dozvím, jestli budu připojen.
+Před šestnácti lety byl internet ještě [v plenkách](https://www.computerhope.com/history/2002.htm), stálé připojení si užívali jen vyvolení na velkoměstských sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici během jediného měsíce celé čtyři tisíce korun s modemem od Sagemu, jehož anténu jsem zarazil mezi střešní tašky kvůli lepšímu signálu a který mě svým tichým blikáním ubezpečoval, že se za minutku dozvím, jestli budu připojen.
 V těchto digitálně dobrodružných dobách původní autoři *Dračího doupěte plus* řešili formu, jakou dostanou pravidla k nám, hráčům a zvolili jednoznačného vítěze, osvědčený papír.
 
 Aby bylo jasno, my papír milujeme. Není nad to pravidlům vytlačeným do celulózy uříznout hřbet, jednotlivé listy vyvařit v černém čaji od Jemči, napatlat seříznuté okraje smrkovou smůlou rozpuštěnou v ředidle S 6005, provrtat hřebíkem sklíčeným v Narexce, svázat lýkovým provázkem, skrýt do desek ze sešité březové kúry, nalepené králičí kožky a přicvaknuté ošlapané podkovy a pak s tímhle výtvorem, vonícím lesem a poctivou prací, bouchnout při hře do stolu a zahromovat *"Já že neumím číst?! Jak si vůbec dovolujete pane, při pohledu na tento svatý manuskript, mě, hrdinovi z bitvy u Kovarů, říkat pravdu do očí?!"*
