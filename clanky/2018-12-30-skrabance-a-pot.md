@@ -1,3 +1,9 @@
+# Pot a modřiny
+
+> "Mohu vám slíbit pouze pot a modřiny!"
+> "A slzy Karle, slzy!"
+> "A některým i slzy." TODO CHurchil
+
 Dál to vezmeme přes **dočasnou** únavu.
 
 ### Dočasná únava
