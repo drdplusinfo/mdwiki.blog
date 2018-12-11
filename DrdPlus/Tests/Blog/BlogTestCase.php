@@ -80,4 +80,54 @@ abstract class BlogTestCase extends TestCase
         return self::$fileContents[$filename];
     }
 
+    /**
+     * @param array $fileNames
+     * @return array|string[]
+     */
+    protected function sortFileNamesDescending(array $fileNames): array
+    {
+        \uasort($fileNames, function (string $someName, string $anotherName) {
+            $someName = \basename($someName);
+            $anotherName = \basename($anotherName);
+            $someDate = $this->createDateFromFilename($someName);
+            $anotherDate = $this->createDateFromFilename($anotherName);
+
+            return $anotherDate <=> $someDate; // descending
+        });
+
+        return $fileNames;
+    }
+
+    protected function createDateFromFilename(string $filename): \DateTime
+    {
+        $basename = \basename($filename);
+        self::assertGreaterThan(
+            0,
+            \preg_match('~^(?<years>\d{4})-(?<months>\d{2})-(?<days>\d{2})-\D+~', $basename, $matches),
+            'A file name does not start by YYYY-mm-dd-\w+ format: ' . $basename
+        );
+        $date = \DateTime::createFromFormat('Y-m-d', "{$matches['years']}-{$matches['months']}-{$matches['days']}");
+        self::assertInstanceOf(\DateTime::class, $date, 'Date has not been created from parts ' . \var_export($matches, true));
+        $date->setTime(0, 0, 0);
+
+        return $date;
+    }
+
+    protected function fetchTitleFromFile(string $filename): string
+    {
+        $content = $this->getFileContent($filename);
+
+        return $this->parseTitleFromContent($content);
+    }
+
+    private function parseTitleFromContent(string $content): string
+    {
+        self::assertSame(
+            1,
+            \preg_match('~^#\s*(?<title>[^#\n\r]+)~', $content, $matches),
+            "No title has been found in content starting with: \n" . \mb_substr($content, 0, 100)
+        );
+
+        return \trim($matches['title']);
+    }
 }

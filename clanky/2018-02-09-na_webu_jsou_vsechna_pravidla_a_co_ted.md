@@ -66,5 +66,5 @@ Pokud máš nějaké nápady v hlavě, nebo šuplíku, [sem s nimi](https://rpgf
 
 ---
 
-- *předchozí [<< 2. 1. 2018 Tak už je na webu i bestiář](2018-01-02-na_web_jsem_prevedl_bestiar.md)*
-- *následující [>> 16. 2. 2018  Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)*
+- *předchozí [<< 2. 1. 2018 Na web jsem převedl Bestiář](2018-01-02-na_web_jsem_prevedl_bestiar.md)*
+- *následující [>> 16. 2. 2018 Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)*

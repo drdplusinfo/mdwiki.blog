@@ -82,5 +82,5 @@ Edit: *15. 2. 2018* jsem z různých indicií došel k závěru, že oficiální
 
 ---
 
-- *předchozí [<< 16. 6. 2017 Chyběl DrD+ příběh v celku, tak ho spojuji](2017-06-16-polozen_zakladni_kamen_pro_cely_pribeh_drd_na_jednom_miste.md)*
-- *následující [>> 10. 8. 2017 Altar mě s veřejnými pravidly nehází přes palubu (Bouchi odpověděl, že si dá čas na rozmyšlenou)](2017-08-10-altar_rozvazne_odpovida_ze_se_nad_verejnymi_pravidly_zamysli.md)*
+- *předchozí [<< 16. 6. 2017 Položen základní kámen pro celý příběh DrD+ na jednom místě](2017-06-16-polozen_zakladni_kamen_pro_cely_pribeh_drd_na_jednom_miste.md)*
+- *následující [>> 10. 8. 2017 Altar rozvážně odpovídá, že se nad veřejnými pravidly zamyslí](2017-08-10-altar_rozvazne_odpovida_ze_se_nad_verejnymi_pravidly_zamysli.md)*

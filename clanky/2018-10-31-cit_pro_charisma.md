@@ -87,4 +87,4 @@ A ještě prozradíme, že odvozené vlastnosti zřejmě čeká podobný osud [j
 ---
 
 - *předchozí [<< 29. 10. 2018 Minuta inteligence](2018-10-29-minuta_inteligence.md)*
-- *následující [>> 09. 11. 2018 Vzpomínky na krásu](2018-11-09-vzpominky_na_krasu.md)*
+- *následující [>> 9. 11. 2018 Vzpomínky na krásu](2018-11-09-vzpominky_na_krasu.md)*
