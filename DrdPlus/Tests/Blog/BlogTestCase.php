@@ -17,7 +17,6 @@ abstract class BlogTestCase extends TestCase
         return $this->getArticles(true);
     }
 
-
     /**
      * @param bool $withFullPath
      * @return array|string[]
@@ -66,6 +65,7 @@ abstract class BlogTestCase extends TestCase
 
         return $files;
     }
+
     protected function getFileContent(string $filename): string
     {
         if ((self::$fileContents[$filename] ?? null) === null) {

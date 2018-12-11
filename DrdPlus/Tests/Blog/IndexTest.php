@@ -5,6 +5,7 @@ namespace DrdPlus\Tests\Blog;
 
 class IndexTest extends BlogTestCase
 {
+
     /**
      * @test
      */

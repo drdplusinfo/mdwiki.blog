@@ -104,12 +104,12 @@ class ArticlesTest extends BlogTestCase
 
     private function assembleLinkToPreviousArticle(string $date, string $title, string $link): string
     {
-         return "- *předchozí [<< $date $title]($link)*";
+        return "- *předchozí [<< $date $title]($link)*";
     }
 
     private function assembleLinkToNextArticle(string $date, string $title, string $link): string
     {
-         return "- *následující [>> $date $title]($link)*";
+        return "- *následující [>> $date $title]($link)*";
     }
 
     private function sanitizeTitleForLink(string $title): string
