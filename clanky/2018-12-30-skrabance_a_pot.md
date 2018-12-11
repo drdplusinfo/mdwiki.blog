@@ -1,8 +1,10 @@
-# Pot a modřiny
+# Škrábance a pot
 
-> "Mohu vám slíbit pouze pot a modřiny!"
+*30. 12. 2018*
+
+> "Nemohu vám slíbit nic než škrábance, krev, dřinu a pot!"
 > "A slzy Karle, slzy!"
-> "A některým i slzy." TODO CHurchil
+> "A některým i slzy."
 
 Dál to vezmeme přes **dočasnou** únavu.
 
@@ -21,3 +23,7 @@ A teď jak se nám *tohle* může hodit v potlačování slabosti *Vůlí*?
 ### Dočasně utracená únava
 
 Když spojíme návrh na předplacenou odolnost, která nám vyřešila problém s přemýšlením, kdy se má s placením **začít**, dohromady s návrhem na *dočasnou únavu*, která nám skrytě řeší problém s přemýšlením, kdy se má s placením **skončit**, dostaneme následující návrh.
+
+---
+
+- *předchozí [<< 7. 12. 2018 Představy minulosti - Poslové](2018-12-07-predstavy_minulosti_poslove.md)*

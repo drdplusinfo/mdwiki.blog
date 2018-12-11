@@ -143,3 +143,4 @@ Jak moc tahle představa ovlivní současná povolání a styl jejich hraní, to
 ---
 
 - *předchozí [<< 30. 11. 2018 Unavený vůl](2018-11-30-unaveny_vul.md)*
+- *následující [>> 30. 12. 2018 Škrábance a pot](2018-12-30-skrabance_a_pot.md)*

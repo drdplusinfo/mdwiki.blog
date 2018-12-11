@@ -72,7 +72,7 @@ class ArticlesTest extends BlogTestCase
                     $expectedPreviousTitle,
                     $expectedPreviousArticlePathBasename
                 );
-                $currentNavigation[] = $this->assembleLinkToPreviousArticle($previousDate, $previousName, $previousLink);
+                $currentNavigation[] = $this->assembleLinkToPreviousArticle($previousDate ?? '', $previousName ?? '', $previousLink ?? '');
             }
             if ($expectedNextArticlePath !== null) {
                 /** @var string $expectedNextArticlePath */
@@ -84,7 +84,7 @@ class ArticlesTest extends BlogTestCase
                     $expectedNextTitle,
                     $expectedNextArticlePathBasename
                 );
-                $currentNavigation[] = $this->assembleLinkToNextArticle($nextDate, $nextName, $nextLink);
+                $currentNavigation[] = $this->assembleLinkToNextArticle($nextDate ?? '', $nextName ?? '', $nextLink ?? '');
             }
             $expectedNavigationString = $this->assembleExpectedNavigation($expectedNavigation);
             $currentNavigationString = $this->assembleExpectedNavigation($currentNavigation);
@@ -146,12 +146,12 @@ class ArticlesTest extends BlogTestCase
         }
 
         return [
-            'previousName' => $previousMatches['previousName'] ?? false,
+            'previousName' => $previousMatches['previousName'] ?? null,
             'previousDate' => $previousDate,
-            'previousLink' => $previousMatches['previousLink'] ?? false,
-            'nextName' => $nextMatches['nextName'] ?? false,
+            'previousLink' => $previousMatches['previousLink'] ?? null,
+            'nextName' => $nextMatches['nextName'] ?? null,
             'nextDate' => $nextDate,
-            'nextLink' => $nextMatches['nextLink'] ?? false,
+            'nextLink' => $nextMatches['nextLink'] ?? null,
         ];
     }
 }
