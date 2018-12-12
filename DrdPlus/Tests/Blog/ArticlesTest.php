@@ -5,7 +5,7 @@ namespace DrdPlus\Tests\Blog;
 
 use Granam\String\StringTools;
 
-class ArticlesTest extends BlogTestCase
+class ArticlesTest extends AbstractBlogTestCase
 {
 
     /**

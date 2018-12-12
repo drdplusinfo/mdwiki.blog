@@ -5,7 +5,7 @@ namespace DrdPlus\Tests\Blog;
 
 use PHPUnit\Framework\TestCase;
 
-abstract class BlogTestCase extends TestCase
+abstract class AbstractBlogTestCase extends TestCase
 {
     private static $fileContents = [];
 
