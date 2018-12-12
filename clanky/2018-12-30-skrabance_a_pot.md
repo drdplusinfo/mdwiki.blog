@@ -3,26 +3,27 @@
 *30. 12. 2018*
 
 > "Nemohu vám slíbit nic než škrábance, krev, dřinu a pot!"
-> "A slzy Karle, slzy!"
+> "A slzy Vincku, slzy!"
 > "A některým i slzy."
 
-Dál to vezmeme přes **dočasnou** únavu.
+Už se nám ustálil [začátek *Základních vlastností* na šestce](2018-10-22-nula.md#Závěr) a v *Únavě* jsme našli [platidlo pro odolávání postihům](2018-11-30-unaveny_vul.md#Závěr) a během přemýšlení nad tím vším jsme se několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla, až nám došlo, že žijeme převážně v únavě malé, až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň někteří z nás.
+Ignorujme teď ale nářky unavených otců a zamysleme se nad chvilkovou únavou, která nás doprovází životem jako věrné Jojo, pulzující sem a tam, ale stále na blízku.
 
-### Dočasná únava
+## Dočasná únava
 
-Zdánlivě odbočíme a prozradíme, že s prvním řádkem *Únavy* máme prostý plán a to prohlásit ho za krátkodobou únavu. Myšlenka je v tom jednoduchá, *kolikrát se uženeme jak psi, ale po chvíli funění setřepeme pot a cítíme se zas čerstvě*, tedy dokud nepřesáhneme určitou hranici. A tou hranicí je náš první řádek *Únavy*.
+Vycházíme z prostých zážitků, kdy se kolikrát uženeme jak psi, ale po chvíli funění setřepeme pot a cítíme se zas čerstvě, tedy dokud nepřesáhneme určitou hranici. A tou hranicí jsme určili první řádek *Únavy* a prohlásili ho za krátkodobou únavu a po chvíli přemýšlení jsme ji ještě přejmenovali na *Dočasnou únavu*.
 
-Chceme také zavést rychlé odbourávání *Únavy* v prvním řádku, kdy ti krátký odpočinek celý první řádek *Únavy* smaže a ty budeš zas čerstvý jako rybička. Ano, správně, pes je zakopán v tom **prvním** řádku, protože když ti *Únava* z prvního řádku přeteče dál, tak té už se krátkým odpočinkem nezbavíš, na to budeš potřebovat delší klid, ovšem první řádek bude po chvíli mizet i nadále.
-První řádek tak bude dělat jakýsi polštář, nárazník, který tě chrání před velkou *Únavou* při nárazových, krátkých vypjatých akcích.
+Pokud je v prvním řádku *Únavy* pouze dočasná únava, tak by to mělo ovšem znamenat, že po chvíli zmizí.
 
-- podobně jako když doběhnu vlak a v chodbičce pak funím až do příchodu průvodčího, ovšem sedám si už jen lehce zapocen
-- nebo když se mi dva kilometry před cílem nafoukne puchýř a já to musím dopajdat, ale jakmile se v cíli svalím a boty zuju, je po bolesti a krátce i po únavě z jejího překonávání
+Chceme tedy zavést rychlé odbourávání *Únavy* z prvního řádku, kdy ti krátký odpočinek celý první řádek *Únavy* smaže a ty budeš zas čerstvý jako rybička. Tedy, mohl bys být, pes je totiž zakopán v tom **prvním** řádku, protože když ti *Únava* z prvního řádku přeteče dál, tak té **další** se už krátkým odpočinkem nezbavíš, na to budeš potřebovat delší leháro, ovšem první řádek *Únavy* ti bude po chvíli mizet pořád.
 
-A teď jak se nám *tohle* může hodit v potlačování slabosti *Vůlí*?
+První řádek *Únavy* tak bude dělat jakýsi polštář, nárazník, který tě ochrání před velkou *Únavou* při nárazových, krátkých vypjatých akcích, ať už to bude úprk před funícím býkem, nebo sprint za nabodnutým kamarádem vlajícím za ním.
 
-### Dočasně utracená únava
+A když už jsme přemýšleli o *Únavě*, tak jsme si vzali na mušku i *Zranění*, protože ty dvě metriky jsou si podobné jako vejce vejci.
 
-Když spojíme návrh na předplacenou odolnost, která nám vyřešila problém s přemýšlením, kdy se má s placením **začít**, dohromady s návrhem na *dočasnou únavu*, která nám skrytě řeší problém s přemýšlením, kdy se má s placením **skončit**, dostaneme následující návrh.
+## Dočasně zranění
+
+Když si narazíme koleno, proletíme šípkovým keřem, záda nám zmaluje nejdřív soused a potom hbitější z rodičů, tak po chvíli to všechno odezní. Možná něco oteče, zmokvá, zanítí se, ale žádná tragédie z toho nebude.
 
 ---
 
