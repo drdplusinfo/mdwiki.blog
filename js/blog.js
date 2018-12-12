@@ -853,7 +853,7 @@ function googlemapsReady() {
     var i = {
         createBasicSkeleton: function () {
             b(), c(), g(), f(), d(), h(), a.md.stage("all_ready").subscribe(function (b) {
-                "" !== a.md.inPageAnchor && a.md.util.wait(500).then(function () {
+                "" !== a.md.inPageAnchor && a.md.util.wait(0).then(function () {
                     a.md.scrollToInPageAnchor(a.md.inPageAnchor)
                 }), b()
             })
@@ -867,8 +867,7 @@ function googlemapsReady() {
                 var d = a(this), e = d.toptext(), f = a.md.util.getInpageAnchorText(e);
                 if (b === f) {
                     this.scrollIntoView(!0);
-                    var g = a(".navbar-collapse").height() + 5;
-                    window.scrollBy(0, -g + 5), c = !0
+                    c = !0
                 }
             }
         })
