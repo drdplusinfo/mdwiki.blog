@@ -27,7 +27,7 @@ A když už jsme přemýšleli o *Únavě*, tak jsme si vzali na mušku i *Zran�
 
 ## Povrchové zranění
 
-Když si narazíme koleno, proletíme šípkovým keřem, záda nám zmaluje nejdřív sadař a potom hbitější z rodičů, tak po chvíli to všechno odezní. Možná něco oteče, zmokvá, na omak to bude bolet, ale žádná tragédie se konat nebude. A když se porveš se svým sokem, tak bitka obvykle končí po krátké tahanici a několika málo ranách, po kterých nezbude ani ta sexy jizva, prostě skončíte ve chvíli, kdy jeden z vás začne mít pocit, že by celé mohlo skončit hůř.
+Když si narazíme koleno, proletíme šípkovým keřem, záda nám zmaluje nejdřív sadař a potom hbitější z rodičů, tak po chvíli to všechno odezní. Možná něco oteče, zmokvá, na omak to bude bolet, ale žádná tragédie se konat nebude. A když se porveš se svým sokem, tak bitka obvykle končí po krátké tahanici a několika málo ranách, po kterých nezbude ani ta sexy jizva, prostě skončíte ve chvíli, kdy jeden z vás začne mít pocit, že by to celé mohlo skončit hůř.
 
 Tou hranicí je, stejně jako u *Únavy*, první řádek *Zranění* a stejně jako u *Únavy*, tak i u *Zranění* tenhle první řádek zmizí jen o něco pomaleji, než se objevil. Tedy pokud si najdeš čas na odpočinek. Další řádky *Zranění* už samozřejmě půjdou hloubš, těch se nějakým sluněním na mezi nezbavíš.
 
