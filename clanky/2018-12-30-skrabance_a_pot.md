@@ -39,6 +39,21 @@ Jen si najít na ten klid trochu času.
 
 ## Čas klidu
 
+A je to tady, zase ten čas. Mohli bychom tu plácnout něco jako jeden bod Únavy či Zranění v prvním řádku ti zmizí za deset minut. A je o. Jenže to bychom nesměli být takoví šťourové.
+
+Co když odpočíváš jenom trochu? Co když odpočíváš v mírném nepohodlí? A co když ve velkém?
+
+Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu)
+
+| Unavuje jako | bod únavy za |
+|-----|----|
+| chůze | hodinu |
+| spěch | půl hodiny |
+| běh | 5 minut |
+| sprint | 2 kola |
+
+
+
 ---
 
 - *předchozí [<< 7. 12. 2018 Představy minulosti - Poslové](2018-12-07-predstavy_minulosti_poslove.md)*
