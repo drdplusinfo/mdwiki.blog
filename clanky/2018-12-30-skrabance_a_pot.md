@@ -47,12 +47,16 @@ Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info
 
 | Unavuje jako | bod únavy za |
 |-----|----|
+| odpočinek | ? |
+| ploužení | 2 hodiny |
 | chůze | hodinu |
 | spěch | půl hodiny |
 | běh | 5 minut |
 | sprint | 2 kola |
 
+S těmi časovými úseky, za které dostaneš bod Únavy, si nejsme ještě naprosto jisti, ale nějak takhle to bude, takže se toho zatím držme.
 
+Když jdu, unavím se jedním bodem Únavy za hodinu. Když si sednu, abych nohám ulevil, 
 
 ---
 
