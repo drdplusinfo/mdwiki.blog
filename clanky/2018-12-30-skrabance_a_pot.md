@@ -12,27 +12,28 @@ Ignorujme teď ale nářky unavených otců a zamysleme se nad chvilkovou únavo
 Vycházíme z prostých zážitků, kdy se kolikrát uženeme jak psi, ale po chvíli funění setřepeme pot a cítíme se tak čerstvě, že můžeme celé to martýrium podstoupit znovu.
 Nejdříve tedy přesáhneme určitou **hranici**, za kterou už cítíme osten *Únavy* a o slovo se přihlásí citelný postih, abychom po chvíli odpočinku přešli onu hranici zas zpět a po ještě delší chvíli získali zpátky **všechnu** sílu.
 
-Podle našich zkušeností dokážeme správným dávkováním námahy a odpočinku zůstat čilí celý den, ovšem jakmile se začneme snažit přes moc a naložíme si **větší** námahu, než nám občasný klid dokaže vyžehlit, tak se naše únava přehoupne do míst, ze kterých se zpět hrabeme několik dní.
+Podle našich zkušeností dokážeme správným dávkováním námahy a odpočinku zůstat čilí celý den, ovšem jakmile se začneme snažit přes moc a naložíme si **větší** námahu, než nám občasný klid dokáže vyžehlit, tak se naše únava přehoupne do míst, ze kterých se zpět hrabeme několik dní.
 
 Prostě na sobě pozorujeme únavu povrchovou, **chvilkovou** a únavu hlubší, **dlouhodobou**.
 
 ## Chvilková únava
 
-Když se na to podíváme pravidlově, tak první postih za únavu dostaneme při zaplněném prvním řádku *Únavy*. To je to naše zmiňované Jojo, ta krátkodobá únava, nebo lépěji *Chvilková únava*
-*Pokud máš v prvním řádku pouze **chvilkovou** *Únavy*, tak by to mělo , všem znamenat, že ti po **chvíli** zase zmizí, ne?*
+Když se na to podíváme pravidlově, tak první postih za únavu dostaneme při zaplněném prvním řádku *Únavy*. To je to naše zmiňované Jojo, ta krátkodobá únava, nebo lépěji *Chvilková únava*.
 
-Jo, potřebujeme proto zavést rychlé odbourávání téhle chvilkové *Únavy* z prvního řádku, kdy ti krátký odpočinek celý ten první řádek *Únavy* smaže a ty budeš zas čerstvý jako rybička.
+*Pokud máš v prvním řádku pouze chvilkovou únavu, tak by to mělo ovšem znamenat, že ti po chvíli zase zmizí, ne?*
+
+Jo, potřebujeme proto zavést rychlé odbourávání téhle chvilkové *Únavy* z prvního řádku, kdy ti krátký odpočinek celý první řádek *Únavy* smaže a ty budeš zas čerstvý jako rybička.
 
 *A když se dostanu na druhý řádek? A Třetí? Čtvrtý...?*
 
-Inu, pokud ti *Únava* z prvního řádku už přetekla dál, tak té další, **hlubší** únavy se už tak snadno nezbavíš, na to budeš potřebovat delší leháro, jak už [z pravidel znáš](https://pph.drdplus.info/#odpocinek).
+Inu, pokud ti *Únava* z prvního řádku už přetekla dál, tak té další, **hlubší** únavy se už tak snadno nezbavíš, na to budeš potřebovat [delší leháro](https://pph.drdplus.info/#odpocinek).
 Ovšem první řádek *Únavy* ti bude po chvíli mizet pořád, ať už máš hlubší únavu **jakkoli** velikou.
 
 *Vážně? A z té hlubší únavy nemám postih k odpočinku?*
 
 To jo, to vliv mít bude, ale to už se dostáváme k času, který na efektivní odpočinek potřebuješ a to bude na pořadu dne až za chvíli.
 
-První řádek *Únavy* ti tedy bude dělat jakýsi polštář, nárazník, který tě ochrání před hlubší únavou a dovolí ti během dne provádět více nárazových, krátkých vypjatých akcí, ať už to bude úprk před zuřícím býkem, nebo sprint za nabodnutým kamarádem vlajícím na něm.
+První řádek *Únavy* ti tedy bude dělat jakýsi polštář, nárazník, který tě ochrání před hlubší únavou a dovolí ti během dne provádět více nárazových, krátkých vypjatých akcí, ať už to bude úprk před zuřícím býkem, nebo sprint za nabodnutým kamarádem vlajícím za ním.
 
 A když už jsme přemýšleli o *Únavě*, tak jsme si vzali na mušku i *Zranění*, protože ty dvě metriky jsou si podobné jako vejce vejci.
 
@@ -40,10 +41,10 @@ A když už jsme přemýšleli o *Únavě*, tak jsme si vzali na mušku i *Zran�
 
 Když proletíš šípkovým keřem se shnilou třešňovou větví v ruce, narazíš si palec o pařez skrytý v ostřici, či ti záda zmaluje nejdřív sadař a potom hbitější z rodičů, tak po chvíli to všechno odezní. Možná něco oteče, zmokvá, na omak to bude bolet, ale žádná tragédie se konat nebude. A když se porveš se svým sokem, tak bitka obvykle skončí po krátké tahanici a několika málo ranách, po kterých nezbude ani ta sexy jizva, prostě to utnete ve chvíli, kdy jeden z vás začne mít pocit, že by to celé mohlo skončit hůř.
 
-Tou hranicí je, stejně jako u *Únavy*, první řádek a stejně jako u *Únavy*, tak i u *Zranění* tenhle první řádek zmizí jen o něco pomaleji, než se objevil, takže stejně jako u *Chvilkové Únavy* stačí chvíli počkat. Tedy pokud si najdeš na odpočinek čas.
+Tou hranicí je, stejně jako u *Únavy*, první řádek a stejně jako u *Únavy*, tak i u *Zranění* tenhle první řádek zmizí jen o něco pomaleji, než se objevil, takže stejně jako u *Chvilkové Únavy* stačí chvíli počkat.
 Další řádky *Zranění* už samozřejmě půjdou hlouběji, těch se nějakým sluněním na mezi nezbavíš.
 
-Jen si trochu času na ten klid najít.
+Jen si na ten klid najít čas.
 
 ## Čas klidu
 
