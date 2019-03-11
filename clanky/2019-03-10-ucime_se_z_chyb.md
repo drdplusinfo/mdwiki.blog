@@ -75,9 +75,26 @@ Takže si to koledovalo o třetí verzi, kde bude přepínání obsahu jen někd
 ## Cena za debordelizaci
 > Máloco se vyrovná pocitu, když zahodíte obrovskou složitost a ono to funguje pořád stejně
 
-A tak jsem vyhlásil jarní úklid (pro jistotu už v prosinci) a až doteď jsme hledali a mazali ty kusy kódu, o kterých vy ani nevíte, že existovaly a o kterých my víme, že je nepotřebujeme. A když už jsme se do těch neviditelných úprav pustili, tak jsme sjednotili i základ pro pravidla a pro kalkulátory, u kterých jsme navíc konečně vyřešili všechny ty fatální *Error 500* chyby při příliš [velké výšce pádu](https://pad.drdplus.info/?falling_from=height&height_of_fall=99&surface=meadow&body_weight=85), prapodivnosti u velkého štítu, který s nulovou Silou vypadal dobře v pravačce, ale v druhé ruce byl [zdánlivě rozbitý](https://boj.drdplus.info/?profession=commoner&strength=0&melee_weapon=hand&melee_weapon_holding=offhand&ranged_weapon=rock&ranged_weapon_holding=main_hand&shield=heavy_shield#stit) *(jelikož už kalkulátor neprozradil, že štít v levačce neudržíš a tudíž ho vlastně nepoužíváš)*, nebo když jste se rozhodli, že to dračí vejce prostě najdete, i kdybyste kvůli tomu museli [vykopat kilometrovou jeskyni](https://niceni.drdplus.info/?material=stone&melee_weapon=glaive&melee_weapon_holding=two_hands&strength=5&roll_on_destructing=12&item_size=0&body_size=0&volume_value=0.90&volume_unit=cubic_kilometer).
+A tak jsem vyhlásil jarní úklid (pro jistotu už v prosinci) a až doteď jsme hledali a mazali ty kusy kódu, o kterých vy ani nevíte, že existovaly a o kterých my víme, že je nepotřebujeme. A když už jsme se do těch neviditelných úprav pustili, tak jsme sjednotili i základ pro pravidla a pro kalkulátory, u kterých jsme navíc konečně vyřešili všechny ty fatální *Error 500* chyby při příliš [velké výšce pádu](https://pad.drdplus.info/?falling_from=height&height_of_fall=99&surface=meadow&body_weight=85), prapodivnosti u velkého štítu, který s nulovou Silou vypadal dobře v pravačce, ale v druhé ruce byl [zdánlivě rozbitý](https://boj.drdplus.info/?profession=commoner&strength=0&melee_weapon=hand&melee_weapon_holding=offhand&ranged_weapon=rock&ranged_weapon_holding=main_hand&shield=heavy_shield#stit) *(jelikož už kalkulátor neprozradil, že ten štít v levačce neudržíš)*, nebo když jste se rozhodli, že vchod do toho podzemí prostě najdete, i kdybyste kvůli tomu museli [vykopat kilometrovou jeskyni](https://niceni.drdplus.info/?material=stone&melee_weapon=glaive&melee_weapon_holding=two_hands&strength=5&roll_on_destructing=12&item_size=0&body_size=0&volume_value=0.90&volume_unit=cubic_kilometer).
+
+Celkem nám to zametání předchozích chyb zabralo čtyři měsíce volného času.
 
 Mimochodem už samotná existence kalkulátorů je důkazem, že jsme neposlouchali vnitřní hlas, který nám radil, abychom zjednodušili pravidla, ale my se místo toho pustili do takových časožroutů, jakými počítadla jsou, v bláhovém přesvědčení, že tím zmizí bolehlavy ze složitých pravidel.
+
+## Kudy dál
+
+ 
+> Selhávejte. Selhávejte rychle.
+
+Tohle motto se dá přeložit i jako *Abys co nejdřív zjistil kudy jo, musíš co nejdřív zjistit kudy ne*. V tom nás může blokovat
+
+* **strach**
+* **všemocná intuice**
+  * *to je ten dětský přístup, který je krásný, mnohdy funkční, ale nedovolí překonat velké problémy, protože plyne pokud možno nejsnazší cestou
+* **všemocné vědomí**
+  * takový ten stav, kdy lze všechno domyslet do nejmenších detailů, pokud je k tomu dost informací, nebo to raději neexistuje, protože se o tom ví málo
+
+Strachu se nebojíme, absolutní vládu intuice i vědomí jsme si už zkusili a dopracovali jsme se k jejich spolupráci, takže to bychom měli. Narovnák na vohejbák v podobě kalkulátorů jsme přeleštili, zakonzervovali a teď můžeme zase s klidem na srdci pokračovat v plánu, který začal zrát na podzim.
 
 ---
 
