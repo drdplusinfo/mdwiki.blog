@@ -50,6 +50,8 @@ class ArticlesTest extends BlogTestCase
                     "Linked previous article mentions different date than article file name in $nextArticle"
                 );
             }
+            $expectedPreviousArticlePath = $articlePaths[$index + 1] ?? null;
+            $expectedNextArticlePath = $articlePaths[$index - 1] ?? null;
             [
                 'previousName' => $previousName,
                 'previousLink' => $previousLink,
@@ -57,9 +59,7 @@ class ArticlesTest extends BlogTestCase
                 'nextName' => $nextName,
                 'nextLink' => $nextLink,
                 'nextDate' => $nextDate,
-            ] = $this->parseArticleLinksFromFile($articlePath);
-            $expectedPreviousArticlePath = $articlePaths[$index + 1] ?? null;
-            $expectedNextArticlePath = $articlePaths[$index - 1] ?? null;
+            ] = $this->parseArticleLinksFromFile($articlePath, $expectedPreviousArticlePath !== null, $expectedNextArticlePath !== null);
             $expectedNavigation = [];
             $currentNavigation = [];
             if ($expectedPreviousArticlePath !== null) {
@@ -104,12 +104,12 @@ class ArticlesTest extends BlogTestCase
 
     private function assembleLinkToPreviousArticle(string $date, string $title, string $link): string
     {
-         return "- *předchozí [<< $date $title]($link)*";
+        return "- *předchozí [<< $date $title]($link)*";
     }
 
     private function assembleLinkToNextArticle(string $date, string $title, string $link): string
     {
-         return "- *následující [>> $date $title]($link)*";
+        return "- *následující [>> $date $title]($link)*";
     }
 
     private function sanitizeTitleForLink(string $title): string
@@ -117,14 +117,22 @@ class ArticlesTest extends BlogTestCase
         return \str_replace('*', '', $title);
     }
 
-    private function parseArticleLinksFromFile(string $filename): array
+    private function parseArticleLinksFromFile(string $filename, bool $expectedPreviousArticle, bool $expectedNextArticle): array
     {
         $content = $this->getFileContent($filename);
         $delimiterRegexp = '(?<delimiter>[\n\r]+---[\n\r]+)';
-        $previousRegexp = '- \*předchozí \[<< (?<previousDate>\d{1,2}[.] \d{1,2}[.] \d{4}) (?<previousName>[^\]]+)\]\((?<previousLink>[^\)]+)\)\*';
-        $nextRegexp = '- \*následující \[>> (?<nextDate>\d{1,2}[.] \d{1,2}[.] \d{4}) (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
-        \preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches);
-        \preg_match("~{$delimiterRegexp}?{$nextRegexp}~u", $content, $nextMatches);
+        $previousRegexp = '- \*předchozí \[(?<previousArrows>(?:<<|>>)) (?<previousDate>\d{1,2}[.] \d{1,2}[.] \d{4}) (?<previousName>[^\]]+)\]\((?<previousLink>[^\)]+)\)\*';
+        $nextRegexp = '- \*následující \[(?<nextArrows>(?:<<|>>)) (?<nextDate>\d{1,2}[.] \d{1,2}[.] \d{4}) (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
+        $previousFound = (bool)\preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches);
+        $nextFound = (bool)\preg_match("~{$delimiterRegexp}?{$nextRegexp}~u", $content, $nextMatches);
+        if ($expectedPreviousArticle) {
+            self::assertTrue($previousFound, 'Expected link to previous article is missing at the end of ' . $filename);
+            self::assertSame('<<', $previousMatches['previousArrows'], 'Expected two backward arrows as a part of the link to the previous article at the end of ' . $filename);
+        }
+        if ($expectedNextArticle) {
+            self::assertTrue($nextFound, 'Expected link to next article is missing at the end of ' . $filename);
+            self::assertSame('>>', $nextMatches['nextArrows'], 'Expected two forward arrows as a part of the link to the next article at the end of ' . $filename);
+        }
         if ($previousMatches && $nextMatches) {
             self::assertGreaterThan(
                 0,

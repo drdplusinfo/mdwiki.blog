@@ -114,9 +114,11 @@ class IndexTest extends BlogTestCase
 
     private function createDateFromContent(string $content): \DateTime
     {
+        $regexp = '~^#[^#\n\r]+(\n|\r)+[*](?<days>\d{1,2})[.] (?<months>\d{1,2})[.] (?<years>\d{4})[*](\n|\r)+~';
+        self::assertRegExp($regexp, \mb_substr($content, 0, 200), 'Missing or invalid article date');
         self::assertGreaterThan(
             0,
-            \preg_match('~^#[^#\n\r]+(\n|\r)+[*](?<days>\d{1,2})[.] (?<months>\d{1,2})[.] (?<years>\d{4})[*](\n|\r)+~', $content, $matches),
+            \preg_match($regexp, $content, $matches),
             'Missing date in article ' . \mb_substr($content, 0, 200)
         );
         $contentDate = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");

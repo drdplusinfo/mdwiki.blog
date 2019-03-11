@@ -1,5 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [10. 3. 2019 Učíme se z chyb](clanky/2019-03-10-ucime_se_z_chyb.md)
 ### [7. 12. 2018 Představy minulosti - *Poslové*](clanky/2018-12-07-predstavy_minulosti_poslove.md)
 ### [30. 11. 2018 Unavený vůl](clanky/2018-11-30-unaveny_vul.md)
 ### [19. 11. 2018 Vydrž!](clanky/2018-11-19-vydrz.md)
