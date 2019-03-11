@@ -38,7 +38,7 @@ Znovu opakuju, že mi toho času není líto, protože jsem tím získal jednu c
 
 Jenže zrovna tenhle hlas je ze všech hlasů na světě ten nejsnáze umlčitelný, protože je můj. A co je moje, s tím si můžu dělat, co chci, že jo, třeba tomu nevěřit.
 
-Už několikrát jsem se v životě setkal s tím, že věta z [Velkého blondýna s černou botou](TODO)
+Už několikrát jsem se v životě setkal s tím, že věta z [Velkého blondýna s černou botou](https://www.csfd.cz/film/32520-velky-blondyn-s-cernou-botou/prehled/)
 > Buďto seš tak strašně chytrej, nebo tak strašně blbej
 
 má mnohem větší hloubku, než by se mohlo zdát. Když jsem jako pískle nepřemýšlel o ničem, tak jsem se řídil pouze intuicí a můj vnitřní hlas mě naprosto ovládal. To byly časy, kdy jsem okolí připadal strašně blbej, ale vlastně bylo všechno v pořádku.
