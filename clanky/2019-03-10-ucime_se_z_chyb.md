@@ -10,7 +10,7 @@
 
 *Žádný učený z nebe nespadl, možná i proto, že každý učený už přišel na to, že je lepší dvakrát měřit a jednou řezat, takže co by padal, že jo. Autor článků tohoto blogu ale přiznává, že mnohdy ještě měří něco jiného, než řeže.*
 
-Už dlouhá léta se znažím zpomalit a poslouchat, když už mluvím, tak proto abych získal názor ostatních a mohl tak zlepšit ten svůj, pořád o všem pochybuji, abych se nezamknul do zlaté klece slepého přesvědčení. Přesto se stále nachytávám, jak pospíchám *protože by se to mělo a kdo nepospíchá, ten se fláká*, mluvím jenom proto *abych se vykecal*, neposlouchám ostatní, protože je pro mě namáhavé chápat jiné myšlení a sem tam fanaticky bráním nějaké to skálopevné přesvědčení s takovou jistotou, že by se kolem ní mohl vesmír točit.
+Už dlouhá léta se znažím zpomalit a poslouchat, když už mluvím, tak proto abych získal názor ostatních a mohl tak zlepšit ten svůj, o mnohém pochybuji, abych se nezamknul do zlaté klece slepého přesvědčení. Přesto se stále nachytávám, jak pospíchám *protože by se to mělo a kdo nepospíchá, ten se fláká*, mluvím jenom proto *abych se vykecal*, neposlouchám ostatní, protože je pro mě namáhavé chápat jiné myšlení a sem tam fanaticky bráním nějaké to skálopevné přesvědčení s takovou jistotou, že by se kolem ní mohl vesmír točit.
 
 Zdá se mi, že se to lepší, už u mě převažuje *čas vnímání* nad tím časem, kdy jenom *vysílám a nepřijímám*, ale třeba s pravidly pro DrD+ jsem kvůli svému přesvědčení spálil dvěma chybami *mrtě času*.
 
@@ -18,10 +18,10 @@ Zdá se mi, že se to lepší, už u mě převažuje *čas vnímání* nad tím 
 
 > „Řekni mi a já zapomenu, ukaž mi a já si zapamatuji, nech mne to udělat a já pochopím.“
 
-Aby bylo jasno, ani jednu tu chybu si nevyčítám, dost mě naučily, jak technicky, tak i o mě samotném, ale jsem rád, že už je to za mnou. Jen se bojím, že až někdo přijde s podobnou myšlenkou, tak ho nebudu poslouchat a budu mu ji zuřivě vymlouvat, se skálopevným přesvědčením, že dělá blbost a že na tom spálí mrtě času. No, budu se mít na pozoru před sebou samým a budu si připomínat, že tam kde jsme, jsme proto, že jsme tam sami došli, a ne že nás tam někdo svými radami zhmotnil.
+Aby bylo jasno, ani jednu tu chybu si nevyčítám, dost mě naučily, jak technicky, tak i o mě samotném, ale jsem rád, že už je to za mnou. Jen se bojím, že až někdo přijde s podobnou myšlenkou, tak ho nebudu poslouchat a budu mu ji zuřivě vymlouvat, se skálopevným přesvědčením, že dělá blbost a že na tom spálí mrtě času. No, budu se mít na pozoru před sebou samým a budu si připomínat, že tam kde jsme, jsme proto, že jsme tam sami došli, a ne že nás tam někdo svými radami katapultoval.
 
 ## Chyba první
-Tak nějak jsem vypozoroval, že když člověk řeší náročný problém, tak je schopen se do něj zavrtat tak, že nevidí, neslyší a už vůbec nevnímá náznaky okolí, že máká na zbytečnosti. U mě to platí určitě a vlastně je to pořád stejná písnička. Nevnímám ostatní a ještě k tomu nevnímám sám sebe, svůj vnitří hlas, který mi říká
+Tak nějak jsem vypozoroval, že když člověk řeší náročný problém, tak je schopen se do něj zavrtat tak, že nevidí, neslyší a už vůbec nevnímá náznaky okolí, že máká na zbytečnosti. U mě to platí určitě a vlastně je to pořád stejná písnička. Když se ponořím do práce, obvzláště takové, co vyžaduje plné vědomí a nepřipouští odhady a dojmy, tak nevnímám ostatní a ještě k tomu nevnímám sám sebe, svůj vnitří hlas, který mi říká
 
 > Ty ses úplně pomát, vždyť ještě nemáš ani všechna pravidla na webu, a už si tady programuješ pokračování Baldur's Gate
 
@@ -29,12 +29,12 @@ Na začátku téhle chyby byla silná, opojná touha převést všechna současn
 
 V tom jsme došli daleko, z [Pravidel pro hráče](https://pph.drdplus.info?trial=1) jsme do kódu převedli [**naprosto** všechno](https://github.com/drdplusinfo), každou tabulku, každý vzorec, podporu pro sezení a zkušenosti, pro výbavu a postih z nákladu, únavu a odpočinek, zranění včetně postižení a nemocí a jejich léčení a to všechno jsme chtěli **ukládat**. To je přece jasné, k čemu by nám byly nějaké výpočty, kdybyste museli všechno naklikávat zase znova a znova a znova...
 
-No, na tom [kusu kódu](https://github.com/doctrineum), co naprosto elegantně, bezchybně a přehledně ukládal a zase automagicky načítal všechna ta povolání, rasy, štíty a přehršel dalšího mi zabral tak půl roku. A čas kolem Vánoc 2018 jsem trávil tím, že jsem to z programu zas vysekával a zahazoval. Prostě mrtvej kód.
+No, na tom [kusu kódu](https://github.com/doctrineum), co naprosto elegantně, bezchybně a přehledně ukládal a zase automagicky načítal všechna ta povolání, rasy, štíty a přehršel dalšího jsem s určitými zažívacímí potížemi strávil tak půl roku. A čas kolem Vánoc 2018 jsem zas trávil tím, že jsem to z programu zas vysekával a zahazoval. Prostě mrtvej kód.
 
 ### Vnitřní hlas
 
 Znovu opakuju, že mi toho času není líto, protože jsem tím získal jednu cennou věc: mnohem větší důvěru ve svůj vnitřní hlas, který setsakra dlouho hlásil, že
-> Je to ňáký složitý, musí se to zapracovat do ňák moc míst, ňák jsme to zatím vlastně nikde nepotřebovali...
+> Je to ňáký složitý, musí se to zapracovat do ňák moc míst, ňák jsme to zatím ještě nepotřebovali...
 
 Jenže zrovna tenhle hlas je ze všech hlasů na světě ten nejsnáze umlčitelný, protože je můj. A co je moje, s tím si můžu dělat, co chci, že jo, třeba tomu nevěřit.
 
@@ -47,7 +47,7 @@ Pak jsem objevil vědomí, ego, strachy, srovnávání s okolím, charismatické
 
 A teď se konečně zase vracím k intuici, k vnitřímu hlasu, ale už mu nepředávám otěže nad svým životem, jen ho prostě poslouchám a radíme se spolu.
 
-A tak to mám s ledčím. Na začátku to dělám správně, ale nevím o tom (slavné *štěstí začátečníka*), pak uvěřím, že bych to měl dělat jako všichni ostatní, (hltání návodů, hledání mentorů, slepé představy o jediné, nejlepší cestě) a teprve když si dostatečně namelu hubu, tak uznám, že jsem měl nejen poslouchat okolí, ale taky o něm přemýšlet a hlavně sám sobě věřit.
+A tak to mám s ledčím. Na začátku to dělám správně, ale nevím o tom (slavné *štěstí začátečníka*), pak uvěřím, že bych to měl dělat jako všichni ostatní, (hltání návodů, uctívání mentorů, slepé představy o jediné, nejlepší cestě) a teprve když si dostatečně namelu hubu, tak uznám, že jsem měl nejen okolí poslouchat, ale taky o něm přemýšlet a hlavně sám sobě věřit.
 
 ## Chyba druhá
 
@@ -55,18 +55,18 @@ A tak to mám s ledčím. Na začátku to dělám správně, ale nevím o tom (s
 > - A k čemu?
 > - Ten se hodí vždycky, ne?
 
-Tohle bylo vlastně v bledě modrém to samé, co první chyba s nikdy nepoužitým ukládáním. Během nadšeného plánování, co všechno s DrD+ budeme provádět, jsme se přesvědčili navzájem (na základě dlouholetých zkušeností z jiných projektů, o to bylo naše přesvědčení silnější), že bude nadmíru rozumné zanášet do pravidel změny postupně, citlivě a vždy s ohledem na hráče, kteří nechtějí změny a budou se dožadovat původní verze.
+Tohle bylo vlastně v bledě modrém to samé, co první chyba s nikdy nepoužitým ukládáním. Během nadšeného plánování, co všechno s DrD+ budeme provádět, jsme se přesvědčili navzájem (na základě dlouholetých zkušeností z jiných projektů, o to bylo naše přesvědčení silnější), že bude nadmíru rozumné zanášet do pravidel změny postupně, citlivě a vždy s ohledem na hráče, kteří nechtějí změny a budou se dožadovat původní verze, ať už bude jakkoli prehistorická.
 
-Už když jsem převáděl všechny ty tabulky a zákonnitosti z pravidel do kódu mě mělo trknout, že ač jsou ty myšlenky krásné a rozumné, tak tu něco smrdí. Takovéto úřednické
+Už když jsem převáděl všechny ty [tabulky](https://pph.drdplus.info/?trial=1&tables) a zákonnitosti z pravidel do [kódu](https://github.com/drdplusinfo/tables), tak mě mělo trknout, že ač jsou ty myšlenky krásné a rozumné, tak tu něco smrdí. Takovéto úřednické
 
-> *S formulářem Á pět si doběhněte do třetího patra pro potvrzení Dé patnáct, pak na pokladnu v přízemí zaplatit kolek, do suterénu pro kulaté razítko, na podatelnu v šestém patře žádost odeslat a pak počkáte měsíc, než vám pošleme složenku typu Bé... né, to nesmíte vyplňovat modrou propiskou! Tak si skočte pro nový formulář, mají ho vedle podatelny.*
+> *S formulářem Á pět si doběhněte do třetího patra pro potvrzení Dé lomeno jedna, pak na pokladnu v přízemí zaplatit kolek, do suterénu pro kulaté razítko, na podatelnu v šestém patře žádost odeslat a pak počkáte měsíc, než vám pošleme složenku typu Bé... né, to nesmíte vyplňovat modrou propiskou! Tak si skočte pro nový formulář, mají ho vedle podatelny.*
 
 A nebo prográmátorské
 > *Je to zamotaný jak špagety*.
 
 Jenže jsem držel hubu a krok a když přišel nápad, že si hráči budou na našem webu mezi verzemi pravidlel pohodlně překlikávat, tak jsem se do toho pustil s vervou a nadšením, že to je konečně něco!
 
-A bylo. První verze přepínala přes verzovací nástroj [GIT](https://git-scm.com/book/cs/v1/%C3%9Avod-Spr%C3%A1va-verz%C3%AD) naprosto všechno, nejen obsah, ale i kód, který celá pravidla poskládá, automagicky přidá odkazy na kapitoly, náhledy k tabulkám a spoustu dalších drobností. Fungovalo to asi tak čtrnáct dní, než jsem potřeboval v nové verzi načíst jeden kus kódu o kousek dřív a najednou se to celé zřítilo - program mě poslal do háje, že takový název v kódu už má a nahrazovat ho právě přepnutým starším rozhodně nehodlá a nazdar.
+A bylo. První verze přepínala přes verzovací nástroj [GIT](https://git-scm.com/book/cs/v1/%C3%9Avod-Spr%C3%A1va-verz%C3%AD) naprosto všechno, nejen obsah, ale i kód, který celá pravidla poskládá, automagicky přidá odkazy na kapitoly, náhledy k tabulkám a spoustu dalších drobností. Fungovalo to asi tak čtrnáct dní, než jsem potřeboval v nové verzi načíst jeden kus kódu o kousek dřív a najednou se to celé zřítilo - program mě poslal do háje, že takový název v kódu už má a nahrazovat ho rozhodně nehodlá a nazdar.
 
 V druhé verzi jsem se snažil oddělit základní kód a obsah, což fungovalo dobře, i když to stálo trochu víc času na údržbu, a to se udrželo téměř rok. Než někdo přišel s nápadem "Hele, ty kalkulátory jsou takový předpotopní, nesjednotíme jejich vzhled s pravidly?" Nápad dobrý, následky nebyly dobré. Když jsem kalkulátory posadil na společný základ pravidel, najednou byla myšlenka odděleného obsahu naprosto nepoužitelná, protože všechny ty viditelné formuláře jsou přímo závislé na neviditelném kódu, který běží na pozadí, a to musí být naprosto sladěné, tam si verze přepínat nemůžu.
 
@@ -75,26 +75,47 @@ Takže si to koledovalo o třetí verzi, kde bude přepínání obsahu jen někd
 ## Cena za debordelizaci
 > Máloco se vyrovná pocitu, když zahodíte obrovskou složitost a ono to funguje pořád stejně
 
-A tak jsem vyhlásil jarní úklid (pro jistotu už v prosinci) a až doteď jsme hledali a mazali ty kusy kódu, o kterých vy ani nevíte, že existovaly a o kterých my víme, že je nepotřebujeme. A když už jsme se do těch neviditelných úprav pustili, tak jsme sjednotili i základ pro pravidla a pro kalkulátory, u kterých jsme navíc konečně vyřešili všechny ty fatální *Error 500* chyby při příliš [velké výšce pádu](https://pad.drdplus.info/?falling_from=height&height_of_fall=99&surface=meadow&body_weight=85), prapodivnosti u velkého štítu, který s nulovou Silou vypadal dobře v pravačce, ale v druhé ruce byl [zdánlivě rozbitý](https://boj.drdplus.info/?profession=commoner&strength=0&melee_weapon=hand&melee_weapon_holding=offhand&ranged_weapon=rock&ranged_weapon_holding=main_hand&shield=heavy_shield#stit) *(jelikož už kalkulátor neprozradil, že ten štít v levačce neudržíš)*, nebo když jste se rozhodli, že vchod do toho podzemí prostě najdete, i kdybyste kvůli tomu museli [vykopat kilometrovou jeskyni](https://niceni.drdplus.info/?material=stone&melee_weapon=glaive&melee_weapon_holding=two_hands&strength=5&roll_on_destructing=12&item_size=0&body_size=0&volume_value=0.90&volume_unit=cubic_kilometer).
+A tak jsem vyhlásil jarní úklid (pro jistotu už v prosinci) a až doteď jsme hledali a mazali ty kusy kódu, o kterých vy ani nevíte, že existovaly a o kterých my víme, že je nepotřebujeme. A když už jsme se do těch neviditelných úprav pustili, tak jsme sjednotili i základ pro pravidla a pro kalkulátory, u kterých jsme navíc konečně vyřešili všechny ty fatální *Error 500* chyby při příliš [velké výšce pádu](https://pad.drdplus.info/?falling_from=height&height_of_fall=99&surface=meadow&body_weight=85), prapodivnosti u velkého štítu, který s nulovou Silou vypadal dobře v pravačce, ale v druhé ruce byl [zdánlivě rozbitý](https://boj.drdplus.info/?profession=commoner&strength=0&melee_weapon=hand&melee_weapon_holding=offhand&ranged_weapon=rock&ranged_weapon_holding=main_hand&shield=heavy_shield#stit) *(jelikož vám už kalkulátor neprozradil, že s takovou Silou ten štít v levačce neudržíte)*, nebo když jste se rozhodli, že tu tajnou místnost prostě najdete, i kdybyste kvůli tomu museli [vylámat kilometrovou jeskyni](https://niceni.drdplus.info/?material=stone&melee_weapon=glaive&melee_weapon_holding=two_hands&strength=5&roll_on_destructing=12&item_size=0&body_size=0&volume_value=0.90&volume_unit=cubic_kilometer).
 
 Celkem nám to zametání předchozích chyb zabralo čtyři měsíce volného času.
 
-Mimochodem už samotná existence kalkulátorů je důkazem, že jsme neposlouchali vnitřní hlas, který nám radil, abychom zjednodušili pravidla, ale my se místo toho pustili do takových časožroutů, jakými počítadla jsou, v bláhovém přesvědčení, že tím zmizí bolehlavy ze složitých pravidel.
+Mimochodem už samotná existence kalkulátorů je důkazem, že jsme neposlouchali vnitřní hlas, který nám radil
+> Zjednodušte ty pravidla
 
-## Kudy dál
+ale my se místo toho pustili do takových časožroutů, jakými počítadla jsou, v bláhovém přesvědčení, že tím zmizí bolehlavy z příliš složitých pravidel.
 
+## Jak dál
  
+> - Skákej!
+> - Cccooo?! Vždyť tam nic nevidím!
+> - Než tam doletíš, tak uvidíš.
+
+Vždycky jsme věděli, že *dokud **to** nezkusíme, tak nevíme*. Těžké bylo ale přijít na to, co to je to **to**. Teď už ale víme, že míříme k pidi pravidlům, ve kterých bude jen
+
+- šest základních vlastností
+  - *krom [Charisma](2018-10-31-cit_pro_charisma.md) dostane na frak ještě Zručnost, ale o tom příště*
+- jeden jediný řádek *Zranění* a jediný řádek *Únavy*
+  - *když se zraníš nebo unavíš za celý řádek, zhroutí se ti Morálka a utečeš (neboj, to bude jen v úvodním příběhu, kde ještě nebudeš hrdinou)*
+- hod kostkou 1k6±
+- Velká snaha
+  - *a s ní volba, jak velkou chybu jsi ochoten ze zoufalství nebo čiré frajeřiny riskovat*
+- příběh
+  - *bez něj to prostě nejde, můžeme si nová pravidla třeba vyřezat laserem do [diamantu slisovaného z našich předků](TODO), ale pokud s nimi nepůjdou pokrýt situace v příběhu, tak by beztak byly jenom na... no... na hnojení*
+  
+## Závěrem
+  
 > Selhávejte. Selhávejte rychle.
-
+  
 Tohle motto se dá přeložit i jako *Abys co nejdřív zjistil kudy jo, musíš co nejdřív zjistit kudy ne*. V tom nás může blokovat
-
+  
 * **strach**
-* **všemocná intuice**
-  * *to je ten dětský přístup, který je krásný, mnohdy funkční, ale nedovolí překonat velké problémy, protože plyne pokud možno nejsnazší cestou
-* **všemocné vědomí**
-  * takový ten stav, kdy lze všechno domyslet do nejmenších detailů, pokud je k tomu dost informací, nebo to raději neexistuje, protože se o tom ví málo
+* **vláda intuice**
+  * to je ten dětský přístup, který je krásný, mnohdy funkční, ale nedovolí překonat velké problémy, protože plyne pokud možno nejsnazší cestou
+* **vláda vědomí**
+  * takový ten stav, kdy dokážeme všechno domyslet do nejmenších detailů, pokud máme dost informací, nebo to budeme ignorovat, protože o tom víme málo
+ 
+Strachu se nebojíme, absolutní vládu intuice i vědomí jsme si už zkusili a dopracovali jsme se k jejich spolupráci, takže to bychom měli. Narovnák na vohejbák v podobě kalkulátorů jsme přeleštili, zakonzervovali a teď můžeme zase s klidem na srdci pokračovat v plánu, který začal zrát na podzim a to sestavit **nejmenší možná pravidla** a už podle nich začít opravdu hrát, cokoli, hlavně abychom TODO 
 
-Strachu se nebojíme, absolutní vládu intuice i vědomí jsme si už zkusili a dopracovali jsme se k jejich spolupráci, takže to bychom měli. Narovnák na vohejbák v podobě kalkulátorů jsme přeleštili, zakonzervovali a teď můžeme zase s klidem na srdci pokračovat v plánu, který začal zrát na podzim.
 
 ---
 
