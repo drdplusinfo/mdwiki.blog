@@ -1,6 +1,6 @@
 # Učíme se z chyb
 
-*10. 3. 2019*
+*12. 3. 2019*
 
 > - Můžu dostat nějaký ty zkušenosti?
 > - Zaplať!
