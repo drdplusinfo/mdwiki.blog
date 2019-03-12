@@ -41,7 +41,7 @@ Jenže zrovna tenhle hlas je ze všech hlasů na světě ten nejsnáze umlčitel
 Už několikrát jsem se v životě setkal s tím, že věta z [Velkého blondýna s černou botou](https://www.csfd.cz/film/32520-velky-blondyn-s-cernou-botou/prehled/)
 > Buďto seš tak strašně chytrej, nebo tak strašně blbej
 
-má mnohem větší hloubku, než by se mohlo zdát. Když jsem jako pískle nepřemýšlel o ničem, tak jsem se řídil pouze intuicí a můj vnitřní hlas mě naprosto ovládal. To byly časy, kdy jsem svému okolí připadal strašně blbej, ale vlastně bylo všechno v pořádku.
+má mnohem větší hloubku, než by se mohlo zdát. Když jsem jako pískle nepřemýšlel o ničem, tak jsem se řídil pouze intuicí a můj vnitřní hlas mě naprosto ovládal. To byly časy, kdy jsem svému okolí připadal strašně blbej a přitom bylo všechno v pořádku.
 
 Pak jsem objevil vědomí, ego, strachy, srovnávání s okolím, charismatické řečníky, kteří mi do hlavy implantovali pohodlně hotové, naleštěné myšlenky a já se od vnitřního hlasu odstřihl, protože mi kecal do mé zdánlivé dokonalosti. To byly časy, kdy jsem si připadal strašně chytrej a přitom jsem byl strašně blbej.
 
@@ -55,7 +55,7 @@ A tak to mám s lecčím. Na začátku to dělám správně, ale nevím o tom (s
 > - A k čemu?
 > - Ten se hodí vždycky, ne?
 
-Tohle bylo vlastně v bledě modrém to samé, co první chyba s nikdy nepoužitým ukládáním. Během nadšeného plánování, co všechno s DrD+ budeme provádět, jsme se přesvědčili navzájem (na základě dlouholetých zkušeností z jiných projektů, o to bylo naše přesvědčení silnější), že bude nadmíru rozumné zanášet do pravidel změny postupně, citlivě a vždy s ohledem na hráče, kteří nechtějí změny a budou se dožadovat původní verze, ať už bude jakkoli prehistorická.
+Tohle bylo vlastně v bledě modrém to samé, co první chyba s nikdy nepoužitým ukládáním. Během nadšeného plánování, co všechno s DrD+ budeme provádět, jsme se přesvědčili navzájem (na základě dlouholetých zkušeností z jiných projektů, o to bylo naše přesvědčení silnější), že bude nadmíru rozumné zanášet do pravidel změny postupně, citlivě a vždy s ohledem na hráče, kteří změny nechtějí a budou se dožadovat té *svojí*, původní verze, ať už bude jakkoli prehistorická.
 
 Už když jsem převáděl všechny ty [tabulky](https://pph.drdplus.info/?trial=1&tables) a zákonitosti z pravidel do [kódu](https://github.com/drdplusinfo/tables), tak mě mělo trknout, že ač jsou ty naše myšlenky krásné a rozumné, tak v současných pravidlech něco smrdí. Takovéto úřednické
 
@@ -64,22 +64,22 @@ Už když jsem převáděl všechny ty [tabulky](https://pph.drdplus.info/?trial
 A nebo programátorské
 > *Je to zamotaný jak špagety*.
 
-Jenže jsem držel hubu a krok a když přišel nápad, že si hráči budou na našem webu mezi jednotlivými verzemi pravidel pohodlně překlikávat, tak jsem se do toho pustil s vervou a nadšením, že to je konečně něco!
+Jenže jsem držel hubu a krok, složitost pravidel jsem hrdě odignoroval a když přišel nápad, že si hráči budou na našem webu mezi jednotlivými verzemi pravidel pohodlně překlikávat, tak jsem se do toho pustil s vervou a nadšením, že to je konečně něco!
 
 A bylo. První verze přepínala přes verzovací nástroj [GIT](https://git-scm.com/book/cs/v1/%C3%9Avod-Spr%C3%A1va-verz%C3%AD) naprosto všechno, nejen obsah, ale taky celý ten kouzelný kód, který pravidla poskládá z kapitol, automagicky přidá na kapitoly odkazy, náhledy k tabulkám a spoustu dalších příjemností. Fungovalo to asi tak čtrnáct dní, než jsem potřeboval v nové verzi načíst jeden kus kódu o kousek dřív a najednou se to celé zřítilo - program mě poslal do háje, že takový název v kódu už má a nahrazovat ho rozhodně **nehodlá** a nazdar.
 
-V druhé verzi jsem se snažil oddělit základní kód a obsah, což fungovalo dobře, i když to stálo trochu víc času na údržbu, a to se udrželo téměř rok. Než někdo přišel s nápadem *"Hele, ty kalkulátory jsou takový předpotopní, nesjednotíme jejich vzhled s pravidly?"* Nápad dobrý, následky nebyly dobré. Když jsem kalkulátory posadil na společný základ s pravidly, najednou byla myšlenka odděleného obsahu naprosto nepoužitelná, protože všechny ty viditelné formuláře kalkulátorů jsou přímo závislé na neviditelném kódu, který běží na pozadí, a to musí být naprosto sladěné, tam si verze přepínat **nemůžu**.
+V druhé verzi jsem se snažil oddělit základní kód a obsah, což fungovalo dobře, i když to stálo trochu víc času na údržbu, a takový stav se udržel téměř rok. Než někdo přišel s nápadem *"Hele, ty kalkulátory jsou takový předpotopní, nesjednotíme jejich vzhled s pravidly?"* Nápad dobrý, následky nebyly dobré. Když jsem kalkulátory posadil na společný základ s pravidly, najednou byla myšlenka odděleného obsahu naprosto nepoužitelná, protože všechny ty viditelné formuláře kalkulátorů jsou přímo závislé na neviditelném kódu, který běží na pozadí, a to musí být naprosto sladěné, tam si verze přepínat **nemůžu**.
 
 Takže si to koledovalo o třetí verzi, kde bude přepínání obsahu jen **někde**. Ale to už přišlo vyhoření, duševní únava a hlavně poznatek, že nedokážeme do současných pravidel s čistým svědomím zasahovat, aniž by se nám u toho nekroutili prsty, aniž bychom nechtěli nejdřív učesat a narovnat ten šmodrch, co tam teď je a když jsme si tohle uvědomili, tak nám došlo, že nějaká verze 1.1 hned tak nebude, takže nemá smysl udržovat, natož vyvíjet kód, který zatím nikdo nepotřebuje.
 
 ## Cena za debordelizaci
 > Máloco se vyrovná pocitu, když zahodíte obrovskou složitost a ono to funguje pořád stejně
 
-A tak jsem vyhlásil jarní úklid (pro jistotu už v prosinci) a až doteď jsme hledali a mazali ty kusy kódu, o kterých vy ani nevíte, že existovaly a o kterých my víme, že je nepotřebujeme. A když už jsme se do těch neviditelných úprav pustili, tak jsme sjednotili i základ pro pravidla a pro kalkulátory, u kterých jsme navíc konečně vyřešili všechny ty fatální *Error 500* chyby při příliš [velké výšce pádu](https://pad.drdplus.info/?falling_from=height&height_of_fall=99&surface=meadow&body_weight=85), prapodivnosti u velkého štítu, který s nulovou Silou vypadal dobře v pravačce, ale v druhé ruce byl [zdánlivě rozbitý](https://boj.drdplus.info/?profession=commoner&strength=0&melee_weapon=hand&melee_weapon_holding=offhand&ranged_weapon=rock&ranged_weapon_holding=main_hand&shield=heavy_shield#stit) *(jelikož vám už kalkulátor neprozradil, že s takovou Silou ten štít v levačce neudržíte)*, nebo když jste se rozhodli, že tu tajnou místnost prostě najdete, i kdybyste kvůli tomu museli v rule a svoru [vylámat kilometrovou jeskyni](https://niceni.drdplus.info/?material=stone&melee_weapon=glaive&melee_weapon_holding=two_hands&strength=5&roll_on_destructing=12&item_size=0&body_size=0&volume_value=0.90&volume_unit=cubic_kilometer).
+A tak jsem vyhlásil jarní úklid (pro jistotu už v prosinci) a až doteď jsme hledali a mazali ty kusy kódu, o kterých vy ani nevíte, že existovaly a o kterých my víme, že je nepotřebujeme. A když už jsme se do těch neviditelných úprav pustili, tak jsme sjednotili i základ pro pravidla a pro kalkulátory, u kterých jsme navíc konečně vyřešili všechny ty fatální *Error 500* chyby při příliš [velké výšce pádu](https://pad.drdplus.info/?falling_from=height&height_of_fall=99&surface=meadow&body_weight=85), nebo když jste se rozhodli, že tu tajnou místnost prostě najdete, i kdybyste kvůli tomu museli v rule a svoru [vylámat kilometrovou jeskyni](https://niceni.drdplus.info/?material=stone&melee_weapon=glaive&melee_weapon_holding=two_hands&strength=5&roll_on_destructing=12&item_size=0&body_size=0&volume_value=0.90&volume_unit=cubic_kilometer) a taky prapodivnosti u velkého štítu, který s nulovou Silou vypadal dobře v pravačce, ale v druhé ruce byl [zdánlivě rozbitý](https://boj.drdplus.info/?profession=commoner&strength=0&melee_weapon=hand&melee_weapon_holding=offhand&ranged_weapon=rock&ranged_weapon_holding=main_hand&shield=heavy_shield#stit) *(jelikož vám už kalkulátor neprozradil, že s takovou Silou ten štít v levačce prostě neudržíte)*.
 
 Celkem nám to zametání předchozích chyb *zabralo čtyři měsíce volného času*.
 
-Mimochodem už samotná existence kalkulátorů je důkazem, že jsme neposlouchali náš vnitřní hlas, který nám radil
+Mimochodem, už samotná existence kalkulátorů je důkazem, že jsme neposlouchali náš vnitřní hlas, který nám radil
 > Zjednodušte ty pravidla, hergot himl
 
 kdežto my se místo toho pustili do takových časožroutů, jakými počítadla jsou, v bláhovém přesvědčení, že tím zmizí bolehlavy z příliš složitých pravidel.
@@ -90,9 +90,9 @@ kdežto my se místo toho pustili do takových časožroutů, jakými počítadl
 > - Cccooo?! Vždyť tam nic nevidím!
 > - Než tam doletíš, tak uvidíš.
 
-Že musíme najít cestu, jak hrát DrD+ jednodušeji, jsme tušili od první hry. Nejdříve jsme zkusili pravidla v PDF, kde jsme čekali spásu od `Ctrl+F`, potom jsme je [převedli na web](https://www.drdplus.info) a přidali kvantum odkazů na jednotlivé části, pak přišla éra [počítadel](https://boj.drdplus.info), ale pořád to nebylo ono, pořád jsme hasili následky a neřešili příčinu. Bylo tedy jen otázkou času, zda nás to vyčerpá a zlomí, nebo konečně vykročíme správným směrem.
+Že musíme najít cestu, jak hrát DrD+ jednodušeji, jsme tušili od první hry. Nejdříve jsme zkusili pravidla v PDF, kde jsme čekali spásu od `Ctrl+F`, potom jsme je [převedli na web](https://www.drdplus.info) a přidali kvantum odkazů na jednotlivé části, abychom se k hledanému bloku doklikali, pak přišla éra [počítadel](https://boj.drdplus.info), ale pořád to nebylo ono, pořád jsme hasili následky a neřešili příčinu. Bylo tedy jen otázkou času, zda nás to vyčerpá a zlomí, nebo konečně vykročíme správným směrem.
 
-Je až čarovné, že nám ta hromada práce vaz nezlomila a stále máme onen vnitřní oheň, co nám dává sílu pokračovat, aniž by nás bičoval a lákal na mrkvičku stylem *"Už tam budete, už jenom kousek"*. Pořád máme pocit (a sílí), že děláme smysluplnou věc a že nás baví už jenom ta samotná cesta k cíli, ať už se z něj nakonec vylíhne cokoliv.
+Je až čarovné, že nám ta hromada práce vaz nezlomila a stále máme onen vnitřní oheň, co nám dává sílu pokračovat, **aniž** by nás bičoval a lákal na mrkvičku stylem *"Už tam budete, už jenom kousek"*. Pořád máme pocit (a sílí), že děláme smysluplnou věc a že nás baví už jenom ta samotná cesta k cíli, ať už se z něj nakonec vylíhne cokoliv.
 
 Už delší dobu jsme tušili, že nás větší změny pravidel čekají, jen jsme pořád nevěděli jaké, takže jsme se větších změn vlastně báli. Z jiných oblastí života víme, že *nevíme, dokud **to** nezkusíme*, ovšem těžké je přijít na to, co to je to **to**. Teď už ale víme, že míříme k pidi pravidlům, ve kterých bude jen
 
@@ -117,9 +117,9 @@ Tohle motto se dá přeložit i jako *Abys co nejdřív zjistil kudy jo, musíš
 * **vláda intuice**
   * to je ten dětský přístup, který je krásný, mnohdy funkční, ale nedovolí překonat velké problémy, protože plyne pokud možno nejsnazší cestou
 * **vláda vědomí**
-  * takový ten stav, kdy dokážeme všechno domyslet do nejmenších detailů, pokud máme dost informací, nebo to budeme ignorovat, protože o tom víme málo
+  * takový ten stav, kdy dokážeme všechno domyslet do nejmenších detailů, pokud máme dost informací, nebo to radši ignorujeme, pokud o tom víme málo
  
-Strach už nemáme, absolutní vládu intuice i vědomí jsme si už zkusili a dopracovali jsme se k jejich spolupráci, takže to bychom měli. Narovnák na vohejbák v podobě kalkulátorů jsme přeleštili, zakonzervovali a teď můžeme zase s klidem na srdci pokračovat v plánu, který začal zrát na podzim a to sestavit **nejmenší možná pravidla** a už podle nich začít opravdu hrát, cokoli, hlavně abychom zjistili, zda pravidla příběhu pomáhají nebo ho dusí.
+Strach už nemáme, absolutní vládu intuice i vědomí jsme si už zkusili a dopracovali jsme se k jejich spolupráci, takže to bychom měli. Narovnák na vohejbák v podobě kalkulátorů jsme přeleštili, zakonzervovali a teď můžeme zase s klidem na srdci pokračovat v plánu, který začal zrát na podzim a to sestavit **nejmenší možná pravidla** a už podle nich začít opravdu hrát, kurňa. Cokoli, hlavně abychom zjistili, zda pravidla příběhu pomáhají nebo ho dusí.
 
 Krleš!
 
