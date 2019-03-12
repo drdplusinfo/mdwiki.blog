@@ -10,7 +10,7 @@
 
 *Žádný učený z nebe nespadl, možná i proto, že každý učený už přišel na to, že je lepší dvakrát měřit a jednou řezat, takže co by padal, že jo. Autor článků tohoto blogu ale přiznává, že mnohdy ještě měří něco jiného, než řeže.*
 
-Už dlouhá léta se znažím zpomalit a poslouchat, když už mluvím, tak proto abych získal názor ostatních a mohl tak zlepšit ten svůj, o mnohém pochybuji, abych se nezamknul do zlaté klece slepého přesvědčení. Přesto se stále nachytávám, jak pospíchám *protože by se to mělo a kdo nepospíchá, ten se fláká*, mluvím jenom proto *abych se vykecal*, neposlouchám ostatní, protože je pro mě *namáhavé* chápat jiné myšlení a sem tam fanaticky bráním nějaké to skálopevné přesvědčení s takovou *jistotou*, že by se kolem ní mohl vesmír točit.
+Už dlouhá léta se snažím zpomalit a poslouchat, když už mluvím, tak proto abych získal názor ostatních a mohl tak zlepšit ten svůj, o mnohém pochybuji, abych se nezamknul do zlaté klece slepého přesvědčení. Přesto se stále nachytávám, jak pospíchám *protože by se to mělo a kdo nepospíchá, ten se fláká*, mluvím jenom proto *abych se vykecal*, neposlouchám ostatní, protože je pro mě *namáhavé* chápat jiné myšlení a sem tam fanaticky bráním nějaké to skálopevné přesvědčení s takovou *jistotou*, že by se kolem ní mohl vesmír točit.
 
 Zdá se mi, že se to lepší, že už u mě převažuje *čas vnímání* nad tím časem, kdy jenom *vysílám a nepřijímám*, ale třeba s pravidly pro DrD+ jsem kvůli svému přesvědčení spálil dvěma chybami *mrtě času*.
 
@@ -21,15 +21,15 @@ Zdá se mi, že se to lepší, že už u mě převažuje *čas vnímání* nad t
 Aby bylo jasno, ani jednu tu chybu si nevyčítám, dost mě naučily, jak technicky, tak i o mě samotném, ale jsem rád, že už je to za mnou. Jen se bojím, že až někdo přijde s podobnou myšlenkou, tak ho nebudu poslouchat a budu mu ji zuřivě vymlouvat, se skálopevným přesvědčením, že dělá blbost a že na tom spálí mrtě času. No, budu se mít na pozoru před sebou samým a budu si připomínat, že tam kde jsme, jsme proto, že jsme tam sami došli, a ne že nás tam někdo svými radami katapultoval.
 
 ## Chyba první
-Tak nějak jsem vypozoroval, že když člověk řeší náročný problém, tak je schopen se do něj zavrtat tak, že nevidí, neslyší a už vůbec nevnímá náznaky okolí, že máká na zbytečnosti. U mě to platí určitě, když se ponořím do práce, obvzláště takové, co vyžaduje plné vědomí a nepřipouští odhady a dojmy, tak nevnímám okolí a ještě k tomu nevnímám sám sebe, svůj vnitří hlas, který mi rok říkal
+Tak nějak jsem vypozoroval, že když člověk řeší náročný problém, tak je schopen se do něj zavrtat tak, že nevidí, neslyší a už vůbec nevnímá náznaky okolí, že maká na zbytečnosti. U mě to platí určitě, když se ponořím do práce, obzvláště takové, co vyžaduje plné vědomí a nepřipouští odhady a dojmy, tak nevnímám okolí a ještě k tomu nevnímám sám sebe, svůj vnitří hlas, který mi rok říkal
 
 > Ty ses úplně pomát, vždyť ještě nemáš ani všechna pravidla na webu, a už si tady programuješ pokračování Baldur's Gate
 
 Na začátku téhle chyby byla silná, opojná touha převést všechna současná DrD+ pravidla do programu, přidat inventář, rozšířit ho na nástroj pro předávání předmětů mezi družiníky a o nástroj pro vytváření nových předmětů Pánem jeskyně, k tomu přidat podporu pro více hrdinů pro každého hráče, více družin, z toho všeho pěkně počítat náklad, postihy, útok i obranu z výbavy, no prostě nádhera!
 
-V tom jsme došli daleko, z [Pravidel pro hráče](https://pph.drdplus.info?trial=1) jsme do kódu převedli [**naprosto** všechno](https://github.com/drdplusinfo), každou [tabulku](https://github.com/drdplusinfo/tables TODO), každý vzorec, [podporu pro sezení a zkušenosti](https://github.com/drdplusinfo/gaming-session TODO), pro [výbavu](https://github.com/drdplusinfo/equipment TODO) a postih z nákladu, [únavu a odpočinek](https://github.com/drdplusinfo/stamina TODO), [zranění](https://github.com/drdplusinfo/health TODO) včetně postižení a nemocí a jejich léčení a to všechno jsme chtěli **ukládat**. To je přece jasné, k čemu by nám byly nějaké výpočty, kdybyste museli všechno naklikávat zase znova a znova a znova...
+V tom jsme došli daleko, z [Pravidel pro hráče](https://pph.drdplus.info?trial=1) jsme do kódu převedli [**naprosto** všechno](https://github.com/drdplusinfo), každou [tabulku](https://github.com/drdplusinfo/tables), každý vzorec, [podporu pro sezení a zkušenosti](https://github.com/drdplusinfo/gaming-session), pro [výbavu](https://github.com/drdplusinfo/equipment) a postih z nákladu, [únavu a odpočinek](https://github.com/drdplusinfo/stamina), [zranění](https://github.com/drdplusinfo/health) včetně postižení a nemocí a jejich léčení a to všechno jsme chtěli **ukládat**. To je přece jasné, k čemu by nám byly nějaké výpočty, kdybyste museli všechno naklikávat zase znova a znova a znova...
 
-No, na tom [kusu kódu](https://github.com/doctrineum), co naprosto elegantně, bezchybně a přehledně ukládal a zase automagicky načítal všechna ta povolání, rasy, štíty a přehršel dalšího jsem s určitými zažívacímí potížemi strávil tak půl roku. A čas kolem Vánoc 2018 jsem zas trávil tím, že jsem to z programu prozměnu vysekával a zahazoval. Prostě mrtvej kód.
+No, na tom [kusu kódu](https://github.com/doctrineum), co naprosto elegantně, bezchybně a přehledně ukládal a zase automagicky načítal všechna ta povolání, rasy, štíty a přehršel dalšího jsem s určitými zažívacími potížemi strávil tak půl roku. A čas kolem Vánoc 2018 jsem zas trávil tím, že jsem to z programu pro změnu vysekával a zahazoval. Prostě mrtvej kód.
 
 ### Vnitřní hlas
 
@@ -45,9 +45,9 @@ má mnohem větší hloubku, než by se mohlo zdát. Když jsem jako pískle nep
 
 Pak jsem objevil vědomí, ego, strachy, srovnávání s okolím, charismatické řečníky, kteří mi do hlavy implantovali pohodlně hotové, naleštěné myšlenky a já se od vnitřního hlasu odstřihl, protože mi kecal do mé zdánlivé dokonalosti. To byly časy, kdy jsem si připadal strašně chytrej a přitom jsem byl strašně blbej.
 
-A teď se konečně zase vracím k intuici, k vnitřímu hlasu, ale už mu nepředávám otěže nad svým životem, jen ho prostě vysílám jakožto rychlejšího průzkumníka napřed, poslouchám ho a radíme se spolu.
+A teď se konečně zase vracím k intuici, k vnitřnímu hlasu, ale už mu nepředávám otěže nad svým životem, jen ho prostě vysílám jakožto rychlejšího průzkumníka napřed, poslouchám ho a radíme se spolu.
 
-A tak to mám s ledčím. Na začátku to dělám správně, ale nevím o tom (slavné *štěstí začátečníka*), pak uvěřím, že bych to měl dělat jako všichni ostatní, (hltám návody, uctívám mentory, leštím slepé představy o jediné, nejlepší cestě) a teprve když si dostatečně namelu hubu, tak uznám, že jsem měl nejen okolí poslouchat, ale taky o něm přemýšlet a hlavně sám sobě od začátku důvěřovat.
+A tak to mám s lecčím. Na začátku to dělám správně, ale nevím o tom (slavné *štěstí začátečníka*), pak uvěřím, že bych to měl dělat jako všichni ostatní, (hltám návody, uctívám mentory, leštím slepé představy o jediné, nejlepší cestě) a teprve když si dostatečně namelu hubu, tak uznám, že jsem měl nejen okolí poslouchat, ale taky o něm přemýšlet a hlavně sám sobě od začátku důvěřovat.
 
 ## Chyba druhá
 
@@ -57,20 +57,20 @@ A tak to mám s ledčím. Na začátku to dělám správně, ale nevím o tom (s
 
 Tohle bylo vlastně v bledě modrém to samé, co první chyba s nikdy nepoužitým ukládáním. Během nadšeného plánování, co všechno s DrD+ budeme provádět, jsme se přesvědčili navzájem (na základě dlouholetých zkušeností z jiných projektů, o to bylo naše přesvědčení silnější), že bude nadmíru rozumné zanášet do pravidel změny postupně, citlivě a vždy s ohledem na hráče, kteří nechtějí změny a budou se dožadovat původní verze, ať už bude jakkoli prehistorická.
 
-Už když jsem převáděl všechny ty [tabulky](https://pph.drdplus.info/?trial=1&tables) a zákonnitosti z pravidel do [kódu](https://github.com/drdplusinfo/tables), tak mě mělo trknout, že ač jsou ty naše myšlenky krásné a rozumné, tak v současných pravidlech něco smrdí. Takovéto úřednické
+Už když jsem převáděl všechny ty [tabulky](https://pph.drdplus.info/?trial=1&tables) a zákonitosti z pravidel do [kódu](https://github.com/drdplusinfo/tables), tak mě mělo trknout, že ač jsou ty naše myšlenky krásné a rozumné, tak v současných pravidlech něco smrdí. Takovéto úřednické
 
 > *S formulářem Á pět si doběhněte do třetího patra pro potvrzení Dé lomeno jedna, pak na pokladnu v přízemí zaplatit kolek, do suterénu pro kulaté razítko, na podatelnu v šestém patře žádost odeslat a pak počkáte měsíc, než vám pošleme složenku typu Bé... né, to nesmíte vyplňovat modrou propiskou! Tak si skočte pro nový formulář, mají ho vedle podatelny.*
 
-A nebo prográmátorské
+A nebo programátorské
 > *Je to zamotaný jak špagety*.
 
-Jenže jsem držel hubu a krok a když přišel nápad, že si hráči budou na našem webu mezi jednotlivými verzemi pravidlel pohodlně překlikávat, tak jsem se do toho pustil s vervou a nadšením, že to je konečně něco!
+Jenže jsem držel hubu a krok a když přišel nápad, že si hráči budou na našem webu mezi jednotlivými verzemi pravidel pohodlně překlikávat, tak jsem se do toho pustil s vervou a nadšením, že to je konečně něco!
 
 A bylo. První verze přepínala přes verzovací nástroj [GIT](https://git-scm.com/book/cs/v1/%C3%9Avod-Spr%C3%A1va-verz%C3%AD) naprosto všechno, nejen obsah, ale taky celý ten kouzelný kód, který pravidla poskládá z kapitol, automagicky přidá na kapitoly odkazy, náhledy k tabulkám a spoustu dalších příjemností. Fungovalo to asi tak čtrnáct dní, než jsem potřeboval v nové verzi načíst jeden kus kódu o kousek dřív a najednou se to celé zřítilo - program mě poslal do háje, že takový název v kódu už má a nahrazovat ho rozhodně **nehodlá** a nazdar.
 
 V druhé verzi jsem se snažil oddělit základní kód a obsah, což fungovalo dobře, i když to stálo trochu víc času na údržbu, a to se udrželo téměř rok. Než někdo přišel s nápadem *"Hele, ty kalkulátory jsou takový předpotopní, nesjednotíme jejich vzhled s pravidly?"* Nápad dobrý, následky nebyly dobré. Když jsem kalkulátory posadil na společný základ s pravidly, najednou byla myšlenka odděleného obsahu naprosto nepoužitelná, protože všechny ty viditelné formuláře kalkulátorů jsou přímo závislé na neviditelném kódu, který běží na pozadí, a to musí být naprosto sladěné, tam si verze přepínat **nemůžu**.
 
-Takže si to koledovalo o třetí verzi, kde bude přepínání obsahu jen **někde**. Ale to už přišlo vyhoření, duševní únava a hlavně poznatek, že nedokážeme do současných pravidel s čistým svědomým zasahovat, aniž by se nám u toho nekroutili prsty, aniž bychom nechtěli nejdřív učesat a narovnat ten šmodrch, co tam teď je a když jsme si tohle uvědomili, tak nám došlo, že nějaká verze 1.1 hned tak nebude, takže nemá smysl udržovat, natož vyvíjet kód, který zatím nikdo nepotřebuje.
+Takže si to koledovalo o třetí verzi, kde bude přepínání obsahu jen **někde**. Ale to už přišlo vyhoření, duševní únava a hlavně poznatek, že nedokážeme do současných pravidel s čistým svědomím zasahovat, aniž by se nám u toho nekroutili prsty, aniž bychom nechtěli nejdřív učesat a narovnat ten šmodrch, co tam teď je a když jsme si tohle uvědomili, tak nám došlo, že nějaká verze 1.1 hned tak nebude, takže nemá smysl udržovat, natož vyvíjet kód, který zatím nikdo nepotřebuje.
 
 ## Cena za debordelizaci
 > Máloco se vyrovná pocitu, když zahodíte obrovskou složitost a ono to funguje pořád stejně
@@ -92,19 +92,20 @@ kdežto my se místo toho pustili do takových časožroutů, jakými počítadl
 
 Že musíme najít cestu, jak hrát DrD+ jednodušeji, jsme tušili od první hry. Nejdříve jsme zkusili pravidla v PDF, kde jsme čekali spásu od `Ctrl+F`, potom jsme je [převedli na web](https://www.drdplus.info) a přidali kvantum odkazů na jednotlivé části, pak přišla éra [počítadel](https://boj.drdplus.info), ale pořád to nebylo ono, pořád jsme hasili následky a neřešili příčinu. Bylo tedy jen otázkou času, zda nás to vyčerpá a zlomí, nebo konečně vykročíme správným směrem.
 
-Je až čarovné, že nám ta hromada práce vaz nezlomila a stále máme ten vnitřní oheň, co nám dává sílu pokračovat, aniž by nás bičoval a lákal na mrkvičku *"Už tam budete, už jenom kousek"*. Pořád máme pocit (a sílí), že děláme smysluplnou věc a že nás baví už jenom ta samotná cesta k cíli, ať už se z něj nakonec vyklube cokoliv.
+Je až čarovné, že nám ta hromada práce vaz nezlomila a stále máme onen vnitřní oheň, co nám dává sílu pokračovat, aniž by nás bičoval a lákal na mrkvičku stylem *"Už tam budete, už jenom kousek"*. Pořád máme pocit (a sílí), že děláme smysluplnou věc a že nás baví už jenom ta samotná cesta k cíli, ať už se z něj nakonec vylíhne cokoliv.
 
-Vždycky jsme věděli, že *dokud **to** nezkusíme, tak nevíme*. Těžké bylo ale přijít na to, co to je to **to**. Teď už ale víme, že míříme k pidi pravidlům, ve kterých bude jen
+Už delší dobu jsme tušili, že nás větší změny pravidel čekají, jen jsme pořád nevěděli jaké, takže jsme se větších změn vlastně báli. Z jiných oblastí života víme, že *nevíme, dokud **to** nezkusíme*, ovšem těžké je přijít na to, co to je to **to**. Teď už ale víme, že míříme k pidi pravidlům, ve kterých bude jen
 
 - šest základních vlastností
-  - *krom [Charisma](2018-10-31-cit_pro_charisma.md) dostane na frak ještě Zručnost, ale o tom příště*
+  - *[krom Charisma](2018-10-31-cit_pro_charisma.md) dostane na frak ještě Zručnost, ale o tom příště*
 - jeden jediný řádek *Zranění* a jediný řádek *Únavy*
   - *když se zraníš nebo unavíš za celý řádek, zhroutí se ti Morálka a utečeš (neboj, to bude jen v úvodním příběhu, kde ještě nebudeš hrdinou)*
 - hod kostkou 1k6±
+  - *když ti padne šestka, hurá, házíš dál, ale každým hodem už to bude přibývat nanejvýš o +1, a naopak když ti padne jednička, tak tvůj pokus bude klesat, ale nanejvýš s každým hodem o -1* 
 - Velká snaha
   - *a s ní volba, jak velkou chybu jsi ochoten ze zoufalství nebo čiré frajeřiny riskovat*
 - příběh
-  - *bez něj to prostě nejde, můžeme si nová pravidla třeba vyřezat laserem do [diamantu slisovaného z našich předků](TODO), ale pokud s nimi nepůjdou pokrýt situace v příběhu, tak by beztak byly jenom na... no... na hnojení*
+  - *bez něj to prostě nejde, můžeme si nová pravidla třeba vyřezat laserem do [diamantu slisovaného z našich předků](https://www.denik.cz/z_domova/kam-s-lidskym-popelem-do-hodin-ci-diamantu-20130502.html), ale pokud s nimi nepůjdou pokrýt situace v příběhu, tak by beztak byly jenom na... no... na hnojení*
   
 ## Závěrem
   
@@ -118,8 +119,9 @@ Tohle motto se dá přeložit i jako *Abys co nejdřív zjistil kudy jo, musíš
 * **vláda vědomí**
   * takový ten stav, kdy dokážeme všechno domyslet do nejmenších detailů, pokud máme dost informací, nebo to budeme ignorovat, protože o tom víme málo
  
-Strachu se nebojíme, absolutní vládu intuice i vědomí jsme si už zkusili a dopracovali jsme se k jejich spolupráci, takže to bychom měli. Narovnák na vohejbák v podobě kalkulátorů jsme přeleštili, zakonzervovali a teď můžeme zase s klidem na srdci pokračovat v plánu, který začal zrát na podzim a to sestavit **nejmenší možná pravidla** a už podle nich začít opravdu hrát, cokoli, hlavně abychom TODO 
+Strach už nemáme, absolutní vládu intuice i vědomí jsme si už zkusili a dopracovali jsme se k jejich spolupráci, takže to bychom měli. Narovnák na vohejbák v podobě kalkulátorů jsme přeleštili, zakonzervovali a teď můžeme zase s klidem na srdci pokračovat v plánu, který začal zrát na podzim a to sestavit **nejmenší možná pravidla** a už podle nich začít opravdu hrát, cokoli, hlavně abychom zjistili, zda pravidla příběhu pomáhají nebo ho dusí.
 
+Krleš!
 
 ---
 
