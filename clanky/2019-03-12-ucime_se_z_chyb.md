@@ -126,3 +126,4 @@ Krleš!
 ---
 
 - *předchozí [<< 7. 12. 2018 Představy minulosti - Poslové](2018-12-07-predstavy_minulosti_poslove.md)*
+- *následující [>> 15. 3. 2019 Představy minulosti - Mýty](2019-03-15-predstavy_minulosti_myty.md)*
