@@ -1,4 +1,4 @@
-# Hrdina do pléna - *Troškař*
+# Hrdina do pléna - *Troškař obuvník*
 
 Sobam je tak trošku zapšklý kraj. Honosí se bohatou a epickou historií, ale dnes se na ní vzpomíná jen u piva. Je ve všech směrech nezávislý, přesto mu vyhovuje být provincií Durinu. Obyvatelé chodí s hlavami zdviženými, ale ne zas moc, aby si to Durin špatně nevyložil a někam je nezaložil. Naibry se nebojí, ale jak Durin řekne, posílají proti ní materiální i lidskou výpomoc v uspořádaných šicích.
 Taková je to krásná, lehce zaprděná, okatě nezajímavá zemička, užívajíc si klid a nezodpovědnost podřízeného.
