@@ -859,7 +859,8 @@ function googlemapsReady() {
                 var localAnchor = c.localAnchor();
                 var d = a.md.util.getInpageAnchorText(localAnchor);
                 var localAnchorText = decodeURIComponent(d);
-                a.md.scrollToInPageAnchor(localAnchorText)
+                a.md.scrollToInPageAnchor(localAnchorText);
+                history.pushState(null, document.title, c.context.href);
             })
         })
     }
