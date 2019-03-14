@@ -4,7 +4,7 @@
 
 ---
 
-##Mýty
+# Mýty
 
 Hned na úvod udělám jednu chybu, vyslovím něco, co se na první pohled zdá naprosto nesmyslné a
     může kohokoli odradit od čtení zbytku. Doufám, že se tak nestane u každého z vás a alespoň ve
@@ -18,7 +18,7 @@ Tímto bychom vyvrátili mýtus průměrného hráče. Jak jsem to tedy myslel s
 
 Konec úvah. Máme pro vás další nahlédnutí pod pokličku. Tentokráte je to výtah z těch nejzákladnějších pravidel. Některé úseky jsou zkráceny, takže se nedivte, že v samotných pravidlech budou texty vypadat trošičku jinak.
 
-###Druhy činností
+## Druhy činností
 
 Ještě než uvedeme podrobná pravidla pro vyhodnocování činnosti, seznámíme tě s pravidlem hlavním a nejdůležitějším: jakákoliv pravidla použij pouze v případě, že jde o důležitou činnost, jejíž výsledek nelze odhadnout předem. Pokud nechá PJ postavu házet na každém kroku, jestli nezakopne, hráči si pro samé házení vůbec nezahrají. Je-li v tmavé chodbě natažen ve výši nohou tenký drát či klopýtá-li postava z posledních sil po rozhoupaném polorozpadlém provazovém mostě, má samozřejmě takový hod smysl a PJ by si měl hodit, aby určil výsledek. Stejně tak nemá cenu házet si každý den, jak se postavě povedl oběd, který si přichystala; očekává-li však vzácného vysoce postaveného hosta, pak může být i takový hod opodstatněný.
 
@@ -26,17 +26,17 @@ Pamatuj si tedy: kdekoliv je výsledek velmi pravděpodobný nebo nedůležitý,
 
 Pro potřeby následujících pravidel si různé druhy činností trochu rozdělíme, a to hned z několika hledisek.
 
-###Podle možných výsledků
+## Podle možných výsledků
 
 Existují činnosti, u nichž nás zajímá pouze to, zda se zdařily nebo nezdařily. Příkladem takové činnosti může být třeba přeskok propasti – postava buď doskočí nebo nedoskočí. Nebo řešení hádanky – postava ji uhádne nebo neuhádne. Většinou nás pak nemusí zajímat, o kolik postava nedoskočila nebo jak blízko byla řešení, zkrátka se jí její činnost buď zdařila nebo nezdařila.
 
 Oproti tomu máme činnosti, u kterých nás zajímá kvalita výsledku. Tak například nakreslit obrázek dokáže každý – co však bude výtvory různých postav odlišovat, je kvalita jejich výtvoru. Nebo třeba vrh oštěpem do dálky – zajímá nás, jak daleko oštěp doletí, ne jen jestli se hod podařil nebo nepodařil.
 
-###Podle vlivu doby provádění
+## Podle vlivu doby provádění
 
 Vykonávání každé činnosti zabere nějakou dobu. U některých činností tato doba závisí na tom, jak dobře člověk dokáže tuto činnost provádět. Například zkušený zloděj odemkne zámek mnohem rychleji než zloděj začátečník, dobrý zedník postaví dům rychleji než nezkušený, chytrý člověk se něco naučí rychleji než hloupý apod. A naopak – postava zběhlejší v dané činnosti dokáže za stejnou dobu dosáhnout kvalitnějšího výsledku. Odemykají-li zámek zkušený a nezkušený zloděj a mají-li stejně času, ten zkušený jej odemkne kvalitněji (např. tišeji), zkušený zedník postaví za stejnou dobu lepší dům než nezkušený, chytrý člověk se za stejnou dobu naučí něco lépe než hloupý. Oproti tomu však existují i činnosti, u kterých schopnosti postavy dobu provádění téměř neovlivní. Jsou to především činnosti, které se vyhodnocují okamžitě. Například zmíněný vrh oštěpem – silné postavě trvá stejně dlouho jako slabé, i když slabá bude mít horší výsledek. Nebo přeskok propasti – pokud na to postava nemá fyzické předpoklady, nepomůže jí, ani když na to bude mít celý den. Také sem patří činnosti, které se vykonávají po určitou dobu – například tanec či zpěv. Dobrý zpěvák přece nezazpívá písničku rychleji.
 
-###Pohyb, výdrž a únava
+## Pohyb, výdrž a únava
 
 Pohyb je činnost, kterou bude tvoje postava provádět asi nejčastěji, ať již to budou dlouhé dny putování po kraji, prolézání zřícenin, podzemních chodeb, hřbitovů a jiných podivných míst nebo úprk před rozezleným houfem nepřátel.
 
@@ -44,11 +44,11 @@ Předem si řekněme, že většinou žádná pravidla potřebovat nebudeš. Ča
 
 Možná se ti bude zdát, že pravidla pro výdrž dovolují postavě příliš mnoho, průměrný člověk podle nich může například asi 24 hodin jít, než se to projeví na jeho vlastnostech. To proto, aby pravidla příliš nezatěžovala hru. Dokud postavy nepřepínají příliš své síly, neprojeví se to na nich – postihy dostanou teprve tehdy, když jsou opravdu unaveny.
 
-###Obecné dovednosti
+## Obecné dovednosti
 
 Jak již víš z několika předcházejících kapitol, kromě schopností jednotlivých povolání existují ve hře ještě obecné dovednosti, které jsou přístupné všem postavám. Jedná se většinou o dovednosti, které nesouvisí přímo s nějakým povoláním, ale spíše s určitým prostředím či způsobem života anebo slouží prostě jako zpestření hry. Tyto dovednosti se postava může naučit nebo se v nich zlepšit při každém postupu na vyšší úroveň, některé navíc ovládá již od začátku své kariéry.
 
-###Druhy dovedností
+## Druhy dovedností
 
 Dovednosti rozdělíme do tří skupin podle toho, s rozvojem kterých vlastností souvisí. Budeme je označovat jako fyzické, psychické a kombinované.
 
@@ -60,7 +60,7 @@ Mezi kombinované dovednosti řadíme ty, které závisí na Zručnosti nebo na 
 
 Takové rozškatulkování dovedností není jednoduchou záležitostí a často se stává, že by některá z nich patřila do více než jedné kategorie, pro jednoduchost jsme však každou jednoznačně zařadili jen do jedné ze skupin, tak aby každá poskytovala dostatečný výběr dovedností.
 
-###Stupně dovedností
+## Stupně dovedností
 
 Každá dovednost má tři stupně. Postava buď danou dovednost vůbec neovládá, nebo ji ovládá na prvním, na druhém nebo na třetím stupni. Vyššího stupně než třetího není možno dosáhnout. Je nutno si uvědomit, že třetí stupeň neznamená mistrovství v dané dovednosti – postavy mohou dosáhnout mistrovství jen v oborech, které si zvolily za své povolání. Takže např. třetí stupeň vaření znamená, že postava umí skutečně dobře a chutně vařit, ale přesto se zdaleka nevyrovná kuchaři léta zaměstnanému v obyčejné krčmě, který se vařením zabývá profesionálně. Umí-li postava hrát na loutnu na třetím stupni, pak její hra dokáže skutečně potěšit ucho posluchače, vedle mistrovství trubadúrů však bude znít jen jako ubohé drnkání. Ovládá-li zloděj boj širokým mečem na třetím stupni, stále ještě jím bojuje hůř, než by dokázal bojovník bez této dovednosti.
 
