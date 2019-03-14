@@ -975,7 +975,8 @@ function googlemapsReady() {
                 f.attr("href", a.md.util.getInpageAnchorHref(d.toptext())), f.click(function (b) {
                     b.preventDefault();
                     var c = a(this), d = a.md.util.getInpageAnchorText(c.toptext());
-                    a.md.scrollToInPageAnchor(d)
+                    a.md.scrollToInPageAnchor(d);
+                    history.pushState(null, document.title, c.context.href);
                 }), f.text(d.toptext()), e.append(f), i.append(e)
             }), a(window).resize(function () {
                 c(a("#md-page-menu")), d()
