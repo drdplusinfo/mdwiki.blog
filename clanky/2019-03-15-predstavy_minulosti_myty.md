@@ -6,7 +6,7 @@
 
 > Tak co, jak to dopadlo?
 
-Přibližně před šestnácti lety otiskli původní autoři DrD+ v [Dechu draka](https://www.altar.cz/dech/) (kterýžto je již drahnou dobu součástí časopisu [Pevnost](https://www.pevnost.cz)) článek s ukázkou pravidel, který si dnes připomeneme a  který si koleduje o závěr hned v úvodu, protože je obsahově poněkud nezáživný, jelikož a protože jde vlastně o zkrácené [pasáže z pravidel](https://pph.drdplus.info/#Druhy%20činností) a pak trochu proto, že je psán suchou logikou, u které oko nezvlhne a koutky nezacukají.
+Přibližně před šestnácti lety otiskli původní autoři DrD+ v [Dechu draka](https://www.altar.cz/dech/) (kterýžto je již drahnou dobu součástí časopisu [Pevnost](https://www.pevnost.cz)) článek s ukázkou pravidel, který si dnes připomeneme a  který si koleduje o závěr hned v úvodu, protože je obsahově poněkud nezáživný, jelikož a protože jde vlastně o zkrácené [pasáže z pravidel](https://pph.drdplus.info/?trial=1#Druhy%20činností) a pak trochu proto, že je psán suchou logikou, u které oko nezvlhne a koutky nezacukají.
 
 ### Odkaz dračích tvůrců
 
@@ -23,11 +23,11 @@ V tomhle máme my, následovníci odkazu DrD+, jednu nespornou a jednu spornou v
 
 ### Rozborka sborka
 
-U dalších kapitol se pozastavíme jen krátce a technicky. Jak z tohoto historickém článku, tak potom z celých pravidel DrD+ je cítit touha po *přesnosti*. Z té pak pramení přehršel matematických modelů, zjednodušených jen natolik, aby *ještě* šli [odházet dvěma kostkami](http://pph.drdplus.loc/#hod2k_6_plus).
+U dalších kapitol se pozastavíme jen krátce a technicky. Jak z tohoto historickém článku, tak potom z celých pravidel DrD+ je cítit touha po *přesnosti*. Z té pak pramení přehršel matematických modelů, zjednodušených jen natolik, aby *ještě* šli [odházet dvěma kostkami](https://pph.drdplus.info/?trial=1#hod2k_6_plus).
 
 Jestli se o něco snažíme dlouhodobě, tak je to najít způsob, jak nacpat *co nejvíce situací* do *co nejméně pravidel* a pořád doufáme, že to zvládne jedna šestistěnná kostka, prosté sčítání a odčítání a povolení přístupu selskému rozumu (s čímž musíme být opatrní, známe své lidi - jak je někde v pravidlech mezírka, nacpou tam páčidlo a pak se tváří, že ostatní jen přehlédli oficiální zkratku).
 
-V úvodu druhé kapitoly je pak skrytá perla, která pochází z rodiny *tak zřejmých pravd, že se na ní často zapomíná*. Je to právě selský rozum, doporučení, abychom pravidla používali jen tehdy, mají-li **smysl**. Bohužel tohle je ve [výsledných pravidlech](https://pph.drdplus.info) zmíněno jen letmo, takže to v hlavě moc neuvízne. Dobře si vzpomínáme, že když jsme [četli Neviditelnou knihu](2018-05-03-neviditelna_recenze.md), tak na nás každou chvíli vyskočilo doporučení autorů, abychom knihu brali jako zdroj nápadů, které můžeme kdykoli změnit, naroubovat na svůj svět a vůbec si s tím dělat, co se nám zlíbí, ale teprve když jsme to doporučení měli před očima tak po páté, tak nám význam oněch slov sklouzl z povrchního vědomí do srdce a došlo nám, že nám autoři dávají svobodu a volnost a teprve potom z nás spadly okovy obav, jak že máme sakra *celý* ten komplexní svět Taurilu používat, aniž bychom v něm něco nerozbili. Holt slova mají tu moc svobodu vzít i dát.
+V úvodu druhé kapitoly je pak skrytá perla, která pochází z rodiny *tak zřejmých pravd, že se na ní často zapomíná*. Je to právě selský rozum, doporučení, abychom pravidla používali jen tehdy, mají-li **smysl**. Bohužel tohle je ve [výsledných pravidlech](https://pph.drdplus.info/?trial=1) zmíněno jen letmo, takže to v hlavě moc neuvízne. Dobře si vzpomínáme, že když jsme [četli Neviditelnou knihu](2018-05-03-neviditelna_recenze.md), tak na nás každou chvíli vyskočilo doporučení autorů, abychom knihu brali jako zdroj nápadů, které můžeme kdykoli změnit, naroubovat na svůj svět a vůbec si s tím dělat, co se nám zlíbí, ale teprve když jsme to doporučení měli před očima tak po páté, tak nám význam oněch slov sklouzl z povrchního vědomí do srdce a došlo nám, že nám autoři dávají svobodu a volnost a teprve potom z nás spadly okovy obav, jak že máme sakra *celý* ten komplexní svět Taurilu používat, aniž bychom v něm něco nerozbili. Holt slova mají tu moc svobodu vzít i dát.
 
 Poznámky k historickému textu:
 
