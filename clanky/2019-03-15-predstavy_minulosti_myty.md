@@ -6,7 +6,7 @@
 
 > Tak co, jak to dopadlo?
 
-Přibližně před šestnácti lety otiskli původní autoři DrD+ v [Dechu draka](https://www.altar.cz/dech/) (kterýžto je již drahnou dobu součástí časopisu [Pevnost](https://www.pevnost.cz)) článek s ukázkou pravidel, který si dnes připomeneme a  který si koleduje o závěr hned v úvodu, protože je obsahově poněkud nezáživný, jelikož a protože jde vlastně o zkrácené [pasáže z pravidel](https://pph.drdplus.info/?trial=1#Druhy%20činností) a pak trochu proto, že je psán suchou logikou, u které oko nezvlhne a koutky nezacukají.
+Přibližně před šestnácti lety otiskli původní autoři DrD+ v [Dechu draka](https://www.altar.cz/dech/) (kterýžtodříve vycházel samostatně, pak byl nějakou dobu součástí časopisu [Pevnost](https://www.pevnost.cz) a teď už je nějaký čas v literárním nebi, ach jo) článek s ukázkou pravidel, který si dnes připomeneme a  který si koleduje o závěr hned v úvodu, protože je obsahově poněkud nezáživný, jelikož a protože jde vlastně o zkrácené [pasáže z pravidel](https://pph.drdplus.info/?trial=1#Druhy%20činností) a pak trochu proto, že je psán suchou logikou, u které oko nezvlhne a koutky nezacukají.
 
 ### Odkaz dračích tvůrců
 
