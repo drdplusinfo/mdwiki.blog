@@ -6,13 +6,13 @@
 
 > Tak co, jak to dopadlo?
 
-Přibližně před šestnácti lety otiskli původní autoři DrD+ v Dechu draka (TODO kde je mu konec?) článek, který si dnes připomeneme a  který si koleduje o závěr hned v úvodu, protože je obsahem poněkud nezáživný, jelikož a protože jde vlastně o zkrácené [pasáže z pravidel](https://pph.drdplus.info/#Druhy%20činností) a pak trochu proto, že je psán suchou logikou, u které oko nezvlhne a pusa se do úsměvu nezkroutí.
+Přibližně před šestnácti lety otiskli původní autoři DrD+ v [Dechu draka](https://www.altar.cz/dech/) (kterýžto je již drahnou dobu součástí časopisu [Pevnost](https://www.pevnost.cz)) článek s ukázkou pravidel, který si dnes připomeneme a  který si koleduje o závěr hned v úvodu, protože je obsahově poněkud nezáživný, jelikož a protože jde vlastně o zkrácené [pasáže z pravidel](https://pph.drdplus.info/#Druhy%20činností) a pak trochu proto, že je psán suchou logikou, u které oko nezvlhne a koutky nezacukají.
 
 ### Odkaz dračích tvůrců
 
-Ovšem až na první kapitolu o *mýtu průměrného hráče*, ve které se vynořují obavy, jež původní autoři DrD+ měli a bylo by od nás krátkozraké ignorovat pocity, které měli naši předchůdci.
+Prázdnota emocí ovšem **neplatí** na první kapitolu o *mýtu průměrného hráče*, ze které se vynořují obavy z hráčů, jež původní autoři DrD+ měli a bylo by od nás krátkozraké ignorovat pocity, které měli naši předchůdci.
 
-Podobně jako v historickém článku [s Patnáctkou bohů](2018-09-06-predstavy_minulosti_patnactka.md), tak i tady autoři zmiňují, jak těžké je trefit se *ostatním* do vkusu a zřejmě z toho měli těžkou hlavu, protože v oné první kapitole o mýtech je cítit defenzíva a opatrné vysvětlování nespokojenénu davu, jak mají situaci vnímat.
+Podobně jako v historickém článku [s Patnáctkou bohů](2018-09-06-predstavy_minulosti_patnactka.md), tak i tady autoři zmiňují, jak těžké je trefit se *ostatním* do vkusu a zřejmě z toho měli těžkou hlavu, protože v oné první kapitole o mýtech je cítit defenzíva a opatrné vysvětlování nespokojenému davu, jak mají situaci vnímat.
 
 V tomhle máme my, následovníci odkazu DrD+, jednu nespornou a jednu spornou výhodu
 
@@ -23,13 +23,14 @@ V tomhle máme my, následovníci odkazu DrD+, jednu nespornou a jednu spornou v
 
 ### Rozborka sborka
 
-U dalších kapitol se pozastavíme jen krátce a technicky. Jak z tohoto historickém článku, tak potom z celých pravidel DrD+ je cítít touha po přesnosti. Z té pak pramení přehršel matematických modelů, pro každou situaci jeden, zjednodušených jen natolik, aby *ještě* šli odházet dvěma kostkami.
+U dalších kapitol se pozastavíme jen krátce a technicky. Jak z tohoto historickém článku, tak potom z celých pravidel DrD+ je cítit touha po *přesnosti*. Z té pak pramení přehršel matematických modelů, zjednodušených jen natolik, aby *ještě* šli [odházet dvěma kostkami](http://pph.drdplus.loc/#hod2k_6_plus).
 
-Jestli se o něco snažíme dlouhodobě, tak je to najít způsob, jak nacpat co nejvíce situací do co nejméně pravidel a pořád doufáme, že to zvládne jedna šestistěná kostka, prosté sčítání a odčítání a povolení přístupu selskému rozumu (s čímž musíme být opatrní, známe své lidi - jak je někde v pravidlech mezírka, nacpou tam páčidlo a pak se tváří, že ostatní jen přehlédli oficiální zkratku).
+Jestli se o něco snažíme dlouhodobě, tak je to najít způsob, jak nacpat *co nejvíce situací* do *co nejméně pravidel* a pořád doufáme, že to zvládne jedna šestistěnná kostka, prosté sčítání a odčítání a povolení přístupu selskému rozumu (s čímž musíme být opatrní, známe své lidi - jak je někde v pravidlech mezírka, nacpou tam páčidlo a pak se tváří, že ostatní jen přehlédli oficiální zkratku).
 
-TODO v Ženevě jsem žádný institut nenašel - asi myslel v Sèvres u Paříže, viz [historie metru](https://cs.wikipedia.org/wiki/Metr#Historie).
+Poznámky k historickému textu:
 
-TODO kdo by potřeboval pomoct s vysvětlením motta, ať se podívá na [Rattatuie](https://youtu.be/tNpGFaoYWVA)
+- Autor by hledal průměrného hráče leda v [Mezinárodním ústavu standardů v Ženevě](https://cs.wikipedia.org/wiki/Mezinárodní_organizace_pro_normalizaci), který zodpovídá za známé ISO standardy, ovšem na stejném místě by hledal i etalon jednoho metru, který ale bude spíše v domovském Sèvres u Paříže, jak napovídá [jeho historie](https://cs.wikipedia.org/wiki/Metr#Historie).
+- Pokud vám nebude jasné ono tvrzení *pravidel pro každého*, mrkněte na [vysvětlení Ega z animáku Ratatouille](https://www.youtube.com/watch?v=tNpGFaoYWVA)(anglicky, o českou verzi jsme nezakopli).
 
 A teď hurá na první kapitolu! Masochisti a nehráči si mohou smlsnout i na těch dalších.
 
@@ -45,7 +46,7 @@ Hned na úvod udělám jednu chybu, vyslovím něco, co se na první pohled zdá
     zní:
 > „Pravidla DrD+ by neměla být pro všechny, ale pro každého.“
 
-Mýlíte se, jestli si myslíte, že jsme se ze psaní pravidel již dočista zbláznili (ačkoli by tomu tak mohlo být) a vymýšlíme si nesmysly a protimluvy. Pes je zakopaný v tom, že, jak všichni víme, je dosti komplikované vytvořit pravidla tak, aby se líbila absolutně každému. Ne, ne… neříkám to proto, abych, když se vám nebudou pravidla líbit, mohl s klidem v srdci prohlásit, že jste bohužel nespadli do té ohromné skupiny hráčů, pro kterou bylo DrD+ tvořeno. Tzv. průměrný hráč, který je častým předmětem našich nekonečných teoretických diskusí nad pravidly her na hrdiny, musí být uložen kdesi v Mezinárodním ústavu standardů v Ženevě, nejspíše někde zastrčený v hermeticky uzavřeném trezoru. Průměrný hráč je pro tvůrce jakousi mlhavou nemesis, která se stále skrývá a na kterou neustále nikdo nemůže narazit. Považujete se vy za průměrné hráče? Asi těžko. Možná považujete za průměrného hráče někoho jiného, ale on sám sebe s největší pravděpodobností ne. Průměrný hráč totiž neexistuje a čím déle po něm osobně pátrám, začínám se domnívat, že neexistujících průměrných hráčů je mnoho (další protimluv). Na rozdíl od kovové tyče dlouhé přesně jeden metr, která je v onom trezoru také ukryta a která definuje všechny metry stejně, se každý z průměrných hráčů může dost odlišovat. Ačkoli všichni pro svou hru třeba používají stejná pravidla, každá hra se může diametrálně odlišovat. I my, když dáme dohromady družinu, abychom si po dlouhé době zahráli, zjišťujeme, že nás na hře každého baví něco jiného.
+Mýlíte se, jestli si myslíte, že jsme se ze psaní pravidel již dočista zbláznili (ačkoli by tomu tak mohlo být) a vymýšlíme si nesmysly a protimluvy. Pes je zakopaný v tom, že, jak všichni víme, je dosti komplikované vytvořit pravidla tak, aby se líbila absolutně každému. Ne, ne… neříkám to proto, abych, když se vám nebudou pravidla líbit, mohl s klidem v srdci prohlásit, že jste bohužel nespadli do té ohromné skupiny hráčů, pro kterou bylo DrD+ tvořeno. Tzv. průměrný hráč, který je častým předmětem našich nekonečných teoretických diskusí nad pravidly her na hrdiny, musí být uložen kdesi v [Mezinárodním ústavu standardů v Ženevě](https://cs.wikipedia.org/wiki/Mezinárodní_organizace_pro_normalizaci), nejspíše někde zastrčený v hermeticky uzavřeném trezoru. Průměrný hráč je pro tvůrce jakousi mlhavou nemesis, která se stále skrývá a na kterou neustále nikdo nemůže narazit. Považujete se vy za průměrné hráče? Asi těžko. Možná považujete za průměrného hráče někoho jiného, ale on sám sebe s největší pravděpodobností ne. Průměrný hráč totiž neexistuje a čím déle po něm osobně pátrám, začínám se domnívat, že neexistujících průměrných hráčů je mnoho (další protimluv). Na rozdíl od kovové tyče dlouhé přesně jeden metr, která je v onom trezoru také ukryta a která definuje všechny metry stejně, se každý z průměrných hráčů může dost odlišovat. Ačkoli všichni pro svou hru třeba používají stejná pravidla, každá hra se může diametrálně odlišovat. I my, když dáme dohromady družinu, abychom si po dlouhé době zahráli, zjišťujeme, že nás na hře každého baví něco jiného.
 
 Tímto bychom vyvrátili mýtus průměrného hráče. Jak jsem to tedy myslel s oním prvním protimluvem? Rádi bychom, aby si každý na pravidlech DrD+ našel to, co přesně reflektuje jeho styl hry, a to, co jemu se na hře na hrdiny líbí. Těžko lze udělat pravidla tak, aby si líbila všem. Mohou se líbit třeba průměrnému hráči, ale ten si je s největší pravděpodobností nezahraje. Každý by si v nich měl najít to, co mu přiroste k srdci.
 
