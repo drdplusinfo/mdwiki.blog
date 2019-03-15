@@ -12,7 +12,7 @@ Přibližně před šestnácti lety otiskli původní autoři DrD+ v [Dechu drak
 
 Prázdnota emocí ovšem **neplatí** na první kapitolu o *mýtu průměrného hráče*, ze které se vynořují obavy z hráčů, jež původní autoři DrD+ měli a bylo by od nás krátkozraké ignorovat pocity, které měli naši předchůdci.
 
-Podobně jako v historickém článku [s Patnáctkou bohů](2018-09-06-predstavy_minulosti_patnactka.md), tak i tady autoři zmiňují, jak těžké je trefit se *ostatním* do vkusu a zřejmě z toho měli těžkou hlavu, protože v oné první kapitole o mýtech je cítit defenzíva a opatrné vysvětlování nespokojenému davu, jak mají situaci vnímat.
+Podobně jako v historickém článku [s Patnáctkou bohů](2018-09-06-predstavy_minulosti_patnactka.md), tak i tady autoři zmiňují, jak těžké je trefit se *ostatním* do vkusu a zřejmě z toho měli těžkou hlavu, protože v oné první kapitole o mýtech je cítit defenzíva a opatrné vysvětlování nespokojenému davu, jak má situaci vnímat.
 
 V tomhle máme my, následovníci odkazu DrD+, jednu nespornou a jednu spornou výhodu
 
