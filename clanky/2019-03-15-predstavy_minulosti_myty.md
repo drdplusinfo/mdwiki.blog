@@ -2,9 +2,42 @@
 
 *15. 3. 2019*
 
+## Závěrem
+
+> Tak co, jak to dopadlo?
+
+Přibližně před šestnácti lety otiskli původní autoři DrD+ v Dechu draka (TODO kde je mu konec?) článek, který si dnes připomeneme a  který si koleduje o závěr hned v úvodu, protože je obsahem poněkud nezáživný, jelikož a protože jde vlastně o zkrácené [pasáže z pravidel](https://pph.drdplus.info/#Druhy%20činností) a pak trochu proto, že je psán suchou logikou, u které oko nezvlhne a pusa se do úsměvu nezkroutí.
+
+### Odkaz dračích tvůrců
+
+Ovšem až na první kapitolu o *mýtu průměrného hráče*, ve které se vynořují obavy, jež původní autoři DrD+ měli a bylo by od nás krátkozraké ignorovat pocity, které měli naši předchůdci.
+
+Podobně jako v historickém článku [s Patnáctkou bohů](2018-09-06-predstavy_minulosti_patnactka.md), tak i tady autoři zmiňují, jak těžké je trefit se *ostatním* do vkusu a zřejmě z toho měli těžkou hlavu, protože v oné první kapitole o mýtech je cítit defenzíva a opatrné vysvětlování nespokojenénu davu, jak mají situaci vnímat.
+
+V tomhle máme my, následovníci odkazu DrD+, jednu nespornou a jednu spornou výhodu
+
+- jsme magoři
+    - sice nám názory okolí nejsou ukradené, ale zase si je tolik nebereme (možná i proto, že necítíme vůči nikomu žádný závazek) a DrD+2 děláme hlavně pro sebe, takže si snáz udržujeme vlastní  názor a styl
+- je nás málo
+    - sice tím trpí rychlost vývoje, ale zase jsme o dost konzistentnější, s minimem neshod a vzhledem k našim [léty ošoupaným charakterům](2019-03-12-ucime_se_z_chyb.md) i s malou šancí, že se někdo z nás sesype pod kritikou okolí
+
+### Rozborka sborka
+
+U dalších kapitol se pozastavíme jen krátce a technicky. Jak z tohoto historickém článku, tak potom z celých pravidel DrD+ je cítít touha po přesnosti. Z té pak pramení přehršel matematických modelů, pro každou situaci jeden, zjednodušených jen natolik, aby *ještě* šli odházet dvěma kostkami.
+
+Jestli se o něco snažíme dlouhodobě, tak je to najít způsob, jak nacpat co nejvíce situací do co nejméně pravidel a pořád doufáme, že to zvládne jedna šestistěná kostka, prosté sčítání a odčítání a povolení přístupu selskému rozumu (s čímž musíme být opatrní, známe své lidi - jak je někde v pravidlech mezírka, nacpou tam páčidlo a pak se tváří, že ostatní jen přehlédli oficiální zkratku).
+
+TODO v Ženevě jsem žádný institut nenašel - asi myslel v Sèvres u Paříže, viz [historie metru](https://cs.wikipedia.org/wiki/Metr#Historie).
+
+TODO kdo by potřeboval pomoct s vysvětlením motta, ať se podívá na [Rattatuie](https://youtu.be/tNpGFaoYWVA)
+
+A teď hurá na první kapitolu! Masochisti a nehráči si mohou smlsnout i na těch dalších.
+
 ---
 
-# Mýty
+**(před dávnými a dávnými časy, někdy kolem roku 2002)**
+
+## Mýty
 
 Hned na úvod udělám jednu chybu, vyslovím něco, co se na první pohled zdá naprosto nesmyslné a
     může kohokoli odradit od čtení zbytku. Doufám, že se tak nestane u každého z vás a alespoň ve
