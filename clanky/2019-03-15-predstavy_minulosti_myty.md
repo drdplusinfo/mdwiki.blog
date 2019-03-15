@@ -32,7 +32,7 @@ V úvodu druhé kapitoly je pak skrytá perla, která pochází z rodiny *tak z�
 Poznámky k historickému textu:
 
 - Jeho autor by hledal průměrného hráče leda v [Mezinárodním ústavu standardů v Ženevě](https://cs.wikipedia.org/wiki/Mezinárodní_organizace_pro_normalizaci), který zodpovídá za známé ISO standardy, ovšem na stejném místě by hledal i etalon jednoho metru, který ale bude spíše v domovském Sèvres u Paříže, jak napovídá [jeho historie](https://cs.wikipedia.org/wiki/Metr#Historie).
-- Pokud vám nebude jasné ono tvrzení *pravidel pro každého*, mrkněte na [vysvětlení Ega z animáku Ratatouille](https://www.youtube.com/watch?v=tNpGFaoYWVA)(anglicky, o českou verzi jsme nezakopli).
+- Pokud vám nebude jasné ono tvrzení *pravidel pro každého*, mrkněte na [vysvětlení Ega z animáku Ratatouille](https://www.youtube.com/watch?v=tNpGFaoYWVA) (anglicky, o českou verzi jsme nezakopli).
 
 A teď hurá na první kapitolu! Masochisti a nehráči si mohou smlsnout i na těch dalších.
 
