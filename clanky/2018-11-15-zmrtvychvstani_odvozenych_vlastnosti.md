@@ -4,17 +4,17 @@
 
 > Poslední lopata se líně zhoupla dolů, hlína a štěrk naposledy zabubnovaly na dubové víko a byla tma. Klidná, konejšivá, věčná tma. A z té tmy se ozývalo ťukání, tiché, nepravidelné a jakoby nejisté a kdo špicoval uši, mohl zaslechnout tenké hlásky, které se překrývaly navzájem "My už nebudeme složité. My už jsme taky primitivové. Nechybíme vám?"
 
-Ve *Velkém fanouškovi* jsme začali [pohřbívat *Odvozené vlastnosti*](2018-09-03-velkej_fanousek.md#Dovednosti), částečně proto, že některé z nich se pravidlově používají minimálně až vůbec a hlavně proto, že se s nimi nechceme [počítat](https://pph.drdplus.info/?version=1.0&trial=1#urceni_aspektu_vzhledu).
+Ve *Velkém fanouškovi* jsme začali [pohřbívat *Odvozené vlastnosti*](2018-09-03-velkej_fanousek.md#Dovednosti), částečně proto, že některé z nich se pravidlově používají minimálně až vůbec a hlavně proto, že se s nimi nechceme [počítat](https://pph.drdplus.info/?trial=1#urceni_aspektu_vzhledu).
 
 Od té doby jsme toho na blog nasypali dost a dost, až jsme v [neboji](2018-10-26-neboj.md#Jenom_akce) poprvé použili prosté výpočetní pravidlo
 
 > podle toho, kterou z těchto vlastností máš **menší**
 
-čímž [Odvozené vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_odvozenych_vlastnosti) dostali druhou šanci, hlavně pak [Aspekty vzhledu](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_aspektu_vzhledu), jejichž náročnost na spočítání a výsledný užitek byly z nejhorších.
+čímž [Odvozené vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_odvozenych_vlastnosti) dostávají druhou šanci, hlavně pak [Aspekty vzhledu](https://pph.drdplus.info/?trial=1#tabulka_aspektu_vzhledu), jejichž náročnost na spočítání a výsledný užitek, onen známý poměr *cena x výkon*, byly z nejhorších a už jsme kvůli tomu zakopali [Krásu](2018-11-09-vzpominky_na_krasu.md).
 
 ## Druhá šance
 
-Vezmeme si k ruce přehled všech odvozených vlastností, které se musí počítat a navrch přidáme [znovuobjevené *Charisma*](2018-10-31-cit_pro_charisma.md#Cit_nad_Charisma)
+Vezmeme si k ruce přehled všech odvozených vlastností z DrD+, které se musí počítat a navrch přidáme [znovuobjevené *Charisma*](2018-10-31-cit_pro_charisma.md#Cit_nad_Charisma)
 
 | Vlastnost | Výpočet |
 |-----|:---:|
@@ -27,7 +27,7 @@ Vezmeme si k ruce přehled všech odvozených vlastností, které se musí poč�
 
 *Vypadá to hrozně, co?*
 
-Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na dvacáté první úrovni, bojovník na slovo vzatý, bude mít co nejvyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u [člověka](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_ras) z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání výsledky dle *původních pravidel* a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
+Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na [nejvyšší dvacáté první úrovni](https://pph.drdplus.info/?trial=1#tabulka_zkusenosti), bojovník na slovo vzatý, bude mít co nejvyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití, což u [člověka](https://pph.drdplus.info/?trial=1#tabulka_ras) z dobrého rodu bude přibližně jedenáct a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání výsledky dle *původních pravidel* a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností* vedle sebe:
 
 | Vlastnost | Hodnota dle *původních pravidel* | Hodnota dle *nejmenší vlastnosti* |
 |-----|:---:|:---:|
@@ -38,9 +38,9 @@ Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina t
 | *Rychlost* | (11 + 11)/2  = **11** | **11** |
 | *Charisma* | (5 + 5)/2 = **5** | **5** |
 
-*Mimochodem, všimli jste si, že ty závorky jsou úplně k ničemu? Tedy pokud zaokrouhlujete až úplně na konci, což my děláme.*
+*Mimochodem, všimli jste si, že ty závorky v původních výpočtech jsou úplně k ničemu? Tedy pokud zaokrouhlujete až úplně na konci, což my děláme.*
 
-U nového návrhu je jasný propad, hlavně tam, kde se kombinují vysoké a nízké vlastnosti, což znamená [hlavní a vedlejší vlastnosti](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani), což dává logiku, když místo průměru použijeme jen mrňouse.
+U nového návrhu je jasný propad, hlavně tam, kde se kombinují vysoké a nízké vlastnosti, což znamená [hlavní a vedlejší vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_povolani), což dává logiku, když místo průměru použijeme jen mrňouse.
 Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě ani ne, protože **hráč** bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - aby zvýšil své šance na přežití. Takže nic, jdeme dál.
 
 Další změna, kterou jsme nedávno navrhli, posunuje nulové začátečnické vlastnosti z [nuly na šest](2018-10-22-nula.md#Šestka), změní tohle něco? No, když se posunul začátek, tak se taky posunul konec, ne? Ani ne, už jsme naznačovali, že horní hranice vlastností [bude dvanáct](2018-10-29-minuta_inteligence.md#Baba_minuta). Trochu jsme ale zatajili, že to není absolutní strop, takže pokud teď trochu předběhneme dobu, tak můžeme vyřknout naprosto *nepromyšlený* stav našeho borce, který bude na neuvěřitelné jednadvacáté úrovni mít
@@ -63,7 +63,7 @@ Změní to nějak zásadně naši tabulku výsledků?
 
 Zatímco u předchozích hodnot to vypadalo, že *úplně mimo* je náš nový návrh, tak s o něco vyššími vlastnostmi se najednou naprosto rozsypala původní pravidla. Nebo ti připadá v pořádku mít nebezpečnost dvacet? Vždyť by před tebou utíkaly i pařezy.
 
-Z tohohle souboje vychází vítězně nový návrh, takže zatím je to jedna:jedna na zápasy.
+Z tohohle souboje vychází vítězně nový návrh, takže zatím je to 1:1 na zápasy.
 
 A co dál? Dál si připomeneme, na co jsme přišli v [Inteligentním bojovníkovi](2018-10-10-inteligentni_bojovnik.md#Zkrátka_inteligence) a to, že pro počet akcí potřebuju jak *Obratnost*, tak i *Inteligenci*, přičemž značná *Obratnost* s nízkou *Inteligencí* je tělo bez vlády a vysoká *Inteligence* s neohrabanou *Obratností* je vláda bez těla. Prostě výsledkem je **nižší** z obou vlastností, ~~žádný průměr~~. Neplatí tohle náhodou pro každou kombinaci vlastností? Nebo alespoň pro některé?
 
@@ -92,7 +92,7 @@ Původní *Nebezpečnost* se počítala
 
 A *Inteligence* ne? Nikdy tě nemrazilo z génia, který živé tvory považuje za omyl evoluce? Snad jen *Zručnost* a možná *Obratnost* nezasahují do prvotního pocitu nebezpečí, ale jen do doby, než si uvědomíš, že protivník tě v obou vlastnostech převyšuje a že proti němu nemáš moc šancí.
 
-To už je druhá odvozená vlastnost, do které se nám hodí každá základní vlastnost, něco tady smrdí... No, zkusíme další vlastnost a smrad [vyvětráme až na závěr](#Ale_to_je_smrad).
+To už je druhá odvozená vlastnost, do které se nám hodí **každá** základní vlastnost, něco tady smrdí... No, zkusíme další vlastnost a smrad [vyvětráme až na závěr](#Ale_to_je_smrad).
 
 ### Důstojnost
 
@@ -107,8 +107,9 @@ Původně se *Důstojnost* počítala
 - *Charisma*
     - inu, je jednodušší zachovat si svobodnou vůli, když ovlivníme ty, kteří nám ji chtějí vzít, takže ano
 
-Že by do důstojnosti zasahovala některá z tělesných vlastností, to se nám nezdá, snad jen lehce *Zručnost*, díky které je snazší nést se vznešeně a klidně, což na mnohé důstojně zapůsobí. Ovšem máme tu ono *Charisma*, o kterém už víme, že je to spojení *Citu* a *Inteligence* a protože *Inteligenci* už v *Důstojnosti* máme, tak otázka je, zda ji ovlivní také *Cit*.
-*Cit* ovlivní přívětivost nebo nepříjemnost, celkový příznivý či špatný dojem u ostatních, ale že by přímo *Důstojnost*... nebo že by šlo *Cit* použít k vycítění toho, co ostatní považují za důstojné a toho se držet? Nebo naopak vycítit, čím tě chtějí ponížit a tomu vědomě odolat? Že by ten *Cit* a tím vlastně celé Charisma byly pro důstojnost přeci jenom důležité?
+Že by do důstojnosti zasahovala některá z tělesných vlastností, to se nám nezdá, snad jen lehce *Zručnost*, díky které je snazší nést se vznešeně a klidně, což na mnohé důstojně zapůsobí. Ovšem máme tu ono *Charisma*, o kterém [už víme](2018-10-31-cit_pro_charisma.md#Závěr), že je to spojení *Citu* a *Inteligence* a protože *Inteligenci* už v *Důstojnosti* máme, tak otázka je, zda ji ovlivní také *Cit*.
+
+*Cit* ovlivní přívětivost nebo nepříjemnost, vystupování, celkový příznivý či špatný dojem u ostatních, ale že by přímo *Důstojnost*... nebo že by šlo *Cit* použít k vycítění toho, co ostatní považují za důstojné a toho se držet? Nebo naopak vycítit, čím tě chtějí ponížit a tomu vědomě odolat? Že by ten *Cit* a tím vlastně celé Charisma byly pro důstojnost přeci jenom důležité?
 *Důstojnost* je tak vlastně spolupráce všech tří základních duševních vlastností a my se můžeme začít ptát, zda můžeme u *Důstojnosti* použít pravidlo *nejmenší z vlastností*, ovšem necháme si to až ke konci.
 
 ### Výdrž
