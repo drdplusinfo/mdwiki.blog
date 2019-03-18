@@ -1,6 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
-### [11. 11. 2018 Zmrtvýchvstání odvozených vlastností](clanky/2018-11-11-zmrtvychvstani_odvozenych_vlastnosti.md)
+### [20. 3. 2019 Zmrtvýchvstání odvozených vlastností](clanky/2019-03-20-zmrtvychvstani_odvozenych_vlastnosti.md)
 ### [15. 3. 2019 Představy minulosti - *Mýty*](clanky/2019-03-15-predstavy_minulosti_myty.md)
 ### [12. 3. 2019 Učíme se z chyb](clanky/2019-03-12-ucime_se_z_chyb.md)
 ### [7. 12. 2018 Představy minulosti - *Poslové*](clanky/2018-12-07-predstavy_minulosti_poslove.md)
