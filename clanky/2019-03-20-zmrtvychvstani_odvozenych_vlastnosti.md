@@ -78,13 +78,13 @@ Nastal čas vytáhnout klepadlo, metlu a vyprášit *Odvozené vlastnosti*, co t
 
 ### Krása
 
-Krása má mnoho podob, ta nejviditelnější... tak počkat, tohle už jsme [vyřešili](2018-11-09-vzpominky_na_krasu.md), ne? Krásu jsme přece zakopali a na její místo posadili *Charisma*. Jdeme dál.
+Krása má mnoho podob, ta nejviditelnější... tak počkat, tohle už jsme [vyřešili](2018-11-09-vzpominky_na_krasu.md), ne? Krásu jsme přece zakopali (i proto, že ji každý vnímá jinak) a na její místo posadili *Charisma*. Jdeme dál.
 
 ### Nebezpečnost
 
 Z některých osob jde prostě strach. Někdo je tichý a jen upřeně zírá s lehkým úšklebkem v koutku úst, jiný funí, poulí očima, žíly mu nabíhají na krku, další se dívá nepřítomně, nezaujatě, ignorujíc prosby a nářky a z těch všech jde strach, pokud máme pocit, že nás můžou **ohrozit**.
 
-Původní *Nebezpečnost* se zjišťovala
+Původní *Nebezpečnost* se [zjišťovala](https://pph.drdplus.info/?trial=1#vypocet_nebezpecnosti)
 
 - ze *Síly*
     - těžko se bránit silnějšímu, pokud je tu šance, že nás chytne do svého železného objetí
@@ -101,7 +101,7 @@ Vypadá to, že do *Nebezpečnosti* se nám hodí **každá** základní vlastno
 
 Klid, rozvaha, sebevědomí a nekončící vzdor i v těžkých chvílích udržují naši *Důstojnost* naživu.
 
-Původně se *Důstojnost* zjišťovala
+Původně se *Důstojnost* [určovala](https://pph.drdplus.info/?trial=1#vypocet_dustojnosti)
 
 - z *Inteligence*
     - je snazší překonat ponížení, když známe více možností, jak ze šlamastiky ven, takže proč ne
@@ -121,8 +121,8 @@ Jde vlastně o obecnou platnost pravidla
 a na nás teď je, abychom zjistili, zda *Důstojnost* je řetěz ze tří vlastností, nebo visí na třech oddělených lanech.
 
 #### Řetěz a lano
-Udržet si *Důstojnost* je jako udržet si důvěru. A důvěru v nás dokáže zničit jedna jediná událost, jedno jediné zklamání.
-> Počkat, když selžu jako kuchař, tak ztratím důvěru i jako řidič?
+Udržet si *Důstojnost* je jako udržet si důvěru. A důvěru v nás dokáže zničit jedna jediná událost, jedno jediné zklamání, ať už za ně může naše nízká inteligence, chybějící vůle nebo nedostatek citu.
+> Tak počkat, když selžu jako kuchař, tak ztratím důvěru i jako řidič?
 
 To sotva, stejně jako důstojnost ztracená při vaření ztěží ovlivní důstojnost při řízení. Jsou to dvě odlišné situace, dvě odlišná prostředí a herně by to byly dva odlišné hody.
 
@@ -132,15 +132,14 @@ Důstojnost proto budeme zjišťovat jako nejmenší ze tří základních duše
 
 Neomdlít se zranění, přežít jed, vydržet ještě chvíli trýznivou žízeň, to vše a mnohem více zkouší, kolik vydržíme.
 
-
-V původních pravidlech [je výdrž spojením](https://pph.drdplus.info/?trial=1#vydrz)
+V původních pravidlech je [výdrž](https://pph.drdplus.info/?trial=1#vydrz) spojením
 
 - *Síly*
     - už při hledání základů pro *Charisma* jsme o Síle [mluvili jako o síle těla](2018-10-31-cit_pro_charisma.md#Nějaká_drobnost), o jeho odolnosti na tělesnou zátěž, takže jo, *Síla* do *Výdrže* patří
 - *Vůle*
     - to je v bledě modrém to samé jako *Síla*, však už jsme taky [souhlasili](2018-10-31-cit_pro_charisma.md#Nějaká_drobnost), že *Vůle* je silou ducha a podobně jako zátěži odolává tělo, tak nám může pomoci potíže překonat i silná mysl, takže s *Vůlí* také souhlasíme
 
-Výdrž vypadá stabilně, i u ní se můžeme začít ptát, jestli pro ni jde použít pravidlo *nejmenší z vlastností*, jen nám tu zase něco mírně zapáchá, jak nám začíná narůstat tlak na takovéto klasické **ale**. Ale co když je tvor v bezvědomí? Ale co když necítí své tělo? Ale k tomu se dostaneme až [za chvíli](#Ale_to_je_smrad).
+Výdrž vypadá stabilně, i u ní se můžeme začít ptát, jestli pro ni jde použít pravidlo *nejmenší z vlastností*, jen nám tu zase něco mírně zapáchá, jak nám začíná narůstat tlak na takovéto klasické **ale**. Ale co když je tvor v bezvědomí, počítá si *Vůli*? Ale co když necítí své tělo, zmůže něco *Síla*? Ale k tomu se dostaneme až [za chvíli](#Ale_to_je_smrad).
 
 ### Rychlost
 
@@ -153,19 +152,20 @@ V původních pravidlech tyto drobnosti vyjadřuje
 - *Obratnost*
     - jestli něco vyjadřuje rychlost pohybů, mrštnost a hbytost, tak je to *Obratnost*, takže ano, *Obratnost* je také právoplatným členem *Rychlosti*
 
-Chvíli jsme koketovali s *Inteligencí*, protože chytřejší tvor dokáže lépe využít prostor a třeba najít rychlejší cestu, ale brzy jsme zjistili, že jsme do vlastnosti začali tahat dovednosti a [zvláštní schopnosti povolání](https://zlodej.drdplus.info/?trial=1#utek), takže necháváme *Rychlost* tak, jak je, bez připomínek. Totiž, vlastně ne tak docela, zapomněli jsme na vliv *Velikosti*.
+Chvíli jsme koketovali s *Inteligencí*, protože chytřejší tvor dokáže lépe využít prostor a třeba najít rychlejší cestu, ale brzy jsme zjistili, že jsme do vlastností začali tahat dovednosti a [zvláštní schopnosti povolání](https://zlodej.drdplus.info/?trial=1#utek), takže necháváme *Rychlost* tak, jak je, bez připomínek. Totiž, vlastně ne tak docela, zapomněli jsme na vliv *Velikosti*.
 
 Vliv *Velikosti* na *Rychlost* jsme řešili na RPG fóru, kde jsme se dohrabali až k [matematickým důkazům](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936&start=75#p539199) a zkrácený závěr je, že
 
 - velikost nemá na rychlost tvora přímý vliv
+    - proto nejsou třeba [monster trucky rychlejší než formule](TODO link na youtube)
 - když je větší tvor rychlejší než menší tvor, tak je to kvůli vyšší *Síle*, nikoli kvůli delším nohám
 
 Takže ještě jednou, *Rychlost* necháváme **téměř** tak, jak je, jen rušíme ~~vliv *Velikosti*~~ na *Rychlost*.
 
 A ještě přidáme poznámku k výpočtu *Rychlosti* - vnitřně jsme si už prošli myšlenkovým pochodem, který nás dovedl ke zjištění, že prostá kombinace *Síly* a *Obratnosti* lze pro *Rychlost* bez obav použít jen na tvory *stavbou těla* podobné člověku, protože jinak bychom zajíce chytali do klobouků jako motýly.
-Obecně jde právě o onu *stavbu těla*, která s *Rychlostí* nakonec zamává natolik, že u příšer s takovými počty nepochodíme.
+Obecně jde právě o onu *stavbu těla*, která s *Rychlostí* nakonec [zamává natolik](TODO nejrychlejší tvor planety), že u příšer s takovými počty nepochodíme.
 
-TODO Suma sumárum, i na *Rychlost* můžeme použít pravidlo *menší z obou vlastností*.
+U *Rychlosti* se o něco hůře obhajuje pravidlo *menší z obou vlastností*, protože je snadné představit si sprintera, který se i po pěti pivech a dvou žitných stále řítí vpřed stejnou rychlostí, jen nedejbože aby musel mírně zatočit. TODO to už je o náročnosti trati a o pasti na Obratnost.
 
 ### Charisma
 
