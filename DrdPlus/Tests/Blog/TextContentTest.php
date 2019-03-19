@@ -27,10 +27,13 @@ class TextContentTest extends BlogTestCase
     {
         foreach ($this->getArticlesWithFullPath() as $articleFile) {
             $content = $this->getFileContent($articleFile);
-            \preg_match_all('~\W(\w{4,})\s+\1\W~u', $content, $sameWords);
+            \preg_match_all('~[\W](\w{4,})\s+\1\W~u', $content, $sameWords);
             $fileBaseName = basename($articleFile);
             if ($fileBaseName === '2018-08-10-boj.md') {
                 self::assertSame(' Plus Plus*', $sameWords[0][0] ?? '', 'Expected two same words in sequence in fight article');
+                unset($sameWords[0][0]);
+            } else if ($fileBaseName === '2019-03-20-zmrtvychvstani_odvozenych_vlastnosti.md') {
+                self::assertSame(" Krása\n\nKrása ", $sameWords[0][0] ?? '', 'Expected two same words in sequence in derived properties resurrection article');
                 unset($sameWords[0][0]);
             }
             self::assertCount(0, $sameWords[0], $fileBaseName . "\n" . var_export($sameWords[0], true));
