@@ -180,8 +180,8 @@ takže necháváme *Rychlost* tak, jak je, bez připomínek. Totiž, vlastně ne
 Vliv *Velikosti* na *Rychlost* jsme řešili na RPG fóru, kde jsme se dohrabali až k [matematickým důkazům](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936&start=75#p539199) a zkrácený závěr je, že
 
 - velikost nemá na rychlost tvora přímý vliv
-    - proto nejsou třeba [monster trucky rychlejší než formule](TODO link na youtube)
-- když je větší tvor rychlejší než menší tvor, tak je to kvůli vyšší *Síle*, nikoli kvůli delším nohám
+    - proto nejsou třeba žirafy rychlejší než zebry
+- když už je větší tvor rychlejší než menší tvor, tak je to kvůli vyšší *Síle*, nikoli kvůli delším nohám
 
 Takže ještě jednou, *Rychlost* necháváme **téměř** tak, jak je, jen rušíme ~~vliv *Velikosti*~~ na *Rychlost*.
 
