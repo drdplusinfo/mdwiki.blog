@@ -12,9 +12,9 @@
 > - Dobu možná, ale vás ne!
 
 Pohřbené odvozené vlastnosti jsme začali tímto textem zachraňovat už někdy v listopadu 2018, ale pak se nám do toho vřítila [jarní debordelizace](2019-03-12-ucime_se_z_chyb.md), my rozdělanou práci přerušili a teď, když se k ní po měsících vracíme, tak žjišťujeme, že už nemá takový význam.
-Už v onom listopadu v nás totiž zrála konkrétní představa o minimálních pravidlech, které je potřeba sesumírovat a zkusit si podle nich zahrát pidi dobrodružství, abychom vyzkoušeli *hod jedinou kostkou* a *dočasnou únavu a škrábance*, takže dotahovat zachraňování odvozených vlastností nás najednou zdržuje od dost jasného cíle, ve kterém odvozené vlastnosti nemají místo, ale na druhou stranu cítíme, že odvozené vlastnosti dostanou slovo jenom chvíli po tom a jelikož jsme na záchraně odvozených vlastností už nějakou dobu zase strávili, jak ten článek dorazíme.
+Už v onom listopadu v nás totiž zrála konkrétní představa o minimálních pravidlech, které je potřeba sesumírovat a zkusit si podle nich zahrát pidi dobrodružství, abychom vyzkoušeli *hod jedinou kostkou* a *dočasnou únavu a škrábance*, takže dotahovat zachraňování odvozených vlastností nás najednou zdržuje od dost jasného cíle, ve kterém odvozené vlastnosti nemají místo, ale na druhou stranu cítíme, že odvozené vlastnosti dostanou slovo jenom chvíli po mini pravidlech a jelikož jsme teď na záchraně odvozených vlastností zase nějakou dobu strávili a naladili se na něj, jak ten článek dorazíme.
 
-Tak hurá za záchranou vlastností zhola odvozených, převážně smrdutých!
+Takže hurá za záchranou vlastností zhola odvozených, převážně smrdutých!
 
 ## Nejmenší má poslední slovo
 
@@ -166,7 +166,7 @@ Jde vlastně o obecnou platnost pravidla
 
 a na nás teď je, abychom zjistili, zda tři pozůstalé odvozené vlastnosti drží řetězem svých základních vlastností, nebo na nich visí jako na samostatných lanech.
 
-### Voňavá důstojnost
+### Vůně důstojnosti
 Udržet si *Důstojnost* je jako udržet si důvěru. A důvěru v nás dokáže zničit jedna jediná událost, jedno jediné zklamání, ať už za ně může naše nízká *Inteligence*, chybějící *Vůle* nebo nedostatek *Citu*.
 > Tak počkat, když selžu jako kuchař, tak ztratím důvěru i jako řidič?
 
@@ -174,24 +174,40 @@ To sotva, stejně jako důstojnost ztracená při vaření ztěží ovlivní dů
 
 Důstojnost proto budeme zjišťovat jako nejmenší ze tří základních duševních vlastností, *Inteligence*, *Vůle* a *Citu*.
 
-### Voňavá Rychlost
-takže necháváme *Rychlost* tak, jak je, bez připomínek. Totiž, vlastně ne tak docela, zapomněli jsme na vliv *Velikosti*.
+### Vůně rychlosti
+*Rychlost* se tedy probojovala z karantény tak, jak je, bez připomínek, a my můžeme přejít k platnosti pravidla nejmenší z vlastností.
 
-Vliv *Velikosti* na *Rychlost* jsme řešili na RPG fóru, kde jsme se dohrabali až k [matematickým důkazům](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936&start=75#p539199) a zkrácený závěr je, že
+#### Na chůdách
+> Tak počkat, nezapomněli jste na vliv *Velikosti*?
 
-- velikost nemá na rychlost tvora přímý vliv
+To je sice pravda, ale zase nebudeme čtenáře zatěžovat každým detailem... no dobře, tak budeme. Vliv *Velikosti* na *Rychlost* jsme totiž řešili na RPG fóru, kde jsme se dohrabali až k [matematickým důkazům](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936&start=75#p539199) a zkrácený závěr je, že
+
+- velikost **nemá** na rychlost tvora přímý vliv
     - proto nejsou třeba žirafy rychlejší než zebry
 - když už je větší tvor rychlejší než menší tvor, tak je to kvůli vyšší *Síle*, nikoli kvůli delším nohám
 
 Takže ještě jednou, *Rychlost* necháváme **téměř** tak, jak je, jen rušíme ~~vliv *Velikosti*~~ na *Rychlost*.
 
 A ještě přidáme poznámku k výpočtu *Rychlosti* - vnitřně jsme si už prošli myšlenkovým pochodem, který nás dovedl ke zjištění, že prostá kombinace *Síly* a *Obratnosti* lze pro *Rychlost* bez obav použít jen na tvory *stavbou těla* podobné člověku, protože jinak bychom zajíce chytali do klobouků jako motýly.
-Obecně jde právě o onu *stavbu těla*, která s *Rychlostí* nakonec [zamává natolik](TODO nejrychlejší tvor planety), že u příšer s takovými počty nepochodíme.
+Obecně jde právě o onu *stavbu těla*, která s *Rychlostí* nakonec [zamává natolik](https://www.youtube.com/watch?v=99jSDJUNfCM), že u příšer se stejnými počty nepochodíme.
 
-U *Rychlosti* se o něco hůře obhajuje pravidlo *menší z obou vlastností*, protože je snadné představit si sprintera, který se i po pěti pivech a dvou žitných stále řítí vpřed stejnou rychlostí, jen nedejbože aby musel mírně zatočit. TODO to už je o náročnosti trati a o pasti na Obratnost.
+#### Angína v lihu
+U *Rychlosti* se o něco hůře obhajuje pravidlo *menší z obou vlastností*, protože je snadné představit si sprintera, který se i po pěti pivech a dvou žitných stále řítí vpřed stejnou rychlostí, jen nedejbože aby musel mírně zatočit.
+Ovšem život není sprint po rovince vysypané antukou, ale kličkování mezi výmoly, pajdání zarostlými stržemi a přeskakování kaluží a koňských koblih, kde je třeba nejen síly, ale i obratnosti a ty vzácné situace, kdy přeci jenom tryskáme po antuce, necháváme na moudrosti Pána jeskyně a jeho citu pro zákony vesmíru.
 
-### Voňavé Charisma
-TODO můžeme použít pravidlo *menší z obou vlastností*?
+Pokud jsme tedy zesláblí po nemoci, naše rychlost klesne, pokud jistota našich pohybů mizí na dně skleničky, naše rychlost klesne, když kvůli nižší síle musíme zpomalit do kopce, tak je jedno, že máme závratnou obratnost, prostě nás naše slabost rychleji nepustí a pokud se nám motá jazyk i nohy, tak se zamotáváme do kdejakého šlahounu a zakopáváme o kdejaký kámen, i kdybychom měli svaly z ocele.
+
+Proto i *Rychlost* můžeme směle brát jako tu menší z dvojice *Síla* a *Obratnost*.
+
+### Vůně charisma
+Nepolevit ve vlivu na své okolí, to je jako vyprávět vtipy a nesklouznout do trapnosti, ani to nepřehnat s jejich náročností. Je prostě nutné vnímat publikum a používat na něj správné nástroje ve správnou chvíli.
+
+Pokud špatně nacítíme posluchače, nebo nevystihneme vhodný okamžik, sotva nám pomůže náš geniální mozek, najednou jindy vtipná slova jen tak plesknou do prostoru jako skripta po zkoušce. A když přesně cítíme, co by s ostatními rezonovalo, co by jim břicha zkroutilo křečemi smíchu, ale naše hlava je zrovna na dovolené, tak se vzmůžeme jen na koktání v zoufalé snaze vzpomenout si, jak to sakra bylo dál.
+
+I u *Charisma* vidíme přímou závislost *Citu* na *Inteligenci* a *Inteligence* na *Citu*, takže i *Charisma* budeme získávat jako menší z obou základních vlastností.
+
+## Závěrem
+TODO
 
 ---
 
