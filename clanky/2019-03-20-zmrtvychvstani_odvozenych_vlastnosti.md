@@ -4,7 +4,7 @@
 
 > Poslední lopata se líně zhoupla dolů, prsť a štěrk naposledy zabubnovaly na dubové víko a byla tma. Klidná, konejšivá, věčná tma. A z té tmy se ozývalo ťukání, tiché, nepravidelné a jakoby nejisté a kdo špicoval uši, mohl zaslechnout tenké hlásky, které se překrývaly navzájem "My už nebudeme složité. My už jsme taky primitivové. Nechybíme vám?"
 
-*Před časem jsme odvozené vlastnosti [Dračího doupěte plus](https://www.drdplus.info) zahodili, protože v nich něco smrdí, abychom je teď zase oživovali, protože nám ten smrad nedá a my budeme hledat a hledat, až najdeme ty, které pouze načichly smradem ostatních a kterým, po krátké sprše, budeme zase moci potřást pravicí.*
+*Před časem jsme odvozené vlastnosti Dračího doupěte plus [zahodili](2018-09-03-velkej_fanousek.md#Dovednosti), protože v nich něco smrdí, abychom je teď zase oživovali, protože nám ten smrad nedá a my budeme hledat a hledat, až najdeme ty, které pouze načichly smradem ostatních a kterým, po krátké sprše, budeme zase moci potřást pravicí.*
 
 ## Jiná doba
 > - Čest práci, soudruhu.
@@ -12,21 +12,22 @@
 > - Dobu možná, ale vás ne!
 
 Pohřbené odvozené vlastnosti jsme začali tímto textem zachraňovat už někdy v listopadu 2018, ale pak se nám do toho vřítila [jarní debordelizace](2019-03-12-ucime_se_z_chyb.md), my rozdělanou práci přerušili a teď, když se k ní po měsících vracíme, tak zjišťujeme, že už nemá takový význam.
-Už v onom listopadu v nás totiž zrála konkrétní představa o minimálních pravidlech, které je potřeba sesumírovat a zkusit si podle nich zahrát pidi dobrodružství, abychom vyzkoušeli *hod jedinou kostkou* a *dočasnou únavu a škrábance*, takže dotahovat zachraňování odvozených vlastností nás najednou zdržuje od dost jasného cíle, ve kterém odvozené vlastnosti nemají místo, ale na druhou stranu cítíme, že odvozené vlastnosti dostanou slovo jenom chvíli po mini pravidlech a jelikož jsme teď na záchraně odvozených vlastností zase nějakou dobu strávili a naladili se na něj, jak ten článek dorazíme.
+
+Už v listopadu v nás totiž zrála konkrétní představa o minimálních pravidlech, které je potřeba sesumírovat a zkusit si podle nich zahrát pidi dobrodružství, abychom vyzkoušeli *hod jedinou kostkou* a *dočasnou únavu a škrábance*, takže dotahovat zachraňování odvozených vlastností nás najednou zdržuje od dost jasného cíle, ve kterém odvozené vlastnosti nemají místo, ale na druhou stranu cítíme, že dostanou slovo jenom chvíli po mini pravidlech a jelikož jsme teď na textu o záchraně odvozených vlastností zase nějakou dobu strávili a naladili se na něj, jak ten článek dorazíme.
 
 Takže hurá za záchranou vlastností zhola odvozených, převážně smrdutých!
 
 ## Nejmenší má poslední slovo
 
-Ve *Velkém fanouškovi* jsme začali [pohřbívat *Odvozené vlastnosti*](2018-09-03-velkej_fanousek.md#Dovednosti), částečně proto, že některé z nich se pravidlově používají minimálně až vůbec a hlavně proto, že se s nimi **nechceme [počítat](https://pph.drdplus.info/?trial=1#urceni_aspektu_vzhledu)**.
+*Odvozené vlastnosti* jsme začali [pohřbívat ve *Velkém fanouškovi*](2018-09-03-velkej_fanousek.md#Dovednosti), částečně proto, že některé z nich se pravidlově používají minimálně až vůbec a hlavně proto, že se s nimi **nechceme [počítat](https://pph.drdplus.info/?trial=1#urceni_aspektu_vzhledu)**.
 
 Od té doby jsme toho na blog nasypali dost a dost, až jsme v [Neboji](2018-10-26-neboj.md#Jenom_akce) poprvé použili prosté výpočetní pravidlo
 
 > ...(výsledek určíš) podle toho, kterou ze zúčastněných vlastností máš **menší**
 
-čímž skládané [Odvozené vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_odvozenych_vlastnosti) dostávají druhou šanci, hlavně pak [Aspekty vzhledu](https://pph.drdplus.info/?trial=1#tabulka_aspektu_vzhledu), jejichž náročnost na spočítání a výsledný užitek, onen známý poměr *cena × výkon*, byly z nejhorších a například *Krásu* jsme i kvůli tomu [už zakopali](2018-11-09-vzpominky_na_krasu.md).
+čímž skládané [Odvozené vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_odvozenych_vlastnosti) dostávají druhou šanci, hlavně pak [Aspekty vzhledu](https://pph.drdplus.info/?trial=1#tabulka_aspektu_vzhledu), jejichž náročnost na spočítání a výsledný užitek, onen známý poměr *cena × výkon*, byly z nejhorších.
 
-> Aha, takže skládaný luk neznamená smontovaný, ale vrstvený? Jo, kompozitní, jasně, nemusíš mě hned poučovat, taky by mi mohla selhat skládaná kuše, jasný?!
+> Jak jako *skládané* vlastnosti...? jo aha! Takže skládaný luk neznamená smontovaný, ale vrstvený? Jo, kompozitní, jasně, nemusíš mě hned poučovat, taky by mi mohla selhat skládaná kuše, jasný?!
 
 ## Druhá šance
 
@@ -44,7 +45,7 @@ Vezmeme si k ruce přehled všech odvozených vlastností z DrD+, které se mus�
 
 > Vypadá to hrozně, co?
 
-Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na [nejvyšší dvacáté první úrovni](https://pph.drdplus.info/?trial=1#tabulka_zkusenosti), bojovník na slovo vzatý, bude mít co nejvyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití (a protože to jsou jeho [hlavní vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_povolani)), což u [člověka](https://pph.drdplus.info/?trial=1#tabulka_ras) z dobrého rodu bude přibližně jedenáct, kdežto ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání vedle sebe výsledky dle *původních pravidel* a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
+Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na [nejvyšší dvacáté první úrovni](https://pph.drdplus.info/?trial=1#tabulka_zkusenosti), bojovník na slovo vzatý, bude mít co nejvyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití (a protože to jsou jeho [hlavní vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_povolani)), což u [člověka](https://pph.drdplus.info/?trial=1#tabulka_ras) z dobrého rodu bude přibližně jedenáct, a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání vedle sebe výsledky dle *původních pravidel* a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
 
 | Vlastnost | Hodnota dle *původních pravidel* | Hodnota dle *nejmenší vlastnosti* |
 |-----|:---:|:---:|
@@ -124,7 +125,7 @@ Ovšem v *Důstojnosti* máme *Charisma*, které je [nově odvozenou vlastností
 #### Zoubek důstojnosti
 *Charisma* je spojení *Citu* a *Inteligence* a protože *Inteligenci* už v *Důstojnosti* máme, tak otázka vlastně je, zda naši *Důstojnost* ovlivní také náš *Cit*.
 
-*Citem* poznáme, jak nás ostatní vnímají a můžeme pak potřebným směrem ovlivňovat přívětivost nebo nepříjemnost vystupování, celkový příznivý či špatný dojem u ostatních, ale že bychom mohli přímo ovlivňovat *Důstojnost*... nebo že by šlo *Cit* použít i k vycítění toho, co ostatní považují za důstojné a toho se držet? Nebo naopak vycítit, čím nás chtějí ponížit a tomu vědomě odolávat? Že by ten *Cit* a tím vlastně celé *Charisma* byly pro důstojnost přeci jenom důležité? Už to tak bude.
+*Citem* poznáme, jak nás ostatní vnímají a můžeme pak potřebným směrem ovlivňovat přívětivost nebo nepříjemnost vystupování, celkový příznivý či špatný dojem, ale že bychom mohli přímo ovlivňovat *Důstojnost*... nebo že by šlo *Cit* použít i k vycítění toho, co ostatní považují za důstojné a toho se držet? Nebo naopak vycítit, čím nás chtějí ponížit a tomu vědomě odolávat? Že by ten *Cit* a tím vlastně celé *Charisma* byly pro důstojnost přeci jenom důležité? Už to tak bude.
 
 *Důstojnost* je tak vlastně spolupráce všech tří základních duševních vlastností, takže duševní a tělesné vlastnosti nemíchá, tudíž nám *Důstojnost* nesmrdí a bereme ji zpátky [do party](#Voňavá_parta).
 
@@ -132,7 +133,7 @@ Ovšem v *Důstojnosti* máme *Charisma*, které je [nově odvozenou vlastností
 
 Přeskočit, vyhnout se, kmitat nohama v přesném sledu, využívat podloží, odrážet se od překážek a další drobnosti skládají dohromady rychlost našeho pohybu.
 
-V původních pravidlech tyto drobnosti vyjadřuje
+V původních pravidlech tyto drobnosti [vyjadřuje](https://pph.drdplus.info/?trial=1#vypocet_rychlosti)
 
 - *Síla* 
     - chvíli nám trvalo, než jsme *Sílu* bez podmínek přijali do *Rychlosti*, protože jsme si představovali, jak [Zetor](https://www.zetor.cz/zetor-by-pininfarina-se-predstavila-v-nizozemi) dostane o motor navíc a byť mu to umožní utáhnout větší valník, tak jeho rychlost bez naložení to nezmění, pak nám ale došlo, že *Síla* není jen o koňských silách, ale také o znalosti těla a o schopnosti ho **efektivně** používat, včetně hopsání po krokodýlech a sprintu mezi explodujícími dlaždicemi, takže ano, *Síla* do *Rychlosti* patří
@@ -158,10 +159,10 @@ Také *Charisma* je netoxické, bez vměšování duševních a tělesných vlas
 
 ## Voňavá parta
 
-Ze čtyř odvozených vlastností, které jsme protáhli karanténou, nám nakonec vypadla ven pouze *Nebezpečnost*, kterou budeme řešit samostatně jindy. Zbylé tři odvozené vlastnosti nám nesmrdí a my na nich teď budeme ověřovat, zda na každou z nich můžeme použít pravidlo, že výsledek bude *nejmenší ze zúčastněných základních vlastností*.
+Ze čtyř odvozených vlastností, které jsme protáhli karanténou, nám nakonec vypadla ven pouze *Nebezpečnost*, kterou budeme řešit samostatně jindy. Zbylé tři odvozené vlastnosti nám nesmrdí a my na každé z nich teď budeme ověřovat, zda na ně můžeme použít pravidlo *nejmenší ze zúčastněných základních vlastností*.
 
 ### Řetěz a lano
-Jde vlastně o obecnou platnost pravidla
+Jde vlastně o obecnou platnost staré pravdy
 > Řetěz je tak silný, jak silný je jeho nejslabší článek
 
 a na nás teď je, abychom zjistili, zda tři pozůstalé odvozené vlastnosti drží řetězem svých základních vlastností, nebo na nich visí jako na samostatných lanech.
@@ -175,7 +176,7 @@ To sotva, stejně jako důstojnost ztracená při vaření stěží ovlivní dů
 Důstojnost proto budeme zjišťovat jako nejmenší ze tří základních duševních vlastností, *Inteligence*, *Vůle* a *Citu*.
 
 ### Vůně rychlosti
-*Rychlost* se tedy probojovala z karantény tak, jak je, bez připomínek, a my můžeme přejít k platnosti pravidla nejmenší z vlastností.
+*Rychlost* se nakonec probojovala z karantény tak, jak je, bez připomínek, a my můžeme přejít k platnosti pravidla nejmenší z vlastností.
 
 #### Na chůdách
 > Tak počkat, nezapomněli jste na vliv *Velikosti*?
@@ -183,8 +184,8 @@ Důstojnost proto budeme zjišťovat jako nejmenší ze tří základních duše
 To je sice pravda, ale zase nebudeme čtenáře zatěžovat každým detailem... no dobře, tak budeme. Vliv *Velikosti* na *Rychlost* jsme totiž řešili na RPG fóru, kde jsme se dohrabali až k [matematickým důkazům](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936&start=75#p539199) a zkrácený závěr je, že
 
 - velikost **nemá** na rychlost tvora přímý vliv
-    - proto nejsou třeba žirafy rychlejší než zebry
-- když už je větší tvor rychlejší než menší tvor, tak je to kvůli vyšší *Síle*, nikoli kvůli delším nohám
+    - proto [nejsou třeba sloni rychlejší než hyeny](https://en.wikipedia.org/wiki/Fastest_animals#Mammals)
+- když už je větší člověk rychlejší než menší, tak je to kvůli lepšímu poměru síla / váha, nikoli kvůli delším nohám
 
 Takže ještě jednou, *Rychlost* necháváme **téměř** tak, jak je, jen rušíme ~~vliv *Velikosti*~~ na *Rychlost*.
 
@@ -195,7 +196,7 @@ Obecně jde právě o onu *stavbu těla*, která s *Rychlostí* nakonec [zamáv�
 U *Rychlosti* se o něco hůře obhajuje pravidlo *menší z obou vlastností*, protože je snadné představit si sprintera, který se i po pěti pivech a dvou žitných stále řítí vpřed stejnou rychlostí, jen nedejbože aby musel mírně zatočit.
 Ovšem život není sprint po rovince vysypané antukou, ale kličkování mezi výmoly, pajdání zarostlými stržemi a přeskakování kaluží a koňských koblih, kde je třeba nejen síly, ale i obratnosti a ty vzácné situace, kdy přeci jenom tryskáme po antuce, necháváme na moudrosti Pána jeskyně a jeho citu pro zákony vesmíru.
 
-Pokud jsme tedy zesláblí po nemoci, naše rychlost klesne, pokud jistota našich pohybů mizí na dně skleničky, naše rychlost klesne, když kvůli nižší síle musíme zpomalit do kopce, tak je jedno, že máme závratnou obratnost, prostě nás naše slabost rychleji nepustí a pokud se nám motá jazyk i nohy, tak se zamotáváme do kdejakého šlahounu a zakopáváme o kdejaký kámen, i kdybychom měli svaly z ocele.
+Pokud jsme tedy zesláblí po nemoci, naše rychlost klesne, pokud jistota našich pohybů mizí na dně skleničky, naše rychlost klesne, když kvůli nižší síle musíme zpomalit do kopce, tak je jedno, že máme závratnou obratnost, prostě nás naše slabost rychleji nepustí a pokud se nám motá jazyk i nohy, tak se zamotáváme do kdejakého šlahounu a zakopáváme o kdejaký kámen a nezrychlíme, i kdybychom měli svaly z ocele.
 
 Proto i *Rychlost* můžeme směle brát jako tu menší z dvojice *Síla* a *Obratnost*.
 
@@ -207,9 +208,11 @@ Pokud špatně nacítíme posluchače, nebo nevystihneme vhodný okamžik, sotva
 I u *Charisma* vidíme přímou závislost *Citu* na *Inteligenci* a *Inteligence* na *Citu*, takže i *Charisma* budeme získávat jako menší z obou základních vlastností.
 
 ## Závěrem
-Už před časem jsme [rozložili *Charisma* na *Inteligenci* a *Cit*](2018-11-09-vzpominky_na_krasu.md#Závěrem), kdy nám hlavně objevení *Citu* jako základní vlastnosti udělalo radost, pak jsme [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md#Závěrem) pro její komplikovaný výpočet a hlavně silnou subjektivitu, kdy i mezi lidmi je vnímání krásy dosti odlišné, chvíli na to [došlo i na *Odolnost* a *Výdrž*](2018-11-19-vydrz.md#Závěrem), kdy *Odolnost* byla jen převlečenou *Silou* a Výdrž míchala tělesné a duševní vlastnosti, které jsme ale spíše odmítli v současné podobě a předšlapali cestičku jejich nástupcům a nakonec jsme v tomto článku odložili *Nebezpečnost*, opět kvůli míchání tělesných a duševních vlastností a přijali zpět *Důstojnost*, *Rychlost* a zopakovali jsme přijetí *Charisma* mezi odvozené vlastnosti a hlavně jsme u těchto tří vlastností potvrdili, že budou mít výslednou hodnotu podle **nejmenší** z vlastností, ze které se skládají, tedy například Rychlost, složená ze Síly třeba sedm a Obratnosti třeba dva bude dva.
+Už před časem jsme [rozložili *Charisma* na *Inteligenci* a *Cit*](2018-11-09-vzpominky_na_krasu.md#Závěrem), kdy nám hlavně objevení *Citu* jako základní vlastnosti udělalo radost, pak jsme [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md#Závěrem) pro její komplikovaný výpočet a hlavně silnou subjektivitu, kdy i mezi lidmi je vnímání krásy dosti odlišné, chvíli na to [došlo i na *Odolnost* a *Výdrž*](2018-11-19-vydrz.md#Závěrem), kdy *Odolnost* byla jen převlečenou *Silou* a *Výdrž* míchala tělesné a duševní vlastnosti, které jsme ale úplně nezahodili, jen odmítli v současné podobě a předšlapali cestičku jejich nástupcům a nakonec jsme v tomto článku odložili *Nebezpečnost*, opět kvůli míchání tělesných a duševních vlastností a přijali zpět *Důstojnost*, *Rychlost* a zopakovali přijetí *Charisma* mezi odvozené vlastnosti a hlavně jsme u těchto tří vlastností potvrdili, že budou mít výslednou hodnotu podle **nejmenší** z vlastností, ze které se skládají
 
-Ještě nás čeká proplesknutí *Nebezpečnosti*, o kterou přijít nechceme, a hlavně pak po vzoru *Charisma* coby duševní zručnosti chceme zamávat se *Zručností* coby tělesné charisma. Ale to zas až příště.
+- například *Rychlost*, složená ze *Síly* sedm a *Obratnosti* dva bude ve výsledku dva
+
+Ještě nás čeká proplesknutí *Nebezpečnosti*, o kterou přijít nechceme, ale zatím musela zůstat na marodce a hlavně pak po vzoru *Charisma* coby duševní zručností chceme zamávat se *Zručností* coby tělesným charisma. Ale to zas až příště.
 
 ---
 
