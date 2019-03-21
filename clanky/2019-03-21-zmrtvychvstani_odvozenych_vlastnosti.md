@@ -212,7 +212,7 @@ Už před časem jsme [rozložili *Charisma* na *Inteligenci* a *Cit*](2018-11-0
 
 - například *Rychlost*, složená ze *Síly* sedm a *Obratnosti* dva bude ve výsledku dva
 
-Ještě nás čeká proplesknutí *Nebezpečnosti*, o kterou přijít nechceme, ale zatím musela zůstat na marodce a hlavně pak po vzoru *Charisma* coby duševní zručností chceme zamávat se *Zručností* coby tělesným charisma. Ale to zas až příště.
+Ještě nás čeká proplesknutí *Nebezpečnosti*, o kterou přijít nechceme, ale zatím musela zůstat na marodce a hlavně pak po vzoru *Charisma* coby duševní zručnosti chceme zamávat se *Zručností* coby tělesným charisma. Ale to zas až příště.
 
 ---
 
