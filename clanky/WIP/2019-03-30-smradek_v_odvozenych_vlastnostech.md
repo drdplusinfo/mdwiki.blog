@@ -25,7 +25,7 @@ Vezmeme si k ruce přehled všech odvozených vlastností z DrD+, které se mus�
 | *Důstojnost* | (*Inteligence* + *Vůle*)/2 + *Charisma*/2 |
 | *Výdrž* | (*Síla* + *Vůle*)/2 |
 | *Rychlost* | (*Síla* + *Obratnost*)/2 |
-| *Charisma* | [(*Cit* + *Inteligence*)/2](2018-10-31-cit_pro_charisma.md#Závěr) |
+| *Charisma* | [(*Cit* + *Inteligence*)/2](2018-10-31-cit_pro_charisma.md#Závěrem) |
 
 > Vypadá to hrozně, co?
 
@@ -110,7 +110,7 @@ Původně se *Důstojnost* [určovala](https://pph.drdplus.info/?trial=1#vypocet
 - *Charisma*
     - inu, je jednodušší zachovat si svobodnou vůli, když ovlivníme ty, kteří nám ji chtějí vzít, takže ano
 
-Že by do důstojnosti zasahovala některá z tělesných vlastností, to se nám nezdá, snad jen lehce *Zručnost*, díky které je snazší nést se vznešeně a klidně, což na mnohé důstojně zapůsobí. Ovšem v *Důstojnosti* už máme ono *Charisma*, o kterém [už víme](2018-10-31-cit_pro_charisma.md#Závěr), že je to spojení *Citu* a *Inteligence* a protože *Inteligenci* už v *Důstojnosti* máme, tak otázka je, zda ji ovlivní také *Cit*.
+Že by do důstojnosti zasahovala některá z tělesných vlastností, to se nám nezdá, snad jen lehce *Zručnost*, díky které je snazší nést se vznešeně a klidně, což na mnohé důstojně zapůsobí. Ovšem v *Důstojnosti* už máme ono *Charisma*, o kterém [už víme](2018-10-31-cit_pro_charisma.md#Závěrem), že je to spojení *Citu* a *Inteligence* a protože *Inteligenci* už v *Důstojnosti* máme, tak otázka je, zda ji ovlivní také *Cit*.
 
 *Cit* ovlivní přívětivost nebo nepříjemnost vystupování, celkový příznivý či špatný dojem u ostatních, ale že by přímo ovlivňovala *Důstojnost*... nebo že by šlo *Cit* použít k vycítění toho, co ostatní považují za důstojné a toho se držet? Nebo naopak vycítit, čím nás chtějí ponížit a tomu vědomě odolat? Že by ten *Cit* a tím vlastně celé *Charisma* byly pro důstojnost přeci jenom důležité? Už to tak bude.
 *Důstojnost* je tak vlastně spolupráce všech tří základních duševních vlastností a my se můžeme začít ptát, zda můžeme u *Důstojnosti* použít pravidlo *nejmenší z vlastností*.

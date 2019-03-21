@@ -116,7 +116,7 @@ Rozdíl v požadavcích na *Sílu* při obraně zbraní a útokem zbraní je tak
 
 - za jeden bod chybějící *Síly* bude postih -1 k *Útoku* a -1 k *Obraně*
 
-## Závěr
+## Závěrem
 
 Postih za chybějící *Sílu* ke zbrani se nám tak smrsknul na postih -1 k *Útoku* a *Obraně* za každý chybějící bod *Síly*.
 

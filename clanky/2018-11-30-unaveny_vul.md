@@ -2,7 +2,7 @@
 
 *30. 11. 2018*
 
-Začalo to nenápadně, nejdříve jsme prohlásili, že [odvozené vlastnosti asi zrušíme](2018-09-03-velkej_fanousek.md#Dovednosti), protože se s nimi nechceme počítat, potom jsme skutečně [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md) a vzápětí [*Výdrž* i s *Odolností*](2018-11-19-vydrz.md#Závěr). Ovšem zatímco z *Krásy* nezbylo nic a po *Odolnosti* zůstala jen *Síla*, tak *Výdrž* nám narazila hlavou do zdi a my teď budeme studovat statiku, abychom odhalili, zda tu zeď prorazila, nebo se nám to jenom zdálo.
+Začalo to nenápadně, nejdříve jsme prohlásili, že [odvozené vlastnosti asi zrušíme](2018-09-03-velkej_fanousek.md#Dovednosti), protože se s nimi nechceme počítat, potom jsme skutečně [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md) a vzápětí [*Výdrž* i s *Odolností*](2018-11-19-vydrz.md#Závěrem). Ovšem zatímco z *Krásy* nezbylo nic a po *Odolnosti* zůstala jen *Síla*, tak *Výdrž* nám narazila hlavou do zdi a my teď budeme studovat statiku, abychom odhalili, zda tu zeď prorazila, nebo se nám to jenom zdálo.
 
 Připomeňme si teď poslední slova *Výdrže*
 
@@ -151,7 +151,7 @@ V úvodu jsme se utvrdili v tom, že [má smysl rozlišovat](#Platební_situace)
 
 Když se vrátíme k dělení postihů, tak připomeneme, že už před nějakou dobou jsme zjistili, že postih by měl [ovlivňovat **všechno a stejně**](2018-10-22-nula.md#Padavka), od skoku dalekého, přes švitoření s opačným pohlavím až po *Sílu*, *Odolnost*, *Vůli* a všechny další zdánlivě neotřesitelné atributy. Tak kde jsme najednou vzali nějaké dělení?
 
-U *Krásy* a u *Výdrže* jsme [poznali](2018-11-19-vydrz.md#Závěr), že by bylo fajn odlišovat pasivní a aktivní složku a že ta pasivní, samozřejmá, je mnohdy zastoupena tělesnými vlastnostmi, kdežto aktivní, snaživá a kontrolovatelná, je zastoupena duševními vlastnostmi. Svým způsobem jsme se dostali k tomu, že tělo je ovládáno duší a že tahle souhra těla a duše, ta citelná posloupnost a závislost, nám mnohde chybí.
+U *Krásy* a u *Výdrže* jsme [poznali](2018-11-19-vydrz.md#Závěrem), že by bylo fajn odlišovat pasivní a aktivní složku a že ta pasivní, samozřejmá, je mnohdy zastoupena tělesnými vlastnostmi, kdežto aktivní, snaživá a kontrolovatelná, je zastoupena duševními vlastnostmi. Svým způsobem jsme se dostali k tomu, že tělo je ovládáno duší a že tahle souhra těla a duše, ta citelná posloupnost a závislost, nám mnohde chybí.
 
 Když to nacpeme do pravidel, tak závislost duše na těle máme v *Únavě* a závislost těla na duši máme ve *Snaze* (hod na snahu pomocí 1k6±) a právě také v *potlačování postihů*. A to poslední se snažíme vyřešit od začátku tohohle článku.
 
@@ -187,7 +187,7 @@ Když mě pak obestoupí dav agresivních čumilů, tak se zase dostanu k mluven
 
 A je to.
 
-## Závěr
+## Závěrem
 
 Vlastně co celé bylo náročnější, než jsme si na začátku mysleli, hlavně proto, že se nám do počítání zase připletl čas. Ale zvládli jsme to a co nezvládne *Síla* našeho těla, to můžeme dočasně potlačit silou naší *Vůle*.
 

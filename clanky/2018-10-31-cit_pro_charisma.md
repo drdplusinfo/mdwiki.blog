@@ -78,7 +78,7 @@ U konkrétních povolání nás teď napadá, že
 
 Nebezpečí je jasné a záludné zároveň - **nepřehnat to**, netlačit pravidla do *Citu*, když tam jiní mohou vidět užitečnější třeba právě *Charisma*, nebo *Inteligenci*. Popravdě už teď nám krapet vadí, že třeba [Etiketa podsvětí](https://pph.drdplus.info/?version=1.0&trial=1#etiketa_podsveti) dává bonus pouze k *Charisma*, více by nám tam sedl bonus ke **všem** duševním vlastnostem, což se snadno kritizuje, ale ještě jednodušší je spadnout do stejné situace s novým, dosud nevyzkoušeným *Citem*. 
 
-## Závěr
+## Závěrem
 
 *Charisma* nám už delší dobu vybočovalo z ostatních základních vlastností svým úzkým zaměřením a Vito nám konečně [pomohl](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032&start=60#p544969) udělat krok do neznáma, kde jsme našli cit, základní kámen charisma. Vyhráno ale ještě nemáme, protože přestože se charisma skládá z citu, tak to není jen jeho pasivní část, ale je to aktivní využití citu, prostě je to krapet něco jiného. Zatím nás k tomu napadlo, že *Charisma* bude odvozená vlastnost a bude se skládat z *Citu* a *Inteligence*, jelikož charisma je cílené, vědomé, chytré (až necitelné) použití citů.
 

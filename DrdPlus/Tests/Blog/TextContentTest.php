@@ -36,34 +36,4 @@ class TextContentTest extends BlogTestCase
             self::assertCount(0, $sameWords[0], $fileBaseName . "\n" . var_export($sameWords[0], true));
         }
     }
-
-    /**
-     * @test
-     */
-    public function Headings_are_unique(): void
-    {
-        foreach ($this->getArticlesWithFullPath() as $articleFile) {
-            $content = $this->getFileContent($articleFile);
-            \preg_match_all('~(^|[\n\r])#+(?<headings>[^\n\r]+)~u', $content, $matches);
-            $headings = $matches['headings'];
-            $headingsCounts = \array_count_values($headings);
-            self::assertSame(
-                count($headingsCounts),
-                count($headings),
-                sprintf(
-                    'Some headings are not unique in article %s: %s',
-                    basename($articleFile),
-                    \json_encode(
-                        array_filter(
-                            $headingsCounts,
-                            function (int $count) {
-                                return $count > 1;
-                            }
-                        ),
-                        \JSON_UNESCAPED_UNICODE | \JSON_PRETTY_PRINT
-                    )
-                )
-            );
-        }
-    }
 }
