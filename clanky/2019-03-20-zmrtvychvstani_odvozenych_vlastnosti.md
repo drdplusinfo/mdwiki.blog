@@ -34,13 +34,13 @@ Vezmeme si k ruce přehled všech odvozených vlastností z DrD+, které se mus�
 
 | Vlastnost | Výpočet | Poznámka |
 |-----|:---:|:---:|
-| ~~*Krása*~~ | (*Obratnost* + *Zručnost*)/2 + *Charisma*/2 | [R.I.P.](2018-11-09-vzpominky_na_krasu.md#Závěr) |
+| ~~*Krása*~~ | (*Obratnost* + *Zručnost*)/2 + *Charisma*/2 | [R.I.P.](2018-11-09-vzpominky_na_krasu.md#Závěrem) |
 | *Nebezpečnost* | (*Síla*+*Vůle*)/2 + *Charisma*/2 | |
 | *Důstojnost* | (*Inteligence* + *Vůle*)/2 + *Charisma*/2 | |
-| ~~*Výdrž*~~ | (*Síla* + *Vůle*)/2 | [R.I.P.](2018-11-19-vydrz.md#Závěr) |
-| ~~*Odolnost*~~ | *Síla + oprava za rasu* | [R.I.P.](2018-11-19-vydrz.md#Závěr) |
+| ~~*Výdrž*~~ | (*Síla* + *Vůle*)/2 | [R.I.P.](2018-11-19-vydrz.md#Závěrem) |
+| ~~*Odolnost*~~ | *Síla + oprava za rasu* | [R.I.P.](2018-11-19-vydrz.md#Závěrem) |
 | *Rychlost* | (*Síla* + *Obratnost*)/2 | |
-| *Charisma* | [(*Cit* + *Inteligence*)/2](2018-10-31-cit_pro_charisma.md#Závěr) | |
+| *Charisma* | [(*Cit* + *Inteligence*)/2](2018-10-31-cit_pro_charisma.md#Závěrem) | | |
 
 > Vypadá to hrozně, co?
 
@@ -119,7 +119,7 @@ Klid, rozvaha, sebevědomí a nekončící vzdor i v těžkých chvílích udrž
 
 Že by do důstojnosti zasahovala některá z tělesných vlastností, to se nám nezdá, snad jen lehce *Zručnost*, díky které je snazší nést se vznešeně a klidně, což na mnbeohé důstojně zapůsobí, ale na stálé ovlivňování *Důstojnosti* to nestačí.
 
-Ovšem v *Důstojnosti* máme *Charisma*, které je [nově odvozenou vlastností](2018-10-31-cit_pro_charisma.md#Závěr) a skládat odvozenou vlastnost z odvozené vlastnosti smrdí skrytou chybou, tomu se budeme muset mrknout na zoubek.
+Ovšem v *Důstojnosti* máme *Charisma*, které je [nově odvozenou vlastností](2018-10-31-cit_pro_charisma.md#Závěrem) a skládat odvozenou vlastnost z odvozené vlastnosti smrdí skrytou chybou, tomu se budeme muset mrknout na zoubek.
 
 #### Zoubek důstojnosti
 *Charisma* je spojení *Citu* a *Inteligence* a protože *Inteligenci* už v *Důstojnosti* máme, tak otázka vlastně je, zda naši *Důstojnost* ovlivní také náš *Cit*.
@@ -207,7 +207,9 @@ Pokud špatně nacítíme posluchače, nebo nevystihneme vhodný okamžik, sotva
 I u *Charisma* vidíme přímou závislost *Citu* na *Inteligenci* a *Inteligence* na *Citu*, takže i *Charisma* budeme získávat jako menší z obou základních vlastností.
 
 ## Závěrem
-TODO
+Už před časem jsme [rozložili *Charisma* na *Inteligenci* a *Cit*](2018-11-09-vzpominky_na_krasu.md#Závěrem), kdy nám hlavně objevení *Citu* jako základní vlastnosti udělalo radost, pak jsme [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md#Závěrem) pro její komplikovaný výpočet a hlavně silnou subjektivitu, kdy i mezi lidmi je vnímání krásy dosti odlišné, chvíli na to [došlo i na *Odolnost* a *Výdrž*](2018-11-19-vydrz.md#Závěrem), kdy *Odolnost* byla jen převlečnou *Silou* a Výdrž míchala tělesné a duševní vlastnosti, které jsme ale spíše odmítli v současné podobě a předšlapali cestičku jejim nástupcům a nakonec jsme v tomto článku odložili *Nebezpečnost*, opět kvůli míchání tělesnch a duševních vlastností a přijali zpět *Důstojnost*, *Rychlost* a zopakovali jsme přijetí *Charisma* mezi odvozené vlastnosti a hlavně jsme u těchto tří vlatnostní potvrdili, že budou mít výslednou hodnotu podle **nejmenší** z vlastností, ze které se skládají, tedy například Rychlost, složená ze Síly třeba sedm a Obratnosti třeba dva bude dva.
+
+Ještě nás čeká proplesknutí *Nebezpečnosti*, o kterou přijít nechceme, a hlavně pak po vzoru *Charisma* coby duševní zručnosti chceme zamávat se *Zručností* coby tělesné charisma. Ale to zas až příště.
 
 ---
 
