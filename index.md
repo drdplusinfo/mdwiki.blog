@@ -1,5 +1,6 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [25. 3. 2019 Pidi pravidla - *Úroveň nula*](clanky/2019-03-25-pidi_pravidla_uroven_nula.md)
 ### [21. 3. 2019 Zmrtvýchvstání odvozených vlastností](clanky/2019-03-21-zmrtvychvstani_odvozenych_vlastnosti.md)
 ### [15. 3. 2019 Představy minulosti - *Mýty*](clanky/2019-03-15-predstavy_minulosti_myty.md)
 ### [12. 3. 2019 Učíme se z chyb](clanky/2019-03-12-ucime_se_z_chyb.md)

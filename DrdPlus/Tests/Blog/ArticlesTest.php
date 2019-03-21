@@ -43,7 +43,7 @@ class ArticlesTest extends BlogTestCase
                     $previousLink,
                     'Invalid "previous" article in ' . $nextArticle
                 );
-                $previousDateEnglish = \DateTime::createFromFormat('j. n. Y', $previousDate)->format('Y-m-d');
+                $previousDateEnglish = \DateTime::createFromFormat(self::CZECH_DATE_FORMAT, $previousDate)->format('Y-m-d');
                 self::assertStringStartsWith(
                     $previousDateEnglish,
                     $previousLink,
@@ -59,12 +59,12 @@ class ArticlesTest extends BlogTestCase
                 'nextName' => $nextName,
                 'nextLink' => $nextLink,
                 'nextDate' => $nextDate,
-            ] = $this->parseArticleLinksFromFile($articlePath, $expectedPreviousArticlePath !== null, $expectedNextArticlePath !== null);
+            ] = $this->parseArticleLinksFromFile($articlePath, $expectedPreviousArticlePath, $expectedNextArticlePath);
             $expectedNavigation = [];
             $currentNavigation = [];
             if ($expectedPreviousArticlePath !== null) {
                 /** @var string $expectedPreviousArticlePath */
-                $expectedPreviousArticleDate = $this->createDateFromFilename($expectedPreviousArticlePath)->format('j. n. Y');
+                $expectedPreviousArticleDate = $this->getDateInCzechFormat($this->createDateFromFilename($expectedPreviousArticlePath));
                 $expectedPreviousTitle = $this->sanitizeTitleForLink($this->fetchTitleFromFile($expectedPreviousArticlePath));
                 $expectedPreviousArticlePathBasename = \basename($expectedPreviousArticlePath);
                 $expectedNavigation[] = $this->assembleLinkToPreviousArticle(
@@ -76,7 +76,7 @@ class ArticlesTest extends BlogTestCase
             }
             if ($expectedNextArticlePath !== null) {
                 /** @var string $expectedNextArticlePath */
-                $expectedNextArticleDate = $this->createDateFromFilename($expectedNextArticlePath)->format('j. n. Y');
+                $expectedNextArticleDate = $this->getDateInCzechFormat($this->createDateFromFilename($expectedNextArticlePath));
                 $expectedNextTitle = $this->sanitizeTitleForLink($this->fetchTitleFromFile($expectedNextArticlePath));
                 $expectedNextArticlePathBasename = \basename($expectedNextArticlePath);
                 $expectedNavigation[] = $this->assembleLinkToNextArticle(
@@ -117,7 +117,7 @@ class ArticlesTest extends BlogTestCase
         return \str_replace('*', '', $title);
     }
 
-    private function parseArticleLinksFromFile(string $filename, bool $expectedPreviousArticle, bool $expectedNextArticle): array
+    private function parseArticleLinksFromFile(string $filename, ?string $expectedPreviousArticlePath, ?string $expectedNextArticlePath): array
     {
         $content = $this->getFileContent($filename);
         $delimiterRegexp = '(?<delimiter>[\n\r]+---[\n\r]+)';
@@ -125,12 +125,38 @@ class ArticlesTest extends BlogTestCase
         $nextRegexp = '- \*následující \[(?<nextArrows>(?:<<|>>)) (?<nextDate>\d{1,2}[.] \d{1,2}[.] \d{4}) (?<nextName>[^\]]+)\]\((?<nextLink>[^\)]+)\)\*';
         $previousFound = (bool)\preg_match("~{$delimiterRegexp}?{$previousRegexp}~u", $content, $previousMatches);
         $nextFound = (bool)\preg_match("~{$delimiterRegexp}?{$nextRegexp}~u", $content, $nextMatches);
-        if ($expectedPreviousArticle) {
-            self::assertTrue($previousFound, 'Expected link to previous article is missing at the end of ' . $filename);
+        if ($expectedPreviousArticlePath !== null) {
+            self::assertTrue(
+                $previousFound,
+                sprintf(
+                    "Link to previous article is missing at the end of %s, should be\n%s",
+                    $filename,
+                    $expectedPreviousArticlePath
+                        ? $this->assembleLinkToPreviousArticle(
+                        $this->getDateInCzechFormat($this->createDateFromFilename($expectedPreviousArticlePath)),
+                        $this->fetchTitleFromFile($expectedPreviousArticlePath),
+                        basename($expectedPreviousArticlePath)
+                    )
+                        : "\nexpected something like\n- *předchozí [<< 15. 3. 2019 Představy minulosti - Mýty](2019-03-15-predstavy_minulosti_myty.md)*"
+                )
+            );
             self::assertSame('<<', $previousMatches['previousArrows'], 'Expected two backward arrows as a part of the link to the previous article at the end of ' . $filename);
         }
-        if ($expectedNextArticle) {
-            self::assertTrue($nextFound, 'Expected link to next article is missing at the end of ' . $filename);
+        if ($expectedNextArticlePath !== null) {
+            self::assertTrue(
+                $nextFound,
+                sprintf(
+                    "Link to next article is missing at the end of %s, should be\n%s",
+                    $filename,
+                    $expectedNextArticlePath
+                        ? $this->assembleLinkToNextArticle(
+                        $this->getDateInCzechFormat($this->createDateFromFilename($expectedNextArticlePath)),
+                        $this->fetchTitleFromFile($expectedNextArticlePath),
+                        basename($expectedNextArticlePath)
+                    )
+                        : "\nexpected something like\n- *následující [>> 15. 3. 2019 Představy minulosti - Mýty](2019-03-15-predstavy_minulosti_myty.md)*"
+                )
+            );
             self::assertSame('>>', $nextMatches['nextArrows'], 'Expected two forward arrows as a part of the link to the next article at the end of ' . $filename);
         }
         if ($previousMatches && $nextMatches) {

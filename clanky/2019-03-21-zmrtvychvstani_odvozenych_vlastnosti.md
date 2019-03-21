@@ -215,3 +215,4 @@ Ještě nás čeká proplesknutí *Nebezpečnosti*, o kterou přijít nechceme, 
 ---
 
 - *předchozí [<< 15. 3. 2019 Představy minulosti - Mýty](2019-03-15-predstavy_minulosti_myty.md)*
+- *následující [>> 25. 3. 2019 Pidi pravidla - Úroveň nula](2019-03-25-pidi_pravidla_uroven_nula.md)*
