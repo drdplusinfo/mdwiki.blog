@@ -11,9 +11,9 @@
 > - To jste asi si spletl dobu...
 > - Dobu možná, ale vás ne!
 
-Pohřbené odvozené vlastnosti jsme začali tímto textem zachraňovat už někdy v listopadu 2018, ale pak se nám do toho vřítila [jarní debordelizace](2019-03-12-ucime_se_z_chyb.md), my rozdělanou práci přerušili a teď, když se k ní po měsících vracíme, tak zjišťujeme, že už nemá takový význam.
+Pohřbené odvozené vlastnosti jsme začali tímto článkem zachraňovat už někdy v listopadu 2018, ale pak se nám do toho vřítila [jarní debordelizace](2019-03-12-ucime_se_z_chyb.md), my rozdělanou práci přerušili a teď, když se k ní po měsících vracíme, tak zjišťujeme, že už nemá takový význam.
 
-Už v listopadu v nás totiž zrála konkrétní představa o minimálních pravidlech, které je potřeba sesumírovat a zkusit si podle nich zahrát pidi dobrodružství, abychom vyzkoušeli *hod jedinou kostkou* a *dočasnou únavu a škrábance*, takže dotahovat zachraňování odvozených vlastností nás najednou zdržuje od dost jasného cíle, ve kterém odvozené vlastnosti nemají místo, ale na druhou stranu cítíme, že dostanou slovo jenom chvíli po mini pravidlech a jelikož jsme teď na textu o záchraně odvozených vlastností zase nějakou dobu strávili a naladili se na něj, jak ten článek dorazíme.
+Už v listopadu v nás totiž zrála konkrétní představa o minimálních pravidlech, které je potřeba sesumírovat a zkusit si podle nich zahrát pidi dobrodružství, abychom vyzkoušeli *hod jedinou kostkou* a *dočasnou únavu a škrábance*, takže dotahovat zachraňování odvozených vlastností nás najednou zdržuje od dost jasného cíle, ve kterém odvozené vlastnosti nemají místo, ale na druhou stranu cítíme, že slovo dostanou jenom chvíli potoma  jelikož jsme teď na textu o záchraně odvozených vlastností zase nějakou dobu strávili a naladili se na něj, jak ten článek dorazíme.
 
 Takže hurá za záchranou vlastností zhola odvozených, převážně smrdutých!
 
@@ -127,7 +127,7 @@ Ovšem v *Důstojnosti* máme *Charisma*, které je [nově odvozenou vlastností
 
 *Citem* poznáme, jak nás ostatní vnímají a můžeme pak potřebným směrem ovlivňovat přívětivost nebo nepříjemnost vystupování, celkový příznivý či špatný dojem, ale že bychom mohli přímo ovlivňovat *Důstojnost*... nebo že by šlo *Cit* použít i k vycítění toho, co ostatní považují za důstojné a toho se držet? Nebo naopak vycítit, čím nás chtějí ponížit a tomu vědomě odolávat? Že by ten *Cit* a tím vlastně celé *Charisma* byly pro důstojnost přeci jenom důležité? Už to tak bude.
 
-*Důstojnost* je tak vlastně spolupráce všech tří základních duševních vlastností, takže duševní a tělesné vlastnosti nemíchá, tudíž nám *Důstojnost* nesmrdí a bereme ji zpátky [do party](#Voňavá_parta).
+*Důstojnost* je tak vlastně spolupráce všech tří základních duševních vlastností, takže duševní a tělesné vlastnosti nemíchá, tudíž nám *Důstojnost* nesmrdí a bereme ji zpátky do [party](#Voňavá_parta).
 
 ### Rychlost
 
@@ -155,7 +155,7 @@ Zapůsobit na ostatní, strhnout je na svou stranu, ovlivnit jejich rozhodnutí,
 - *Inteligence*
     - s jejíž pomocí *Cit* cíleně používáme na ovlivnění ostatních
 
-Také *Charisma* je netoxické, bez vměšování duševních a tělesných vlastností zároveň, a můžeme mu podat [přátelskou ruku](#Voňavá_parta).
+Také *Charisma* je netoxické, bez vměšování duševních a tělesných vlastností zároveň, a můžeme ho pozvat do [party](#Voňavá_parta).
 
 ## Voňavá parta
 
