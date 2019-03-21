@@ -1,6 +1,6 @@
 # Zmrtvýchvstání odvozených vlastností
 
-*20. 3. 2019*
+*21. 3. 2019*
 
 > Poslední lopata se líně zhoupla dolů, prsť a štěrk naposledy zabubnovaly na dubové víko a byla tma. Klidná, konejšivá, věčná tma. A z té tmy se ozývalo ťukání, tiché, nepravidelné a jakoby nejisté a kdo špicoval uši, mohl zaslechnout tenké hlásky, které se překrývaly navzájem "My už nebudeme složité. My už jsme taky primitivové. Nechybíme vám?"
 
