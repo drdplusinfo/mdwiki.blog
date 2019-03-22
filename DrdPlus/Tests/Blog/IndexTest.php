@@ -11,7 +11,7 @@ class IndexTest extends BlogTestCase
     public function I_can_access_every_article_from_index(): void
     {
         $anchors = $this->getIndexAnchors();
-        $articles = $this->getArticles();
+        $articles = $this->getArticlesPaths();
         $missingAnchors = \array_diff($articles, $anchors);
         self::assertCount(0, $missingAnchors, "Some articles are not listed in index: \n" . \implode("\n", $missingAnchors));
         $missingArticles = \array_diff($anchors, $articles);
@@ -86,7 +86,7 @@ class IndexTest extends BlogTestCase
                 "Date in index link name '$title' does not match date in filename $filename"
             );
         }
-        foreach ($this->getArticlesWithFullPath() as $article) {
+        foreach ($this->getArticlesFullPaths() as $article) {
             $content = $this->getFileContent($article);
             $contentDate = $this->createDateFromContent($content);
             $fileDate = $this->createDateFromFilename($article);

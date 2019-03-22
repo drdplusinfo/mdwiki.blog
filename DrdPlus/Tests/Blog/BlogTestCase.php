@@ -13,25 +13,54 @@ abstract class BlogTestCase extends TestCase
     /**
      * @return array|string[]
      */
-    protected function getArticlesWithFullPath(): array
+    protected function getArticlesFullPaths(): array
     {
-        return $this->getArticles(true);
+        static $articlesFullPaths;
+        if ($articlesFullPaths === null) {
+            $articles = $this->getFilesFromDir(__DIR__ . '/../../../clanky');
+            self::assertNotEmpty($articles);
+            $articlesFullPaths = \array_map(
+                function (string $article) {
+                    return __DIR__ . '/../../../clanky/' . $article;
+                },
+                $articles
+            );
+        }
+        return $articlesFullPaths;
     }
 
     /**
-     * @param bool $withFullPath
      * @return array|string[]
      */
-    protected function getArticles(bool $withFullPath = false): array
+    protected function getArticlesBasePaths(): array
     {
-        $articles = $this->getFilesFromDir(__DIR__ . '/../../../clanky');
-        self::assertNotEmpty($articles);
+        static $articlesBasePaths;
+        if ($articlesBasePaths === null) {
+            $articlesBasePaths = array_map(
+                function (string $articlePath) {
+                    return basename($articlePath);
+                },
+                $this->getArticlesFullPaths()
+            );
+        }
+        return $articlesBasePaths;
+    }
 
-        return \array_map(function (string $article) use ($withFullPath) {
-            return $withFullPath
-                ? __DIR__ . '/../../../clanky/' . $article
-                : 'clanky/' . $article;
-        }, $articles);
+    /**
+     * @return array|string[]
+     */
+    protected function getArticlesPaths(): array
+    {
+        static $articlesPaths;
+        if ($articlesPaths === null) {
+            $articlesPaths = \array_map(
+                function (string $article) {
+                    return 'clanky/' . $article;
+                },
+                $this->getArticlesBasePaths()
+            );
+        }
+        return $articlesPaths;
     }
 
     private function getFilesFromDir(string $dir, int $level = 0): array
@@ -135,5 +164,21 @@ abstract class BlogTestCase extends TestCase
     protected function getDateInCzechFormat(\DateTimeInterface $dateTime): string
     {
         return $dateTime->format(self::CZECH_DATE_FORMAT);
+    }
+
+    protected function getHeadingsFromArticle(string $articleFullPath): array
+    {
+        static $headings = [];
+        if (($headings[$articleFullPath] ?? null) === null) {
+            $content = $this->getFileContent($articleFullPath);
+            \preg_match_all('~(^|[\n\r])#+\s+(?<headings>[^\n\r]+)~u', $content, $matches);
+            $headings[$articleFullPath] = $matches['headings'];
+        }
+        return $headings[$articleFullPath];
+    }
+
+    protected function getArticleFullPath(string $articleBasePath): string
+    {
+        return __DIR__ . '/../../../clanky/' . $articleBasePath;
     }
 }

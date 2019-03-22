@@ -11,7 +11,7 @@ class TextContentTest extends BlogTestCase
      */
     public function All_todos_are_solved(): void
     {
-        foreach ($this->getArticlesWithFullPath() as $articleFile) {
+        foreach ($this->getArticlesFullPaths() as $articleFile) {
             $content = $this->getFileContent($articleFile);
             self::assertFalse(
                 \stripos($content, 'TODO'),
@@ -25,7 +25,7 @@ class TextContentTest extends BlogTestCase
      */
     public function No_duplicated_word_follow_self(): void
     {
-        foreach ($this->getArticlesWithFullPath() as $articleFile) {
+        foreach ($this->getArticlesFullPaths() as $articleFile) {
             $content = $this->getFileContent($articleFile);
             \preg_match_all('~[\W](\w{4,})\s+\1\W~u', $content, $sameWords);
             $fileBaseName = basename($articleFile);

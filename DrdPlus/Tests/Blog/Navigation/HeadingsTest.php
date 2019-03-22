@@ -1,7 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace DrdPlus\Tests\Blog;
+namespace DrdPlus\Tests\Blog\Navigation;
+
+use DrdPlus\Tests\Blog\BlogTestCase;
 
 class HeadingsTest extends BlogTestCase
 {
@@ -11,8 +13,8 @@ class HeadingsTest extends BlogTestCase
      */
     public function Headings_are_unique(): void
     {
-        foreach ($this->getArticlesWithFullPath() as $articleFile) {
-            $headings = $this->getHeadings($articleFile);
+        foreach ($this->getArticlesFullPaths() as $articleFile) {
+            $headings = $this->getHeadingsFromArticle($articleFile);
             $headingsCounts = \array_count_values($headings);
             /** @noinspection PhpUnitTestsInspection */
             self::assertSame(
@@ -33,13 +35,6 @@ class HeadingsTest extends BlogTestCase
                 )
             );
         }
-    }
-
-    private function getHeadings(string $articleFile): array
-    {
-        $content = $this->getFileContent($articleFile);
-        \preg_match_all('~(^|[\n\r])#+\s+(?<headings>[^\n\r]+)~u', $content, $matches);
-        return $matches['headings'];
     }
 
     /**
@@ -67,8 +62,8 @@ class HeadingsTest extends BlogTestCase
             basename(__DIR__ . '/../../../clanky/2018-09-19-uhyb.md'),
             basename(__DIR__ . '/../../../clanky/2018-10-03-co_chcete.md'),
         ];
-        foreach ($this->getArticlesWithFullPath() as $articleFile) {
-            $headings = $this->getHeadings($articleFile);
+        foreach ($this->getArticlesFullPaths() as $articleFile) {
+            $headings = $this->getHeadingsFromArticle($articleFile);
             $conclusionHeadings = \array_filter($headings, function (string $heading) {
                 return \strpos($heading, 'Závěr') === 0;
             });

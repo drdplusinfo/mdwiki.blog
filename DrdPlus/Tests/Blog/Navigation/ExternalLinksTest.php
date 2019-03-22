@@ -1,9 +1,11 @@
 <?php
 declare(strict_types=1);
 
-namespace DrdPlus\Tests\Blog;
+namespace DrdPlus\Tests\Blog\Navigation;
 
-class LinksTest extends BlogTestCase
+use DrdPlus\Tests\Blog\BlogTestCase;
+
+class ExternalLinksTest extends BlogTestCase
 {
 
     /**
@@ -98,21 +100,21 @@ class LinksTest extends BlogTestCase
      */
     private function getExternalLinks(): array
     {
-        static $externalAnchors = [];
-        if (!$externalAnchors) {
+        static $externalLinks = [];
+        if (!$externalLinks) {
             $content = '';
-            foreach ($this->getArticlesWithFullPath() as $article) {
+            foreach ($this->getArticlesFullPaths() as $article) {
                 $content .= $this->getFileContent($article);
             }
             self::assertGreaterThan(
                 0,
                 \preg_match_all('~[(](?<links>https?://[^)]+)~', $content, $matches),
-                'No external anchors found'
+                'No external links found'
             );
-            $externalAnchors = \array_unique($matches['links']);
+            $externalLinks = \array_unique($matches['links']);
         }
 
-        return $externalAnchors;
+        return $externalLinks;
     }
 
     /**
@@ -120,7 +122,7 @@ class LinksTest extends BlogTestCase
      */
     public function I_can_use_very_link_to_altar_without_further_redirection(): void
     {
-        foreach ($this->getArticlesWithFullPath() as $articleFile) {
+        foreach ($this->getArticlesFullPaths() as $articleFile) {
             $content = $this->getFileContent($articleFile);
             \preg_match_all('~(?<link>(?:[[:alpha:]]+:)?//(?:www[.])?altar[.]cz)~', $content, $matches);
             foreach ($matches['link'] as $link) {
