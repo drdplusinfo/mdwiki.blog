@@ -13,7 +13,7 @@
 
 Pohřbené odvozené vlastnosti jsme začali tímto článkem zachraňovat už někdy v listopadu 2018, ale pak se nám do toho vřítila [jarní debordelizace](2019-03-12-ucime_se_z_chyb.md), my rozdělanou práci přerušili a teď, když se k ní po měsících vracíme, tak zjišťujeme, že už nemá takový význam.
 
-Už v listopadu v nás totiž zrála konkrétní představa o minimálních pravidlech, které je potřeba sesumírovat a zkusit si podle nich zahrát pidi dobrodružství, abychom vyzkoušeli *hod jedinou kostkou* a *dočasnou únavu a škrábance*, takže dotahovat zachraňování odvozených vlastností nás najednou zdržuje od dost jasného cíle, ve kterém odvozené vlastnosti nemají místo, ale na druhou stranu cítíme, že slovo dostanou jenom chvíli potoma  jelikož jsme teď na textu o záchraně odvozených vlastností zase nějakou dobu strávili a naladili se na něj, jak ten článek dorazíme.
+Už v listopadu v nás totiž zrála konkrétní představa o minimálních pravidlech, které je potřeba sesumírovat a zkusit si podle nich zahrát pidi dobrodružství, abychom vyzkoušeli *hod jedinou kostkou* a *dočasnou únavu a škrábance*, takže dotahovat zachraňování odvozených vlastností nás najednou zdržuje od dost jasného cíle, ve kterém odvozené vlastnosti nemají místo, ale na druhou stranu cítíme, že slovo dostanou jenom chvíli potom a jelikož jsme teď na textu o záchraně odvozených vlastností zase nějakou dobu strávili a naladili se na něj, jak tenhle článek dorazíme.
 
 Takže hurá za záchranou vlastností zhola odvozených, převážně smrdutých!
 
