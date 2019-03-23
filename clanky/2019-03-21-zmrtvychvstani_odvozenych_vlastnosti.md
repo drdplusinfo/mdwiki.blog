@@ -54,8 +54,6 @@ Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina t
 | *Rychlost* | (11 + 11)/2  = **11** | **11** |
 | *Charisma* | (5 + 5)/2 = **5** | **5** |
 
-*Mimochodem, všimli jste si, že ty závorky v původních výpočtech jsou úplně k ničemu? Tedy pokud zaokrouhlujete až úplně na konci, což my děláme.*
-
 U nového návrhu je jasný propad, hlavně tam, kde se kombinují vysoké a nízké vlastnosti, což znamená [hlavní a vedlejší vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_povolani), což dává logiku, když místo průměru použijeme jen mrňouse.
 Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě ani ne, protože **hráč** bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - *aby zvýšil své šance na přežití*. Takže nic, velké rozdíly vlastností zůstanou, jdeme dál.
 
