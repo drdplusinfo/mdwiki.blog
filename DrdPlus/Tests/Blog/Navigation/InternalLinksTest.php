@@ -44,7 +44,7 @@ class InternalLinksTest extends BlogTestCase
                         \sprintf(
                             'Fragment #%s taken from article %s points to a non-existing heading in article %s',
                             $fragment,
-                            $sourceArticle,
+                            basename($sourceArticle),
                             $targetArticle
                         )
                     );
