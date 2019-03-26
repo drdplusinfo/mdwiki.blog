@@ -36,4 +36,31 @@ class TextContentTest extends BlogTestCase
             self::assertCount(0, $sameWords[0], $fileBaseName . "\n" . var_export($sameWords[0], true));
         }
     }
+
+    /**
+     * @test
+     */
+    public function Every_date_is_in_valid_format()
+    {
+        foreach ($this->getArticlesFullPaths() as $articleFile) {
+            $content = $this->getFileContent($articleFile);
+            \preg_match_all('~.*(?<date>\d+\s*[.]\s*\d+\s*[.]\s*\d+).*~', $content, $matches);
+            foreach ($matches['date'] as $index => $date) {
+                $row = $matches[0][$index];
+                if ($row === '24.6.2002 n.l., Oltář' || $row === '23.1.2002 n.l., Oltář') {
+                    continue;
+                }
+                self::assertRegExp(
+                    '~\d{1,2}[.] \d{1,2}[.] \d{4}~',
+                    $date,
+                    sprintf('Row "%s" from article %s has a date in invalid format, got "%s", expected j. n. Y', $row, basename($articleFile), $date)
+                );
+                try {
+                    \DateTime::createFromFormat('j. n. Y', $date);
+                } catch (\Throwable $exception) {
+                    self::fail($exception->getMessage());
+                }
+            }
+        }
+    }
 }
