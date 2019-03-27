@@ -21,7 +21,7 @@ Od té doby nemyslíme na nic jiného, než na pidi pravidla.
 ## Pidi definice
 > Jak velké je ještě malé?
 
-Otázkou do pranice je, co by v těch pidi pravidel mělo být, aby **už** k něčemu byla a přitom z toho nebylo **hned** dalších [šest příruček pro hráče](2018-12-07-predstavy_minulosti_poslove.md#Poslové).
+Otázkou do pranice je, co by v těch pidi pravidlech mělo být, aby **už** k něčemu byla a přitom z toho nebylo **hned** dalších [šest příruček pro hráče](2018-12-07-predstavy_minulosti_poslove.md#Poslové).
 
 Připomeneme si nejdříve jedno z našich hesel a pak si dáme špetku teorie, která je vlastně v každém z nás, jen máme její jednotlivé části v jiném poměru.
 
@@ -29,26 +29,52 @@ Připomeneme si nejdříve jedno z našich hesel a pak si dáme špetku teorie, 
 
 > Dobré pravidlo směr ukazuje, špatné zakazuje
 
-Ono to zní vzletně a krásně, ale má to svá ale, protože, jak bylo i [původním tvůrcům známo](2019-03-15-predstavy_minulosti_myty.md#Odkaz_dračích_tvůrců), *každý z nás je jiný*, což nám dává úžasnou rozmanitost a přidává spoustu **komplikací**.
+Ono to zní vzletně a krásně, ale má to svá ale, protože, jak bylo i [původním tvůrcům známo](2019-03-15-predstavy_minulosti_myty.md#Odkaz_dračích_tvůrců), *každý z nás je jiný*, což nám dává úžasnou rozmanitost a zároveň přidává spoustu **komplikací**.
 
 Z našeho hraní známe [TODO typy viz facebook](), do toho jsou někteří šmrncnutí cifršpionem, který nedovolí číselnou úlitbu, či snad vynechání(!) výpočtu, protože pravidla jsou svatá (z čehož vzniklo naše tvrzení, že [chlapi čísla milujou](2018-10-31-cit_pro_charisma.md#Užitek_citu) a Jersonům milný [dojem](TODO rpg fórum), že tím myslíme *všechny* chlapy na světě), další by nejradši dělal všechno, co v pravidlech není, mnohdy až ostatním na truc a teď babo raď, co s tím.
 
-Když strčíme hlavu do vesmíru a zařveme, *"Potřebujeme vůbec pravidla?!"*, tak nejdříve nic neuslyšíme, protože ve vakuu na nás zvuk kašle, ale když chvíli počkáme a budeme tvrdit, že hlasy v naší hlavě nejsou z nedostatku kyslíku, tak ušlyšíme hráče všude po světě, kteří hulákají jeden přes druhého "AnoNéAnóóŃééééAnéééAjóóFůůj" a aby to zmatku nebylo málo, tak po krátké analýze hlasu zjistíme, že někteří dokonce po chvíli odporují sami sobě.
+Když strčíme hlavu do vesmíru a zařveme, *"Potřebujeme vůbec pravidla?!"*, tak nejdříve nic neuslyšíme, protože ve vakuu na nás zvuk kašle, ale když chvíli počkáme a budeme tvrdit, že hlasy v naší hlavě nejsou z nedostatku kyslíku, tak ušlyšíme hráče všude po světě, jak hulákají jeden přes druhého *"AnoNéAnóóŃééééAnéééAjóóFůůj"* a aby to zmatku nebylo málo, tak po krátké analýze hlasu zjistíme, že někteří dokonce po chvíli odporují **sami sobě**.
 On je to totiž normální vývoj, prostě něco strašně chceme, pak to dostaneme, předávkujeme se tím a pak na to máme chvíli alergii, než se naše potřeba srovná na takové to *akorát*.
 
 Hrát bez pravidel je krásné, ale ještě jsme nepotkali borce, kterým by to vydrželo delší dobu. Je to jako [divadlo bez scénáře](TODO vizita asi odkaz na recenzi), které dokáže stejně tak překvapit, jako přehrabovat hlušinu. Zkusili jsme si to, líbilo se nám to, ale je to tak křehké, tak závislé na souznění jednotlivých hráčů, že na to budeme už asi jen vzpomínat.
 
 My pravidla považujeme za mapu, která nám radí, kudy *můžeme* jít, ale do ničeho nás nenutí. Když budeme mít chuť zajít do lesa, chceme se mrknout do mapy, kde je nějaký hájek poblíž, když se ztratíme, chceme se mrknout do mapy, kudy dál, ale nechceme dálnici, ze které jde sjet až za patnáct kilometrů a na záchod můžeme jen na benzínce o dva kilometry blíže.
 
-No jo, my ale chceme pidi mapu a jaká mapa je tak pidi, že to už není špatně složený kapesník, ale dá se z ní ještě něco vyčíst? Osobně bychom chtěli mapu, která nám řekne, kde jsme **teď** a která nám ukáže, jaké cesty z ní vedou **ven**.
+> - *To už ten kousek vydržíš, ne?*
+> - *Ne.*
+
+No jo, my ale teď chceme *pidi* mapu a jaká mapa je tak pidi, že to ještě není špatně složený kapesník, že se z ní dá ještě něco vyčíst? Osobně bychom chtěli mapu, která nám řekne, kde jsme **teď** a která nám ukáže, jaké cesty z ní vedou **ven**.
 
 Za onu startovní pozici, za ten špendlík na mapě, který říká *"už se nehledej, stojíš tady"*, považujeme **nulu** a nula je jedno z našich pravidel, které používáme tam, kde hledáme začátek.
 
-
 ### Začátek
-Před časem jsme objevili [nulové vlastnosti](2018-10-22-nula.md#Závěrem), stav, kdy už nedokážeme nic udělat. stav, který má novorozeně. Vlastnosti začínajícího dobrodruha jsme tak posunuli na šest, což je stav jinocha utíkajícího v rozkvětu puberty od rodičů za lepším, dobrodružnějším světem.
+Před časem jsme objevili [nulové vlastnosti](2018-10-22-nula.md#Závěrem), stav, kdy už nedokážeme nic udělat, stav, který má novorozeně. Vlastnosti začínajícího dobrodruha jsme tak posunuli z [původní nuly](https://pph.drdplus.info/?trial=1#tabulka_ras) na šest, což je stav náctiletého, utíkajícího v rozkvětu puberty od nudného bezpečí svých rodičů za lepším, dobrodružnějším světem.
 
-Už tehdy jsme věděli, že šestka je začátek zdravého, mladého, profesí ale zatím nedotknutého člověka, kterému dosud nezkažené ideály přinášejí celý svět do náruče. Co jsme ale nevěděli, byla odpověď na otázku *"co s těmi povoláními"*, máme se hned vrhat do bonusů k vlastnostem za povolání, když jsme hlavní a vedlejší vlastnosti [zrušili](TODO)? Máme hned vyřešit odlišnosti jednotlivých ras, když to někteří považují za [svazující](TODO rpg forum)? A co rozdíly muže a ženy, kolem kterých byl teprve [humbuk](TODO rpg fórum))?
+Už tehdy jsme věděli, že šestka je začátek zdravého, mladého, profesí ale zatím nedotknutého člověka, kterému dosud nezkažené ideály předkládají celý svět k nohám. Co jsme ale nevěděli, byla odpověď na otázku *"co s těmi povoláními"*, máme se hned vrhat do bonusů k vlastnostem za povolání, když jsme hlavní a vedlejší vlastnosti [zrušili](TODO)? Máme hned vyřešit odlišnosti jednotlivých ras, když to někteří považují za [svazující](TODO rpg forum)? A co rozdíly muže a ženy, kolem kterých byl teprve [humbuk](TODO rpg fórum)?
+
+Nakonec jsme to rozlouskli a shodli jsme se, že když začátek, tak od píky, a když od píky, tak od nuly, a když od nuly, tak všichni.
+
+V pidi pravidlech proto chceme
+
+- úroveň nula
+    - prostě zatím žádné povolání, každý dobrodruh bude prostý *obyvatel* (což pro nás [není nová myšlenka](https://pph.drdplus.info/?trial=1#tabulka_povolani))
+- pouze člověk
+    - další rasy přijdou hned potom, ale na test pidi pravidel nejsou potřeba
+- každou vlastnost s hodnotou šest
+    - vlastnost na nule [znamená](2018-10-22-nula.md#Závěrem) nepoužitelná vlastnost a ve většině případů i nepoužitelný hrdina
+    - [výjimečné vlastnosti či dobré zázemí](https://pph.drdplus.info/?trial=1#tabulka_rozhodnuti_hrace) zatím neřešíme
+    - vliv rasy ani povolání zatím není žádný
+
+Co nám zbývá a co ještě nemáme pořádně rozmyšlené jsou
+- škrábance a dočasná únava
+    - první řádek zranění a první řádek únavy chceme změnit na "spotřební", na takovou tu hranici, kdy mnozí z nás už raději couvnou, jelikož pocítí osten skutečné bolesti a které se budou obnovovat mnohem rychleji, než další řádky
+- hod proti pastem
+    - už v původních pravidlech jsme většinu pastí nastavili na čtyři stupně s hranicemi `5 ~ 10 ~ 15` po vzoru [postihu za zranění](http://pph.drdplus.loc/#postih_za_zraneni), teď plánujeme něco podobného s hranicemi `6 ~ 12 ~ 18`(ano, má to návaznost na vlastnosti [začínajícími na šestce](2018-10-22-nula.md#Šestka))
+
+## Panika
+> Cože? A co kouzla a dovednosti a vybavevní a zázemí a... a... a vůbec!
+
+Zatím ne, zatím to nejde. Zkoušeli jsme to, hledali jsme cestu, jak současná pravidla zjednodušovat a zpřehledňovat postupně, ale to se nám nepodařilo, takže teď hledáme novou cestu, na které budeme části původních pravidel nacházet, oprašovat a jednu po druhé zkoušet zasazovat na tvrdé, nové jádro pidi pravidel. Všeho dočasu. 
 
 ## Závěrem
 TODO
