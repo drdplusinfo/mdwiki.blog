@@ -74,7 +74,7 @@ Takže máte postavu, její motivaci, minulost, povolání a jméno – a už v�
 
 ---
 
-V celém textu je pak jeden styl, který mi osobně není moc po chuti a to je styl příspěvků RPG fóra, ve kterých se to hemží anglickými názvy a zkratkami. Ty tu často používáš staty a bacrkground a setting a classy a podobně, což mě odtrhuje od citlivého tématu a vrhá mě to do technické debaty, kde se postava stává výsledkem kombinací pravidel, nikoli živoucí bytostí. Na druhou stranu... je v tom kus osobitosti, prostě takhle mluvíš, ve světě anglických hesel žijí tvoje postavy a je to takhle pro tebe zřejmě samozřejmější.
+V celém textu je pak jeden styl, který mi osobně není moc po chuti a to je styl příspěvků RPG fóra, ve kterých se to hemží anglickými názvy a zkratkami. Ty tu často používáš staty a background a setting a classy a podobně, což mě odtrhuje od citlivého tématu a vrhá mě to do technické debaty, kde se postava stává výsledkem kombinací pravidel, nikoli živoucí bytostí. Na druhou stranu... je v tom kus osobitosti, prostě takhle mluvíš, ve světě anglických hesel žijí tvoje postavy a je to takhle pro tebe zřejmě samozřejmější.
 Takže to nechávám na tobě, jen jsem ti chtěl říct, že některé hráče to rozptyluje.
 
 Díky za tvou snahu, Kostřivec
