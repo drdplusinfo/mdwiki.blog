@@ -40,21 +40,22 @@ On je to totiž normální vývoj, prostě něco strašně chceme, pak to koneč
 Hrát bez pravidel je krásné, ale ještě jsme nepotkali borce, kterým by to vydrželo delší dobu. Je to jako [divadlo bez scénáře](TODO vizita asi odkaz na recenzi), které dokáže někdy překvapit, jindy jen přehrabuje hlušinu. Zkusili jsme si to, líbilo se nám to, ale je to tak křehké, tak závislé na souznění jednotlivých hráčů, že na to budeme už asi jen vzpomínat.
 
 #### Mapa na kapesníku
-Nad pravidly se dohadujeme, protože pravidla existují a když neexistují, tak se dohadujeme úplně stejně, protože si snažíme nějaká vymyslet. Abychom ten kolotoč aspoň zpomalili, když už ho nedokážeme zastavit, tak *TODO řešení budou malá, ale mnohé obsahující pravidla*.
+Nad pravidly se dohadujeme, protože existují, ovšem když pravidla nemáme, tak se dohadujeme úplně **stejně**, protože máme potřebu si nějaká vymyslet, každý po svém, a hned je o čem se dohadovat.
+Abychom ten kolotoč aspoň zpomalili, když už ho nedokážeme zastavit, tak se budeme snažit *co nejméně pravidly popsat co nejvíce zákonitostí*.
 
 My pravidla považujeme za mapu, která nám radí, kudy *můžeme* jít, ale do ničeho nás nenutí. Když budeme mít chuť zajít do lesa, chceme se mrknout do mapy, kde je nějaký hájek poblíž, když se ztratíme, chceme se mrknout do mapy, kudy dál, ale nechceme dálnici, ze které jde sjet až za patnáct kilometrů a na záchod můžeme jen na benzínce o dva kilometry blíže.
 
 > - *To už ten kousek vydržíš, ne?*
 > - *Ne.*
 
-No jo, my ale teď chceme *pidi* mapu a jaká mapa je tak pidi, že se z ní dá ještě něco vyčíst, že to už není jen špatně složený kapesník? Osobně bychom chtěli mapu, která nám řekne, kde jsme **teď** a která nám ukáže, jaké cesty z ní vedou **ven**.
+No jo, my ale teď chceme *pidi* mapu a jaká mapa je tak pidi, že se z ní dá ještě něco vyčíst a není to už jen špatně složený kapesník? Osobně bychom chtěli mapu, která nám řekne, kde jsme **teď** a která nám ukáže, jaké cesty z ní vedou **ven**.
 
 Za onu startovní pozici, za ten špendlík na mapě, který říká *"už se nehledej, stojíš tady"*, považujeme **nulu** a nula je jedno z našich pravidel, které používáme tam, kde hledáme začátek.
 
 ### Začátek
-Před časem jsme objevili [nulové vlastnosti](2018-10-22-nula.md#Závěrem), stav, kdy už nedokážeme nic udělat, stav, který má novorozeně. Vlastnosti **začínajícího** dobrodruha jsme tak posunuli z [původní nuly](https://pph.drdplus.info/?trial=1#tabulka_ras) na šest, což je stav náctiletého, utíkajícího v rozkvětu puberty od nudného bezpečí svých rodičů za lepším, dobrodružnějším světem.
+Před časem jsme objevili [nulové vlastnosti](2018-10-22-nula.md#Závěrem), stav, kdy nedokážeme nic udělat, stav, který má novorozeně. Vlastnosti **začínajícího** dobrodruha jsme tak posunuli z [původní nuly](https://pph.drdplus.info/?trial=1#tabulka_ras) na šest, což je stav náctiletého, utíkajícího v rozkvětu puberty od nudného bezpečí svých rodičů za lepším, dobrodružnějším světem.
 
-Už tehdy jsme věděli, že šestka je začátek zdravého, mladého, profesí zatím nepokřiveného člověka. Co jsme ale nevěděli, byla odpověď na otázku *"co s těmi profesemi"*, máme se hned vrhat do bonusů k vlastnostem za povolání, když jsme hlavní a vedlejší vlastnosti [zrušili](TODO)? Máme hned vyřešit odlišnosti jednotlivých ras, když to někteří považují za [svazující](TODO rpg forum)? A máme se okamžitě zabývat rozdíly muže a ženy, kolem kterých byl teprve [humbuk](TODO rpg fórum)?
+Už tehdy jsme věděli, že šestka je začátek zdravého, mladého, profesí zatím nepokřiveného člověka. Co jsme ale nevěděli, byla odpověď na otázku *"co s těmi profesemi?"*, máme se hned vrhat do bonusů k vlastnostem za povolání, když jsme hlavní a vedlejší vlastnosti [zrušili](TODO)? Máme hned vyřešit odlišnosti jednotlivých ras, když to někteří považují za [svazující](TODO rpg forum)? A máme se okamžitě zabývat rozdíly muže a ženy, kolem kterých byl teprve [humbuk](TODO rpg fórum)?
 
 Nakonec jsme to rozlouskli a shodli jsme se, že když začátek, tak od nuly, a když od nuly, tak všichni.
 
@@ -63,32 +64,37 @@ V pidi pravidlech proto chceme
 - úroveň nula
     - prostě zatím žádné povolání, každý dobrodruh bude prostý *obyvatel* (což pro nás [není nová myšlenka](https://pph.drdplus.info/?trial=1#tabulka_povolani))
 - pouze člověka
-    - další rasy přijdou hned potom, ale na test pidi pravidel nejsou potřeba
+    - další rasy přibudou, ale na test pidi pravidel nejsou potřeba
+        - úpravy vlastností za rasu budeme zřejmě řešit **dobrovolným** přívlastkem typu `Běžný horal, +1 k Síle, +1 k Vůli, -1 k Inteligenci, -1 k Citu`
 - každou vlastnost s počáteční hodnotou šest
     - vlastnost na nule [bude znamenat](2018-10-22-nula.md#Závěrem) *nepoužitelná vlastnost* a ve většině případů i *nepoužitelný hrdina*
     - [výjimečné vlastnosti či dobré zázemí](https://pph.drdplus.info/?trial=1#tabulka_rozhodnuti_hrace) zatím neřešíme
-    - [vliv rasy](http://pph.drdplus.loc/#tabulka_ras) ani [povolání](http://pph.drdplus.loc/#tabulka_povolani) zatím taky není žádný
+    - [vliv rasy](https://pph.drdplus.info/?trial=1#tabulka_ras), [povolání](https://pph.drdplus.info/?trial=1#tabulka_povolani) ani [pohlaví](https://pph.drdplus.info/?trial=1#tabulka_pohlavi) zatím taky není žádný
+        - úpravy vlastností podle pohlaví budeme zřejmě řešit podobně, jako u rasy, tedy **dobrovolným** přívlastkem ve smyslu `Běžná žena, -1 k Síle, +1 k Citu`
 
 Co nám zbývá a co ještě nemáme pořádně rozmyšlené jsou
 
 - škrábance a dočasná únava
-    - první řádek zranění a první řádek únavy chceme změnit na "spotřební", kdy se budou obnovovat mnohem rychleji, než další řádky za tou hranicí, kdy mnozí z nás už raději couvnou, jelikož pocítí osten skutečné bolesti
+    - první řádek [zranění](https://pph.drdplus.info/?trial=1#zapis_bodu_zraneni_mrizka_zraneni) a první řádek [únavy](https://pph.drdplus.info/?trial=1#body_unavy_a_mrizka_unavy) chceme změnit na "spotřební", kdy se budou obnovovat mnohem rychleji, než další řádky
+        - jinak řečeno zranění a únava do prvního postihu, což je pro mnohé z nás ta hranice, kdy už raději couvneme, jelikož pocítíme osten skutečné bolesti
 - hod proti pastem
-    - už při hraní podle původních pravidel jsme většinu pastí dělili na čtyři stupně s hranicemi `5 ~ 10 ~ 15` po vzoru [postihu za zranění](http://pph.drdplus.loc/#postih_za_zraneni) a teď plánujeme něco podobného s hranicemi `6 ~ 12 ~ 18` 
+    - už při hraní podle původních pravidel jsme většinu pastí dělili na čtyři stupně s hranicemi `5 ~ 10 ~ 15` po vzoru [postihu za zranění](https://pph.drdplus.info/?trial=1#postih_za_zraneni) a teď plánujeme něco podobného, jen s hranicemi `6 ~ 12 ~ 18` 
         - ano, má to návaznost na vlastnosti [začínajícími na šestce](2018-10-22-nula.md#Šestka)
 
 ## Zachovejte paniku
-> Cože? A co kouzla a dovednosti a vybavení a zázemí a... a... a vůbec!
+> Cože? A co kouzla a dovednosti a vybavení a... a zázemí a... a... a vůbec!
 
-Zatím ne, zatím to nejde. Zkoušeli jsme to, hledali jsme cestu, jak současná pravidla zjednodušovat a zpřehledňovat postupně, ale to se nám nepodařilo, takže teď hledáme novou cestu, na které budeme části původních pravidel nacházet, oprašovat a jednu po druhé zkoušet zasazovat na tvrdé, nové jádro pidi pravidel. Všeho dočasu.
-Nejdříve se musíme ujistit, že pidi jádro nových pravidel drží a taky chceme zjistit, co všechno už dokáže při skutečném hraní pokrýt. 
+Zatím ne, zatím to nejde. Zkoušeli jsme to, hledali jsme cestu, jak současná pravidla zjednodušovat a zpřehledňovat postupně, ale to se nám nepodařilo, takže teď hledáme **novou** cestu, na které budeme **části** původních pravidel oprašovat a jednu po druhé zkoušet zasazovat na tvrdé, nové jádro pidi pravidel. Všeho dočasu.
+Nejdříve se musíme ujistit, že pidi jádro nových pravidel drží a taky chceme zjistit, co všechno už s ním dokážeme při skutečném hraní pokrýt. 
 
 ## Závěrem
 Nemáme rádi víno vyrobené [řízeným kvašením](TODO), ani chleba bez kvásku, cena za urychlení je pro nás prostě příliš vysoká.
 
 Proto jsme se zastavili v běhu, zpomalili a zjistili, že potřebujeme pidi jádro pravidel, které bude stabilní a pokryje přirozenou cestou co nejvíce herních situací.
 
-Pro takové jádro chceme použít pouze člověka jako nejprůměrnější rasu, úroveň nula a tím žádná povolání, vlastnosti začínající na šesti, hod proti pastem s doporučenou jednou škálou a dočasnou únavu a malá zranění
+Pro takové jádro chceme použít pouze *člověka* jako nejprůměrnější rasu, *úroveň nula* a tím pádem zatím žádná povolání, k tomu *vlastnosti začínající na šesti*, *hod proti pastem* s doporučenou jednou škálou a jako poslední část *dočasnou únavu* a škrábance, tedy tak malou únavu a tak malá zranění, že to skoro nestojí za řeč, ovšem pokud nebudeme dbát jejich varovné bolesti, přijde už únava i zranění pořádná.
+
+Držte palce, srážka s realitou se blíží, krleš!
 
 ---
 
