@@ -14,14 +14,14 @@ Ta myšlenka chtěla svůj čas ⏳
 - [pracovní skupinu na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936#p532749) jsme založili 1. 5. 2018, kdy už nám bylo jasné, že to chce nejen novinky, ale i **změny** v jádře pravidel
 - [naše Trello](https://trello.com/b/L64FNYj3/drdplusinfo) jsme začali zasypávat nápady a úkoly jen o pár dní později, 17. 5. 2018, kdy se nám rozšířilo vědomí a bylo jasné, že s hlavou zaraženou v písku DrD+ toho moc neobjevíme a že by to chtělo se mrknout, jak jsou řešena [jiná slovní RPG](https://rpgforum.cz/anotace)
 
-Ale teprve v listopadu 2018 se našich hlavách uklidnila fujavice a klesl prach, zvýřený záplavou nápadů a pocitů, které se v nás uvolnily po zpřetrhání řetězu, kterým jsme byli připoutání ke starým, *nedotknutelným* pravidlům a my jsme konečně mohli s klidem na duši prohlásit, že se ve zmatku původní mlhoviny myšlenek začala tvořit nová hvězda, zatím drobounká a sotva viditelná, ale už se schopností držet volné myšlenky ve své přitažlivosti a ve správnou chvíli tu kterou ideu přijmout.
+Ale teprve v listopadu 2018 se našich hlavách uklidnila fujavice a klesl prach, zvířený záplavou nápadů a pocitů, které se v nás uvolnily po zpřetrhání řetězu, kterým jsme byli připoutání ke starým, *nedotknutelným* pravidlům a my jsme konečně mohli s klidem na duši prohlásit, že se ve zmatku původní mlhoviny myšlenek začala tvořit nová hvězda, zatím drobounká a sotva viditelná, ale už se schopností držet volné myšlenky ve své přitažlivosti a ve správnou chvíli tu kterou ideu přijmout.
 
 Od té doby nemyslíme na nic jiného, než na pidi pravidla.
 
 ## Pidi definice
 > Jak velké je ještě malé?
 
-Otázkou do pranice je, co by v těch pidi pravidlech mělo být, aby **už** k něčemu byla a přitom z toho nebylo **hned** dalších [šest příruček pro hráče](2018-12-07-predstavy_minulosti_poslove.md#Poslové).
+Otázkou do pranice je, co by v těch pidi pravidlech mělo být, aby **už** k něčemu byla a přitom z toho nebylo **hned** [šest příruček pro hráče](2018-12-07-predstavy_minulosti_poslove.md#Poslové).
 
 Připomeneme si nejdříve jedno z našich hesel a pak si dáme špetku teorie, která je vlastně v každém z nás, jen máme její jednotlivé části v jiném poměru.
 
@@ -29,18 +29,18 @@ Připomeneme si nejdříve jedno z našich hesel a pak si dáme špetku teorie, 
 
 > Dobré pravidlo směr ukazuje, špatné zakazuje
 
-Ono to zní vzletně a krásně, ale má to svá ale, protože, jak bylo i [původním tvůrcům známo](2019-03-15-predstavy_minulosti_myty.md#Odkaz_dračích_tvůrců), *každý z nás je jiný*, což nám dává úžasnou rozmanitost a zároveň přidává spoustu **komplikací**.
+Ono to zní vzletně a krásně, ale má to svá *ale*, protože, jak bylo i [původním tvůrcům známo](2019-03-15-predstavy_minulosti_myty.md#Odkaz_dračích_tvůrců), *každý z nás je jiný*, což nám dává úžasnou rozmanitost a zároveň přidává spoustu **komplikací**.
 
-Z našeho hraní známe [TODO typy viz facebook](), do toho jsou někteří šmrncnutí cifršpionem, který nedovolí číselnou úlitbu, či snad dokonce vynechání(!) výpočtu, protože pravidla jsou svatá, další by nejradši dělal všechno, co v pravidlech není, mnohdy až ostatním na truc a teď babo raď, co s tím.
+Z našeho hraní známe [TODO typy viz facebook](), do toho jsou někteří šmrncnutí cifršpionem, který nedovolí číselnou úlitbu, zaokrouhlení, či snad dokonce vynechání(!) výpočtu, protože pravidla jsou svatá, další by nejradši dělal všechno, co v pravidlech není, mnohdy až ostatním na truc a teď babo raď, co s tím.
 
 #### Vyladěná anarchie
-Když strčíme hlavu do vesmíru a zařveme, *"Potřebujeme vůbec pravidla?!"*, tak nejdříve nic neuslyšíme, protože ve vakuu na nás zvuk kašle, ale když chvíli počkáme a budeme tvrdit, že hlasy v naší hlavě nejsou z nedostatku kyslíku, tak ušlyšíme hráče všude po světě, jak hulákají jeden přes druhého *"AnoNéAnóóŃééééAnéééAjóóFůůj"* a aby to zmatku nebylo málo, tak po krátké analýze hlasu zjistíme, že někteří dokonce po chvíli odporují **sami sobě**.
-On je to totiž normální vývoj, prostě něco strašně chceme, pak to dostaneme, předávkujeme se tím a pak na to máme chvíli alergii, než se naše potřeba srovná na takové to *akorát*.
+Když strčíme hlavu do vesmíru a zařveme, *"Potřebujeme vůbec pravidla?!"*, tak nejdříve neuslyšíme nic, protože ve vakuu na nás zvuk kašle, ale když chvíli počkáme a budeme tvrdit, že hlasy v naší hlavě nejsou z nedostatku kyslíku, tak uslyšíme hráče všude po světě, jak hulákají jeden přes druhého *"AnoNéAnóóNééééAnéééAjóóAfůůj"* a aby toho zmatku nebylo málo, tak po krátké analýze hlasu zjistíme, že někteří dokonce po chvíli odporují **sami sobě**.
+On je to totiž normální vývoj, prostě něco strašně chceme, pak to konečně dostaneme, předávkujeme se tím a pak na to máme chvíli alergii, než se naše potřeba srovná na takové to *akorát*.
 
-Hrát bez pravidel je krásné, ale ještě jsme nepotkali borce, kterým by to vydrželo delší dobu. Je to jako [divadlo bez scénáře](TODO vizita asi odkaz na recenzi), které dokáže stejně tak překvapit, jako přehrabovat hlušinu. Zkusili jsme si to, líbilo se nám to, ale je to tak křehké, tak závislé na souznění jednotlivých hráčů, že na to budeme už asi jen vzpomínat.
+Hrát bez pravidel je krásné, ale ještě jsme nepotkali borce, kterým by to vydrželo delší dobu. Je to jako [divadlo bez scénáře](TODO vizita asi odkaz na recenzi), které dokáže někdy překvapit, jindy jen přehrabuje hlušinu. Zkusili jsme si to, líbilo se nám to, ale je to tak křehké, tak závislé na souznění jednotlivých hráčů, že na to budeme už asi jen vzpomínat.
 
 #### Mapa na kapesníku
-Nad pravidly se dohadujeme, protože pravidla existují a když neexisutjí, tak se dohadujeme úplně stejně, protože si snažíme nějaká vymyslet. Abychom ten kolotoč aspoň zpomalili, když už ho nedokážeme zastavit, tak *TODO řešení budou malá, ale mnohé obsahující pravidla*.
+Nad pravidly se dohadujeme, protože pravidla existují a když neexistují, tak se dohadujeme úplně stejně, protože si snažíme nějaká vymyslet. Abychom ten kolotoč aspoň zpomalili, když už ho nedokážeme zastavit, tak *TODO řešení budou malá, ale mnohé obsahující pravidla*.
 
 My pravidla považujeme za mapu, která nám radí, kudy *můžeme* jít, ale do ničeho nás nenutí. Když budeme mít chuť zajít do lesa, chceme se mrknout do mapy, kde je nějaký hájek poblíž, když se ztratíme, chceme se mrknout do mapy, kudy dál, ale nechceme dálnici, ze které jde sjet až za patnáct kilometrů a na záchod můžeme jen na benzínce o dva kilometry blíže.
 
@@ -78,10 +78,10 @@ Co nám zbývá a co ještě nemáme pořádně rozmyšlené jsou
         - ano, má to návaznost na vlastnosti [začínajícími na šestce](2018-10-22-nula.md#Šestka)
 
 ## Zachovejte paniku
-> Cože? A co kouzla a dovednosti a vybavevní a zázemí a... a... a vůbec!
+> Cože? A co kouzla a dovednosti a vybavení a zázemí a... a... a vůbec!
 
 Zatím ne, zatím to nejde. Zkoušeli jsme to, hledali jsme cestu, jak současná pravidla zjednodušovat a zpřehledňovat postupně, ale to se nám nepodařilo, takže teď hledáme novou cestu, na které budeme části původních pravidel nacházet, oprašovat a jednu po druhé zkoušet zasazovat na tvrdé, nové jádro pidi pravidel. Všeho dočasu.
-Nejdříve se musíme ujistit, že pidi jádro nových pravidel drží a taky chceme zjistit, co všecho už dokáže při skutečném hraní pokrýt. 
+Nejdříve se musíme ujistit, že pidi jádro nových pravidel drží a taky chceme zjistit, co všechno už dokáže při skutečném hraní pokrýt. 
 
 ## Závěrem
 Nemáme rádi víno vyrobené [řízeným kvašením](TODO), ani chleba bez kvásku, cena za urychlení je pro nás prostě příliš vysoká.
