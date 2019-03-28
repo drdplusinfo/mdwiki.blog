@@ -88,11 +88,11 @@ Zatím ne, zatím to nejde. Zkoušeli jsme to, hledali jsme cestu, jak současn�
 Nejdříve se musíme ujistit, že pidi jádro nových pravidel drží a taky chceme zjistit, co všechno už s ním dokážeme při skutečném hraní pokrýt. 
 
 ## Závěrem
-Nemáme rádi víno vyrobené [řízeným kvašením](TODO), ani chleba bez kvásku, cena za urychlení je pro nás prostě příliš vysoká.
+Když je cíl moc velký, je potřeba dělat ústupky a kompromisy, aby byl vůbec dosažitelný. Jenže my kompromisy neradi.
 
-Proto jsme se zastavili v běhu, zpomalili a zjistili, že potřebujeme pidi jádro pravidel, které bude stabilní a pokryje přirozenou cestou co nejvíce herních situací.
+Proto jsme se zastavili v běhu, zpomalili a uvědomili si, že potřebujeme pidi jádro pravidel, které bude stabilní a pokryje **přirozenou** cestou co **nejvíce** herních situací.
 
-Pro takové jádro chceme použít pouze *člověka* jako nejprůměrnější rasu, *úroveň nula* a tím pádem zatím žádná povolání, k tomu *vlastnosti začínající na šesti*, *hod proti pastem* s doporučenou jednou škálou a jako poslední část *dočasnou únavu* a škrábance, tedy tak malou únavu a tak malá zranění, že to skoro nestojí za řeč, ovšem pokud nebudeme dbát jejich varovné bolesti, přijde už únava i zranění pořádná.
+Pro takové jádro chceme použít pouze *člověka* jako nejprůměrnější rasu, *úroveň nula* a tím pádem zatím žádná povolání, k tomu *vlastnosti začínající na šesti*, *hod proti pastem* s doporučenou jednou škálou nebezpečnosti a jako poslední část *dočasnou únavu* a *drobná zranění*, tedy tak malou únavu a tak malá zranění, že to skoro nestojí za řeč, ovšem pokud nebudeme dbát jejich varovné bolesti, přijde už únava i zranění pořádná.
 
 Držte palce, srážka s realitou se blíží, krleš!
 
