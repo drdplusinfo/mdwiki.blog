@@ -10,7 +10,7 @@ Ta myšlenka chtěla svůj čas ⏳
 
 - první kousek pravidel jsme do kódu začali přenášet 26. 1. 2014, kdy nás zatím ani **nenapadlo** něco v pravidlech měnit
 - doménu [drdplus.info](https://www.drdplus.info) jsme zaregistrovali 3. 4. 2017, kdy už jsme podvědomě **tušili**, že internetová podoba pravidel nám pomůže s případným rychlým zveřejňováním novinek
-- základy tohoto blogu jsme položili o půl roku později 18. 11. 2017, kdy už jsme si bokem psali některé **nové** nápady
+- základy *tohoto* blogu jsme položili o půl roku později 18. 11. 2017, kdy už jsme si bokem psali některé **nové** nápady
 - [pracovní skupinu na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936#p532749) jsme založili 1. 5. 2018, kdy už nám bylo jasné, že to chce nejen novinky, ale i **změny** v jádře pravidel
 - [naše Trello](https://trello.com/b/L64FNYj3/drdplusinfo) jsme začali zasypávat nápady a úkoly jen o pár dní později, 17. 5. 2018, kdy se nám rozšířilo vědomí a bylo jasné, že s hlavou zaraženou v písku DrD+ toho moc neobjevíme a že by to chtělo se mrknout, jak jsou řešena [jiná slovní RPG](https://rpgforum.cz/anotace)
 
