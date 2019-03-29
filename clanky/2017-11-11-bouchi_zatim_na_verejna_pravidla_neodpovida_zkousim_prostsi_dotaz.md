@@ -8,7 +8,7 @@ Bouchi [slíbil odpovědět do konce srpna](2017-08-02-ptam_se_bouchiho_z_altaru
 
 > Děkuju! Kostřivec
 
-> PS: dokončuji PHP [knihovnu na Ničení](https://github.com/jaroslavtyc/drd-plus-destruction) (hodně mi takový postup pomáhá plně pochopit mechanismus pravidel), kterou použiji na další nástroj pro hráče. Souběžně s tím začínám převádět do HTML [bestiář](https://bestiar.drdplus.info/?version=1.0&trial=1) a chodím za kamarády s notýskem a dotazy, jak přeskládat jádro pravidel DrD+ tak, aby se snížila administrativa a zůstal zážitek z DrD+
+> PS: dokončuji PHP [knihovnu na Ničení](https://github.com/jaroslavtyc/drd-plus-destruction) (hodně mi takový postup pomáhá plně pochopit mechanismus pravidel), kterou použiji na další nástroj pro hráče. Souběžně s tím začínám převádět do HTML [bestiář](https://bestiar.drdplus.info/?trial=1) a chodím za kamarády s notýskem a dotazy, jak přeskládat jádro pravidel DrD+ tak, aby se snížila administrativa a zůstal zážitek z DrD+
 
 ---
 

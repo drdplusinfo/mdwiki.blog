@@ -55,14 +55,14 @@ Prostě a jasně – žádná postava v DrD+ nebude nějaký prefabrikát, ale n
 
 ## Závěrem
 
-Nevíme, kde je Alaonovi konec, v pravidlech zůstal už jen chudák Hrun, od začátku odsouzen ke smrti v osamění, který v pravidlech uniká nikoli třem skřetům, ale třem trpaslíkům, leč [není mu zhůry dáno](https://pph.drdplus.info/?version=1.0&trial=1#akce).
-Navíc Hrun zaplatil životem za akci bez přípravy, kdežto v historickém článku přežil při hodu na kvalitu. Přiznáváme se, že dodnes máme v rozdílech mezi [Hodem na úspěch](https://pph.drdplus.info/?version=1.0&trial=1#zakladni_hod_na_uspech) a [Hodem na kvalitu](https://pph.drdplus.info/?version=1.0&trial=1#hod_na_kvalitu) kapánek chaos.
+Nevíme, kde je Alaonovi konec, v pravidlech zůstal už jen chudák Hrun, od začátku odsouzen ke smrti v osamění, který v pravidlech uniká nikoli třem skřetům, ale třem trpaslíkům, leč [není mu zhůry dáno](https://pph.drdplus.info/?trial=1#akce).
+Navíc Hrun zaplatil životem za akci bez přípravy, kdežto v historickém článku přežil při hodu na kvalitu. Přiznáváme se, že dodnes máme v rozdílech mezi [Hodem na úspěch](https://pph.drdplus.info/?trial=1#zakladni_hod_na_uspech) a [Hodem na kvalitu](https://pph.drdplus.info/?trial=1#hod_na_kvalitu) kapánek chaos.
 
 ### Hoď si to
 > Hodu na kvalitu se používá tehdy, pokud nás zajímá více, než jen to, zda se činnost zdařila nebo nezdařila – zajímá nás, jak kvalitní je její výsledek.
 
-Jádro pudla je ve výše [citované větě](https://pph.drdplus.info/?version=1.0&trial=1#hod_na_kvalitu), která trochu skrytě říká, že pokud chceme nějaké číslo, třeba kolik metrů skočíme, tak si máme hodit *na kvalitu*, což je 1k6. Jestli nás ale zajímá pouze to, zda jsme přeskočili, tak nám stačí hod *na úspěch*. Jak prostě to zní, jak velký bolehlav my z toho máme...
-Kdybychom chtěli skočit přes propast širokou tři metry, chtělo by to hodit na kvalitu skoku (takže asi na *Rychlost*) [alespoň deset](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_vzdalenosti), což je dost - pokud hodím na šestistěnce krásných šest, musím mít *Rychlost* svého svalnatého, ztepilého, pružného těla alespoň čtyři, jinak se k té desítce nedohrabu. Ale když hážu na to, zda jsem prostě přeskočil či nepřeskočil, tedy hod *na úspěch*, tak mi stačí místo jedné šestky hodit dvě trojky, jelikož *na úspěch* se háže 2k6+ (tedy pokud jsem stále onen junák s *Rychlostí* 4).
+Jádro pudla je ve výše [citované větě](https://pph.drdplus.info/?trial=1#hod_na_kvalitu), která trochu skrytě říká, že pokud chceme nějaké číslo, třeba kolik metrů skočíme, tak si máme hodit *na kvalitu*, což je 1k6. Jestli nás ale zajímá pouze to, zda jsme přeskočili, tak nám stačí hod *na úspěch*. Jak prostě to zní, jak velký bolehlav my z toho máme...
+Kdybychom chtěli skočit přes propast širokou tři metry, chtělo by to hodit na kvalitu skoku (takže asi na *Rychlost*) [alespoň deset](https://pph.drdplus.info/?trial=1#tabulka_vzdalenosti), což je dost - pokud hodím na šestistěnce krásných šest, musím mít *Rychlost* svého svalnatého, ztepilého, pružného těla alespoň čtyři, jinak se k té desítce nedohrabu. Ale když hážu na to, zda jsem prostě přeskočil či nepřeskočil, tedy hod *na úspěch*, tak mi stačí místo jedné šestky hodit dvě trojky, jelikož *na úspěch* se háže 2k6+ (tedy pokud jsem stále onen junák s *Rychlostí* 4).
 Jinak řečeno
 
 - past, proti které hážu, má úplně jiná pravidla, než výsledek, kterého chci dosáhnout
@@ -73,7 +73,7 @@ Došli jsme tam k tomu, že u 2k6 je jeden hod kostkou snaha a ten druhý hod je
 ### Nech sa páči
 > Pak vytáhl druhou dýku a snažil se vypáčit zámek
 
-Že by čaroděj uměl házet dýky, to by ještě [šlo](https://pph.drdplus.info/?version=1.0&trial=1#boj_s_vrhacimi_zbranemi), s tím páčením už je to krapet horší. Jasně, zkusit to může, ale vám to nepřipadá jako reklama na čaroděje, co leze do zelí zlodějovi? Není to celé lákadlo na čaroděje, co se bude umět ohánět dýkou líp, než holič břitvou?
+Že by čaroděj uměl házet dýky, to by ještě [šlo](https://pph.drdplus.info/?trial=1#boj_s_vrhacimi_zbranemi), s tím páčením už je to krapet horší. Jasně, zkusit to může, ale vám to nepřipadá jako reklama na čaroděje, co leze do zelí zlodějovi? Není to celé lákadlo na čaroděje, co se bude umět ohánět dýkou líp, než holič břitvou?
 > bojovník může trénovat plížení
 
 A plíživý bojovník reklamu na společné schopnosti (minimálně ty zlodějské), jen podtrhuje.

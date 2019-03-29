@@ -4,7 +4,7 @@
 
 > Kdybychom za krásné považovali jen krásné, byl by svět krásnější
 
-Původně tento text vznikal jako součást návrhu na **oživení** všech [Odvozených vlastností](https://pph.drdplus.info/?version=1.0&trial=1#odvozene_vlastnosti), které už [měly na kahánku](2018-09-03-velkej_fanousek.md#Dovednosti), ale původní text nám postupně přerostl v tak velkou hromadu myšlenek, až jsme řekli *dost!* a *Krásu* vyčlenili sem. A i tak je toho dost.
+Původně tento text vznikal jako součást návrhu na **oživení** všech [Odvozených vlastností](https://pph.drdplus.info/?trial=1#odvozene_vlastnosti), které už [měly na kahánku](2018-09-03-velkej_fanousek.md#Dovednosti), ale původní text nám postupně přerostl v tak velkou hromadu myšlenek, až jsme řekli *dost!* a *Krásu* vyčlenili sem. A i tak je toho dost.
 
 A teď vzhůru za záchranou *Krásy*!
 
@@ -12,7 +12,7 @@ A teď vzhůru za záchranou *Krásy*!
 
 Krása má mnoho podob, ta nejviditelnější je nehybný vzhled, další je pak v ladnosti pohybu, další v jasnosti hlasu, další v chemii mezi dvěma bytostmi a určitě by se ještě něco našlo. Popravdě, krása je dobrý kandidát na **vyškrtnutí** z číselných pravidel, protože je zatraceně komplexní a pro každého spočívá v něčem jiném, ale jak jsme si už řekli, [chlapi čísla milujou](2018-10-31-cit_pro_charisma.md#Užitek_citu) a určitě se najde hráč, který by se rád opájel krásou svého *numera*.
 
-Stojí nám takový užitek *Krásy* za to [počítání](https://pph.drdplus.info/?version=1.0&trial=1#vypocet_krasy)?
+Stojí nám takový užitek *Krásy* za to [počítání](https://pph.drdplus.info/?trial=1#vypocet_krasy)?
 
 Nejdříve se podíváme, z čeho se *Krása* zjišťovala původně
 
@@ -53,7 +53,7 @@ Dejme teď šanci té aktivní složce.
 
 ### Aktivní krása
 
-Aktivní složkou *Krásy* je plejáda činností, kterými zapůsobíš na své okolí, ať už ladným pohybem vycházejícím z tvé *Zručnosti*, vtipnými poznámkami a postřehem při rozhovoru s využitím tvé *Inteligence* a *Citu*, tedy *Charisma* a mnoha triky od [*Svádění*](https://pph.drdplus.info/?version=1.0&trial=1#svadeni), přes [drahý a ještě dražší vzhled](https://ppj.drdplus.info/?version=1.0&trial=1#cenik_obleceni) až po [aristokratické vystupování](https://pph.drdplus.info/?version=1.0&trial=1#puvod). Je toho tolik, že šanci na rozmotání takového klubka vidíme leda v *Dovednostech*, které by jako jeden ze svých efektů měly vliv na *Krásu*. Ale stojí to za to?
+Aktivní složkou *Krásy* je plejáda činností, kterými zapůsobíš na své okolí, ať už ladným pohybem vycházejícím z tvé *Zručnosti*, vtipnými poznámkami a postřehem při rozhovoru s využitím tvé *Inteligence* a *Citu*, tedy *Charisma* a mnoha triky od [*Svádění*](https://pph.drdplus.info/?trial=1#svadeni), přes [drahý a ještě dražší vzhled](https://ppj.drdplus.info/?trial=1#cenik_obleceni) až po [aristokratické vystupování](https://pph.drdplus.info/?trial=1#puvod). Je toho tolik, že šanci na rozmotání takového klubka vidíme leda v *Dovednostech*, které by jako jeden ze svých efektů měly vliv na *Krásu*. Ale stojí to za to?
 
 *Pšššt! Přemýšlíme...*
 
@@ -69,7 +69,7 @@ Tímto opouštíme nejisté vody *Krásy* a dáváme si za úkol popsat v pravid
 
 ## Závěrem
 
-*Krásu* jako [Odvozenou vlastnost](https://pph.drdplus.info/?version=1.0&trial=1#odvozene_vlastnosti) se nám nepodařilo oživit, už proto, že většinu situací za ni vyřeší *Charisma*. *Krásu* proto odsouváme na neurčito a je dost možné, že v pravidlech ji pouze popíšeme, přidáme příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [číselně nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
+*Krásu* jako [Odvozenou vlastnost](https://pph.drdplus.info/?trial=1#odvozene_vlastnosti) se nám nepodařilo oživit, už proto, že většinu situací za ni vyřeší *Charisma*. *Krásu* proto odsouváme na neurčito a je dost možné, že v pravidlech ji pouze popíšeme, přidáme příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [číselně nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
 
 ---
 

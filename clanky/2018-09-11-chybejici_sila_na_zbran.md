@@ -2,7 +2,7 @@
 
 *11. 9. 2018*
 
-V původních pravidlech je u každé zbraně uvedena [potřebná Síla](https://pph.drdplus.info/?version=1.0&trial=1#potrebna_sila_zbrane_pro_boj_zblizka) a za každý chybějící bod *Síly* přichází [postih](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_postihu_ke_zbrani_za_chybejici_silu).
+V původních pravidlech je u každé zbraně uvedena [potřebná Síla](https://pph.drdplus.info/?trial=1#potrebna_sila_zbrane_pro_boj_zblizka) a za každý chybějící bod *Síly* přichází [postih](https://pph.drdplus.info/?trial=1#tabulka_postihu_ke_zbrani_za_chybejici_silu).
 
 ## K čemu to je
 > Má potřebná síla zbraně nějaký smysl?
@@ -14,7 +14,7 @@ Odpověď zní *samozřejmě ano*, vždyť tohle je Dračí doupě plus, ve kter
 
 > Mají **původní** postihy za chybějící sílu vlastně smysl?
 
-Druhá otázka je, jestli původní [Tabulka postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_postihu_za_chybejici_silu) dává vyčerpávající přehled postihů.
+Druhá otázka je, jestli původní [Tabulka postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?trial=1#tabulka_postihu_za_chybejici_silu) dává vyčerpávající přehled postihů.
 No, mě teda vyčerpává určitě. Sice to na první pohled vypadá krásně...
 
 - nejdříve se snižuje *Boj* (šance že něco stihnu)
@@ -37,7 +37,7 @@ Tak jsem napsal [kalkulátor boje](https://boj.drdplus.info), který sice funguj
 
 A proto jsem se pustil do úprav DrD+, protože hrát ho pořád chceme, ale těch nejistot, zmatení a otazníků je v původní verzi moc a pokud mají pravidla přežít, tak je musíme **zjednodušit**.
 
-A co s [Tabulkou postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_postihu_za_chybejici_silu)? Potřebujeme ji vůbec?
+A co s [Tabulkou postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?trial=1#tabulka_postihu_za_chybejici_silu)? Potřebujeme ji vůbec?
 
 Tabulka popisuje myšlenku, že když na něco nemám dost síly, tak mě to bude negativně ovlivňovat v každé činnosti trochu **jinak** a ať o tom přemýšlíme jak o tom přemýšlíme, tak vlastně nevíme proč.
 
@@ -66,7 +66,7 @@ Když už se naskytne možnost protivníka ohrozit, dojde na lámání chleba a 
 
 Podobně je na tom *Obrana*, kde rychlost zbraně, která má zablokovat soupeřův násilný čin, je životně důležitá.
 
-Ovšem se *Silou zranění* se dostáváme na tenký led, protože chceme změnit původní *"je jedno jak dobře jsi zasáhl, teď si hoď úplně znova na zranění"* (tedy až na původní [zásah do hlavy](https://pph.drdplus.info/?version=1.0&trial=1#zasah_do_hlavy)) a místo toho chceme, aby měla *Síla útoku* přímý vliv na zranění.
+Ovšem se *Silou zranění* se dostáváme na tenký led, protože chceme změnit původní *"je jedno jak dobře jsi zasáhl, teď si hoď úplně znova na zranění"* (tedy až na původní [zásah do hlavy](https://pph.drdplus.info/?trial=1#zasah_do_hlavy)) a místo toho chceme, aby měla *Síla útoku* přímý vliv na zranění.
 Takže postih za chybějící *Sílu* už je po našich úpravách vlastně započítaný v postihu k *Útoku*.
 
 Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md#Přesouvání_bodů_Boje) si všechno ostatní přes *Boj* už zařídíš, nebezpečnější *Útok*, lepší *Obranu*, větší *Zranění*, takže?
@@ -94,7 +94,7 @@ Proto ***Boj* nebude ovlivněn chybějící *Silou***, fajn.
 - postih za chybějící *Sílu* k *Útoku* a tím ke zranění
     - protože chceme, aby *Útok* ovlivňoval *Zranění*
 - postih za chybějící *Sílu* přímo ke zranění
-- obecně [započítání *Síly* do zranění](https://pph.drdplus.info/?version=1.0&trial=1#vypocet_zakladu_zraneni)
+- obecně [započítání *Síly* do zranění](https://pph.drdplus.info/?trial=1#vypocet_zakladu_zraneni)
 
 Proto chceme zrušit postih ke *Zranění* za chybějící *Sílu* pro zbraň.
 

@@ -59,6 +59,33 @@ class ExternalLinksTest extends BlogTestCase
     /**
      * @test
      */
+    public function Links_to_rules_does_not_set_deprecated_version(): void
+    {
+        $linksToRules = [];
+        $regexpWithNonVersionedLinks = '~https://(?:' . \implode('|', $this->pregQuoteAll($this->getNonProtectedSubDomains(), '~')) . ')[.]drdplus[.]info~';
+        foreach ($this->getExternalLinks() as $link) {
+            if (\strpos($link, '.drdplus.info') && !\preg_match('~[.]drdplus[.]info/(?:images|css|js)/~', $link) && !\preg_match($regexpWithNonVersionedLinks, $link)) {
+                $linksToRules[] = $link;
+            }
+        }
+        self::assertNotEmpty($linksToRules, 'No links to rules have been found');
+        $linksWithVersionSet = \array_filter(
+            $linksToRules,
+            static function (string $linkToRules) {
+                return \preg_match('~([?]|&)version=~', $linkToRules);
+            }
+        );
+
+        self::assertEmpty(
+            $linksWithVersionSet,
+            "Setting version in a link to rules is deprecated\n"
+            . \implode("\n", $linksWithVersionSet)
+        );
+    }
+
+    /**
+     * @test
+     */
     public function Links_to_private_rules_passes_by_trial(): void
     {
         $linksToProtectedRules = [];

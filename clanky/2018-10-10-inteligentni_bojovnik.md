@@ -69,7 +69,7 @@ A co omezení bodů *Boje*, které lze přesouvat? To necháme prostě na šesti
 Vrtá nám hlavou tedy ještě jedna věc, totiž když mi *Inteligence* ovlivňuje počet akcí, které za kolo duševně zvládnu, tak co ovlivňuje počet bodů *Boje*, které mohu mezi akcemi přesunout?
 
 Kdybychom se bavili pouze o těle, tak můžeme říci, že důraz na jednu akci a odfláknutí druhé závisí na naší *Obratnosti*. Jenže, *trochu větší důraz* a *trochu menší důraz*... není to spíš o citu než o mrštnosti? Že by *Zručnost*? Nebo rovnou *Smysly*?
-Kdyby to byly *Smysly*, co nám umožňují citlivě rozprostřít energii mezi jednotlivé akce, tak jak **chceme**, tak bychom museli taky říct, které z mnoha smyslů to jsou. Sluch? Zrak? Hmat? Všechny dohromady? A nejsou náhodou všechny dohromady *Zručnost*? No, není, všechny dohromady jsou právě *Smysly*, v nichž například [některá povolání excelují](https://zlodej.drdplus.info/?version=1.0&trial=1#zdokonalene_smysly), zručnost nezručnost...
+Kdyby to byly *Smysly*, co nám umožňují citlivě rozprostřít energii mezi jednotlivé akce, tak jak **chceme**, tak bychom museli taky říct, které z mnoha smyslů to jsou. Sluch? Zrak? Hmat? Všechny dohromady? A nejsou náhodou všechny dohromady *Zručnost*? No, není, všechny dohromady jsou právě *Smysly*, v nichž například [některá povolání excelují](https://zlodej.drdplus.info/?trial=1#zdokonalene_smysly), zručnost nezručnost...
 Počet bodů *Boje*, které můžeš přesouvat mezi akcemi, by tedy **mohly** ovlivňovat *Smysly*.
 
 Ovšem jen o těle se se nebavíme, když jsme přijali *Inteligenci* jako ukazatel počtu akcí, které zvládnu provést. Pokud mám dostatek tělesné *Zručnosti* na jemné nuance mezi akcemi, tak bych měl mít i dostatek duševní *Zručnosti*, abych ty odlišné důrazy na jednotlivé akce zvládl promyslet, nebo alespoň instinktivně odhadnout.
@@ -121,7 +121,7 @@ Tímto povyšujeme *Smysly* nejen na cit v prstech, citlivost uší, vnímání 
     - pokud nemáš *Smysly* kladné, nemůžeš mezi akcemi body *Boje* přesouvat
     - za každý bod *Boje*, který použiješ pro akci navíc, k ní dostaneš bonus +1 a za každý chybějící bod *Boje* budeš mít k akci postih -1
     - možná zavedeme dovednost *Strategie*, která ti pomůže se s nedostatkem *Smyslů* vypořádat a zvýší ti počet bodů *Boje*, které budeš moci mezi akcemi přesouvat
-    - zloděj bude mít v přesouvání bodů *Boje* výhodu díky své dovednosti [*Zdokonalené smysly*](https://zlodej.drdplus.info/?version=1.0&trial=1#zdokonalene_smysly), což zapadá do našeho plánu stvořit z něj oportunistu, tvora, který využije každou maličkost ve svůj prospěch
+    - zloděj bude mít v přesouvání bodů *Boje* výhodu díky své dovednosti [*Zdokonalené smysly*](https://zlodej.drdplus.info/?trial=1#zdokonalene_smysly), což zapadá do našeho plánu stvořit z něj oportunistu, tvora, který využije každou maličkost ve svůj prospěch
 
 To by šlo.
 
