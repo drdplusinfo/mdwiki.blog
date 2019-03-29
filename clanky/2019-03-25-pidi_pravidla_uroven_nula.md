@@ -4,7 +4,7 @@
 
 > Zvládnout jeden velký začátek znamená zvládnout spoustu malých konců
 
-Na podzim loňského roku jsme zjistili, že uzrála dřívější mlhavá *myšlenka s minimálními pravidly*, jejíž zárodek vychází z [bolehlavu](2019-03-12-ucime_se_z_chyb.md#Jak_dál) pravidel současných a kterýžto zárodek byl vydatně zaléván více či méně příjemnými [debatami na RPG fóru](TODO).
+Na podzim loňského roku jsme zjistili, že uzrála dřívější mlhavá *myšlenka s minimálními pravidly*, jejíž zárodek vychází z [bolehlavu](2019-03-12-ucime_se_z_chyb.md#Jak_dál) pravidel současných a kterýžto zárodek byl vydatně zaléván více či méně příjemnými [debatami na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032&p=544811&hilit=dv%C4%9B+strany#p544811).
 
 Ta myšlenka chtěla svůj čas ⏳
 
@@ -31,13 +31,13 @@ Připomeneme si nejdříve jedno z našich hesel a pak si dáme špetku teorie, 
 
 Ono to zní vzletně a krásně, ale má to svá *ale*, protože, jak bylo i [původním tvůrcům známo](2019-03-15-predstavy_minulosti_myty.md#Odkaz_dračích_tvůrců), *každý z nás je jiný*, což nám dává úžasnou rozmanitost a zároveň přidává spoustu **komplikací**.
 
-Z našeho hraní známe [TODO typy viz facebook](), do toho jsou někteří šmrncnutí cifršpionem, který nedovolí číselnou úlitbu, zaokrouhlení, či snad dokonce vynechání(!) výpočtu, protože pravidla jsou svatá, další by nejradši dělal všechno, co v pravidlech není, mnohdy až ostatním na truc a teď babo raď, co s tím.
+Z našeho hraní známe [archetypy hráčů od estébáka po Shakespeara](https://www.facebook.com/drdplus.info/posts/524802168031558), do toho jsou někteří šmrncnutí cifršpionem, který nedovolí číselnou úlitbu, zaokrouhlení, či snad dokonce vynechání(!) výpočtu, protože pravidla jsou svatá, další by nejradši dělal všechno, co v pravidlech není, mnohdy až ostatním na truc a teď babo raď, co s tím.
 
 #### Vyladěná anarchie
 Když strčíme hlavu do vesmíru a zařveme, *"Potřebujeme vůbec pravidla?!"*, tak nejdříve neuslyšíme nic, protože ve vakuu na nás zvuk kašle, ale když chvíli počkáme a budeme tvrdit, že hlasy v naší hlavě nejsou z nedostatku kyslíku, tak uslyšíme hráče všude po světě, jak hulákají jeden přes druhého *"AnoNéAnóóNééééAnéééAjóóAfůůj"* a aby toho zmatku nebylo málo, tak po krátké analýze hlasu zjistíme, že někteří dokonce po chvíli odporují **sami sobě**.
 On je to totiž normální vývoj, prostě něco strašně chceme, pak to konečně dostaneme, předávkujeme se tím a pak na to máme chvíli alergii, než se naše potřeba srovná na takové to *akorát*.
 
-Hrát bez pravidel je krásné, ale ještě jsme nepotkali borce, kterým by to vydrželo delší dobu. Je to jako [divadlo bez scénáře](TODO vizita asi odkaz na recenzi), které dokáže někdy překvapit, jindy jen přehrabuje hlušinu. Zkusili jsme si to, líbilo se nám to, ale je to tak křehké, tak závislé na souznění jednotlivých hráčů, že na to budeme už asi jen vzpomínat.
+Hrát bez pravidel je krásné, ale ještě jsme nepotkali borce, kterým by to vydrželo delší dobu. Je to jako [divadlo bez scénáře](https://www.i-divadlo.cz/divadlo/divadlo-archa/improvizace-divadla-vizita), které dokáže někdy překvapit, jindy jen přehrabuje hlušinu. Zkusili jsme si to, líbilo se nám to, ale je to tak křehké, tak závislé na souznění jednotlivých hráčů, že na to budeme už asi jen vzpomínat.
 
 #### Mapa na kapesníku
 Nad pravidly se dohadujeme, protože existují, ovšem když pravidla nemáme, tak se dohadujeme úplně **stejně**, protože máme potřebu si nějaká vymyslet, každý po svém, a hned je o čem se dohadovat.
@@ -55,7 +55,7 @@ Za onu startovní pozici, za ten špendlík na mapě, který říká *"už se ne
 ### Začátek
 Před časem jsme objevili [nulové vlastnosti](2018-10-22-nula.md#Závěrem), stav, kdy nedokážeme nic udělat, stav, který má novorozeně. Vlastnosti **začínajícího** dobrodruha jsme tak posunuli z [původní nuly](https://pph.drdplus.info/?trial=1#tabulka_ras) na šest, což je stav náctiletého, utíkajícího v rozkvětu puberty od nudného bezpečí svých rodičů za lepším, dobrodružnějším světem.
 
-Už tehdy jsme věděli, že šestka je začátek zdravého, mladého, profesí zatím nepokřiveného člověka. Co jsme ale nevěděli, byla odpověď na otázku *"co s těmi profesemi?"*, máme se hned vrhat do bonusů k vlastnostem za povolání, když jsme hlavní a vedlejší vlastnosti [zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost)? Máme hned vyřešit odlišnosti jednotlivých ras, když to někteří považují za [svazující](TODO rpg forum)? A máme se okamžitě zabývat rozdíly muže a ženy, kolem kterých byl teprve [humbuk](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032#p539165)?
+Už tehdy jsme věděli, že šestka je začátek zdravého, mladého, profesí zatím nepokřiveného člověka. Co jsme ale nevěděli, byla odpověď na otázku *"co s těmi profesemi?"*, máme se hned vrhat do bonusů k vlastnostem za povolání, když jsme hlavní a vedlejší vlastnosti [zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost)? Máme hned vyřešit odlišnosti jednotlivých ras, když to někteří považují za [svazující](https://rpgforum.cz/forum/viewtopic.php?p=539160#p539160)? A máme se okamžitě zabývat rozdíly muže a ženy, kolem kterých byl teprve [humbuk](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032#p539165)?
 
 Nakonec jsme to rozlouskli a shodli jsme se, že když začátek, tak od nuly, a když od nuly, tak všichni.
 
