@@ -146,3 +146,9 @@ hr {
 blockquote {
     border-left: 5px solid #cbbdaa;
 }
+
+code {
+    white-space: pre-wrap;
+    display: inline-block;
+    padding: 0.2em 0.2em 0;
+}
