@@ -1,6 +1,6 @@
 # Pidi pravidla - *Úroveň nula*
 
-*25. 3. 2019*
+*29. 3. 2019*
 
 > Zvládnout jeden velký začátek znamená zvládnout spoustu malých konců
 
