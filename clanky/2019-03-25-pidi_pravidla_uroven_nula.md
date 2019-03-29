@@ -55,7 +55,7 @@ Za onu startovní pozici, za ten špendlík na mapě, který říká *"už se ne
 ### Začátek
 Před časem jsme objevili [nulové vlastnosti](2018-10-22-nula.md#Závěrem), stav, kdy nedokážeme nic udělat, stav, který má novorozeně. Vlastnosti **začínajícího** dobrodruha jsme tak posunuli z [původní nuly](https://pph.drdplus.info/?trial=1#tabulka_ras) na šest, což je stav náctiletého, utíkajícího v rozkvětu puberty od nudného bezpečí svých rodičů za lepším, dobrodružnějším světem.
 
-Už tehdy jsme věděli, že šestka je začátek zdravého, mladého, profesí zatím nepokřiveného člověka. Co jsme ale nevěděli, byla odpověď na otázku *"co s těmi profesemi?"*, máme se hned vrhat do bonusů k vlastnostem za povolání, když jsme hlavní a vedlejší vlastnosti [zrušili](TODO)? Máme hned vyřešit odlišnosti jednotlivých ras, když to někteří považují za [svazující](TODO rpg forum)? A máme se okamžitě zabývat rozdíly muže a ženy, kolem kterých byl teprve [humbuk](TODO rpg fórum)?
+Už tehdy jsme věděli, že šestka je začátek zdravého, mladého, profesí zatím nepokřiveného člověka. Co jsme ale nevěděli, byla odpověď na otázku *"co s těmi profesemi?"*, máme se hned vrhat do bonusů k vlastnostem za povolání, když jsme hlavní a vedlejší vlastnosti [zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost)? Máme hned vyřešit odlišnosti jednotlivých ras, když to někteří považují za [svazující](TODO rpg forum)? A máme se okamžitě zabývat rozdíly muže a ženy, kolem kterých byl teprve [humbuk](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032#p539165)?
 
 Nakonec jsme to rozlouskli a shodli jsme se, že když začátek, tak od nuly, a když od nuly, tak všichni.
 
