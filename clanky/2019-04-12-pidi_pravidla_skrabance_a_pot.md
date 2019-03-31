@@ -1,12 +1,12 @@
-# Škrábance a pot
+# Pidi pravidla - *Škrábance a pot*
 
-*30. 12. 2018*
+*12. 4. 2019*
 
 > "Nemohu vám slíbit nic než škrábance, krev, dřinu a pot!"
 > "A slzy Vincku, slzy!"
 > "A některým i slzy."
 
-Zjišťování postihů se nám ustálilo na [zaplněných řádcích *Únavy* a *Zranění*](2018-10-22-nula.md#Nekonečný_začátek) a zároveň jsme v *Únavě* našli [platidlo pro odolávání postihům](2018-11-30-unaveny_vul.md#Závěr) a během přemýšlení nad tím vším jsme se několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla, až nám došlo, že žijeme převážně v únavě malé, až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň někteří z nás.
+Zjišťování postihů se nám ustálilo na [zaplněných řádcích *Únavy* a *Zranění*](2018-10-22-nula.md#Nekonečný_začátek) a zároveň jsme v *Únavě* našli [platidlo pro odolávání postihům](2018-11-30-unaveny_vul.md#Závěrem) a během přemýšlení nad tím vším jsme se několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla, až nám došlo, že žijeme převážně v únavě malé, až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň někteří z nás.
 Ignorujme teď ale nářky unavených otců a zamysleme se nad chvilkovou únavou, která nás doprovází životem jako věrné Jojo, pulzující sem a tam, ale stále na blízku.
 
 Vycházíme z prostých zážitků, kdy se kolikrát uženeme jak psi, ale po chvíli funění setřepeme pot a cítíme se tak čerstvě, že můžeme celé to martýrium podstoupit znovu.
@@ -52,7 +52,7 @@ A je to tady, zase ten čas. Mohli bychom tu plácnout něco jako *jeden bod Ún
 
 Co když odpočíváš jenom trochu? Co když odpočíváš v mírném nepohodlí? A co když ve velkém?
 
-Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu)
+Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu)
 
 | Unavuje jako | bod únavy za |
 |-----|----|
@@ -69,4 +69,4 @@ Když jdu, unavím se jedním bodem *Únavy* za hodinu. Když si sednu, abych no
 
 ---
 
-- *předchozí [<< 7. 12. 2018 Představy minulosti - Poslové](2018-12-07-predstavy_minulosti_poslove.md)*
+- *předchozí [<< 29. 3. 2019 Pidi pravidla - Úroveň nula](2019-03-29-pidi_pravidla_uroven_nula.md)*
