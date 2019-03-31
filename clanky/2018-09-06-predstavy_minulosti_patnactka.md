@@ -13,7 +13,7 @@ O jednom ze způsobů, jak se nezamotat do velkých projektů, budu psát někdy
 
 ---
 
-**(23.1.2002)**
+**(23. 1. 2002)**
 
 ## Boží obavy
 

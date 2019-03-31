@@ -23,9 +23,9 @@ Před chvílí jsem si objednal jednu [Neviditelnou knihu](http://neviditelnakni
 
 Jestli chceš [Neviditelnou knihu](http://neviditelnakniha.cz), tak věz, že ani kuře zadarmo nehrabe. Budu po tobě chtít
 
-- alespoň tři kratičké příběhy o setkání s příšerami ze [soukromého Bestiáře Pána jeskyně](https://bestiar.pph.drdplus.info/?version=1.0&trial=1) pro DrD+, pro inspiraci se můžeš podívat třeba na [tohle Setkání](https://bestiar.drdplus.info/?version=1.0&trial=1#setkani_s_hlenem_zelenym) ve větším Bestiáři DrD+
+- alespoň tři kratičké příběhy o setkání s příšerami ze [soukromého Bestiáře Pána jeskyně](https://bestiar.pph.drdplus.info/?trial=1) pro DrD+, pro inspiraci se můžeš podívat třeba na [tohle Setkání](https://bestiar.drdplus.info/?trial=1#setkani_s_hlenem_zelenym) ve větším Bestiáři DrD+
   - hodnotím (a potřebuji) hlavně jiskru nápadu, na které by Pán jeskyně dokázal postavit zápletku pro dobrodružství (pokud například upír někoho kousne na plese, tak z toho PJ moc nápadů nezíská, ale když třeba neduživý mužík žadoní ve zpovědnici o odpuštění, ale farář mu naznačuje, že, jaksi, kostel potřebuje opravit střechu, dveře už dlouho nikdo nepromazal, a schodů do zvonice že se bojí i myši, a že by, jaksi, uvítal nejdříve určitý příspěveček do kasičky, než začnou s oním odpouštěním, načež mužík vybuchne spravedlivým i zoufalým hněvem a z faráře vysaje poslední kapku zkorumpované krve, tak to je jiná)
-- nebo alespoň jednu kresbu [jednorožce](https://bestiar.ppj.drdplus.info/?version=1.0&trial=1#jednorozec), [koně](https://bestiar.ppj.drdplus.info/?version=1.0&trial=1#kun), [lišky](https://bestiar.drdplus.info/?version=1.0&trial=1#liska) či [ďábla](https://bestiar.drdplus.info/?version=1.0&trial=1#dabel)
+- nebo alespoň jednu kresbu [jednorožce](https://bestiar.ppj.drdplus.info/?trial=1#jednorozec), [koně](https://bestiar.ppj.drdplus.info/?trial=1#kun), [lišky](https://bestiar.drdplus.info/?trial=1#liska) či [ďábla](https://bestiar.drdplus.info/?trial=1#dabel)
   - hodnotím hlavně uvěřitelnost a skutečnost, která bude z obrazu dýchat, takže prosím bez karikatur a komiksových prvků
   - formát neřeš, na webové stránky dostaneme cokoli
 
@@ -48,7 +48,7 @@ Kostřivec
 ## Neviditelné výsledky
 
 Jestli soutěž někdo zkusí, pošlu mu knihu s věnováním.
-A jestli bude jeho výtvor dobrý, uvedu ho (pokud bude souhlasit) i jako jednoho z novodobých autorů [DrD+ bestiáře](https://bestiar.drdplus.info/?version=1.0&trial=1) a ke knize mu přidám i DrD+ triko (které se povedlo, jen je krapet dražší, tak ho nerozdávám na potkání).
+A jestli bude jeho výtvor dobrý, uvedu ho (pokud bude souhlasit) i jako jednoho z novodobých autorů [DrD+ bestiáře](https://bestiar.drdplus.info/?trial=1) a ke knize mu přidám i DrD+ triko (které se povedlo, jen je krapet dražší, tak ho nerozdávám na potkání).
 
 PS: už jste byli na [nevidtelné výstavě](http://neviditelna.cz/)? Taky zážitek z jiného vesmíru, podobně jako vstup do fantazie.
 
@@ -58,9 +58,9 @@ Zatím ticho po pěšině co? Já ti to vysvětlím.
 
 *28. 2.* tři sekundy před půlnocí jsem zcela podle plánu spal jako špalek. Takže jsem byl na zvolení vítěze *Neviditelné soutěže* vyspinkaný do růžova.
 
-Nejdříve jsem to vzal zlehka a pouze zjistil počet účastníků soutěže - no, matematici by mohli závidět, tak magické číslo, jaké jsem dostal, se nevidí každý den. Ano, byla to nula. A to máme přes [Facebook](https://www.facebook.com/drdplus.info/?version=1.0&trial=1) osloveno 216 lidí (nebo co to je za rasy) a to nikoli bezduchou placenou reklamou, ale sdílením přímo přes [FB Neviditelné knihy](https://www.facebook.com/neviditelnakniha/), kde jsou logicky jen ti, které [Neviditelná kniha](http://neviditelnakniha.cz) zajímá.
+Nejdříve jsem to vzal zlehka a pouze zjistil počet účastníků soutěže - no, matematici by mohli závidět, tak magické číslo, jaké jsem dostal, se nevidí každý den. Ano, byla to nula. A to máme přes [Facebook](https://www.facebook.com/drdplus.info/?trial=1) osloveno 216 lidí (nebo co to je za rasy) a to nikoli bezduchou placenou reklamou, ale sdílením přímo přes [FB Neviditelné knihy](https://www.facebook.com/neviditelnakniha/), kde jsou logicky jen ti, které [Neviditelná kniha](http://neviditelnakniha.cz) zajímá.
 
-Po pravdě zareagoval jen Lukáš P., který mi nahlásil sestřelené [PPH stránky](https://pph.drdplus.info/?version=1.0&trial=1), a ten se svěřil, že na soutěž nemá čas. To je ta moderní doba, samý internety a Androidi a Ohryzky a... a vůbec. Vezměme to ale pozitivně, díky Lukášovi jsem zamakal na stabilitě stránek, přidal [kontrolu robotem](https://uptimerobot.com/) každých pět minut, jestli náhodou zas něco nežuchlo, a brzy už mi to bude i posílat maily o každičkém problému, který by se tam vyskytl.
+Po pravdě zareagoval jen Lukáš P., který mi nahlásil sestřelené [PPH stránky](https://pph.drdplus.info/?trial=1), a ten se svěřil, že na soutěž nemá čas. To je ta moderní doba, samý internety a Androidi a Ohryzky a... a vůbec. Vezměme to ale pozitivně, díky Lukášovi jsem zamakal na stabilitě stránek, přidal [kontrolu robotem](https://uptimerobot.com/) každých pět minut, jestli náhodou zas něco nežuchlo, a brzy už mi to bude i posílat maily o každičkém problému, který by se tam vyskytl.
 
 Ovšem, jelikož jsem ke konci února neměl čas soutěž ukončit, tak se ještě stihl ozvat Honza V., kterýžto soutěž sice neřešil, ale texty psát chtěl, takže jsem ho mírňoulince zmanipulovat tak, aby se do soutěže zapojil.
 

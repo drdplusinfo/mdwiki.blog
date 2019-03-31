@@ -2,7 +2,7 @@
 
 *12. 8. 2017*
 
-V [PPH, Pravidlech pro hráče](https://pph.drdplus.info/?version=1.0&trial=1) jsem našel několik nesrovnalostí a chybějících údajů, které jsem v průběhu opravil:
+V [PPH, Pravidlech pro hráče](https://pph.drdplus.info/?trial=1) jsem našel několik nesrovnalostí a chybějících údajů, které jsem v průběhu opravil:
 
 *Všechny změny se týkají PPH verze 1.0, edice B*
 
@@ -13,12 +13,12 @@ V PPH na straně 112 vpravo v kapitole Pohybová rychlost je vzorec pro její v�
 
 ovšem Pohybovou rychlost ovlivňuje také Atletika, pokud se pohybuješ Během nebo Sprintem,
 jak je uvedeno u Atletiky na straně 145 a po vzoru Maximálního nákladu
-> [Maximální náklad = Sil + 21 [+ Atletika]](https://pph.drdplus.info/?version=1.0&trial=1#vypocet_maximalniho_nakladu)
+> [Maximální náklad = Sil + 21 [+ Atletika]](https://pph.drdplus.info/?trial=1#vypocet_maximalniho_nakladu)
 
 by vzorec měl upozorňovat na bonus z atletiky.
 
 Vzorec pro Pohybovou rychlost jsem tedy rozšířil
-> [Pohybová rychlost = Rch/2 + bonus podle druhu pohybu [+ Atletika při běhu a sprintu]](https://pph.drdplus.info/?version=1.0&trial=1#vypocet_pohybove_rychlosti)
+> [Pohybová rychlost = Rch/2 + bonus podle druhu pohybu [+ Atletika při běhu a sprintu]](https://pph.drdplus.info/?trial=1#vypocet_pohybove_rychlosti)
 
 ---
 
@@ -28,7 +28,7 @@ ve vzorci uvedeno
 
 Atletiku jsem do vzorce proto přidal
 
-> [Délka (výška) skoku = Rch/2 + bonus + 1k6 [+ Atletika]](https://pph.drdplus.info/?version=1.0&trial=1#vypocet_delky_a_vysky_skoku)
+> [Délka (výška) skoku = Rch/2 + bonus + 1k6 [+ Atletika]](https://pph.drdplus.info/?trial=1#vypocet_delky_a_vysky_skoku)
 
 ---
 
@@ -38,7 +38,7 @@ A nakonec chybí zmínka o Atletice u výpočtu zranění z pádu či skoku na s
 kde se Atletika přičítá k Obratnosti pro snížení výsledného zranění.
 
 I tady jsem atletiku přidal
-> [Body zranění = τ(Síla zranění) − τ(Obr [+ Atletika])](https://pph.drdplus.info/?version=1.0&trial=1#vypocet_zraneni_pri_padu)
+> [Body zranění = τ(Síla zranění) − τ(Obr [+ Atletika])](https://pph.drdplus.info/?trial=1#vypocet_zraneni_pri_padu)
 
 ---
 

@@ -2,7 +2,7 @@
 
 *30. 11. 2018*
 
-Začalo to nenápadně, nejdříve jsme prohlásili, že [odvozené vlastnosti asi zrušíme](2018-09-03-velkej_fanousek.md#Dovednosti), protože se s nimi nechceme počítat, potom jsme skutečně [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md) a vzápětí [*Výdrž* i s *Odolností*](2018-11-19-vydrz.md#Závěr). Ovšem zatímco z *Krásy* nezbylo nic a po *Odolnosti* zůstala jen *Síla*, tak *Výdrž* nám narazila hlavou do zdi a my teď budeme studovat statiku, abychom odhalili, zda tu zeď prorazila, nebo se nám to jenom zdálo.
+Začalo to nenápadně, nejdříve jsme prohlásili, že [odvozené vlastnosti asi zrušíme](2018-09-03-velkej_fanousek.md#Dovednosti), protože se s nimi nechceme počítat, potom jsme skutečně [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md) a vzápětí [*Výdrž* i s *Odolností*](2018-11-19-vydrz.md#Závěrem). Ovšem zatímco z *Krásy* nezbylo nic a po *Odolnosti* zůstala jen *Síla*, tak *Výdrž* nám narazila hlavou do zdi a my teď budeme studovat statiku, abychom odhalili, zda tu zeď prorazila, nebo se nám to jenom zdálo.
 
 Připomeňme si teď poslední slova *Výdrže*
 
@@ -10,7 +10,7 @@ Připomeňme si teď poslední slova *Výdrže*
 
 A měla pravdu, *Výdrž* se nám totiž rozsypala na pasivní odolnost těla vyjádřenou *Silou*, a aktivní odolávání duše vyjádřené *Vůlí*. Ale jako **most** mezi tělem a duší se nabídla *Únava*, tedy energie, kterou naše tělo zaplatí za naši tvrdohlavost.
 
-A mimochodem, chceme zrušit ty [třípísmenné zkratky](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_povolani) jako *Sil*, *Obr*, nebo třeba *Vol*, která vždycky měla být *Vůl*, kdyby jenom se původní autoři nebáli, že se najde nějakej vůl, kterému by byla pro smích. Nám ovšem do smíchu nebylo, protože zkratky jsou povětšinu času hlavě zkratkou do pekel dlážděnou zmatením a nejistotou.
+A mimochodem, chceme zrušit ty [třípísmenné zkratky](https://pph.drdplus.info/?trial=1#tabulka_povolani) jako *Sil*, *Obr*, nebo třeba *Vol*, která vždycky měla být *Vůl*, kdyby jenom se původní autoři nebáli, že se najde nějakej vůl, kterému by byla pro smích. Nám ovšem do smíchu nebylo, protože zkratky jsou povětšinu času hlavě zkratkou do pekel dlážděnou zmatením a nejistotou.
 
 ## Do hromady
 > Rozděl a panuj
@@ -21,7 +21,7 @@ Od začátku článku [Vydrž!](2018-11-19-vydrz.md) jsme totiž směřovali k t
 Vlastně podobný nápad vznikl v naší družině už před několika lety, ale bylo to jen o slovní dohodě a o citu. Ale teď začíná tomuhle nápadu hra o život, protože jedna věc je domácí zabydlené pravidlo, které se probudí jednou za čas a druhá věc je jádro psaných pravidel.
 
 ### Hra o život
-Herně bychom chtěli, abychom si hodili na *Odolnost* našeho těla a zjistili, zda nám [neštovice](https://ppj.drdplus.info/?version=1.0&trial=1#tabulka_nemoci) začínají podlamovat nohy a pokud tělo bitvu prohrává, tak abychom měli možnost zatnout zuby a **když je to potřeba**, dokázali překonat oslabení.
+Herně bychom chtěli, abychom si hodili na *Odolnost* našeho těla a zjistili, zda nám [neštovice](https://ppj.drdplus.info/?trial=1#tabulka_nemoci) začínají podlamovat nohy a pokud tělo bitvu prohrává, tak abychom měli možnost zatnout zuby a **když je to potřeba**, dokázali překonat oslabení.
 
 Napadá nás k tomu
 
@@ -87,12 +87,12 @@ A teď pojďme na seřizování hodinek.
 
 Potíž s časem je, že když se budu snažit horečně přečíst zakázanou kapitolu v knize Hříchů, tak mi bude *Únava* přibývat přeci jen pomaleji, než když budu rvát holýma rukama menhir, z pod něhož vyčuhují pruhované onuce mého pomalejšího druha.
 
-Důležité je *nezavádět nové pravidlo tam, kde už nějaké je*, takže správná otázka zní *Je tu už nějaké obecné pravidlo na trvání akcí?* Hmm, jsou tu [kola boje](2018-10-29-minuta_inteligence.md), je tu [Tabulka času](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_casu), je tu [Tabulka opravy bonusu za čas](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_opravy_bonusu_za_cas), pravidlo pro [Pevně stanovenou dobu](https://pph.drdplus.info/?version=1.0&trial=1#pevne_stanovena_doba) a nebo [Pevně stanovený výsledek](https://pph.drdplus.info/?version=1.0&trial=1#pevne_stanoveny_vysledek)... no dobrý, ale co s tím? Všechna tahle pravidla vypadají na první pohled použitelně, ale jejich **platidlem je čas**, jenže my vlastně hledáme jako **platidlo *Únavu*** a čas až jako její měřítko. Takže znova, správnější otázka bude *Je tu nějaké pravidlo na Únavu v čase*? No jéje, máme přeci [Únavu jako...](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu) (postávání, šourání, chůze, spěch, běh, sprint), to už vypadá použitelně.
+Důležité je *nezavádět nové pravidlo tam, kde už nějaké je*, takže správná otázka zní *Je tu už nějaké obecné pravidlo na trvání akcí?* Hmm, jsou tu [kola boje](2018-10-29-minuta_inteligence.md), je tu [Tabulka času](https://pph.drdplus.info/?trial=1#tabulka_casu), je tu [Tabulka opravy bonusu za čas](https://pph.drdplus.info/?trial=1#tabulka_opravy_bonusu_za_cas), pravidlo pro [Pevně stanovenou dobu](https://pph.drdplus.info/?trial=1#pevne_stanovena_doba) a nebo [Pevně stanovený výsledek](https://pph.drdplus.info/?trial=1#pevne_stanoveny_vysledek)... no dobrý, ale co s tím? Všechna tahle pravidla vypadají na první pohled použitelně, ale jejich **platidlem je čas**, jenže my vlastně hledáme jako **platidlo *Únavu*** a čas až jako její měřítko. Takže znova, správnější otázka bude *Je tu nějaké pravidlo na Únavu v čase*? No jéje, máme přeci [Únavu jako...](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) (postávání, šourání, chůze, spěch, běh, sprint), to už vypadá použitelně.
 
 ### Kousky opice
-Fajn, takže po pitce se strážníky mám opici, že by mi knížecí zvěřinec mohl závidět a z ní postih -1 k tělesným činnostem, takže po kanalizačním dobrodružství se radši už jen tak poflakuju, ovšem dokud nezjistím, že mi nějak podezřele zlehknul opasek. Jakmile mi dojde, která bije, vrhnu se naplno za zlodějem, tudíž sprintuju, takže mi má přibývat [jeden bod únavy za dvě kola](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu). Jenže mě zpomaluje kocovina a to se teď opravdu nehodí, takže zaberu naplno, primát neprimát, a postihu se na chvíli zbavím. Zaplatím za to jedním bodem únavy za... za... no za **stejnou dobu**, za jakou mi přibude únava z právě prováděné činnosti, tedy ze sprintu, takže za dvě kola. Prostě se mi k jednomu běžnému bodu *Únavy* přilepí ještě jeden.
+Fajn, takže po pitce se strážníky mám opici, že by mi knížecí zvěřinec mohl závidět a z ní postih -1 k tělesným činnostem, takže po kanalizačním dobrodružství se radši už jen tak poflakuju, ovšem dokud nezjistím, že mi nějak podezřele zlehknul opasek. Jakmile mi dojde, která bije, vrhnu se naplno za zlodějem, tudíž sprintuju, takže mi má přibývat [jeden bod únavy za dvě kola](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu). Jenže mě zpomaluje kocovina a to se teď opravdu nehodí, takže zaberu naplno, primát neprimát, a postihu se na chvíli zbavím. Zaplatím za to jedním bodem únavy za... za... no za **stejnou dobu**, za jakou mi přibude únava z právě prováděné činnosti, tedy ze sprintu, takže za dvě kola. Prostě se mi k jednomu běžnému bodu *Únavy* přilepí ještě jeden.
 
-Ovšem biřicové si našeho zběsilého závodu všimnou a oba nás v průjezdu překvapí ratištěm do čelistí, takže zatímco oba pliveme krev, já se snažím převzít kontrolu nad situací, nasadím své *Charisma* a... a sakra, kocovina se hlásí i teď, tak to ne! Soustředím se a s bolestí hlavy zabojuju. Pán jeskyně mi určí, že jelikož se při monologu snažím spěchat, aby mě snad strážci zákona nestihli předčasně umlčet, tak se unavuji [jako při spěchu](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu), tedy jeden bod únavy za půl hodiny. No, tak dlouho snad mluvit nebudu, ovšem abych se zbavil postihu -2 k psychickým činnostem, musím zaplatit dvěma body *Únavy*, ovšem za stejnou dobu jako při spěchu, takže za půl hodiny, ovšem strážníky hodlám přesvědčit o dost dříve, takže nějakou *Únavu* navíc mi snad Pán jeskyně odpustí, ne?
+Ovšem biřicové si našeho zběsilého závodu všimnou a oba nás v průjezdu překvapí ratištěm do čelistí, takže zatímco oba pliveme krev, já se snažím převzít kontrolu nad situací, nasadím své *Charisma* a... a sakra, kocovina se hlásí i teď, tak to ne! Soustředím se a s bolestí hlavy zabojuju. Pán jeskyně mi určí, že jelikož se při monologu snažím spěchat, aby mě snad strážci zákona nestihli předčasně umlčet, tak se unavuji [jako při spěchu](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu), tedy jeden bod únavy za půl hodiny. No, tak dlouho snad mluvit nebudu, ovšem abych se zbavil postihu -2 k psychickým činnostem, musím zaplatit dvěma body *Únavy*, ovšem za stejnou dobu jako při spěchu, takže za půl hodiny, ovšem strážníky hodlám přesvědčit o dost dříve, takže nějakou *Únavu* navíc mi snad Pán jeskyně odpustí, ne?
 
 Ne. Tedy odpustil by, jenže si neodpustil poznámku, že jsme sprintovali celkem čtrnáct kol, takže mám vlastně už sedm bodů *Únavy*, což je další postih -1 za *Únavu* a k tomu si přisadí, že se mi špatně mluví s pusou plnou krve, za což mi dá další postih k mluvení -2. Za co mě trestá?! Chvíli se handrkuju s ostatními hráči, jestli se krvi v puse dá odolávat *Vůlí*, až to nakonec rozsekne Pán jeskyně s tím, že je to postih víc za bolest, než za krev a já tak dostanu zelenou, abych zkusil potlačit i tenhle *bonusový* postih.
 Takže se snažím odolat během půl hodiny celkovému postihu `-2 kocovina -1 únava -2 bolest = -5`, což Pán jeskyně rozpočítá na postih -1 na šest minut, takže po mě chce jeden bod *Únavy* s tím, že mluvím skoro pět minut... Ne, to **nezní jednoduše**.
@@ -127,7 +127,7 @@ Fajn, *zahozeno*, *zanecháno*, jenže kudy dál?
 
 > Zmatek zavřený v krabici je bordel, který se dá uklidit
 
-Pár náznaků jednoduchosti v zamotaném světě bolesti, únavy a nepohodlí jsme už našli. Nejdříve jsme začali řešit **dohromady** všechny tělesné postihy a **dohromady** všechny duševní. A taky jsme znovuobjevili [Únavu jako...](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu), která má svou krásu v přirozenosti, s jakou si jednotlivé stupně náročnosti dokážeme představit.
+Pár náznaků jednoduchosti v zamotaném světě bolesti, únavy a nepohodlí jsme už našli. Nejdříve jsme začali řešit **dohromady** všechny tělesné postihy a **dohromady** všechny duševní. A taky jsme znovuobjevili [Únavu jako...](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu), která má svou krásu v přirozenosti, s jakou si jednotlivé stupně náročnosti dokážeme představit.
 Zamotali jsme se až při míchání různých náročností, až při jejich překrývání se, přerušování se navzájem, nemůžeme tedy nějak jednoduše vyřešit *tuhle* složitost?
 
 Když pajdám prašnou cestou, v krku sucho, v botě mokro, tak mi pomalu přibývá únava **navíc** za to, jak se snažím nezdržovat při chůzi ostatní. Když se zaseknu na jahodách, boj s bolestí přestane být důležitý, já si hovím v úvozu a přibývání únavy se nekoná. Když pak popoběhnu za ostatními, kteří mi mezitím zmizeli za zatáčkou, boj s bolestí se vystupňuje a ručička energie začne povážlivě klesat. Sotva je doběhnu, zas zvolním a přibývání únavy opět klesne na původní, snesitelnou, byť pořád citelnou úroveň.
@@ -151,14 +151,14 @@ V úvodu jsme se utvrdili v tom, že [má smysl rozlišovat](#Platební_situace)
 
 Když se vrátíme k dělení postihů, tak připomeneme, že už před nějakou dobou jsme zjistili, že postih by měl [ovlivňovat **všechno a stejně**](2018-10-22-nula.md#Padavka), od skoku dalekého, přes švitoření s opačným pohlavím až po *Sílu*, *Odolnost*, *Vůli* a všechny další zdánlivě neotřesitelné atributy. Tak kde jsme najednou vzali nějaké dělení?
 
-U *Krásy* a u *Výdrže* jsme [poznali](2018-11-19-vydrz.md#Závěr), že by bylo fajn odlišovat pasivní a aktivní složku a že ta pasivní, samozřejmá, je mnohdy zastoupena tělesnými vlastnostmi, kdežto aktivní, snaživá a kontrolovatelná, je zastoupena duševními vlastnostmi. Svým způsobem jsme se dostali k tomu, že tělo je ovládáno duší a že tahle souhra těla a duše, ta citelná posloupnost a závislost, nám mnohde chybí.
+U *Krásy* a u *Výdrže* jsme [poznali](2018-11-19-vydrz.md#Závěrem), že by bylo fajn odlišovat pasivní a aktivní složku a že ta pasivní, samozřejmá, je mnohdy zastoupena tělesnými vlastnostmi, kdežto aktivní, snaživá a kontrolovatelná, je zastoupena duševními vlastnostmi. Svým způsobem jsme se dostali k tomu, že tělo je ovládáno duší a že tahle souhra těla a duše, ta citelná posloupnost a závislost, nám mnohde chybí.
 
 Když to nacpeme do pravidel, tak závislost duše na těle máme v *Únavě* a závislost těla na duši máme ve *Snaze* (hod na snahu pomocí 1k6±) a právě také v *potlačování postihů*. A to poslední se snažíme vyřešit od začátku tohohle článku.
 
 Takže silou duše, tedy silou *Vůle*, tedy vlastně neustálou snahou dokážeme snižovat své postihy, ovšem před chvilkou jsme si připomenuli, že postih ovlivňuje svorně jak tělo, tak duši, tak kde jsme hergot vzali to nutkání řešit postih pro tělo a postih pro duši zvlášť?
 
 Ten pocit, že by se to mělo řešit odděleně, vznikl z **původu** postihu. Pokud mám patu sedřenou do krve, je to tělesný postih, pokud mě bolí hlava jak střep, mám duševní postih... nebo ne?
-Ne, už v našich příkladech v předchozím článku o *Výdrži* jsme se [dostávali k tomu](2018-11-19-vydrz.md#Kožený_frajer), že rozedřená pata dokáže pěkně nakrknout, tedy že přímo, totiž přes bolest, ovlivňuje naši náladu a vnímání, prostě od *Inteligence*, přes *Vůli* až po *City*. A podobně jsme se na začátku tohohle článku dostali přirozeně k tomu, že když máme [hlavu jako střep](#První_cena), tak nemůžeme pořádně ani vylézt na střechu, či pronásledovat chmatáka úzkými uličkami.
+Ne, už v našich příkladech v předchozím článku o *Výdrži* jsme se [dostávali k tomu](2018-11-19-vydrz.md#Kožený_frajer), že rozedřená pata dokáže pěkně nakrknout, tedy že přímo, totiž přes bolest, ovlivňuje naši náladu a vnímání, prostě od *Inteligence*, přes *Vůli* až po *City*. A podobně jsme se na začátku tohohle článku dostali přirozeně k tomu, že když máme [hlavu jako střep](#Kousky_opice), tak nemůžeme pořádně ani vylézt na střechu, či pronásledovat chmatáka úzkými uličkami.
 Prostě a jednoduše jsme se nachytali, měli jsme pocit, že když [má smysl vnímat odděleně tělo a duši](2018-11-19-vydrz.md#Co_bylo,_bylo) při odolávání nevolnosti, tedy zvlášť pasivní a zvlášť aktivní odolávání, tak má taky smysl vnímat odděleně postih k tělu a postih k duši. Chyba lávky.
 
 Proto odvoláváme co jsme odvolali, zapojujeme co jsme rozpojili, a potlačování postihu budeme řešit jednotně, pro tělo i duši dohromady.
@@ -187,7 +187,7 @@ Když mě pak obestoupí dav agresivních čumilů, tak se zase dostanu k mluven
 
 A je to.
 
-## Závěr
+## Závěrem
 
 Vlastně co celé bylo náročnější, než jsme si na začátku mysleli, hlavně proto, že se nám do počítání zase připletl čas. Ale zvládli jsme to a co nezvládne *Síla* našeho těla, to můžeme dočasně potlačit silou naší *Vůle*.
 
@@ -205,7 +205,7 @@ A teď si shrneme *odolávání postihu* pravidlově:
 - za potlačení postihu získáš **okamžitě** tolik bodů *Únavy*, o kolik sis postih srazil
     - například pokud sis potlačil postih ze zranění z mínus tří na mínus jedna, tak se unavíš za dva body *Únavy*
 - potlačení postihu **ztrácíš** ve chvíli, kdy dostaneš *Únavu* z činnosti, kterou právě provádíš
-    - při něčem co unavuje jako sprint tedy musíš řešit potlačení postihu **znovu** už po dvou kolech, při něčem co unavuje jako běh **znovu** po pěti minutách [a tak dále a tak dále](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_unavy_z_pohybu)
+    - při něčem co unavuje jako sprint tedy musíš řešit potlačení postihu **znovu** už po dvou kolech, při něčem co unavuje jako běh **znovu** po pěti minutách [a tak dále a tak dále](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu)
         - samozřejmě že ve hře bude stačit řešit až celkovou únavu někdy na konci akce, pokud tedy tvá *Únava* nebude ovlivňovat děj
 - pokud jsi před chvílí dokázal odolat **většímu** postihu, než jakému potřebuješ odolávat teď a přitom ti tvé odolávání ještě nepřestalo platit, tak prostě platí nadále
     - ovšem žádné body *Únavy* si tím neodmažeš, prostě je teď náročnost menší, než na kterou ses už připravil

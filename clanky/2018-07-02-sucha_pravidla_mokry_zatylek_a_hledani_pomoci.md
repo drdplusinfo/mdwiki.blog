@@ -6,7 +6,7 @@
 
 > Soukat do sebe suchý text a nepotit se u toho za krkem dokážou vysokoškoláci, Google bot a moje skartovačka. Já ne.
 
-Někdy začátkem června jsem [plácnul na Facebook](https://www.facebook.com/drdplus.info/?version=1.0&trial=1) situační vtip, který mi toho dne najednou přistál v hlavě.
+Někdy začátkem června jsem [plácnul na Facebook](https://www.facebook.com/drdplus.info/?trial=1) situační vtip, který mi toho dne najednou přistál v hlavě.
 Protože jsem ho sám nečekal, tak mě překvapil a pobavil a když zvedl náladu mě, tak jsem ho zveřejnil, ať se nad neštěstím jiného pobaví i jiní (ano, takový jsme národ).
 > Ze života theurga:
   "Řekli mi, že bude poslouchat na slovo. Ale neřekli na které..."
@@ -73,7 +73,7 @@ Vlastně když jsem nedávno přidal k jednotlivým webovým příručkám *sled
 
 Ale nestačí to, chce to komunitu, partu magorů, co občas přihodí názor, jiný úhel pohledu, zkušenosti z oblastí, o kterých nemám ani potuchy.  
 
-První pokus o spolupráci jsem si vyzkoušel [vypsáním soutěže o Neviditelnou knihu](./2018-02-16-vyskytla_se_nam_neviditelna_soutez.md), kdy se až v jejím samotném závěru ozval Honza V., že by něco zkusil napsat (ale nezkusil) a teprve ve finiši se zjevila [Maky-Orel](http://makyorel.blog.cz/) s [kresbami](https://www.facebook.com/pg/drdplus.info/photos/?tab=album&album_id=339898449855265) a *"s přáním větší účasti..."*.
+První pokus o spolupráci jsem si vyzkoušel [vypsáním soutěže o Neviditelnou knihu](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md), kdy se až v jejím samotném závěru ozval Honza V., že by něco zkusil napsat (ale nezkusil) a teprve ve finiši se zjevila [Maky-Orel](http://makyorel.blog.cz/) s [kresbami](https://www.facebook.com/pg/drdplus.info/photos/?tab=album&album_id=339898449855265) a *"s přáním větší účasti..."*.
 Ono je totiž zatraceně lehké si říct "něco udělám" a pak **čekat**, kdy mě to chytne tolik abych to měl **najednou** hotové
 
 - jenže tvorba je proces hledání, cesta na hraně srázu, tápání ve tmě, dřina a chyby, nikoli šťastná výhra v loterii

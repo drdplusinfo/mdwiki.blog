@@ -1,5 +1,5 @@
 body {
-    font-size: 16px;
+    font-size: 18px;
     background: url(/images/rules-background.png?version=40fd24846865c459e4f38300e2ae9377) repeat-y #FFEDD5 left fixed;
     background-size: contain;
 }
@@ -145,4 +145,10 @@ hr {
 
 blockquote {
     border-left: 5px solid #cbbdaa;
+}
+
+code {
+    white-space: pre-wrap;
+    display: inline-block;
+    padding: 0.2em 0.2em 0;
 }

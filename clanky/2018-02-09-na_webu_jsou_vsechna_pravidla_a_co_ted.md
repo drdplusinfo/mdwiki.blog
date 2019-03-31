@@ -3,7 +3,7 @@
 *9. 2. 2018*
 
 Jak už jsem [psal na rpgforum](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14870), převod trval čtyři roky a jeden měsíc.
-Konkrétně jsem v neděli 26. ledna 2014 v půl jedenácté ráno commitnul (přidal do kódu) historicky první obsah v HTML a to [pravidla pro hráče](https://pph.drdplus.info/?version=1.0&trial=1) a 8. února 2018, v devět ráno jsem přidat "poslední" commit a převod tak dokončil (poslední byly [pravidla pro PJ](https://pph.drdplus.info/?version=1.0&trial=1)). 
+Konkrétně jsem v neděli 26. ledna 2014 v půl jedenácté ráno commitnul (přidal do kódu) historicky první obsah v HTML a to [pravidla pro hráče](https://pph.drdplus.info/?trial=1) a 8. února 2018, v devět ráno jsem přidat "poslední" commit a převod tak dokončil (poslední byly [pravidla pro PJ](https://pph.drdplus.info/?trial=1)). 
 
 ## No, a co jako?
 
@@ -11,7 +11,7 @@ Abych dobře vysvětlil, proč jsem se na to už dávno nevykašlal, proč mám 
 
 ## Bylo nebylo 
 
-To, že jsem začínal s DrD na základní škole, jsem už [zmiňoval v dopise pro Altar](./2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md). Tam někdy ve mě zakořenila láska k českému stylu RPG her, alias her na hrdiny.
+To, že jsem začínal s DrD na základní škole, jsem už [zmiňoval v dopise pro Altar](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md). Tam někdy ve mě zakořenila láska k českému stylu RPG her, alias her na hrdiny.
 Ta láska nejdříve usnula, pak byla bita, škrcena, čtvrcena a vařena, aby po letech, na spáleništi vypáleném vysokou školou, prací a neoduševnělými radovánkami vyčkala na první slzu a opět vyklíčila.
 
 Po letech jsme tak, pouze s mírně obměněnou partou, začali hrát znovu a to tentokráte "zbrusu nové, moderní a dospělejší DrD+".
@@ -45,7 +45,7 @@ Tehdy začal pozvolný přerod od soukromého, obývákového projektu (v Silico
 
 ## Veřejně a pro všechny
 
-Odstartoval jsem to v létě [dopisem pro Altar](./2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md).
+Odstartoval jsem to v létě [dopisem pro Altar](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md).
 Během čekání na odpověď jsem dopřevedl pravidla, hodil řeč s kamarádem o mobilní apce, s dalším s tužkou v ruce rozebíral, co by chtěl v DrD+ jinak a přitom jsem se začal trochu bát.
 Důvodem je Altar, protože všechen ten text, všechny obrázky (až na pět) jsou jeho a když si dupne, tak to všechno pěkně zas sbalím a půjdu si po svých (respektive bych musel pravidla schovat do šedé zóny internetu a přestat o nich šířit informace).
 Po půl roce jsem stále bez odpovědi, bez zákazu i bez povolení. Mají ode mě dvě prosby a Bouchi o mé aktivitě ví na RPG fóru, takže si nemyslím, že na mě zapomněli, jen asi neví, co se mnou.

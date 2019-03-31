@@ -14,7 +14,7 @@ Jelikož jsme tušili, že je něco špatně, tak z nás po několika dnech vypa
 
 > Ba ba, z nedobré vzdálenosti život svůj sleduješ
 
-A pak nám to došlo, šestka je v Dračím doupěti **magická**. Když původní jedinec s *Inteligencí* a *Obratností* nula zvládl jednu akci za kolo, tak ten samý jedinec s posunutou "nulou" z nuly na šest by měl zase zvládnout jednu akci za kolo. A kolo boje je čas a **šest** kol boje je [jedna minuta](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_casu).
+A pak nám to došlo, šestka je v Dračím doupěti **magická**. Když původní jedinec s *Inteligencí* a *Obratností* nula zvládl jednu akci za kolo, tak ten samý jedinec s posunutou "nulou" z nuly na šest by měl zase zvládnout jednu akci za kolo. A kolo boje je čas a **šest** kol boje je [jedna minuta](https://pph.drdplus.info/?trial=1#tabulka_casu).
 Vlastně je to takhle ještě lepší než předtím, protože původně *Inteligence* hrdiny mohla narůst z nuly až na patnáctku, takže najednou omezení počtu akcí přes *Inteligenci* začal připomínat počet úhozů na klávesnici a jediné skutečné omezení tak tvořila *Obratnost* a z ní odvozené body *Boje*, které jsme ale [zrušili](2018-10-26-neboj.md).
 Ovšem teď, když *vlna akcí* proběhne nikoli v jednom kole, ale v jedné minutě, tak
 
@@ -39,7 +39,7 @@ Nejdříve se naháníte po lokále, zastrašujete, urážíte, až nakonec dojd
 
 ## Závěrem
 Cpát počet akcí do jednoho kola bylo příliš násilné a mělo to za následek podivnosti jako přebytky bodů *Boje*, či nutné výjimky z pravidla o omezení počtu akcí.
-Pomohlo nám rozprostřít akce do jedné minuty, což ve spojení s posunem začátečnických vlastností [z nuly na šestku](2018-10-22-nula.md#Šestka) sedlo jak prdel na hrnec, protože základní vlastnosti na šesti společně s pravidlem na omezení počtu akcí vyústily k přirozeným šesti akcím za minutu, což [je jedna akce za kolo](https://pph.drdplus.info/?version=1.0&trial=1#tabulka_casu).
+Pomohlo nám rozprostřít akce do jedné minuty, což ve spojení s posunem začátečnických vlastností [z nuly na šestku](2018-10-22-nula.md#Šestka) sedlo jak prdel na hrnec, protože základní vlastnosti na šesti společně s pravidlem na omezení počtu akcí vyústily k přirozeným šesti akcím za minutu, což [je jedna akce za kolo](https://pph.drdplus.info/?trial=1#tabulka_casu).
 
 Trochu to zamávalo s celkovým počtem akcí, kdy původně mohli mít borci tři, ba i čtyři akce za kolo, ale teď mají proti nýmandům pouze dvojnásobek akcí. Ještě si nejsme jisti, že je to nejlepší cesta, ale teď nám připadá dobré, že se akce hromadí na konci oné minuty, kdy začne houstnout atmosféra a pomalejší bojovník ucítí, že mu docházejí síly a že se potřebuje trochu oklepat. Nehledě na to, že se bavíme **pouze** o základních vlastnostech, nikoli o speciálních schopnostech postav, takže dvojnásobek akcí má bystrý atlet proti lenivému prosťáčkovi, nikoli proti bojem zoceleným bojovníkům, lupičům a podobným individuím.
 

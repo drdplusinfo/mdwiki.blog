@@ -12,7 +12,7 @@ class IndexTest extends AbstractBlogTestCase
     public function I_can_access_every_article_from_index(): void
     {
         $anchors = $this->getIndexAnchors();
-        $articles = $this->getArticles();
+        $articles = $this->getArticlesPaths();
         $missingAnchors = \array_diff($articles, $anchors);
         self::assertCount(0, $missingAnchors, "Some articles are not listed in index: \n" . \implode("\n", $missingAnchors));
         $missingArticles = \array_diff($anchors, $articles);
@@ -87,7 +87,7 @@ class IndexTest extends AbstractBlogTestCase
                 "Date in index link name '$title' does not match date in filename $filename"
             );
         }
-        foreach ($this->getArticlesWithFullPath() as $article) {
+        foreach ($this->getArticlesFullPaths() as $article) {
             $content = $this->getFileContent($article);
             $contentDate = $this->createDateFromContent($content);
             $fileDate = $this->createDateFromFilename($article);
@@ -115,9 +115,11 @@ class IndexTest extends AbstractBlogTestCase
 
     private function createDateFromContent(string $content): \DateTime
     {
+        $regexp = '~^#[^#\n\r]+(\n|\r)+[*](?<days>\d{1,2})[.] (?<months>\d{1,2})[.] (?<years>\d{4})[*](\n|\r)+~';
+        self::assertRegExp($regexp, \mb_substr($content, 0, 200), 'Missing or invalid article date');
         self::assertGreaterThan(
             0,
-            \preg_match('~^#[^#\n\r]+(\n|\r)+[*](?<days>\d{1,2})[.] (?<months>\d{1,2})[.] (?<years>\d{4})[*](\n|\r)+~', $content, $matches),
+            \preg_match($regexp, $content, $matches),
             'Missing date in article ' . \mb_substr($content, 0, 200)
         );
         $contentDate = \DateTime::createFromFormat('m-d-Y', "{$matches['months']}-{$matches['days']}-{$matches['years']}");

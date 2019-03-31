@@ -1,9 +1,11 @@
 <?php
 declare(strict_types=1);
 
-namespace DrdPlus\Tests\Blog;
+namespace DrdPlus\Tests\Blog\Navigation;
 
-class LinksTest extends AbstractBlogTestCase
+use DrdPlus\Tests\Blog\BlogTestCase;
+
+class ExternalLinksTest extends BlogTestCase
 {
 
     /**
@@ -50,31 +52,58 @@ class LinksTest extends AbstractBlogTestCase
             "Every link to drdplus.info should leads to drdplus.info using https:\n"
             . \implode("\n", $localLinks) . "\n"
             . "You can use\n"
-            . 'sed --in-place --regexp-extended --expression=\'s~http://([^.]+[.]drdplus)[.]loc(:[0-9]+)?/~https://\1.info/?version=1.0\&trial=1~g\' clanky/*.md'
+            . 'sed --in-place --regexp-extended --expression=\'s~http://([^.]+[.]drdplus)[.](loc|info)(:[0-9]+)?/~https://\1.info/?trial=1~g\' clanky/*.md'
         );
     }
 
     /**
      * @test
      */
-    public function Links_to_versioned_rules_lead_to_version_one(): void
+    public function Links_to_rules_does_not_set_deprecated_version(): void
     {
-        $linksToVersionedRules = [];
-        $regexpWithNonVersionedLinks = '~https://(?:' . \implode('|', $this->pregQuoteAll($this->getNonVersionedSubDomains(), '~')) . ')[.]drdplus[.]info~';
+        $linksToRules = [];
+        $regexpWithNonVersionedLinks = '~https://(?:' . \implode('|', $this->pregQuoteAll($this->getNonProtectedSubDomains(), '~')) . ')[.]drdplus[.]info~';
         foreach ($this->getExternalLinks() as $link) {
             if (\strpos($link, '.drdplus.info') && !\preg_match('~[.]drdplus[.]info/(?:images|css|js)/~', $link) && !\preg_match($regexpWithNonVersionedLinks, $link)) {
-                $linksToVersionedRules[] = $link;
+                $linksToRules[] = $link;
             }
         }
-        self::assertNotEmpty($linksToVersionedRules, 'No links to versioned rules have been found');
-        $linksWithoutVersion = \array_filter($linksToVersionedRules, function (string $linkToVersionedRules) {
-            return !\preg_match('~([?]|&)version=1[.]0~', $linkToVersionedRules);
+        self::assertNotEmpty($linksToRules, 'No links to rules have been found');
+        $linksWithVersionSet = \array_filter(
+            $linksToRules,
+            static function (string $linkToRules) {
+                return \preg_match('~([?]|&)version=~', $linkToRules);
+            }
+        );
+
+        self::assertEmpty(
+            $linksWithVersionSet,
+            "Setting version in a link to rules is deprecated\n"
+            . \implode("\n", $linksWithVersionSet)
+        );
+    }
+
+    /**
+     * @test
+     */
+    public function Links_to_private_rules_passes_by_trial(): void
+    {
+        $linksToProtectedRules = [];
+        $regexpWithNonVersionedLinks = '~https://(?:' . \implode('|', $this->pregQuoteAll($this->getNonProtectedSubDomains(), '~')) . ')[.]drdplus[.]info~';
+        foreach ($this->getExternalLinks() as $link) {
+            if (\strpos($link, '.drdplus.info') && !\preg_match('~[.]drdplus[.]info/(?:images|css|js)/~', $link) && !\preg_match($regexpWithNonVersionedLinks, $link)) {
+                $linksToProtectedRules[] = $link;
+            }
+        }
+        self::assertNotEmpty($linksToProtectedRules, 'No links to private rules have been found');
+        $linksWithoutTrialPassing = \array_filter($linksToProtectedRules, function (string $linkToProtectedRules) {
+            return !\preg_match('~([?]|&)trial=1~', $linkToProtectedRules);
         });
 
         self::assertEmpty(
-            $linksWithoutVersion,
-            "Every link to versioned rules should have query part version=1.0\n"
-            . \implode("\n", $linksWithoutVersion)
+            $linksWithoutTrialPassing,
+            "Every link to private rules should have query part trial=1.0\n"
+            . \implode("\n", $linksWithoutTrialPassing)
         );
     }
 
@@ -88,84 +117,31 @@ class LinksTest extends AbstractBlogTestCase
         return $quoted;
     }
 
-    private function getNonVersionedSubDomains(): array
-    {
-        return ['www', 'blog', 'pribeh', 'pribeh.bestiar', 'pad', 'boj', 'niceni', 'formule.theurg'];
-    }
-
-    /**
-     * @test
-     */
-    public function Links_to_protected_rules_passes_by_trial(): void
-    {
-        $linksToProtectedRules = [];
-        $regexpWithNonVersionedLinks = '~https://(?:' . \implode('|', $this->pregQuoteAll($this->getNonProtectedSubDomains(), '~')) . ')[.]drdplus[.]info~';
-        foreach ($this->getExternalLinks() as $link) {
-            if (\strpos($link, '.drdplus.info') && !\preg_match('~[.]drdplus[.]info/(?:images|css|js)/~', $link) && !\preg_match($regexpWithNonVersionedLinks, $link)) {
-                $linksToProtectedRules[] = $link;
-            }
-        }
-        self::assertNotEmpty($linksToProtectedRules, 'No links to protected rules have been found');
-        $linksWithoutTrialPassing = \array_filter($linksToProtectedRules, function (string $linkToProtectedRules) {
-            return !\preg_match('~([?]|&)trial=1~', $linkToProtectedRules);
-        });
-
-        self::assertEmpty(
-            $linksWithoutTrialPassing,
-            "Every link to protected rules should have query part trial=1.0\n"
-            . \implode("\n", $linksWithoutTrialPassing)
-        );
-    }
-
     private function getNonProtectedSubDomains(): array
     {
         return ['www', 'blog', 'pribeh', 'pribeh.bestiar', 'pad', 'boj', 'niceni', 'formule.theurg'];
     }
 
     /**
-     * @test
-     */
-    public function Links_to_non_versioned_rules_have_no_version(): void
-    {
-        $linksToNonVersionedRules = [];
-        $regexpWithNonVersionedLinks = '~https://(?:' . \implode('|', $this->pregQuoteAll($this->getNonVersionedSubDomains(), '~')) . ')[.]drdplus[.]info~';
-        foreach ($this->getExternalLinks() as $link) {
-            if (\strpos($link, '.drdplus.info') && \preg_match($regexpWithNonVersionedLinks, $link)) {
-                $linksToNonVersionedRules[] = $link;
-            }
-        }
-        self::assertNotEmpty($linksToNonVersionedRules, 'No links to non-versioned rules has been found');
-        $linksWithVersion = \array_filter($linksToNonVersionedRules, function (string $linkToNonVersionedRules) {
-            return \strpos($linkToNonVersionedRules, 'version=') !== false;
-        });
-
-        self::assertEmpty(
-            $linksWithVersion,
-            "Links to non-versioned rules should have not query ?version=\n"
-            . \implode("\n", $linksWithVersion)
-        );
-    }
-
-    /**
      * @return array|string[]
      */
-    protected function getExternalLinks(): array
+    private function getExternalLinks(): array
     {
-        static $externalAnchors = [];
-        if (!$externalAnchors) {
+        static $externalLinks = [];
+        if (!$externalLinks) {
             $content = '';
-            foreach ($this->getArticlesWithFullPath() as $article) {
+            foreach ($this->getArticlesFullPaths() as $article) {
                 $content .= $this->getFileContent($article);
             }
             self::assertGreaterThan(
                 0,
                 \preg_match_all('~[(](?<links>https?://[^)]+)~', $content, $matches),
-                'No external anchors found'
+                'No external links found'
             );
-            $externalAnchors = \array_unique($matches['links']);
+            $externalLinks = \array_unique($matches['links']);
         }
 
-        return $externalAnchors;
+        return $externalLinks;
     }
 
     /**
@@ -173,7 +149,7 @@ class LinksTest extends AbstractBlogTestCase
      */
     public function I_can_use_very_link_to_altar_without_further_redirection(): void
     {
-        foreach ($this->getArticlesWithFullPath() as $articleFile) {
+        foreach ($this->getArticlesFullPaths() as $articleFile) {
             $content = $this->getFileContent($articleFile);
             \preg_match_all('~(?<link>(?:[[:alpha:]]+:)?//(?:www[.])?altar[.]cz)~', $content, $matches);
             foreach ($matches['link'] as $link) {

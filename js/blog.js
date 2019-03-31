@@ -604,6 +604,12 @@ function googlemapsReady() {
         toptext: function () {
             return this.clone().children().remove().end().text()
         }
+    }), a.fn.extend({
+        localAnchor: function () {
+            var link = this.context.href;
+            var localHashIndex = link.lastIndexOf('#');
+            return link.substring(localHashIndex + 1);
+        }
     }), a.expr[":"].icontains = a.expr.createPseudo(function (b) {
         return function (c) {
             return a(c).toptext().toUpperCase().indexOf(b.toUpperCase()) >= 0
@@ -847,6 +853,15 @@ function googlemapsReady() {
             var e = d.clone().children(".anchor-highlight").remove().end().text(),
                 f = a.md.util.getInpageAnchorHref(e);
             b(d, f), c(d)
+            d.find('.anchor-highlight').find('a').click(function (b) {
+                b.preventDefault();
+                var c = a(this);
+                var localAnchor = c.localAnchor();
+                var d = a.md.util.getInpageAnchorText(localAnchor);
+                var localAnchorText = decodeURIComponent(d);
+                a.md.scrollToInPageAnchor(localAnchorText);
+                history.pushState(null, document.title, c.context.href);
+            })
         })
     }
 
@@ -959,7 +974,8 @@ function googlemapsReady() {
                 f.attr("href", a.md.util.getInpageAnchorHref(d.toptext())), f.click(function (b) {
                     b.preventDefault();
                     var c = a(this), d = a.md.util.getInpageAnchorText(c.toptext());
-                    a.md.scrollToInPageAnchor(d)
+                    a.md.scrollToInPageAnchor(d);
+                    history.pushState(null, document.title, c.context.href);
                 }), f.text(d.toptext()), e.append(f), i.append(e)
             }), a(window).resize(function () {
                 c(a("#md-page-menu")), d()
