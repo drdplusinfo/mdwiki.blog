@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace DrdPlus\Tests\Blog;
 
-class IndexTest extends AbstractBlogTestCase
+class IndexTest extends BlogTestCase
 {
 
     /**
