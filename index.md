@@ -1,10 +1,10 @@
 # Zápisky z neoficiláního vývoje DrD+2
 
+### [12. 4. 2019 Pidi pravidla - *Škrábance a pot*](clanky/2019-04-12-pidi_pravidla_skrabance_a_pot.md)
 ### [29. 3. 2019 Pidi pravidla - *Úroveň nula*](clanky/2019-03-29-pidi_pravidla_uroven_nula.md)
 ### [21. 3. 2019 Zmrtvýchvstání odvozených vlastností](clanky/2019-03-21-zmrtvychvstani_odvozenych_vlastnosti.md)
 ### [15. 3. 2019 Představy minulosti - *Mýty*](clanky/2019-03-15-predstavy_minulosti_myty.md)
 ### [12. 3. 2019 Učíme se z chyb](clanky/2019-03-12-ucime_se_z_chyb.md)
-### [30. 12. 2018 Škrábance a pot](clanky/2018-12-30-skrabance_a_pot.md)
 ### [7. 12. 2018 Představy minulosti - *Poslové*](clanky/2018-12-07-predstavy_minulosti_poslove.md)
 ### [30. 11. 2018 Unavený vůl](clanky/2018-11-30-unaveny_vul.md)
 ### [19. 11. 2018 Vydrž!](clanky/2018-11-19-vydrz.md)
