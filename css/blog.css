@@ -4,8 +4,13 @@ body {
     background-size: contain;
 }
 
+table {
+    overflow: auto;
+}
+
 h1, .h1 {
     font-size: 3em;
+    overflow: auto;
 }
 
 h2, .h2 {
@@ -151,4 +156,8 @@ code {
     white-space: pre-wrap;
     display: inline-block;
     padding: 0.2em 0.2em 0;
+}
+
+.licence {
+    padding: 1em;
 }
