@@ -47,8 +47,8 @@ Abychom ten kolotoč alespoň zpomalili, když už ho nedokážeme zastavit, tak
 
 My pravidla považujeme za mapu, která nám radí, kudy *můžeme* jít, ale do ničeho nás nenutí. Když budeme mít chuť zajít do lesa, chceme se mrknout do mapy, kde je nějaký hájek poblíž, když se ztratíme, chceme se mrknout do mapy, kudy dál, ale nechceme dálnici, ze které jde sjet až za patnáct kilometrů a na záchod můžeme jen na benzínce o dva kilometry blíže.
 
-> - *To už ten kousek vydržíš, ne?*
-> - *Ne.*
+> *To už ten kousek vydržíš, ne?*
+> *Ne.*
 
 No jo, my ale teď chceme *pidi* mapu a jaká mapa je tak pidi, že se z ní dá ještě něco vyčíst a není to už jen špatně složený kapesník? Osobně bychom chtěli mapu, která nám řekne, kde jsme **teď** a která nám ukáže, jaké cesty z ní vedou **ven**.
 
