@@ -26,7 +26,7 @@ Jo, potřebujeme proto zavést rychlé odbourávání téhle chvilkové *Únavy*
 
 *A když se dostanu na druhý řádek? A Třetí? Čtvrtý...?*
 
-Inu, pokud ti *Únava* z prvního řádku už přetekla dál, tak té další, **hlubší** únavy se už tak snadno nezbavíš, na to budeš potřebovat [delší leháro](https://pph.drdplus.info/#odpocinek).
+Inu, pokud ti *Únava* z prvního řádku už přetekla dál, tak té další, **hlubší** únavy se už tak snadno nezbavíš, na to budeš potřebovat [delší leháro](https://pph.drdplus.info/?trial=1#odpocinek).
 Ovšem první řádek *Únavy* ti bude po chvíli mizet pořád, ať už máš hlubší únavu **jakkoli** velikou.
 
 *Vážně? A z té hlubší únavy nemám postih k odpočinku?*
