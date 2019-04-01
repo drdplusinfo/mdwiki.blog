@@ -34,6 +34,8 @@ Ono to zní vzletně a krásně, ale má to svá *ale*, protože, jak bylo i [p�
 Z našeho hraní známe archetypy hráčů [od estébáka po Shakespeara](https://www.facebook.com/drdplus.info/posts/524802168031558), do toho jsou někteří šmrncnutí cifršpionem, který nedovolí číselnou úlitbu, zaokrouhlení, či snad dokonce vynechání(!) výpočtu, protože *pravidla jsou svatá*, další by nejradši dělal všechno, co v pravidlech není, mnohdy až ostatním na truc a teď babo raď, co s tím.
 
 #### Vyladěná anarchie
+Špetka teorie nám začíná otázkou *"Na co všechno vlastně pravidla potřebujeme?"*. Jo, můžeme se teď začít přetlačovat našimi přesvědčeními, ale taky to můžeme zkusit od nuly, **bez** pravidel.
+
 Když strčíme hlavu do vesmíru a zařveme, *"Hergot potřebujeme vůbec pravidla?!"*, tak nejdříve neuslyšíme nic, protože ve vakuu na nás zvuk kašle, ale když chvíli počkáme a budeme tvrdit, že hlasy v naší hlavě nejsou z nedostatku kyslíku, tak uslyšíme hráče všude po světě, jak hulákají jeden přes druhého *"AnoNéAnóóNééééAnéééAjóóAfůůj"* a aby toho zmatku nebylo málo, tak po krátké analýze hlasu zjistíme, že někteří dokonce po chvíli odporují **sami sobě**.
 On je to totiž normální vývoj, prostě něco strašně chceme, pak to konečně dostaneme, předávkujeme se tím a pak na to máme chvíli alergii, než se naše potřeba srovná na takové to *akorát*.
 
