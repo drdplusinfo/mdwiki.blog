@@ -14,7 +14,7 @@ Ta myšlenka chtěla svůj čas ⏳
 - [pracovní skupinu na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936#p532749) jsme založili 1. 5. 2018, kdy už nám bylo jasné, že to chce nejen novinky, ale i **změny** v jádře pravidel
 - [naše Trello](https://trello.com/b/L64FNYj3/drdplusinfo) jsme začali zasypávat nápady a úkoly jen o pár dní později, 17. 5. 2018, kdy se nám rozšířilo vědomí a bylo jasné, že s hlavou zaraženou v písku DrD+ toho moc neobjevíme a že by to chtělo se mrknout, jak jsou řešena [jiná slovní RPG](https://rpgforum.cz/anotace)
 
-Ale teprve v listopadu 2018 se v našich hlavách uklidnila fujavice a klesl prach, zvířený záplavou nápadů a pocitů, které se v nás uvolnily po zpřetrhání řetězu, kterým jsme byli připoutání ke starým, *nedotknutelným* pravidlům a my jsme konečně mohli s klidem na duši prohlásit, že se ve zmatku původní mlhoviny myšlenek začala tvořit nová hvězda, zatím drobounká a sotva viditelná, ale už se schopností držet volné myšlenky ve své přitažlivosti a ve správnou chvíli tu kterou ideu přijmout.
+Ale teprve v listopadu 2018 se v našich hlavách uklidnila fujavice a klesl prach, zvířený záplavou nápadů a pocitů, které se v nás uvolnily po zpřetrhání řetězu, kterým jsme byli připoutáni ke starým, *nedotknutelným* pravidlům a my jsme konečně mohli s klidem na duši prohlásit, že se ve zmatku původní mlhoviny myšlenek začala tvořit nová hvězda, zatím drobounká a sotva viditelná, ale už se schopností držet volné myšlenky ve své přitažlivosti a ve správnou chvíli tu kterou ideu přijmout.
 
 Od té doby nemyslíme na nic jiného, než na *pidi pravidla*.
 
@@ -29,7 +29,7 @@ Připomeneme si nejdříve jedno z našich hesel a pak si dáme špetku teorie, 
 
 > Dobré pravidlo směr ukazuje, špatné zakazuje
 
-Ono to zní vzletně a krásně, ale má to svá *ale*, protože, jak bylo i [původním tvůrcům známo](2019-03-15-predstavy_minulosti_myty.md#Odkaz_dračích_tvůrců), *každý z nás je jiný*, což nám dává úžasnou rozmanitost a zároveň přidává spoustu **komplikací**.
+Ono to zní vzletně a krásně, ale má to svá *ale*, protože, jak bylo i [původním tvůrcům známo](2019-03-15-predstavy_minulosti_myty.md#Odkaz_dračích_tvůrců), *každý z nás je jiný*, což nám dává úžasnou rozmanitost a zároveň přidává spoustu **komplikací**. *Je to ukazatel směru? Nebo je to zákaz ostatních směrů? Je ten směr vůbec dobrý? Nešlo by tohle pravidlo zkrátit? Nešlo by tohle trochu rozšířit?*
 
 Z našeho hraní známe archetypy hráčů [od estébáka po Shakespeara](https://www.facebook.com/drdplus.info/posts/524802168031558), do toho jsou někteří šmrncnutí cifršpionem, který nedovolí číselnou úlitbu, zaokrouhlení, či snad dokonce vynechání(!) výpočtu, protože *pravidla jsou svatá*, další by nejradši dělal všechno, co v pravidlech není, mnohdy až ostatním na truc a teď babo raď, co s tím.
 
