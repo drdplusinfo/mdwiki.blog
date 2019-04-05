@@ -69,18 +69,39 @@ Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info
 
 | Unavuje jako | Bod únavy za |
 |-----|----|
-| odpočinek | ? |
+| odpočinek | - |
 | ploužení | dvě hodiny |
 | chůze | jednu hodinu |
 | spěch | půl hodiny |
 | běh | pět minut |
 | sprint | dvě kola |
 
-- S těmi časovými úseky, za které dostáváme bod *Únavy*, si nejsme ještě naprosto jisti, ale nějak takhle to bude, takže se toho zatím držme.
+- S těmi časovými úseky, za které dostáváme bod *Únavy*, si **nejsme** ještě úplně jisti, ale nějak takhle to bude, takže se toho zatím držme.
 
-Když jdu nenáročnými stezkami, unavím se jedním bodem *Únavy* za hodinu a po šesti hodinách už cítím, jak se mi začínají nohy plést. Když si sednu, abych nohám ulevil, tak slabost odezní už po chvilce, ale mé zkušenosti velí, že mi pouze klesla *Únava* pod **citelnou** mez a tudíž zmizel můj postih, ale únava mi v nohách číhá pořád. S pocitem, že si nohy odpočinuly úplně, odcházím až po dlouhé hodině a krátké svačině. Pocit odpočinku by byl, ale jestli vážně zmizely všechny body únavy, toť otázka. Pojďme dál.
+Vypůjčíme si teď jamajskou střelu Usaina Bolta a jeho [osobní rekordy](https://cs.wikipedia.org/wiki/Usain_Bolt#Osobn%C3%AD_rekordy)
 
- 
+| Běh na 👟| Za ⏱️ |
+|--------|--------|
+| 100 metrů | 9,58 sekund |
+| 150 metrů | 14,35 sekund |
+| 200 metrů | 19,19 sekund |
+| 300 metrů | 30,97 sekund |
+| 400 metrů | 45,28 sekund |
+
+Až do tři sta metrů to s ním ani nehlo, prostě sto metrů za deset sekund a teprve poté můžeme říct, že mu nastupující únava začala brát rychlost. Kdybychom brali Usaina jako vzor pro naši *Únavu jako...*, tak by sprint unavoval už po pěti sekundách, [tedy](http://pph.drdplus.loc/#tabulka_casu) každé kolo by přibyly dva body únavy, aby mu po půl minutě mírně ztěžkly nohy s postihem -1.
+
+S delšími trasami nám pomůže o polovinu lehčí Martina Sáblíková a její [osobní rekordy](https://cs.wikipedia.org/wiki/Martina_S%C3%A1bl%C3%ADkov%C3%A1#Osobn%C3%AD_rekordy)
+
+| Bruslení na ⛸️| Za ⏱️ |
+|--------|--------|
+| 500 metrů | 39,23 sekund |
+| 1000 metrů | 75,86 sekund |
+| 1500 metrů | 113,441 sekund |
+| 3000 metrů | 232,023 sekund |
+| 5000 metrů | 402,013 sekund |
+| 10000 metrů | 828,334 sekund |
+
+Půl kilometru zvládla za čtyřicet sekund, dvojnásobnou vzdálenost o něco rychleji než za dvojnásobek, trojnásobnou vzdálenost o něco rychleji než za trojnásobek, šestinásobnou vzdálenost o za šestinásobek času, desetináslbnou vzdálenost za desetinásobek času a dvacetinásobnou vzdálenost za dvacetinásobek času. Suma sumárum, na tu holku je nějaká únava krátká.?
 
 ---
 
