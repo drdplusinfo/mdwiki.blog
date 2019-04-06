@@ -6,7 +6,7 @@
 > "A slzy Vincku, slzy!"
 > "A některým i slzy."
 
-Před časem jsme zjednodušili *původní* postihy za únavu a za zranění k *aktivním* činnostem a s hodem proti postihu [při *každé* změně](http://pph.drdplus.loc/#postih_za_zraneni) na postih rovný [počtu zaplněných řádků *Únavy* a *Zranění*](2018-10-22-nula.md#Nekonečný_začátek), ke *všemu* a bez hodu, poté jsme v *Únavě* zkoušeli najít [platidlo za odolávání takovýmto postihům](2018-11-30-unaveny_vul.md#Závěrem) (což se nám moc nepovedlo a budeme to ještě zjednodušovat), pak jsme si dali [jarní úklid](2019-03-12-ucime_se_z_chyb.md), na to [oživili většinu odvozených vlastností](2019-03-21-zmrtvychvstani_odvozenych_vlastnosti.md), oprášili dobrodruha [na nulté úrovni](2019-03-29-pidi_pravidla_uroven_nula.md#Závěrem) a během přemýšlení nad tím vším jsme se několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla, až nám došlo, že žijeme převážně v únavě malé, až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň *někteří* z nás.
+Před časem jsme zjednodušili *původní* postihy za únavu a za zranění k *aktivním* činnostem a s hodem proti postihu [při *každé* změně](https://pph.drdplus.info/?trial=1#postih_za_zraneni) na postih rovný [počtu zaplněných řádků *Únavy* a *Zranění*](2018-10-22-nula.md#Nekonečný_začátek), ke *všemu* a bez hodu, poté jsme v *Únavě* zkoušeli najít [platidlo za odolávání takovýmto postihům](2018-11-30-unaveny_vul.md#Závěrem) (což se nám moc nepovedlo a budeme to ještě zjednodušovat), pak jsme si dali [jarní úklid](2019-03-12-ucime_se_z_chyb.md), na to [oživili většinu odvozených vlastností](2019-03-21-zmrtvychvstani_odvozenych_vlastnosti.md), oprášili dobrodruha [na nulté úrovni](2019-03-29-pidi_pravidla_uroven_nula.md#Závěrem) a během přemýšlení nad tím vším jsme se několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla, až nám došlo, že žijeme převážně v únavě malé, až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň *někteří* z nás.
 Ignorujme teď ale nářky unavených otců a zamysleme se nad chvilkovou únavou, která nás doprovází životem jako věrné Jojo, pulzující sem a tam, ale stále na blízku.
 
 ## Na hranici
@@ -24,7 +24,7 @@ Prostě na sobě pozorujeme únavu povrchovou, **chvilkovou** a únavu hlubší,
 > Prosímtě, co tak funíš? Vždyť jsi ještě nic neudělal.
 > To je preventivně, jeden nikdy neví.
 
-Když se na to podíváme [pravidlově](http://pph.drdplus.loc/#postih_za_unavu), tak první postih za únavu dostaneme při zaplněném prvním řádku *Únavy*. To je to naše zmiňované Jojo, ta krátkodobá únava, nebo lépěji *Chvilková únava*.
+Když se na to podíváme [pravidlově](https://pph.drdplus.info/?trial=1#postih_za_unavu), tak první postih za únavu dostaneme při zaplněném prvním řádku *Únavy*. To je to naše zmiňované Jojo, ta krátkodobá únava, nebo lépěji *Chvilková únava*.
 
 *Pokud máš v prvním řádku pouze chvilkovou únavu, tak by to mělo ovšem znamenat, že ti po chvíli zase zmizí, ne?*
 
@@ -88,20 +88,45 @@ Vypůjčíme si teď jamajskou střelu Usaina Bolta a jeho [osobní rekordy](htt
 | 300 metrů | 30,97 sekund |
 | 400 metrů | 45,28 sekund |
 
-Až do tři sta metrů to s ním ani nehlo, prostě sto metrů za deset sekund a teprve poté můžeme říct, že mu nastupující únava začala brát rychlost. Kdybychom brali Usaina jako vzor pro naši *Únavu jako...*, tak by sprint unavoval už po pěti sekundách, [tedy](http://pph.drdplus.loc/#tabulka_casu) každé kolo by přibyly dva body únavy, aby mu po půl minutě mírně ztěžkly nohy s postihem -1.
+Až do tři sta metrů to s ním ani nehlo, prostě sto metrů za deset sekund a teprve poté můžeme říct, že mu nastupující únava začala brát rychlost. Kdybychom brali Usaina jako vzor pro naši *Únavu jako...*, tak by sprint unavoval už po pěti sekundách, [tedy](https://pph.drdplus.info/?trial=1#tabulka_casu) každé kolo by přibyly dva body únavy, aby mu po půl minutě mírně ztěžkly nohy s postihem -1.
 
 S delšími trasami nám pomůže o polovinu lehčí Martina Sáblíková a její [osobní rekordy](https://cs.wikipedia.org/wiki/Martina_S%C3%A1bl%C3%ADkov%C3%A1#Osobn%C3%AD_rekordy)
 
 | Bruslení na ⛸️| Za ⏱️ |
 |--------|--------|
 | 500 metrů | 39,23 sekund |
-| 1000 metrů | 75,86 sekund |
-| 1500 metrů | 113,441 sekund |
-| 3000 metrů | 232,023 sekund |
-| 5000 metrů | 402,013 sekund |
-| 10000 metrů | 828,334 sekund |
+| 1000 metrů | 75,86 sekund, 1:15,86 |
+| 1500 metrů | 113,441 sekund, 1:53,44 |
+| 3000 metrů | 232,023 sekund, 3:52,023 |
+| 5000 metrů | 402,013 sekund, 6:42,013 |
+| 10000 metrů | 828,334 sekund, 13:48,334 |
 
-Půl kilometru zvládla za čtyřicet sekund, dvojnásobnou vzdálenost o něco rychleji než za dvojnásobek, trojnásobnou vzdálenost o něco rychleji než za trojnásobek, šestinásobnou vzdálenost o za šestinásobek času, desetináslbnou vzdálenost za desetinásobek času a dvacetinásobnou vzdálenost za dvacetinásobek času. Suma sumárum, na tu holku je nějaká únava krátká.?
+Půl kilometru zvládla za čtyřicet sekund, dvojnásobnou vzdálenost o něco rychleji než za dvojnásobek, trojnásobnou vzdálenost o něco rychleji než za trojnásobek, šestinásobnou vzdálenost za šestinásobek, desetinásobnou vzdálenost za desetinásobek a dvacetinásobnou vzdálenost za dvacetinásobek času.
+
+> To u toho běhání chrápe, ne?
+
+To sotva, narkolepsie bychom si všimli, ale v jednom máš pravdu, Martina nesprintuje, ale běží, protože si to její sport vyžaduje. Pokud někdy hrála Dračí doupě plus a řídí se pravidly pro únavu, tak za deset kilometrů jízdy získá po dvanácti minutách pouhé dva body únavy, což zní poněkud nereálně, ale celý řádek to nebude, protože postih ji evidentně nezpomaluje.
+
+S Martinou jsme se moc neposunuli, protože jsme předpokládali, že při rychrobruslení se sprintuje, ale otevřela nám další druh pohybu, běh, takže se teď podíváme na zoubek běžci na slovo vzatému, [Emilu Zátopkovi](https://cs.wikipedia.org/wiki/Emil_Z%C3%A1topek#P%C5%99ehled_%C3%BAsp%C4%9Bch%C5%AF).
+
+| Běh na | Za |
+|---|---|
+| 5 kilometrů | 13:57,2 |
+| 10 kilometrů | 29:02,6 |
+| 20 kilometrů | 1:01:16,0 |
+| 25 kilometrů | 1:16:36,4 |
+| 30 kilometrů | 1:35:23,8 |
+| 42.195 kilometrů | 2:23:03,2 |
+
+*Jak vidno, bruslení je přibližně dvakrát rychlejší, než běh.*
+
+Za čtrnáct minut by Emil měl mít teprve tři body únavy a být tak bez postihu, dvojnásobnou vzdálenost zvládl za dvojnásobek času a plným řádkem únavy, ale už v cíli, takže během závodu opět bez postihu. Ovšem se stejnou pravidelností hltal i další kilometry, šestinásobnou vzdálenost za šestinásobek času, i když měl mít už po hodině a půl běhu osmnáct bodů únavy, tedy v cíli postih mínus tři a při maratonu by měl mít v cíli, po bezmála dvou a půl hodině běhu, třicet bodů únavy, tedy pět řádků, tedy postih mínus pět. Jenže... nic, Emil se pokaždé vřítil do cíle stejnou rychlostí, postih nepostih. Někde nám něco uniká.
+
+> Běžel na půl plynu, to je jasný
+
+Emil Zátopek? Ať už bylo jeho hnací silou cokoli, tak ji využíval naplno.
+
+> Takže jsou pravidla na prd, já to věděl 
 
 ---
 
