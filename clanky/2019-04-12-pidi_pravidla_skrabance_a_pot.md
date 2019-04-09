@@ -59,7 +59,7 @@ Jen si na ten klid najít čas.
 > Viděl tu někdy někdo vůbec draka?
 > Se ví mladíku, děd mého děda vyprávěl, jak se jeho prabába přihnala celá sinavá z klestí, tááááákovýhle hovado prej viděla!
 > A kde je ten drak teď?
-> Chrápe, to se ví, pod horou, líže si rány. To víte, jak se bába lekla, tak vo něj přerazila vrbový koště a to nejni jako ty přespolní smetáky dneska, tehdá ste s tím moh skály lámat!
+> Chrápe, to se ví, pod horou, líže si rány. To víte, jak se bába lekla, tak vo něj přerazila vrbový koště a to nejni jako ty přespolní smetáky dneska, tehdá ste s nima moh skály lámat!
 
 A je to tady, [zase ten čas](2018-11-30-unaveny_vul.md#Čas). Mohli bychom tu plácnout něco jako *jeden bod Únavy či Zranění z prvního řádku ti zmizí za deset minut* a bylo by, jenže to bychom nesměli být takoví šťourové.
 
@@ -77,56 +77,6 @@ Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info
 | sprint | dvě kola |
 
 - S těmi časovými úseky, za které dostáváme bod *Únavy*, si **nejsme** ještě úplně jisti, ale nějak takhle to bude, takže se toho zatím držme.
-
-Vypůjčíme si teď jamajskou střelu Usaina Bolta a jeho [osobní rekordy](https://cs.wikipedia.org/wiki/Usain_Bolt#Osobn%C3%AD_rekordy)
-
-| Běh na 👟| Za ⏱️ |
-|--------|--------|
-| 100 metrů | 9,58 sekund |
-| 150 metrů | 14,35 sekund |
-| 200 metrů | 19,19 sekund |
-| 300 metrů | 30,97 sekund |
-| 400 metrů | 45,28 sekund |
-
-Až do tři sta metrů to s ním ani nehlo, prostě sto metrů za deset sekund a teprve poté můžeme říct, že mu nastupující únava začala brát rychlost. Kdybychom brali Usaina jako vzor pro naši *Únavu jako...*, tak by sprint unavoval už po pěti sekundách, [tedy](https://pph.drdplus.info/?trial=1#tabulka_casu) každé kolo by přibyly dva body únavy, aby mu po půl minutě mírně ztěžkly nohy s postihem -1.
-
-S delšími trasami nám pomůže o polovinu lehčí Martina Sáblíková a její [osobní rekordy](https://cs.wikipedia.org/wiki/Martina_S%C3%A1bl%C3%ADkov%C3%A1#Osobn%C3%AD_rekordy)
-
-| Bruslení na ⛸️| Za ⏱️ |
-|--------|--------|
-| 500 metrů | 39,23 sekund |
-| 1000 metrů | 75,86 sekund, 1:15,86 |
-| 1500 metrů | 113,441 sekund, 1:53,44 |
-| 3000 metrů | 232,023 sekund, 3:52,023 |
-| 5000 metrů | 402,013 sekund, 6:42,013 |
-| 10000 metrů | 828,334 sekund, 13:48,334 |
-
-Půl kilometru zvládla za čtyřicet sekund, dvojnásobnou vzdálenost o něco rychleji než za dvojnásobek, trojnásobnou vzdálenost o něco rychleji než za trojnásobek, šestinásobnou vzdálenost za šestinásobek, desetinásobnou vzdálenost za desetinásobek a dvacetinásobnou vzdálenost za dvacetinásobek času.
-
-> To u toho běhání chrápe, ne?
-
-To sotva, narkolepsie bychom si všimli, ale v jednom máš pravdu, Martina nesprintuje, ale běží, protože si to její sport vyžaduje. Pokud někdy hrála Dračí doupě plus a řídí se pravidly pro únavu, tak za deset kilometrů jízdy získá po dvanácti minutách pouhé dva body únavy, což zní poněkud nereálně, ale celý řádek to nebude, protože postih ji evidentně nezpomaluje.
-
-S Martinou jsme se moc neposunuli, protože jsme předpokládali, že při rychrobruslení se sprintuje, ale otevřela nám další druh pohybu, běh, takže se teď podíváme na zoubek běžci na slovo vzatému, [Emilu Zátopkovi](https://cs.wikipedia.org/wiki/Emil_Z%C3%A1topek#P%C5%99ehled_%C3%BAsp%C4%9Bch%C5%AF).
-
-| Běh na | Za |
-|---|---|
-| 5 kilometrů | 13:57,2 |
-| 10 kilometrů | 29:02,6 |
-| 20 kilometrů | 1:01:16,0 |
-| 25 kilometrů | 1:16:36,4 |
-| 30 kilometrů | 1:35:23,8 |
-| 42.195 kilometrů | 2:23:03,2 |
-
-*Jak vidno, bruslení je přibližně dvakrát rychlejší, než běh.*
-
-Za čtrnáct minut by Emil měl mít teprve tři body únavy a být tak bez postihu, dvojnásobnou vzdálenost zvládl za dvojnásobek času a plným řádkem únavy, ale už v cíli, takže během závodu opět bez postihu. Ovšem se stejnou pravidelností hltal i další kilometry, šestinásobnou vzdálenost za šestinásobek času, i když měl mít už po hodině a půl běhu osmnáct bodů únavy, tedy v cíli postih mínus tři a při maratonu by měl mít v cíli, po bezmála dvou a půl hodině běhu, třicet bodů únavy, tedy pět řádků, tedy postih mínus pět. Jenže... nic, Emil se pokaždé vřítil do cíle stejnou rychlostí, postih nepostih. Někde nám něco uniká.
-
-> Běžel na půl plynu, to je jasný
-
-Emil Zátopek? Ať už bylo jeho hnací silou cokoli, tak ji využíval naplno.
-
-> Takže jsou pravidla na prd, já to věděl 
 
 ---
 
