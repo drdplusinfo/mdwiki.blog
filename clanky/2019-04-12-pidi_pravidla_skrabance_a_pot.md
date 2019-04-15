@@ -78,6 +78,36 @@ Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info
 
 - S těmi časovými úseky, za které dostáváme bod *Únavy*, si **nejsme** ještě úplně jisti, ale nějak takhle to bude, takže se toho zatím držme.
 
+Můžeme nějak využít rychlost, s jakou přibývá únava, jako rychlost, se kterou mizí?
+
+> Jako že si budu zapisovat ke každýmu bodu únavy, jak vzniknul a tak ho i odbourávat? Vzbuďtě mě až se nebudou kecat blbosti.
+
+V tom případě budíček. Jde nám o *stupně rychlosti* a chceme zjistit, jestli nemají nějaký vztah k odpočinku, nic víc.
+
+V tom nám pomůže fakt, že únava je co do efektu velmi podobná zranění, takže co si dokážeme vyléčit za dvě kola, [tedy](http://pph.drdplus.loc/#tabulka_casu) dvacet sekund? No, to tak stihneme zmáčknout správné místo na krvácející ruce nebo vítězoslavně vyrvat ze dna batohu umolousaný fáč.
+
+Ovšem my nechceme řešit jeden časový dílek, ale celý "řádek", protože stejně tak jako teprve celý řádek zranění či únavy na nás začne mít vliv, což je šest časových dílků, tak i výsledek léčení či odpočinku bychom podle našich šesti stupnů měli brát až po šesti dílcích, v případě sprintu tedy za dvě minuty. To už zvládneme ránu i ovázat a zaškrtit.
+Ovšem zafačování není léčení, to je jen ošetření, omezení následků. A když se bavíme o únavě tak... eee... ahá, tam jsou křeče, mžitky před očima, mdloby, dušnost, píchání v boku a další komplikace, tak známé nám, méně trénovaným. To by šlo.
+
+Další je běh, který ovlivní tělo po šesti dílcích času, což je půl hodiny. Co dokážeme za půl hodiny vyléčit? Drobná šití řezných ran, sestavení dlahy na zlomeninu, puštění žilou pro snížení nebezpečného tlaku, řádná dezinfekce jedovatého kousnutí ohněm a podvázáním a další bolestivé zákroky, které ospravedlňují smysl alkoholu.
+A únava? Jakých následků únavy se dokážeme zbavit po půl hodině? Klid a tma na bolest hlavy, ticho a odreagování na duševní vyčerpání, lehká chůze na třas po enormní tělesné zátěži, úleva zvracením kvůli zkaženému jídlu, prostě komplikace z většího, ale stále ještě celkem krátkodobého tělesného nebo duševního stresu.
+
+> Všimli jste si toho? Ještě ne? Tak my vám to prozradíme za chvíli.
+
+Další je spěch, který tělo pocítí po třech hodinách. To už se dokáží zacelit malé ranky, odřeniny a říznutí, stihnou se menší operace jako vydloubání šípu z nohy, poskládání vícenásobné, ale pořád ne tříštívé zlomeniny a podobná vnitřní, ale stále nepříliš komplikovaná zranění.
+Při unavě už stihneme zrazit příliš divokou horečku, strávit těžší jídlo natolik, abychom začali cítit, že po těžkém výstupu zase začíná být tělo k něčemu, krátkým spánkem rozehnat nejhorší chmury a podráždění z dlouhého nevyspání. Stále je to ale spíše hašení dost konkrétních následků vyčerpání, nikoli obnova celkové tělesné síly.
+
+A tady to utneme a prozradíme, co nás během těchto odstavců trklo. **Ani jednou** jsme nenašli jasnou regeneraci, jen jsme po třech hodinách začali mít dojem, že by mohli mizet některé drobné, ale už citelné ranky a lehčí vysílení. To je dost v kontrastu s naší původní představou, že první řádek představuje drobná zranění a lehkou únavu, ze které se oklepeme do deseti minut. Sakryš.
+
+Ale neházejme ještě kuši do žita, hleďme zapojiti komunitu!
+
+## Únava společnosti
+> "Je to zapojený?" "Já nevím, je ticho." "Tak je to zapojený." "Ale předtím bylo taky ticho." "Předtím to zapojený nebylo." "Já tomu nějak nerozumím." "To nemusíš, hlavně že je to zapojený."
+
+Kostřivec se ujal RPG fóra, optal se místních sportovců, jak rychle se zregenerují po zoufalém úprvku k cíli a... bylo ticho. Ono ticho na textovém fóru je známá věc, většina obsahu neobsahuje zvukovou stopu, ale Kostřivec tak nějak předpokládal, že se strhne debata nad rychlostí šneka po třech expressech a dvě hodiny bez reakce ho vyvedly z míry.
+
+TODO Facebook, RPG fórum, Nový prostor
+
 ---
 
 - *předchozí [<< 29. 3. 2019 Pidi pravidla - Úroveň nula](2019-03-29-pidi_pravidla_uroven_nula.md)*
