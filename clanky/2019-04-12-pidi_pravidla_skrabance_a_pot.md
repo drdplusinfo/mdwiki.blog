@@ -6,7 +6,8 @@
 > "A slzy Vincku, slzy!"
 > "A některým i slzy."
 
-Mírně otravné a na vyšších úrovních nevýrazné [*původní* postihy](http://pph.drdplus.loc/#postih_za_unavu) za únavu a za zranění, které platily pouze na *aktivní* činnosti a na které jsme házeli při [*každé* změně](https://pph.drdplus.info/?trial=1#postih_za_zraneni) únavy či zranění, jsme už před časem zjednodušili, takže teď je postih [stejný](2018-10-22-nula.md#Nekonečný_začátek) jako počet zaplněných řádků *Únavy* a *Zranění*, ke *všemu* a bez hodu.
+Mírně otravné a na vyšších úrovních nevýrazné [*původní* postihy](http://pph.drdplus.loc/#postih_za_unavu) za únavu a za zranění, které platily pouze na *aktivní* činnosti a na které jsme házeli při [*každé* změně](https://pph.drdplus.info/?trial=1#postih_za_zraneni) únavy či zranění, jsme už před časem [zjednodušili](2018-10-22-nula.md#Nekonečný_začátek), takže teď je postih stejný jako počet zaplněných řádků *Únavy* a *Zranění* (které jsou navíc poloviční a je jich dvakrát tolik), ke *všemu* a bez hodu.
+
 Poté jsme v *Únavě* zkoušeli najít [platidlo za odolávání takovýmto postihům](2018-11-30-unaveny_vul.md#Závěrem) (což se nám moc nepovedlo a budeme to ještě zjednodušovat), pak jsme si dali trochu delší [jarní úklid](2019-03-12-ucime_se_z_chyb.md), na to [oživili většinu odvozených vlastností](2019-03-21-zmrtvychvstani_odvozenych_vlastnosti.md), oprášili dobrodruha [na nulté úrovni](2019-03-29-pidi_pravidla_uroven_nula.md#Závěrem) a během přemýšlení nad tím vším jsme se několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla, až nám došlo, že žijeme převážně v únavě malé, až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň *někteří* z nás.
 Ignorujme teď ale nářky unavených otců a zamysleme se nad chvilkovou únavou, která nás doprovází životem jako věrné Jojo, pulzující sem a tam, ale stále na blízku.
 
