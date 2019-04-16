@@ -12,8 +12,8 @@ Poté jsme v *Únavě* zkoušeli najít [platidlo za odolávání takovýmto pos
 Ignorujme teď ale nářky unavených otců a zamysleme se nad chvilkovou únavou, která nás doprovází životem jako věrné Jojo, pulzující sem a tam, ale stále na blízku.
 
 ## Na hranici
-> Dál už nemůžeš, je tam hranice!
-> Aha, a že jí nevidím...
+> "Dál už nemůžeš, je tam hranice!"
+> "Aha, a že jí nevidím..."
 
 U těchto myšlenek na chvilkovou únavu vycházíme z prostých zážitků, kdy máme kolikrát pocit, že jsme se uhnali jak psi, ale po chvíli funění setřepeme pot a cítíme se tak čerstvě, že můžeme celé to martýrium podstoupit znovu.
 Nejdříve tedy přesáhneme určitou **hranici**, za kterou už cítíme osten *Únavy* a o slovo se přihlásí citelný postih, abychom po chvíli odpočinku přešli onu hranici zase zpět a po ještě delší chvíli získali zpátky **všechnu** sílu.
@@ -23,8 +23,8 @@ Podle našich zkušeností dokážeme správným dávkováním námahy a odpoči
 Prostě na sobě pozorujeme únavu povrchovou, **chvilkovou** a únavu hlubší, **dlouhodobou**.
 
 ## Chvilková únava
-> Prosímtě, co tak funíš? Vždyť jsi ještě nic neudělal.
-> To je preventivně.
+> "Prosímtě, co tak funíš? Vždyť jsi ještě nic neudělal."
+> "To je preventivně."
 
 Když se na to podíváme [pravidlově](https://pph.drdplus.info/?trial=1#postih_za_unavu), tak první postih za únavu dostaneme při zaplněném prvním řádku *Únavy*. To je to naše zmiňované Jojo, ta krátkodobá únava, nebo lépěji *Chvilková únava*.
 
@@ -46,9 +46,9 @@ První řádek *Únavy* ti tedy bude dělat jakýsi polštář, nárazník, kter
 A když už jsme přemýšleli o *Únavě*, tak jsme si vzali na mušku i *Zranění*, protože ty dvě metriky jsou si podobné jako vejce vejci.
 
 ## Povrchové zranění
-> Co tady tak řvete?
-> Noha! Moje noha!
-> Citlivko, minulej tejden tady cesťáka vodnaproti přejel vodbržděnej žebřiňák a ani nepíp.
+> "Co tady tak řvete?"
+> "Noha! Moje noha!"
+> "Citlivko. Minulej tejden tady cesťáka vodnaproti přejel vodbržděnej žebřiňák a ani nepíp."
 
 Když proletíš šípkovým keřem se shnilou třešňovou větví v ruce, narazíš si palec o pařez skrytý v ostřici, či ti záda zmaluje nejdřív sadař a potom hbitější z rodičů, tak po chvíli to všechno odezní. Možná něco oteče, zmokvá, na omak to bude bolet, ale žádná tragédie se konat nebude. A když se porveš se svým sokem, tak bitka obvykle skončí po krátké tahanici a několika málo ranách, po kterých nezbude ani ta sexy jizva, prostě to utnete ve chvíli, kdy jeden z vás začne mít pocit, že by to celé mohlo skončit hůř.
 
@@ -58,10 +58,10 @@ Další řádky *Zranění* už samozřejmě půjdou hlouběji, těch se nějak�
 Jen si na ten klid najít čas.
 
 ## Čas klidu
-> Viděl tu někdy někdo vůbec draka?
-> Se ví mladíku, děd mého děda vyprávěl, jak se jeho prabába přihnala celá sinavá z klestí, tááááákovýhle hovado prej viděla!
-> A kde je ten drak teď?
-> Chrápe, to se ví, pod horou, líže si rány. To víte, jak se bába lekla, tak vo něj přerazila vrbový koště a to nejni jako ty přespolní smetáky dneska, tehdá ste s nima moh skály lámat!
+> "Viděl tu někdy někdo vůbec draka?"
+> "Se ví mladíku, děd mého děda vyprávěl, jak se jeho prabába přihnala celá sinavá z klestí, tááááákovýhle hovado prej viděla!"
+> "A kde je ten drak teď?"
+> "Chrápe, to se ví, pod horou, líže si rány. To víte, jak se bába lekla, tak vo něj přerazila vrbový koště a to nejni jako ty přespolní smetáky dneska, tehdá ste s nima moh skály lámat!"
 
 A je to tady, [zase ten čas](2018-11-30-unaveny_vul.md#Čas). Mohli bychom tu plácnout něco jako *jeden bod Únavy či Zranění z prvního řádku ti zmizí za deset minut* a bylo by, jenže to bychom nesměli být takoví šťourové.
 
@@ -88,7 +88,7 @@ V tom případě budíček. Jde nám o *stupně rychlosti* a chceme zjistit, jes
 
 V tom nám pomůže fakt, že únava je co do efektu velmi podobná zranění, takže co si dokážeme vyléčit za dvě kola, [tedy](https://pph.drdplus.info/?trial=1#tabulka_casu) dvacet sekund? No, to tak stihneme zmáčknout správné místo na krvácející ruce nebo vítězoslavně vyrvat ze dna batohu umolousaný fáč.
 
-Ovšem my nechceme řešit jeden časový dílek, ale celý "řádek", protože stejně tak jako teprve celý řádek zranění či únavy na nás začne mít vliv, což je šest časových dílků, tak i výsledek léčení či odpočinku bychom podle našich šesti stupňů měli brát až po šesti dílcích, v případě sprintu tedy za dvě minuty. To už zvládneme ránu i ovázat a zaškrtit.
+Ovšem my nechceme řešit jeden časový dílek, ale celý "řádek", protože stejně tak jako teprve celý řádek zranění či únavy, což je šest časových dílků, na nás začne mít vliv, tak i výsledek léčení či odpočinku bychom podle našich šesti stupňů měli brát až po šesti dílcích, v případě sprintu tedy za dvě minuty. To už zvládneme ránu i ovázat a zaškrtit.
 Ovšem zafačování není léčení, to je jen ošetření, omezení následků. A když se bavíme o únavě tak... eee... ahá, tam jsou křeče, mžitky před očima, mdloby, dušnost, píchání v boku a další komplikace, tak známé nám, méně trénovaným. To by šlo.
 
 Další je běh, který ovlivní tělo po šesti dílcích času, což je půl hodiny. Co dokážeme za půl hodiny vyléčit? Drobná šití řezných ran, sestavení dlahy na zlomeninu, puštění žilou pro snížení nebezpečného tlaku, řádná dezinfekce jedovatého kousnutí ohněm a podvázáním a další bolestivé zákroky, které ospravedlňují smysl alkoholu.
@@ -118,7 +118,7 @@ Pořád jsme nebyli spokojení, takže se Kostřivec vydal za Tomášem Svobodou
 
 Na RPG fóru i na Facebooku jsme se na únavu ze sprintu ptali špatně, měli jsme jasně říct, že hledáme čas odpočinku po **celém řádku únavy**, což je přesně `dvě kola sprintu za bod únavy krát šest bodů na řádek = sto dvacet sekund`, takže až po dvou minutách. Teprve tehdy se má projevit únava a všechno před tím je jen takové chvilkové zapocení.
 
-Jakmile jsme byly u běhu konkrétnější a jasně jsme se zeptali na odpočinek, nutný po `bod únavy za pět minut krát šest bodů na řádek = třicet minut` půl hodině běhu, hned byly odhady o poznání delší.
+Jakmile jsme byli u běhu konkrétnější a jasně jsme se zeptali na odpočinek nutný po `bod únavy za pět minut krát šest bodů na řádek = třicet minut`, tedy půl hodině běhu, hned byly odhady o poznání delší.
 
 Náš nápad na chvilkovou únavu začínal dostávat stále větší trhliny.
 
@@ -135,13 +135,13 @@ Inu, pravidla pro zranění a únavu byla navržena a stále platí pro intenziv
 
 A o tom jsme taky dumali a zjistili jsme, že takové pravidlo tam už dávno je. Je to **hod proti pasti**. Když Kostřivec dřepoval, házel si proti pasti na *Sílu* (ve které je skryta i výdrž) a přestože neznáme velikost pasti, známe výsledek, deset dřepů. Kdyby se takhle hnal za deseti dřepy co to jde co nejdéle, tak bychom mohli prohlásit, že se zatěžoval jako při sprintu a za dvě minuty, ať už by během té doby zvládl sto nebo tisíc dřepů... no spíše nízké desítky... tak po dvou minutách by dostal šestý bod únavy, zaplnil by si celý řádek a až do řádného odpočinku by ho bolely nohy (a v jeho případě i kolena).
 
-Zřejmě bude nějaká hranice, něco jako *Síla* a *Vůle* šest, kolem které se láme schopnost dřepovat co nejrychleji celé dvě minuty, k tomu životní situace, jako [hroch za zády TODO](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwirsJXd89PhAhVFa1AKHUaFBasQtwIwAXoECAoQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjLwVX7_sfXY&usg=AOvVaw1grzgDAfgVSkULd0niWDf3), kdy by mnozí z nás dokázali běžet déle a rychleji, než by si kdy dokázali představit, ale to sem teď nepatří, tomu se podíváme na zoubek, až budeme oprašovat hod proti pasti.
+Zřejmě bude nějaká hranice, něco jako *Síla* a *Vůle* šest, kolem které se láme schopnost dřepovat co nejrychleji celé dvě minuty, k tomu životní situace, jako [hroch za zády TODO](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwirsJXd89PhAhVFa1AKHUaFBasQtwIwAXoECAoQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjLwVX7_sfXY&usg=AOvVaw1grzgDAfgVSkULd0niWDf3), kdy by mnozí z nás zvládli běžet déle a rychleji, než by si kdy dokázali představit, ale to sem teď nepatří, tomu se podíváme na zoubek, až budeme oprašovat hod proti pasti.
 
 ## Závěrem
 Snažili jsme se dostat do pravidel pro dobrodruhy, hrdiny a padouchy náš pohodlný život, ve kterém sprint při zvuku píšťalky průvodčího vypadá jako olympijský výkon, ale zatěžkávací zkouška dobrovolníků, pamětníků a teoretiků nás vyvedla z omylu.
 Chvilková únava a drobná zranění sice patří do hry, ale nepatří do pravidel. Hledejme ale na špatném to dobré, *pidi pravidla* budou alespoň menší.
 
-Ale věšme zbraně, nikoli hlavy, protože teď nás čeká oprášení hodu proti pasti, což bude úkol těžší, než se na první pohled může zdát. Krleš!
+Ovšem věšme zbraně, nikoli hlavy, protože teď nás čeká oprášení hodu proti pasti, což bude úkol těžší, než se na první pohled může zdát. Krleš!
 
 ---
 
