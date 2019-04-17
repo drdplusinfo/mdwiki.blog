@@ -10,4 +10,5 @@ $lastDate = max($dates);
 $lastDate->setTime(0, 0, 0);
 header('Content-Type: application/json');
 header('Cache-Control: no-cache');
+header('Access-Control-Allow-Origin: *');
 echo json_encode(['last_article_date' => max($dates)->format(DATE_ATOM)]);
