@@ -6,17 +6,15 @@
 "A slzy Vincku, slzy!"
 "A některým i slzy."*
 
-Mírně otravné a na vyšších úrovních nevýrazné [*původní* postihy](https://pph.drdplus.info/?trial=1#postih_za_unavu) za únavu a za zranění, které platily pouze na *aktivní* činnosti a na které jsme házeli při [*každé* změně](https://pph.drdplus.info/?trial=1#postih_za_zraneni) únavy či zranění, jsme už před časem [zjednodušili](2018-10-22-nula.md#Nekonečný_začátek), takže teď je postih stejný jako počet zaplněných řádků *Únavy* a *Zranění* (které jsou navíc poloviční a je jich dvakrát tolik), ke *všemu* a bez hodu.
-
-Poté jsme v *Únavě* zkoušeli najít [platidlo za odolávání takovýmto postihům](2018-11-30-unaveny_vul.md#Závěrem) (což se nám moc nepovedlo a budeme to ještě zjednodušovat), pak jsme si dali trochu delší [jarní úklid](2019-03-12-ucime_se_z_chyb.md), na to [oživili většinu odvozených vlastností](2019-03-21-zmrtvychvstani_odvozenych_vlastnosti.md), oprášili dobrodruha [na nulté úrovni](2019-03-29-pidi_pravidla_uroven_nula.md#Závěrem) a během přemýšlení nad tím vším jsme se několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla, až nám došlo, že žijeme převážně v únavě malé, až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň *někteří* z nás.
+Během přemýšlení pokračováním Dračího doupěte plus jsme se už několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla... až nám došlo, že žijeme převážně v únavě malé až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň *někteří* z nás.
 Ignorujme teď ale nářky unavených otců a zamysleme se nad chvilkovou únavou, která nás doprovází životem jako věrné Jojo, pulzující sem a tam, ale stále na blízku.
 
 ## Na hranici
 *"Dál už nemůžeš, je tam hranice!"
-"Aha, a že jí nevidím..."*
+"Aha, a že jí nevidím."*
 
 U těchto myšlenek na chvilkovou únavu vycházíme z prostých zážitků, kdy máme kolikrát pocit, že jsme se uhnali jak psi, ale po chvíli funění setřepeme pot a cítíme se tak čerstvě, že můžeme celé to martýrium podstoupit znovu.
-Nejdříve tedy přesáhneme určitou **hranici**, za kterou už cítíme osten *Únavy* a o slovo se přihlásí citelný postih, abychom po chvíli odpočinku přešli onu hranici zase zpět a po ještě delší chvíli získali zpátky **všechnu** sílu.
+Nejdříve tedy přesáhneme určitou **hranici**, za kterou už cítíme osten *Únavy* a o slovo se přihlásí citelný postih, abychom po chvíli odpočinku přešli onu hranici zase **zpět** a po ještě delší chvíli získali zpátky **všechnu** sílu.
 
 Podle našich zkušeností dokážeme správným dávkováním námahy a odpočinku zůstat čilí celý den, ovšem jakmile se začneme snažit *přes moc* a naložíme si **větší** námahu, než nám občasný klid dokáže vyžehlit, tak se naše únava přehoupne do míst, ze kterých se zpět hrabeme několik dní.
 
