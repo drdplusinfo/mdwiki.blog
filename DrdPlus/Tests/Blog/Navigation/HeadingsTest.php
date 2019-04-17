@@ -73,7 +73,7 @@ class HeadingsTest extends BlogTestCase
                 self::assertNotSame('Závěrem', $conclusionHeading, 'Conclusion is not expected in article ' . $articleFileBaseName);
                 continue;
             }
-            self::assertGreaterThan(0, count($conclusionHeadings), 'Expected some conclusion heading in article ' . $articleFileBaseName);
+            self::assertGreaterThan(0, count($conclusionHeadings), 'Expected conclusion heading "Závěrem" in article ' . $articleFileBaseName);
             self::assertCount(
                 1,
                 $conclusionHeadings,

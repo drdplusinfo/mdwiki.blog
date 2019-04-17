@@ -1,7 +1,7 @@
 # Minuta inteligence
 *29. 10. 2018*
 
-> Uctěme naše drahé zesnulé nápady minutou inteligence, povstaňte prosím
+*Uctěme naše drahé zesnulé nápady minutou inteligence, povstaňte prosím.*
 
 V [návrhu *Boje*](2018-08-10-boj.md#Počet_akcí) se počet akcí počítal dost šíleně, byť to vycházelo z dobrých předpokladů a byť jsme to navrhli s dobrým úmyslem, ale naštěstí jsme to záhy zjednodušili v [Inteligentním bojovníkovi](2018-10-10-inteligentni_bojovnik.md). Takže teď, tedy před tím, než začnou platit následující řádky, se počet vědomých akcí **za kolo** omezuje pouze na tvou *Inteligenci* a po nenápadné poznámce v [Neboji](2018-10-26-neboj.md#Jenom_akce) také na tvou *Obratnost*, podle toho, kterou z těchto vlastností máš **menší**.
 
@@ -12,7 +12,7 @@ Jelikož jsme tušili, že je něco špatně, tak z nás po několika dnech vypa
 
 ## Baba minuta
 
-> Ba ba, z nedobré vzdálenosti život svůj sleduješ
+*Ba ba, z nedobré vzdálenosti život svůj sleduješ.*
 
 A pak nám to došlo, šestka je v Dračím doupěti **magická**. Když původní jedinec s *Inteligencí* a *Obratností* nula zvládl jednu akci za kolo, tak ten samý jedinec s posunutou "nulou" z nuly na šest by měl zase zvládnout jednu akci za kolo. A kolo boje je čas a **šest** kol boje je [jedna minuta](https://pph.drdplus.info/?trial=1#tabulka_casu).
 Vlastně je to takhle ještě lepší než předtím, protože původně *Inteligence* hrdiny mohla narůst z nuly až na patnáctku, takže najednou omezení počtu akcí přes *Inteligenci* začal připomínat počet úhozů na klávesnici a jediné skutečné omezení tak tvořila *Obratnost* a z ní odvozené body *Boje*, které jsme ale [zrušili](2018-10-26-neboj.md).

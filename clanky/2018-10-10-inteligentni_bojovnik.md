@@ -2,7 +2,7 @@
 
 *10. 10. 2018*
 
-> Inteligence má mnoho podob, pro hlupáky neviditelných
+*Inteligence má mnoho podob, pro hlupáky neviditelných.*
 
 Při rozsáhlém [zkoumání, pitvání a nakonec i úpravách *Boje*](2018-08-10-boj.md) jsme mimo jiné došli k tomu, že
 
@@ -83,7 +83,7 @@ Když se někdo chová moudře a rozumně, tak jedná s rozvahou, ví, co ho za 
 
 Parafrázovat moudrost můžeme i tak, že
 
-> Chytří tak dlouho dokazují, že něco nejde, až přijde moudrý a udělá to
+*Chytří tak dlouho dokazují, že něco nejde, až přijde moudrý a udělá to.*
 
 Kdybychom se vrátili k boji a tam hledali, kdo má větší převahu, kdo vidí více možností, kdo se dokáže starat sám o sebe a ještě zvládá radit ostatním, tak nakonec ukážeme prstem na toho, kdo má nejvíc bodů *Boje*. To nějak nesedí... aha, on by ten moudrý dost možná do boje ani nešel a snažil by se najít méně destruktivní cestu k vítězství. Či možná ještě lépe, ke spolupráci.
 

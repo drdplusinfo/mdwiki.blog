@@ -103,7 +103,10 @@ class ExternalLinksTest extends BlogTestCase
         self::assertEmpty(
             $linksWithoutTrialPassing,
             "Every link to private rules should have query part trial=1.0\n"
-            . \implode("\n", $linksWithoutTrialPassing)
+            . implode("\n", $linksWithoutTrialPassing)
+            . "\n"
+            . "You can use\n"
+            . 'sed --in-place --regexp-extended --expression=\'s~https?://([^.]+[.]drdplus)[.](loc|info)(:[0-9]+)?/([#$])~https://\1.info/?trial=1\4~g\' clanky/*.md'
         );
     }
 

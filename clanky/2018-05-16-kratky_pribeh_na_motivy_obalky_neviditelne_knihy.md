@@ -17,7 +17,7 @@ Tím se omlouvám všem, co nic jiného než novinky neakceptují, ale zkušenos
 
 ## Holka bez helmy
 
-> Jsem lovec. Cíl vystopuji, překvapím z portálu a... odeberu vzorek.
+*Jsem lovec. Cíl vystopuji, překvapím z portálu a... odeberu vzorek.*
 
 Bušení na dveře kajuty rozechvívalo celou loď, sípavý hlas chrčel nesrozumitelné skřeky, zato za zpropadenými dveřmi nevrzlo ani prkno.
 Náhle údery ustaly a vystřídalo je lehké klapání podbitých holínek. "Máme ho?" ozval se v šeru věcný, sametový hlas, aby mu vzápětí odpověděl dunivě a chraplavě jiný, "Nemáme **ji**!". Majitel sametového hlasu odhalil v chabém měsíčním přísvitu svou něžnou tvář, krátce avšak silně se nadechl a bez dalšího komentáře vyběhl schody po třech. Úpění lety zkoušeného dřeva za ním mu prozradilo, že hromotlucký společník mu kryje záda.
@@ -25,7 +25,7 @@ Náhle údery ustaly a vystřídalo je lehké klapání podbitých holínek. "M�
 Mořem omývaná paluba odrážela mihotavé světlo portálu, jenž se vznášel nad klubkem lana, zamotaného do zdánlivě neúhledného smotku. Vše šlo podle plánu.
 Krasavec se tanečním krokem přenesl k hlavnímu stěžni, zkušenými kmity se omotal připravenou kotevní sítí a bez jediného vysvětlení pro svého ramenatého kolegu se zlomil vzad, s pusou dokořán a očima v sloup. Ani žába rozjetá přeloženým dvoukolákem by to nezvládla efektivněji.
 
-> V transu je ticho, nádherné ticho, jsem tu naprosto sám a jsem naprosto volný. Volný!
+*V transu je ticho, nádherné ticho, jsem tu naprosto sám a jsem naprosto volný. Volný!*
 
 Po vodní hladině se nesl řev, kterému i hluboký trans těžko odolával a postupně se bariérou odpojených smyslů prokousával až do čarodějovy hlavy, "...je, děje, ...se děje, ...rva se děje!", narážely mu do uší útržky vět jako příboj.
 Líbezný mladík zacukal koutky úst, jak hledal správné svalstvo, až konečně mohl nedočkavému bojovníkovi odpovědět. "Mám ji", zahuhlal a několikrát větu zopakoval, jak se snažil najít své tělo. "Mám ji a vidím ji", řekl už zcela zřetelně, zatímco svalovec přemáhal silnou potřebu z něj systematickým mláceným o palubu lodi dostat víc.
@@ -36,20 +36,20 @@ Silák doslova nalepil tvář k portálu, jak se snažil proniknout dovnitř a v
 
 Náhle se vzduch zastavil, ledové kapky vodní tříště se odrazily jako od kozinky na vojenském bubnu a oba dobrodruzi zalapali po dechu. Světélkující portál se zhroutil.
 
-> Když se zastaví čas, nic neodchází, nic se nevrací, světem projede záblesk naprostého míru. V takových okamžicích jsem volný. Volný!
+*Když se zastaví čas, nic neodchází, nic se nevrací, světem projede záblesk naprostého míru. V takových okamžicích jsem volný. Volný!*
 
 Sotva se hromotluk dokázal nadechnout, popadl drobného krasavce a s přehnanou silou ho postavil na nohy, načež opět přešel do řevu, "Co je s ní! Co se sakra stalo! Co je s ní!" Čaroděj rázně zvedl paži, na níž stále cítil předchozí stisk, čímž si sjednal klid a obnovil svou důstojnost a co mu nedostatkový vzduch v plicích dovolil, zasýpal vysvětlení situace, "nemám tušení", načež mu krk sevřely mozolnaté prsty a znovu se mu podlomila kolena. Hromotluk se zjevně rozhodl, že přejde do fáze otloukání paluby neschopným čarodějem.
 Hezoun se vzepjal, na chvíli se utrhl ze sevření a ze zbytků sil zaječel, "pošlu tě tam!", načež ho obnovené přiškrcení poslalo na podlahu.
 
-> Když nevím, že existuji, tak je můj duch osvobozen od sebe samého a je volný. Volný!
+*Když nevím, že existuji, tak je můj duch osvobozen od sebe samého a je volný. Volný!*
 
 Měl silný pocit, že se topí, cítil vodu v nose, začínal vnímat promočený šat a za tím plíživý chlad, bičoval proto svou vůlí oční víčka. Konečně se rozevřela a zrak mu padl na rozzuřeného válečníka, který v rukou dosud svíral prázdné vědro.
 Jakmile dal střízlík svým pohybem najevo, že opět vnímá, hromotlucký muž začal opět řvát, "pošli mě tam! Dělej ty vyschlej elfe, pošli mě za ní!". Víc už nestihl, když čaroděj v sedě načrtl rukama zbrkle obrazec, zahuhňal polohlasně slova, co by jindy ohlušila příboj a pod bojovníkem se zjevil světélkující portál. O palubu cvakla obrova čelist, jak se nechal překvapit pádem do nenadálé prohlubně, což mu konečně zavřelo chřtán a pak nadobro zmizel. Pleskání vln o příď zas mohlo znít nerušeně a klidně.
 
 "Ticho léčí", vydechl s úlevou čaroděj a pohlédl na svou ruku sevřenou v pěst, jak stále svírá zkumavku se vzácným obsahem. Ne, nešlo všechno podle původního plánu, ale nový plán byl také dobrý, takže... všechno šlo podle plánu.
 
-> Svým zaměstnancům říkám, že "Jsem lovec. Cíl vystopuji, překvapím portálem a... odeberu vzorek. Vše mezi portálem a odebráním vzorků je na vás."
-Naštěstí úmrtnost brigádníků je dostatečná na to, abych nebyl ohrožen vytvořením citové vazby, takže jsem stále volný. Volný!
+*Svým zaměstnancům říkám, že "Jsem lovec. Cíl vystopuji, překvapím portálem a... odeberu vzorek. Vše mezi portálem a odebráním vzorků je na vás."
+Naštěstí úmrtnost brigádníků je dostatečná na to, abych nebyl ohrožen vytvořením citové vazby, takže jsem stále volný. Volný!*
 
 Napsáno na motivy obálky [Neviditelné knihy](http://neviditelnakniha.cz) a [debaty o ní na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=310&t=12812&hilit=neviditeln%C3%A1+kniha&start=225).
 

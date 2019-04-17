@@ -2,8 +2,8 @@
 
 *12. 10. 2018*
 
-> \- A co ty 'seš vlastně zač?
-> \- Zámečník, lovec, ranař, stopař po sférách, meteoroděj...
+*"A co ty 'seš vlastně zač?"
+"Zámečník, lovec, ranař, stopař po sférách, meteoroděj..."*
 
 Už delší dobu si brousíme zuby na více povolání pro jednoho dobrodruha a čas uzrál.
 
@@ -22,13 +22,13 @@ Tak prosté, tak jednoduché, tak... tak to je všechno?
 A teď ta hořká část.
 
 ### Vždy připraven
-> Měl takovej pěkněj opasek, na kterym měl napsáno "Vždy připraven!". Nebyl. Ještě ho mám doma někde schovanej...
+*Měl takovej pěkněj opasek, na kterym měl napsáno "Vždy připraven!". Nebyl. Ještě ho mám doma někde schovanej...*
 
 Jakmile začneme míchat více povolání dohromady, začnou nám vyskakovat čertíci z krabičky a vypadávat kostlivci ze skříně.
 
 ## Čáryfuci
-> \- Když mě pustíš, rybáři, splním ti tři přání.
-> \- Smůla rybo, já jsem kouzelnej dědeček, mazej na rožeň.
+*"Když mě pustíš, rybáři, splním ti tři přání."
+"Smůla rybo, já jsem kouzelnej dědeček, mazej na rožeň."*
 
 Celkovou úroveň jsme sfoukli snadno, teď to vezmeme přes úroveň těch opovážlivců, kteří si s magií zahrávají.
 

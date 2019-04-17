@@ -113,7 +113,7 @@ Na pozadí pravidel pro jednotlivá povolání by tedy měly tikat šachy s pevn
 
 ### Jednotné zdroje
 
-> Když zdroje, tak pro všechny
+*Když zdroje, tak pro všechny.*
 
 Nadhodíme pár příkladů se zdroji a možnostmi
 
