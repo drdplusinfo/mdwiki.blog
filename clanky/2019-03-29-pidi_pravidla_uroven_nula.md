@@ -100,4 +100,4 @@ Srážka s realitou se blíží, držte palce, krleš!
 ---
 
 - *předchozí [<< 21. 3. 2019 Zmrtvýchvstání odvozených vlastností](2019-03-21-zmrtvychvstani_odvozenych_vlastnosti.md)*
-- *následující [>> 12. 4. 2019 Pidi pravidla - Škrábance a pot](2019-04-12-pidi_pravidla_skrabance_a_pot.md)*
+- *následující [>> 17. 4. 2019 Pidi pravidla - Škrábance a pot](2019-04-17-pidi_pravidla_skrabance_a_pot.md)*

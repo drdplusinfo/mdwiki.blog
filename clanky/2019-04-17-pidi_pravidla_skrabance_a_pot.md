@@ -1,12 +1,12 @@
 # Pidi pravidla - *Škrábance a pot*
 
-*12. 4. 2019*
+*17. 4. 2019*
 
 *"Nemohu vám slíbit nic než škrábance, krev, dřinu a pot!"
 "A slzy Vincku, slzy!"
 "A některým i slzy."*
 
-Během přemýšlení pokračováním Dračího doupěte plus jsme se už několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla... až nám došlo, že žijeme převážně v únavě malé až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň *někteří* z nás.
+Během přemýšlení nad pokračováním Dračího doupěte plus jsme se už několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla... až nám došlo, že žijeme převážně v únavě malé až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň *někteří* z nás.
 Ignorujme teď ale nářky unavených otců a zamysleme se nad chvilkovou únavou, která nás doprovází životem jako věrné Jojo, pulzující sem a tam, ale stále na blízku.
 
 ## Na hranici
