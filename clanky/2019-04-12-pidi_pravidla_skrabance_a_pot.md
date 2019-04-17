@@ -2,18 +2,18 @@
 
 *12. 4. 2019*
 
-> "Nemohu vám slíbit nic než škrábance, krev, dřinu a pot!"
-> "A slzy Vincku, slzy!"
-> "A některým i slzy."
+*"Nemohu vám slíbit nic než škrábance, krev, dřinu a pot!"
+"A slzy Vincku, slzy!"
+"A některým i slzy."*
 
-Mírně otravné a na vyšších úrovních nevýrazné [*původní* postihy](http://pph.drdplus.loc/#postih_za_unavu) za únavu a za zranění, které platily pouze na *aktivní* činnosti a na které jsme házeli při [*každé* změně](https://pph.drdplus.info/?trial=1#postih_za_zraneni) únavy či zranění, jsme už před časem [zjednodušili](2018-10-22-nula.md#Nekonečný_začátek), takže teď je postih stejný jako počet zaplněných řádků *Únavy* a *Zranění* (které jsou navíc poloviční a je jich dvakrát tolik), ke *všemu* a bez hodu.
+Mírně otravné a na vyšších úrovních nevýrazné [*původní* postihy](https://pph.drdplus.info/?trial=1#postih_za_unavu) za únavu a za zranění, které platily pouze na *aktivní* činnosti a na které jsme házeli při [*každé* změně](https://pph.drdplus.info/?trial=1#postih_za_zraneni) únavy či zranění, jsme už před časem [zjednodušili](2018-10-22-nula.md#Nekonečný_začátek), takže teď je postih stejný jako počet zaplněných řádků *Únavy* a *Zranění* (které jsou navíc poloviční a je jich dvakrát tolik), ke *všemu* a bez hodu.
 
 Poté jsme v *Únavě* zkoušeli najít [platidlo za odolávání takovýmto postihům](2018-11-30-unaveny_vul.md#Závěrem) (což se nám moc nepovedlo a budeme to ještě zjednodušovat), pak jsme si dali trochu delší [jarní úklid](2019-03-12-ucime_se_z_chyb.md), na to [oživili většinu odvozených vlastností](2019-03-21-zmrtvychvstani_odvozenych_vlastnosti.md), oprášili dobrodruha [na nulté úrovni](2019-03-29-pidi_pravidla_uroven_nula.md#Závěrem) a během přemýšlení nad tím vším jsme se několikrát unavili, odfrkli si, vysílili se, odpočali si, zamrkali únavou a civěli do dálky, až únava zase odezněla, až nám došlo, že žijeme převážně v únavě malé, až žádné a jakmile se začne o slovo hlásit postih, hned se začneme flákat, aby ta otravnost zmizela. Tedy alespoň *někteří* z nás.
 Ignorujme teď ale nářky unavených otců a zamysleme se nad chvilkovou únavou, která nás doprovází životem jako věrné Jojo, pulzující sem a tam, ale stále na blízku.
 
 ## Na hranici
-> "Dál už nemůžeš, je tam hranice!"
-> "Aha, a že jí nevidím..."
+*"Dál už nemůžeš, je tam hranice!"
+"Aha, a že jí nevidím..."*
 
 U těchto myšlenek na chvilkovou únavu vycházíme z prostých zážitků, kdy máme kolikrát pocit, že jsme se uhnali jak psi, ale po chvíli funění setřepeme pot a cítíme se tak čerstvě, že můžeme celé to martýrium podstoupit znovu.
 Nejdříve tedy přesáhneme určitou **hranici**, za kterou už cítíme osten *Únavy* a o slovo se přihlásí citelný postih, abychom po chvíli odpočinku přešli onu hranici zase zpět a po ještě delší chvíli získali zpátky **všechnu** sílu.
@@ -23,8 +23,8 @@ Podle našich zkušeností dokážeme správným dávkováním námahy a odpoči
 Prostě na sobě pozorujeme únavu povrchovou, **chvilkovou** a únavu hlubší, **dlouhodobou**.
 
 ## Chvilková únava
-> "Prosímtě, co tak funíš? Vždyť jsi ještě nic neudělal."
-> "To je preventivně."
+*"Prosímtě, co tak funíš? Vždyť jsi ještě nic neudělal."
+"To je preventivně."*
 
 Když se na to podíváme [pravidlově](https://pph.drdplus.info/?trial=1#postih_za_unavu), tak první postih za únavu dostaneme při zaplněném prvním řádku *Únavy*. To je to naše zmiňované Jojo, ta krátkodobá únava, nebo lépěji *Chvilková únava*.
 
@@ -46,9 +46,9 @@ První řádek *Únavy* ti tedy bude dělat jakýsi polštář, nárazník, kter
 A když už jsme přemýšleli o *Únavě*, tak jsme si vzali na mušku i *Zranění*, protože ty dvě metriky jsou si podobné jako vejce vejci.
 
 ## Povrchové zranění
-> "Co tady tak řvete?"
-> "Noha! Moje noha!"
-> "Citlivko. Minulej tejden tady cesťáka vodnaproti přejel vodbržděnej žebřiňák a ani nepíp."
+*"Co tady tak řvete?"
+"Noha! Moje noha!"
+"Citlivko. Minulej tejden tady cesťáka vodnaproti přejel vodbržděnej žebřiňák a ani nepíp."*
 
 Když proletíš šípkovým keřem se shnilou třešňovou větví v ruce, narazíš si palec o pařez skrytý v ostřici, či ti záda zmaluje nejdřív sadař a potom hbitější z rodičů, tak po chvíli to všechno odezní. Možná něco oteče, zmokvá, na omak to bude bolet, ale žádná tragédie se konat nebude. A když se porveš se svým sokem, tak bitka obvykle skončí po krátké tahanici a několika málo ranách, po kterých nezbude ani ta sexy jizva, prostě to utnete ve chvíli, kdy jeden z vás začne mít pocit, že by to celé mohlo skončit hůř.
 
@@ -58,10 +58,10 @@ Další řádky *Zranění* už samozřejmě půjdou hlouběji, těch se nějak�
 Jen si na ten klid najít čas.
 
 ## Čas klidu
-> "Viděl tu někdy někdo vůbec draka?"
-> "Se ví mladíku, děd mého děda vyprávěl, jak se jeho prabába přihnala celá sinavá z klestí, tááááákovýhle hovado prej viděla!"
-> "A kde je ten drak teď?"
-> "Chrápe, to se ví, pod horou, líže si rány. To víte, jak se bába lekla, tak vo něj přerazila vrbový koště a to nejni jako ty přespolní smetáky dneska, tehdá ste s nima moh skály lámat!"
+*"Viděl tu někdy někdo vůbec draka?"
+"Se ví mladíku, děd mého děda vyprávěl, jak se jeho prabába přihnala celá sinavá z klestí, tááákovýhle hovado prej viděla!"
+"A kde je ten drak teď?"
+"Chrápe, to se ví, pod horou, líže si rány. To víte, jak se bába lekla, tak vo něj přerazila vrbový koště a to nejni jako ty přespolní smetáky dneska, tehdá ste s nima moh skály lámat!"*
 
 A je to tady, [zase ten čas](2018-11-30-unaveny_vul.md#Čas). Mohli bychom tu plácnout něco jako *jeden bod Únavy či Zranění z prvního řádku ti zmizí za deset minut* a bylo by, jenže to bychom nesměli být takoví šťourové.
 
@@ -82,7 +82,7 @@ Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info
 
 Můžeme nějak využít rychlost, s jakou přibývá únava, jako rychlost, se kterou mizí?
 
-> Jako že si budu zapisovat ke každýmu bodu únavy, jak vzniknul a tak ho i odbourávat? Vzbuďte mě až se nebudou kecat blbosti.
+*Jako že si budu zapisovat ke každýmu bodu únavy, jak vzniknul a tak ho i odbourávat? Vzbuďte mě až se nebudou kecat blbosti.*
 
 V tom případě budíček. Jde nám o *stupně rychlosti* a chceme zjistit, jestli nemají nějaký vztah k odpočinku, nic víc.
 
@@ -94,7 +94,7 @@ Ovšem zafačování není léčení, to je jen ošetření, omezení následků
 Další je běh, který ovlivní tělo po šesti dílcích času, což je půl hodiny. Co dokážeme za půl hodiny vyléčit? Drobná šití řezných ran, sestavení dlahy na zlomeninu, puštění žilou pro snížení nebezpečného tlaku, řádná dezinfekce jedovatého kousnutí ohněm a podvázáním a další bolestivé zákroky, které ospravedlňují smysl alkoholu.
 A únava? Jakých následků únavy se dokážeme zbavit po půl hodině? Klid a tma na bolest hlavy, ticho a odreagování na duševní vyčerpání, lehká chůze na třas po enormní tělesné zátěži, úleva zvracením kvůli zkaženému jídlu, prostě komplikace z většího, ale stále ještě celkem krátkodobého tělesného nebo duševního stresu.
 
-> Všimli jste si toho? Ještě ne? Tak my vám to prozradíme za chvíli.
+*Všimli jste si toho? Ještě ne? Tak my vám to prozradíme za chvíli.*
 
 Další je spěch, který tělo pocítí po třech hodinách. To už se dokáží zacelit malé ranky, odřeniny a říznutí, stihnou se menší operace jako vydloubání šípu z nohy, poskládání vícenásobné, ale pořád ne tříštivé zlomeniny a podobná vnitřní, ale stále nepříliš komplikovaná zranění.
 Při unavě už stihneme srazit příliš divokou horečku, strávit těžší jídlo natolik, abychom začali cítit, že po těžkém výstupu zase začíná být tělo k něčemu, krátkým spánkem rozehnat nejhorší chmury a podráždění z dlouhého nevyspání. Stále je to ale spíše hašení dost konkrétních následků vyčerpání, nikoli obnova celkové tělesné síly.
@@ -104,7 +104,7 @@ A tady to utneme a prozradíme, co nás během těchto odstavců trklo. **Ani je
 Ale neházejme ještě kuši do žita, hleďme zapojiti komunitu!
 
 ## Únava společnosti
-> "Je to zapojený?" "Já nevím, je ticho." "Tak je to zapojený." "Ale předtím bylo taky ticho." "Předtím to zapojený nebylo." "Já tomu nějak nerozumím." "To nemusíš, hlavně že je to zapojený."
+*"Je to zapojený?" "Já nevím, je ticho." "Tak je to zapojený." "Ale předtím bylo taky ticho." "Předtím to zapojený nebylo." "Já tomu nějak nerozumím." "To nemusíš, hlavně že je to zapojený."*
 
 Při zapojování komunity se Kostřivec se ujal RPG fóra, [optal se](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936&start=150#p556569) místních sportovců, jak rychle se zregenerují po zoufalém úprku k cíli a... čekal. Tak nějak předpokládal, že se strhne debata nad rychlostí šneka po přeplazení kofeinové tablety, dočkal se ale jen dvou odpovědí, kdy mu Jerson srazil hřebínek taktním naznačením, že jeho vzpomínky na školní léta začínají podléhat korozi a York, který se doznal, že u své maličkosti předpokládá po takovém výkonu mdloby v řádech dnů.
 Shodli se alespoň, že po krátkém sprintu se tělo zregeneruje asi tak za pět minut.
@@ -127,11 +127,11 @@ Potvrdila se nám naše obava, že myšlenka, se kterou jsme do *škrábanců a 
 
 Jak to, sakra? Kde je ta trhlina, kvůli které nám z chvilkové únavy odpadávají pravidla pro únavu jako nepovedená fasáda a na jejímž dně leží pravda, kterou slyšíme, ale nevidíme?
 
-> Pšššt! Dumáme.
+*Pšššt! Dumáme.*
 
 Inu, pravidla pro zranění a únavu byla navržena a stále platí pro intenzivní, hloubkovou zátěž, nikoli ty naše občasné sportovní výstřelky při dobíhání vlaku a zvedání dětí.
 
-> Aha, takže do pravidel pro zranění a únavu náš nápad nenacpeme, ale pořád bychom ho v pravidlech mít chtěli, ne? Takže úplně nové pravidlo?
+*Aha, takže do pravidel pro zranění a únavu náš nápad nenacpeme, ale pořád bychom ho v pravidlech mít chtěli, ne? Takže úplně nové pravidlo?*
 
 A o tom jsme taky dumali a zjistili jsme, že takové pravidlo tam už dávno je. Je to **hod proti pasti**. Když Kostřivec dřepoval, házel si proti pasti na *Sílu* (ve které je skryta i výdrž) a přestože neznáme velikost pasti, známe výsledek, deset dřepů. Kdyby se takhle hnal za deseti dřepy co to jde co nejdéle, tak bychom mohli prohlásit, že se zatěžoval jako při sprintu a za dvě minuty, ať už by během té doby zvládl sto nebo tisíc dřepů... no spíše nízké desítky... tak po dvou minutách by dostal šestý bod únavy, zaplnil by si celý řádek a až do řádného odpočinku by ho bolely nohy (a v jeho případě i kolena).
 

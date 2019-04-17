@@ -2,14 +2,14 @@
 
 *21. 3. 2019*
 
-> Poslední lopata se líně zhoupla dolů, prsť a štěrk naposledy zabubnovaly na dubové víko a byla tma. Klidná, konejšivá, věčná tma. A z té tmy se ozývalo ťukání, tiché, nepravidelné a jakoby nejisté a kdo špicoval uši, mohl zaslechnout tenké hlásky, které se překrývaly navzájem "My už nebudeme složité. My už jsme taky primitivové. Nechybíme vám?"
+*Poslední lopata se líně zhoupla dolů, prsť a štěrk naposledy zabubnovaly na dubové víko a byla tma. Klidná, konejšivá, věčná tma. A z té tmy se ozývalo ťukání, tiché, nepravidelné a jakoby nejisté a kdo špicoval uši, mohl zaslechnout tenké hlásky, které se překrývaly navzájem "My už nebudeme složité. My už jsme taky primitivové. Nechybíme vám?"*
 
-*Před časem jsme odvozené vlastnosti Dračího doupěte plus [zahodili](2018-09-03-velkej_fanousek.md#Dovednosti), protože v nich něco smrdí, abychom je teď zase oživovali, protože nám ten smrad nedá a my budeme hledat a hledat, až najdeme ty, které pouze načichly smradem ostatních a kterým, po krátké sprše, budeme zase moci potřást pravicí.*
+Před časem jsme odvozené vlastnosti Dračího doupěte plus [zahodili](2018-09-03-velkej_fanousek.md#Dovednosti), protože v nich něco smrdí, abychom je teď zase oživovali, protože nám ten smrad nedá a my budeme hledat a hledat, až najdeme ty, které pouze načichly smradem ostatních a kterým, po krátké sprše, budeme zase moci potřást pravicí.
 
 ## Jiná doba
-> - Čest práci, soudruhu.
-> - To jste asi si spletl dobu...
-> - Dobu možná, ale vás ne!
+*"Čest práci, soudruhu."
+"To jste asi si spletl dobu..."
+"Dobu možná, ale vás ne!"*
 
 Pohřbené odvozené vlastnosti jsme začali tímto článkem zachraňovat už někdy v listopadu 2018, ale pak se nám do toho vřítila [jarní debordelizace](2019-03-12-ucime_se_z_chyb.md), my rozdělanou práci přerušili a teď, když se k ní po měsících vracíme, tak zjišťujeme, že už nemá takový význam.
 
@@ -43,7 +43,7 @@ Vezmeme si k ruce přehled všech odvozených vlastností z DrD+, které se mus�
 | *Rychlost* | (*Síla* + *Obratnost*)/2 | |
 | *Charisma* | [(*Cit* + *Inteligence*)/2](2018-10-31-cit_pro_charisma.md#Závěrem) | | |
 
-> Vypadá to hrozně, co?
+*Vypadá to hrozně, co?*
 
 Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina těsně před sešlostí věkem, tedy na [nejvyšší dvacáté první úrovni](https://pph.drdplus.info/?trial=1#tabulka_zkusenosti), bojovník na slovo vzatý, bude mít co nejvyšší *Sílu* a *Obratnost*, aby zvýšil své šance na přežití (a protože to jsou jeho [hlavní vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_povolani)), což u [člověka](https://pph.drdplus.info/?trial=1#tabulka_ras) z dobrého rodu bude přibližně jedenáct, a ostatní, [vedlejší vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_povolani) bude mít tak pět. Teď si posadíme pro porovnání vedle sebe výsledky dle *původních pravidel* a dle nového návrhu s *nejmenší ze všech zúčastněných vlastností*:
 
@@ -74,7 +74,8 @@ Změní to nějak zásadně naši tabulku výsledků?
 | *Charisma* | (12 + 12)/2 = **12** | **12** |
 
 Zatímco u předchozích hodnot to vypadalo, že *úplně mimo* je náš nový návrh, tak s o něco vyššími vlastnostmi se najednou naprosto rozsypala původní pravidla.
-> Ty jo, mít nebezpečnost dvacet, to by přede mnou utíkaly i pařezy.
+
+*Ty jo, mít nebezpečnost dvacet, to by přede mnou utíkaly i pařezy.*
 
 Z tohohle souboje vychází vítězně nový návrh, takže zatím je to 1:1 na zápasy.
 
@@ -167,7 +168,8 @@ a na nás teď je, abychom zjistili, zda tři pozůstalé odvozené vlastnosti d
 
 ### Vůně důstojnosti
 Udržet si *Důstojnost* je jako udržet si důvěru. A důvěru v nás dokáže zničit jedna jediná událost, jedno jediné zklamání, ať už za ně může naše nízká *Inteligence*, chybějící *Vůle* nebo nedostatek *Citu*.
-> Tak počkat, když selžu jako kuchař, tak ztratím důvěru i jako řidič?
+
+*Tak počkat, když selžu jako kuchař, tak ztratím důvěru i jako řidič?*
 
 To sotva, stejně jako důstojnost ztracená při vaření stěží ovlivní důstojnost při řízení. Jsou to dvě odlišné situace, dvě odlišná prostředí a herně by to byly dva odlišné hody.
 
@@ -177,7 +179,7 @@ Důstojnost proto budeme zjišťovat jako nejmenší ze tří základních duše
 *Rychlost* se nakonec probojovala z karantény tak, jak je, bez připomínek, a my můžeme přejít k platnosti pravidla nejmenší z vlastností.
 
 #### Na chůdách
-> Tak počkat, nezapomněli jste na vliv *Velikosti*?
+*Tak počkat, nezapomněli jste na vliv Velikosti?*
 
 To je sice pravda, ale zase nebudeme čtenáře zatěžovat každým detailem... no dobře, tak budeme. Vliv *Velikosti* na *Rychlost* jsme totiž řešili na RPG fóru, kde jsme se dohrabali až k [matematickým důkazům](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14936&start=75#p539199) a zkrácený závěr je, že
 

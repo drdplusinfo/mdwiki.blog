@@ -5,14 +5,13 @@
 V původních pravidlech je u každé zbraně uvedena [potřebná Síla](https://pph.drdplus.info/?trial=1#potrebna_sila_zbrane_pro_boj_zblizka) a za každý chybějící bod *Síly* přichází [postih](https://pph.drdplus.info/?trial=1#tabulka_postihu_ke_zbrani_za_chybejici_silu).
 
 ## K čemu to je
-> Má potřebná síla zbraně nějaký smysl?
+*Má potřebná síla zbraně nějaký smysl?*
 
 První správná otázka je, jestli je to k něčemu.
 Odpověď zní *samozřejmě ano*, vždyť tohle je Dračí doupě plus, ve kterém se sice můžeš stát hrdinou, ale pořád by tě mělo držet při zemi. Třeba naprosto samozřejmým postihem za příliš slabé ruce u příliš těžkého kyje.
 
 ## S tabulkou
-
-> Mají **původní** postihy za chybějící sílu vlastně smysl?
+*Mají **původní** postihy za chybějící sílu vlastně smysl?*
 
 Druhá otázka je, jestli původní [Tabulka postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?trial=1#tabulka_postihu_za_chybejici_silu) dává vyčerpávající přehled postihů.
 No, mě teda vyčerpává určitě. Sice to na první pohled vypadá krásně...
@@ -29,8 +28,7 @@ No, mě teda vyčerpává určitě. Sice to na první pohled vypadá krásně...
 Být to v počítačové hře, proč ne. Ale ve hře textové, kde se má hlavně mluvit?
 
 ## Bez tabulky
-
-> Je třeba odlišovati jednoduchosti od blbosti
+*Je třeba odlišovati jednoduchosti od blbosti*
 
 Dračí doupě plus jsem na [web](https://www.drdplus.info) začal převádět z osobního důvodu - ve všech těch textech a tabulkách jsem se ztrácel a doufal jsem, že webová stránka skrz naskrz prošpikovaná vzájemnými odkazy mi pomůže. Prdaljs.
 Tak jsem napsal [kalkulátor boje](https://boj.drdplus.info), který sice funguje, ale najednou jsem otrokem nějakého nástroje, kterému musím věřit, protože z hlavy si to prostě nespočítám. Fuj.
@@ -48,8 +46,7 @@ No, zní to jednoduše. Tabulku můžeme zahodit a místo ní si každý z nás 
 ```Postih = Síla - Potřebná síla```
 
 ## Tak s tabulkou nebo bez tabulky?
-
-> Neutekla nám nějaká myšlenka v těch odlišných postizích?
+*Neutekla nám nějaká myšlenka v těch odlišných postizích?*
 
 Původní autoři se rozhodli, že realističnosti obětují vše a nějaká tabulka navíc je nerozháže. Takže i v téhle tabulce by měl být skryt kus reality, zkusíme ho najít:
 
@@ -72,7 +69,7 @@ Takže postih za chybějící *Sílu* už je po našich úpravách vlastně zapo
 Tak počkat, to už můžeme rovnou zahodit postih ke všemu krom *Boje*, protože v našem [návrhu Boje](2018-08-10-boj.md#Přesouvání_bodů_Boje) si všechno ostatní přes *Boj* už zařídíš, nebezpečnější *Útok*, lepší *Obranu*, větší *Zranění*, takže?
 
 ## Boj
-> Poplach!
+*Poplach!*
 
 A to je přesně ten okamžik, kdy se mají v hlavě spustit poplašné sirény a varovat, že tu něco smrdí 💩.
 

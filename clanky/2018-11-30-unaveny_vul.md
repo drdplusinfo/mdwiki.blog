@@ -13,7 +13,7 @@ A měla pravdu, *Výdrž* se nám totiž rozsypala na pasivní odolnost těla vy
 A mimochodem, chceme zrušit ty [třípísmenné zkratky](https://pph.drdplus.info/?trial=1#tabulka_povolani) jako *Sil*, *Obr*, nebo třeba *Vol*, která vždycky měla být *Vůl*, kdyby jenom se původní autoři nebáli, že se najde nějakej vůl, kterému by byla pro smích. Nám ovšem do smíchu nebylo, protože zkratky jsou povětšinu času hlavě zkratkou do pekel dlážděnou zmatením a nejistotou.
 
 ## Do hromady
-> Rozděl a panuj
+*Rozděl a panuj.*
 
 V předchozím článku o *Výdrži* jsme dospěli k [závěru](2018-11-19-vydrz.md), že *Výdrž*, to **spojení** *Síly* a *Vůle*, je potřeba změnit, **rozpojit** na pasivní samozřejmou a aktivní volitelnou složku. Jo, v každé změně je zakopán pes a u odvozených vlastností máme pocit, že se procházíme po psím hřbitově. Tady je rov s nápisem *Ani smrt mě nerozdělí*.
 Od začátku článku [Vydrž!](2018-11-19-vydrz.md) jsme totiž směřovali k tomu, že nechceme číselné spojení *Síly* a *Vůle* a přitom jsme se dostali k závěru, že obě vlastnosti chceme zapojit, tedy že je chceme oddělené, ale zároveň aby **spolupracovali** a jako spojnici mezi odlišnými světy těla a duše jsme našli *Únavu*.
@@ -38,7 +38,7 @@ Cenu v bodech *Únavy* vidíme jasnou, samotné použití *zesílené snahy* pak
 Pojďme nejdřív k tomu nejjednoduššímu, k **ceně** za *Zatínání zubů*, čas nečas.
 
 ### Zaplať
-> Všechno má svou cenu, jenom najít kupce
+*Všechno má svou cenu, jenom najít kupce.*
 
 Přihodí se mi, že mě dožene bolest hlavy ze včerejšího opíjení celníků, která mě potrápí postihem -1 k tělesným úkonům a protože je Pán jeskyně zákeřnost sama, tak taky -2 k duševním činnostem. Jindy bych tiše trpěl, ale stín halapartny za oknem mi dává jasný signál, že teď potřebuju zabrat a postih se mi vážně nehodí do krámu, takže ho zkusím potlačit. Kolik mě *tohle* bude stát síly?
 
@@ -53,7 +53,7 @@ Vyvstávají nám otázky
 
 #### Platební situace
 
-> Budete platit zvlášť, nebo dohromady?
+*Budete platit zvlášť, nebo dohromady?*
 
 S placením zvlášť či jednou a dost to vidíme jasně, je to pořád jedna a ta samá příčina, jen s různým dopadem na různé činnosti, takže když už jsem dokázal kocovinu potlačit při lezení na střechu, tak jsem ji zároveň a stejnou měrou potlačil i pro přemýšlení.
 
@@ -125,7 +125,7 @@ Fajn, *zahozeno*, *zanecháno*, jenže kudy dál?
 
 ## Řád neřád
 
-> Zmatek zavřený v krabici je bordel, který se dá uklidit
+*Zmatek zavřený v krabici je bordel, který se dá uklidit.*
 
 Pár náznaků jednoduchosti v zamotaném světě bolesti, únavy a nepohodlí jsme už našli. Nejdříve jsme začali řešit **dohromady** všechny tělesné postihy a **dohromady** všechny duševní. A taky jsme znovuobjevili [Únavu jako...](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu), která má svou krásu v přirozenosti, s jakou si jednotlivé stupně náročnosti dokážeme představit.
 Zamotali jsme se až při míchání různých náročností, až při jejich překrývání se, přerušování se navzájem, nemůžeme tedy nějak jednoduše vyřešit *tuhle* složitost?

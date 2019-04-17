@@ -2,7 +2,7 @@
 
 *29. 3. 2019*
 
-> Zvládnout jeden velký začátek znamená zvládnout spoustu malých konců
+*Zvládnout jeden velký začátek znamená zvládnout spoustu malých konců.*
 
 Na podzim loňského roku jsme zjistili, že uzrála dřívější mlhavá *myšlenka s minimálními pravidly*, jejíž zárodek vychází z [bolehlavu](2019-03-12-ucime_se_z_chyb.md#Jak_dál) pravidel současných a kterýžto zárodek byl vydatně zaléván více či méně příjemnými [debatami na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032&p=544811&hilit=dv%C4%9B+strany#p544811).
 
@@ -19,15 +19,14 @@ Ale teprve v listopadu 2018 se v našich hlavách uklidnila fujavice a klesl pra
 Od té doby nemyslíme na nic jiného, než na *pidi pravidla*.
 
 ## Pidi definice
-> Jak velké je ještě malé?
+*Jak velké je ještě malé?*
 
 Otázkou do pranice je, co by v těch pidi pravidlech mělo být, aby **už** k něčemu byla a přitom z toho nebylo **hned** [šest příruček pro hráče](2018-12-07-predstavy_minulosti_poslove.md#Poslové).
 
 Připomeneme si nejdříve jedno z našich hesel a pak si dáme špetku teorie, která je vlastně v každém z nás, jen máme její jednotlivé části v jiném poměru.
 
 ### Kompas
-
-> Dobré pravidlo směr ukazuje, špatné zakazuje
+*Dobré pravidlo směr ukazuje, špatné zakazuje.*
 
 Ono to zní vzletně a krásně, ale má to svá *ale*, protože, jak bylo i [původním tvůrcům známo](2019-03-15-predstavy_minulosti_myty.md#Odkaz_dračích_tvůrců), *každý z nás je jiný*, což nám dává úžasnou rozmanitost a zároveň přidává spoustu **komplikací**.
 
@@ -47,8 +46,8 @@ Abychom ten kolotoč alespoň zpomalili, když už ho nedokážeme zastavit, tak
 
 My pravidla považujeme za mapu, která nám radí, kudy *můžeme* jít, ale do ničeho nás nenutí. Když budeme mít chuť zajít do lesa, chceme se mrknout do mapy, kde je nějaký hájek poblíž, když se ztratíme, chceme se mrknout do mapy, kudy dál, ale nechceme dálnici, ze které jde sjet až za patnáct kilometrů a na záchod můžeme jen na benzínce o dva kilometry blíže.
 
-> *To už ten kousek vydržíš, ne?*
-> *Ne.*
+*To už ten kousek vydržíš, ne?
+Ne.*
 
 No jo, my ale teď chceme *pidi* mapu a jaká mapa je tak pidi, že se z ní dá ještě něco vyčíst a není to už jen špatně složený kapesník? Osobně bychom chtěli mapu, která nám řekne, kde jsme **teď** a která nám ukáže, jaké cesty z ní vedou **ven**.
 
@@ -84,7 +83,7 @@ Co nám zbývá a co ještě nemáme pořádně rozmyšlené jsou
         - ano, má to návaznost na vlastnosti [začínajícími na šestce](2018-10-22-nula.md#Šestka)
 
 ## Zachovejte paniku
-> Cože? A co kouzla a dovednosti a vybavení a... a zázemí a... a... a vůbec!
+*Cože? A co kouzla a dovednosti a vybavení a... a zázemí a... a... a vůbec!*
 
 Zatím ne, zatím to nejde. Zkoušeli jsme to, hledali jsme cestu, jak současná pravidla zjednodušovat a zpřehledňovat postupně, ale to se nám nepodařilo, takže teď hledáme **novou** cestu, na které budeme **části** původních pravidel oprašovat a jednu po druhé zkoušet zasazovat na tvrdé, nové jádro pidi pravidel. Všeho do času.
 Nejdříve se musíme ujistit, že pidi jádro nových pravidel drží a taky chceme zjistit, co všechno už s ním dokážeme při skutečném hraní pokrýt. 

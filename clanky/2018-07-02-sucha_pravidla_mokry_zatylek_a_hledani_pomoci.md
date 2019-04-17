@@ -4,7 +4,7 @@
 
 ## Pokusní skřeti na Facebooku
 
-> Soukat do sebe suchý text a nepotit se u toho za krkem dokážou vysokoškoláci, Google bot a moje skartovačka. Já ne.
+*Soukat do sebe suchý text a nepotit se u toho za krkem dokážou vysokoškoláci, Google bot a moje skartovačka. Já ne.*
 
 Někdy začátkem června jsem [plácnul na Facebook](https://www.facebook.com/drdplus.info/?trial=1) situační vtip, který mi toho dne najednou přistál v hlavě.
 Protože jsem ho sám nečekal, tak mě překvapil a pobavil a když zvedl náladu mě, tak jsem ho zveřejnil, ať se nad neštěstím jiného pobaví i jiní (ano, takový jsme národ).
@@ -63,7 +63,7 @@ A podobně jako u spamování Facebooku, tak i s markami mi vyschla slina asi ta
 A protože mě osobně došel vítr v plachtách, tak jsem se *přirozenou* cestou dostal k hlavnímu úkolu celého snažení a to **sehnat pomoc a vyšlapat cestičku dlouhodobé spolupráci** - s kýmkoli, kdykoli.
 
 ## Haló, je tu někdo?
-> ...a budete spolu v dobách dobrých i zlých.
+*...a budete spolu v dobách dobrých i zlých.*
 
 [Všechna ta pravidla pro DrD+](https://www.drdplus.info) jsem z PDF převedl na web opravdu [dlouhou, mravenčí prací](2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md), k níž jsem získával sílu z nějakého, dodnes pro mě nepříliš pochopeného, vnitřního zdroje, který ale nebyl k dispozici vždy a kolikrát jsem se přistihl, že pokračuju dál ze setrvačnosti, z pocitu povinnosti *dokončit úkol* a několikrát jsem se dostal do fáze, kdy jsem měl pocit, že to nedám, že je toho moc, že jsem to někde přehnal, že už by to chtělo nějaký ten výsledek. No, většinou stačilo se dobře vyspat (viz příklad s druidem a octomilkami), ale taky by hodně pomohlo, kdyby mě někdo v těch těžkých chvílích podržel - aspoň psychicky.
 
