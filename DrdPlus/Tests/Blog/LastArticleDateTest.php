@@ -15,7 +15,7 @@ class LastArticleDateTest extends BlogTestCase
         /** @var \DateTime $expectedLastDate */
         $expectedLastDate = max($dates);
         $expectedLastDate->setTime(0, 0, 0);
-        $lastArticleDateEncoded = file_get_contents('http://blog.drdplus.loc/last-article-date.php');
+        $lastArticleDateEncoded = file_get_contents('http://blog.drdplus.loc/last_article_date.php');
         self::assertNotEmpty($lastArticleDateEncoded);
         $lastArticleDateWrapped = json_decode($lastArticleDateEncoded, true);
         self::assertNotEmpty($lastArticleDateWrapped);
