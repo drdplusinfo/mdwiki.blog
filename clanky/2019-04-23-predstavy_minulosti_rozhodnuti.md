@@ -62,6 +62,11 @@ AD 2002-12-16, Altar
 
 ## Závěrem
 
-Ukočírovat cokoli **obrovského** vyažduje obroovskou energii. A už peníze, ktreré dokáží urychlovat, nebo nadšení, které dává jiskru, nebo prostě čas a píle, kterými se dá vyřešit nedostatek peněz a částečně zastoupit nadšení.
+Ukočírovat cokoli **obrovského** vyažduje obrovskou energii. A už peníze, ktreré dokáží urychlovat, nebo nadšení, které dává jiskru, nebo prostě čas a píle, kterými se dá vyřešit nedostatek peněz a částečně zastoupit nadšení.
 
-Pro mnohé **skrytý** problém ovšem je **údržba**. Jak projekt roste, bytní a stává se stále složitějším a zamotanějším, tak se zvyšují jeho nároky na údržbu, na 
+Jeden problém se ale během vývoje snadno přehlédne a tím je **údržba**. Jak projekt roste, bytní a stává se stále složitějším a zamotanějším, tak se zvyšují jeho nároky na údržbu a to ještě **před** jeho vydáním. Pravidla Dračího doupěte plus měla ještě před vydáním základní, sakra tlustou Příručku pro hráče, šest příruček povolání a dvě další příručky pro Pána jeskyně a teď si představte, že vám někdo oznámí, že se bude měnit základní mechanika hry. *Tak, teď to projdi a **všude**, kde se s ní počítá, to změň." Docela by mě zajímalo, jestli se v takových dnech nezvyšovala spotřeba alkoholu.
+
+Já (Kostřivec) se už delší dobu pohybuju v softwarovém vývoji a jestli je něco napříč tvůrčími odvětvími stejné, od návrhu distribuční eletrické sítě po RPG hry, tak to jsou potíže **během** vývoje, ještě **před** zveřejněním.
+Společným jmenovatelem všemožných komplikací je **velikost**, nebo lépe řečeno **složitost**, nebo nejlépe řečeno **provázanost**.
+
+### Veliký, složitý a provázaný
