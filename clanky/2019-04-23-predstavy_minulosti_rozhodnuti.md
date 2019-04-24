@@ -89,11 +89,19 @@ A o tom to je, **vědět** o riziku, že když se vykašlu na údržbu, tak si p
 
 To je ta "**prostorová**" složka, udržovat jednotlivé kusy oddělené a provazovat je jen tam, kde je to **opravdu** nutné.
 
-A pak je tu "*časová*" složka, na kterou si málokdo dává pozor. Když na něčem pracujeme **dlouho**, tak se do toho ponoříme, náš mozek se naučí řešit podivnosti a složitosti, které jsme tou intenzívní prací stvořili a pak ani nechápeme, co na tom připadá ostatní složité. Porgramátoři na to mají techniku sprintu, kdy na něčem pracují nerušeně několik dnů, žádné dlouhé schůzky a plánování a po předem stanovené době a předem naplánovaném objemu práce se všichni sejdou, **zastaví** svou práci a ukazují si, co stihli, co se nepovedlo a **proč**. To je velice důležitý čas, kdy mnozí mají pocit, že "*se nemaká*" a ještě bývají podráždění, že ostatní, co ani netuší, jak obrovský a složitý kus práce odvedli, jim do toho krafou, jenže to je právě 
+A pak je tu "*časová*" složka, na kterou si málokdo dává pozor. Když na něčem pracujeme **dlouho**, tak se do toho ponoříme, náš mozek se naučí řešit podivnosti a složitosti, které jsme tou intenzívní prací stvořili a pak ani nechápeme, co na tom připadá ostatní složité. Porgramátoři na to mají [techniku sprintu](https://soch.cz/blog/management/agile/scrum-management/kratke-vyvojove-cykly-sprinty/), kdy na něčem pracují nerušeně několik dnů, žádné dlouhé schůzky a plánování a po předem stanovené době a předem naplánovaném objemu práce se všichni sejdou, **zastaví** svou práci a ukazují si, co stihli, co se nepovedlo a **proč**. To je velice důležitý čas. Sice mnozí mají pocit, že "*se nemaká*" a ještě bývají podráždění, že ostatní, co ani netuší, jak obrovský a složitý kus práce odvedli, jim do toho krafou, jenže to je právě **ono**! Všechno co se v tu chvíli neřekne, neprobere, mávne se nad tím rukou, že se nedá hodnotit něco, co ještě není dokončené, tak to všechno klesne na dno, kde se z toho stane hutné, smradlavé bahno a do kydání nečeho takového se už tuplem nikomu nechce.
 
-Pokud musím flešku zastrčit jen jedním způsobem, ale do portu jde aspoň trochu zastrčit dvěma způsoby, tak často skončím u třech pokusů, než se trefím. Pokud to jediné, co by mi chyba v počítadle boje ohlásila, bylo `Expected string, got boolean`, tak budu hledat chybu v šesti vrstvách programu a v bezpočtu jejich kombinací.
+Takže za mě
+- makejme
+- rozdělujme
+- krafejme
 
-Zatímco u flešky mi pomohlo naučit se, že spoj plechů patří vždy **dolů** (a USB-C mě spasilo docela), tak u programu jsem se už dávno naučil, že každá vrstva má sice důvěřovat té předchozí, ale taky problémy popisovat **sama**. A tím se dostáváme k tomu, že každý kus by měl být oddělitelný a svým způsobem samostatný. Proto počítadlo boje rovnou hlásí, že `Argument 1 passed to CustomArmamentAdder::addCustomBodyArmor() must be type string, boolean given` a hned tuším, kde hledat (dřív než si projdu call stack) a proto řešíme pravidla Dračího doupěte plus jako části, které
+ale **nemíchejme** to. Každá tahle část má mít své pevné místo v čase a když nadejde její čas, tak má uvolnit místo  té další. Však ono se na ní zase dostane. Vždyť každý vývoj probíhá ve spirále.
+
+### Kolo života
+Všechno se mění ve spirále. Někde to začne, pak se to někam posune, pak se to vrátí na začátek. Pokud se celým tím kolečkem nic nezměnilo, tak so točíme v kruhu a asi to bude chtít udělat krok stranou. Pokud jsme v tom kolečku nasbírali bordel, zátěž kterou ignorujeme, tak klesáme, kruh se přerušil a je z něj spirála smrti - musíme do projektu cpát další a další energii, aby se ještě o kousek posunul vpřed. Když se dokážeme průběžně zastavovat, uklízet po sobě, naslouchat kritice a přitom dokážeme stále kráčet v před, tak se kruh přeruší a začne stoupat - každá další vrstva spirály bude moct stavět na pevnách základech z té předchozí.
+
+Držte palce!
 
 ---
 - *předchozí [<< 17. 4. 2019 Pidi pravidla - Škrábance a pot](2019-04-17-pidi_pravidla_skrabance_a_pot.md)*
