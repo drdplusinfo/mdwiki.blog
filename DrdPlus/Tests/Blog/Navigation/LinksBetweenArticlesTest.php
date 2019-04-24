@@ -87,11 +87,13 @@ class LinksBetweenArticlesTest extends BlogTestCase
 
     private function assembleLinkToPreviousArticle(string $date, string $title, string $link): string
     {
+        $title = str_replace('*', '', $title);
         return "- *předchozí [<< $date $title]($link)*";
     }
 
     private function assembleLinkToNextArticle(string $date, string $title, string $link): string
     {
+        $title = str_replace('*', '', $title);
         return "- *následující [>> $date $title]($link)*";
     }
 

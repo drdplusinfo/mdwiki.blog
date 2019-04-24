@@ -1,4 +1,6 @@
-## Představy minulosti - *Rozhodnutí*
+# Představy minulosti - *Rozhodnutí*
+
+*23. 4. 2019*
 
 Před šestnácti lety měli původní autoři Dračího doupěte plus hotovo. Ovšem, po vlně testování a načítání zahraniční literatury a dalšího přemýšlení došli k tomu, že to ještě není ono, že to ještě potřebuje poladit.
 
@@ -56,17 +58,29 @@ Termín vydání se tedy tímto posouvá nejméně o dalších šest měsíců, 
 
 AD 2002-12-16, Altar
 
-*Převzato ze [stránek Altaru](http://www.altar.cz/drdplus/rozhodnuti.html).*
+*Převzato ze [stránek Altaru](https://www.altar.cz/drdplus/rozhodnuti.html).*
 
 ---
 
 ## Závěrem
 
-Ukočírovat cokoli **obrovského** vyažduje obrovskou energii. A už peníze, ktreré dokáží urychlovat, nebo nadšení, které dává jiskru, nebo prostě čas a píle, kterými se dá vyřešit nedostatek peněz a částečně zastoupit nadšení.
+Ukočírovat cokoli **obrovského** vyažduje obrovskou energii. Ať už v podobě peněz, ktreré dokáží urychlovat, nebo nadšení, které dává jiskru, nebo prostě času a píle, které dokáží vyřešit nedostatek peněz a částečně zastoupit nadšení.
 
-Jeden problém se ale během vývoje snadno přehlédne a tím je **údržba**. Jak projekt roste, bytní a stává se stále složitějším a zamotanějším, tak se zvyšují jeho nároky na údržbu a to ještě **před** jeho vydáním. Pravidla Dračího doupěte plus měla ještě před vydáním základní, sakra tlustou Příručku pro hráče, šest příruček povolání a dvě další příručky pro Pána jeskyně a teď si představte, že vám někdo oznámí, že se bude měnit základní mechanika hry. *Tak, teď to projdi a **všude**, kde se s ní počítá, to změň." Docela by mě zajímalo, jestli se v takových dnech nezvyšovala spotřeba alkoholu.
+Během **vývoje** pak osobně znám několik duševních fází, které se často opakují, od pocitu *"chtělo by to něco jiného"*, přes ryzí **nadšení z tvorby**, po duševní únavu z toho, že *"je to složitější, než jsme si mysleli"*. A jak vývoj pokračuje, tak rybník nadšení vysychá, přibývá únava a frustrace, po nich přicházejí různé pauzy, během kterých se snažíme najít ztracenou jiskru, po nich nastupují vynucené pocity, že by to zase *"chtělo něco jiného"* a kterým když podlehneme, tak jsme zase ve fázi **nadšení z tvorby**, a najednou jsme ve spirále smrti.
 
-Já (Kostřivec) se už delší dobu pohybuju v softwarovém vývoji a jestli je něco napříč tvůrčími odvětvími stejné, od návrhu distribuční eletrické sítě po RPG hry, tak to jsou potíže **během** vývoje, ještě **před** zveřejněním.
-Společným jmenovatelem všemožných komplikací je **velikost**, nebo lépe řečeno **složitost**, nebo nejlépe řečeno **provázanost**.
+Jeden problém se totiž během vývoje snadno přehlédne a tím je **údržba**. Jak projekt roste, bytní a stává se stále složitějším a zamotanějším, tak se zvyšují jeho nároky na údržbu a to ještě **před** jeho vydáním. Pravidla Dračího doupěte plus měla ještě před vydáním sakra tlustou Příručku pro hráče, šest příruček povolání a dvě další příručky pro Pána jeskyně a teď si představte, že vám někdo oznámí, že se bude měnit základní mechanika hry. *"Tak, teď to projdi a **všude**, kde se s ní počítá, to změň."* Docela by mě zajímalo, jestli se v takových dnech nezvyšovala spotřeba alkoholu.
+
+Já (Kostřivec) se už delší dobu pohybuju v softwarovém vývoji a jestli je něco **stejné** napříč tvůrčími odvětvími, ať už je to návrh struktry e-eshopu, nebo vývoj hry, tak to jsou potíže **během** vývoje, ještě **před** zveřejněním.
+A společným jmenovatelem všemožných komplikací je **velikost**, nebo lépe řečeno **složitost**, nebo nejlépe řečeno **provázanost** jednotlivých částí.
 
 ### Veliký, složitý a provázaný
+*Potíže se množí geometrickou řadou*
+
+TODO klubíčka s přízí
+
+Pokud musím flešku zastrčit jen jedním způsobem, ale do portu jde aspoň trochu zastrčit dvěma způsoby, tak často skončím u třech pokusů, než se trefím. Pokud to jediné, co by mi chyba v počítadle boje ohlásila, bylo `Expected string, got boolean`, tak budu hledat chybu v šesti vrstvách programu a v bezpočtu jejich kombinací.
+
+Zatímco u flešky mi pomohlo naučit se, že spoj plechů patří vždy **dolů** (a USB-C mě spasilo docela), tak u programu jsem se už dávno naučil, že každá vrstva má sice důvěřovat té předchozí, ale taky problémy popisovat **sama**. A tím se dostáváme k tomu, že každý kus by měl být oddělitelný a svým způsobem samostatný. Proto počítadlo boje rovnou hlásí, že `Argument 1 passed to CustomArmamentAdder::addCustomBodyArmor() must be type string, boolean given` a hned tuším, kde hledat (dřív než si projdu call stack) a proto řešíme pravidla Dračího doupěte plus jako části, které
+
+---
+- *předchozí [<< 17. 4. 2019 Pidi pravidla - Škrábance a pot](2019-04-17-pidi_pravidla_skrabance_a_pot.md)*

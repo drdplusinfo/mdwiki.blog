@@ -144,3 +144,4 @@ Ovšem věšme zbraně, nikoli hlavy, protože teď nás čeká oprášení hodu
 ---
 
 - *předchozí [<< 29. 3. 2019 Pidi pravidla - Úroveň nula](2019-03-29-pidi_pravidla_uroven_nula.md)*
+- *následující [>> 23. 4. 2019 Představy minulosti - Rozhodnutí](2019-04-23-predstavy_minulosti_rozhodnuti.md)*
