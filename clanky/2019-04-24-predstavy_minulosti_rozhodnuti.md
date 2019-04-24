@@ -4,9 +4,9 @@
 
 Před šestnácti lety měli původní autoři Dračího doupěte plus hotovo. Ovšem, po vlně testování, načítání zahraniční literatury a dalšího přemýšlení došli k tomu, že to ještě není ono, že to ještě potřebuje poladit.
 
-Osobně jim jejich situaci ani trochu nezávidím. Tolik let práce, zahrabaní ve svém díle až po uši, nevím jestli ještě dokázali vidět plody své práce s nadhledem. A jak zmizí nadhled, tak zmizí přirozený tok myšlenek a pocitů a tím plynulost (víme o tom své, ani tomuto blogu se kostrbatý text nevyhýbá).
+Osobně jim tu situaci ani trochu nezávidím. Tolik let práce, zahrabaní ve svém díle až po uši, nevím jestli ještě dokázali vidět plody své práce s nadhledem. A jak zmizí nadhled, tak zmizí přirozený tok myšlenek a pocitů a tím plynulost (víme o tom své, ani tomuto blogu se kostrbatý text nevyhýbá).
 
-V tomhle byli původní autoři v kleštích, protože jim na jednu stranu testeři nadhled sice dávali, jenže externě, což chce čas a energii na vstřebání, a na druhou stranu na ně tlačili fanoušci, kteří už konečně chtěli vidět toho dospělého nástupce letité legendy.
+Se získáváním nadhledu byli původní autoři v úzkých, protože sami na něj už neměli čas, testeři jim nadhled sice dávali, ale externí, což chce čas a energii na vstřebání, a ještě na ně tlačili fanoušci, kteří už konečně chtěli vidět toho dospělého nástupce letité legendy.
 
 O tom, jak se chceme my vyvarovat podobného *zahrabání se až po uši*, se zmíním až [Závěrem](#Závěrem), teď se pojďme ponořit do časů, kdy všechno ještě vonělo novotou a netrpělivým očekáváním, do závěru roku 2002.
 
