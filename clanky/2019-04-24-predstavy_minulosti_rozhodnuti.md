@@ -4,11 +4,11 @@
 
 Před šestnácti lety měli původní autoři Dračího doupěte plus hotovo. Ovšem, po vlně testování, načítání zahraniční literatury a dalšího přemýšlení došli k tomu, že to ještě není ono, že to ještě potřebuje poladit.
 
-Osobně jim tu situaci ani trochu nezávidím. Tolik let práce, zahrabaní ve svém díle až po uši... nevím jestli ještě dokázali vidět plody své práce s nadhledem. A jak zmizí nadhled, tak zmizí přirozený tok myšlenek a pocitů a tím plynulost (víme o tom své, ani tomuto blogu se kostrbatý text nevyhýbá).
+Osobně jim tu situaci ani trochu nezávidím. Tolik let práce, zahrabaní ve svém díle až po uši... nevím jestli ještě dokázali vidět plody své práce s nadhledem. A jak zmizí nadhled, tak zmizí přirozený tok myšlenek a pocitů a tím tolik potřebná plynulost (víme o tom své, ani tomuto blogu se kostrbatý text nevyhýbá).
 
 Se získáváním nadhledu byli původní autoři v úzkých, protože sami na něj už neměli čas, testeři jim nadhled sice dávali, ale externí, což chce čas a energii na vstřebání, a ještě na ně tlačili fanoušci, kteří už konečně chtěli vidět toho dospělého nástupce letité legendy.
 
-O tom, jak se chceme my vyvarovat podobného *zahrabání se až po uši*, se zmíním až [Závěrem](#Závěrem), teď se pojďme ponořit do časů, kdy všechno ještě vonělo novotou a netrpělivým očekáváním, do závěru roku 2002.
+O tom, jak se chceme my vyvarovat podobného *zahrabání se až po uši*, se zmíním až [Závěrem](#Závěrem), teď se pojďme ponořit do časů, kdy všechno ještě vonělo novotou a netrpělivým očekáváním, do konce roku 2002.
 
 ---
 *16. 12. 2002*
@@ -66,7 +66,7 @@ AD 2002-12-16, Altar
 
 ## Závěrem
 
-Ukočírovat cokoli **obrovského** vyžaduje obrovskou energii. Ať už v podobě peněz, které dokáží urychlovat, nebo v nadšení, které dává jiskru, nebo prostě v píli, bez které se těžko úkoly dokončují.
+Ukočírovat cokoli **obrovského** vyžaduje obrovskou energii. Ať už v podobě peněz, které dokáží urychlovat, nebo v nadšení, které dává jiskru, nebo prostě v píli, bez které se úkoly těžko dokončují.
 
 Já (Kostřivec, těší mě) jsem během **vývoje** různých softwarových systémů už několikrát zažil svatou trojici, tři duševní fáze, které se stále vracejí
 
@@ -76,9 +76,10 @@ Já (Kostřivec, těší mě) jsem během **vývoje** různých softwarových sy
 
 A jak vývoj pokračuje, tak rybník nadšení vysychá, přibývá únava a frustrace, po nich přicházejí různé pauzy, během kterých se snažíme najít ztracenou jiskru, po nich nastupují vynucené pocity, že by to zase *"chtělo něco jiného"* a kterým když podlehneme, tak jsme zase ve fázi **nadšení z tvorby**, jenže s koulí na noze kvůli předchozímu nedodělku a najednou jsme ve spirále smrti.
 
-Jedna důležitá složka vývoje se totiž často ignoruje a tím je **údržba**. Jak projekt roste, bytní a stává se stále složitějším a zamotanějším, tak se zvyšují jeho nároky na údržbu a to ještě **před** jeho vydáním. Pravidla Dračího doupěte plus měla ještě před vydáním sakra tlustou Příručku pro hráče, šest příruček povolání a dvě další příručky pro Pána jeskyně a teď si představte, že vám někdo oznámí, že se bude měnit základní mechanika hry. *"Tak, teď to projdi a **všude**, kde se s ní počítá, to změň."* Docela by mě zajímalo, jestli se v takových dnech nezvyšovala spotřeba alkoholu.
+Jedna důležitá složka vývoje se totiž často ignoruje a tím je **údržba**. Jak projekt roste, bytní a stává se stále složitějším a zamotanějším, tak se zvyšují jeho nároky na údržbu a to ještě **před** jeho vydáním.
+Pravidla Dračího doupěte plus měla ještě před vydáním sakra tlustou Příručku pro hráče, šest příruček povolání a dvě další příručky pro Pána jeskyně a teď si představte, že vám někdo oznámí, že se bude měnit základní mechanika hry. *"Tak, teď to projdi a **všude**, kde se s ní počítá, to změň."* Docela by mě zajímalo, jestli se v takových dnech nezvyšovala spotřeba alkoholu.
 
-Už delší dobu se pohybuji v softwarovém vývoji a jestli je něco **stejné** napříč tvůrčími odvětvími, ať už je to návrh struktury e-shopu, nebo vývoj hry, tak jsou to právě potíže **během** vývoje, ještě **před** zveřejněním. Potíže, které se mnohdy zametají pod koberec, nebo, tom horším případě, si na ně zvykneme, nebo, v tom nejhorším případě, je považujeme za důkaz vyspělosti naší práce.
+Už delší dobu se pohybuji v softwarovém vývoji a jestli je něco **stejné** napříč tvůrčími odvětvími, ať už je to návrh struktury e-shopu, nebo vývoj hry, tak jsou to právě potíže během **prvotního** vývoje, ještě **před** zveřejněním. Potíže, které se mnohdy zametají pod koberec. Nebo, v tom horším případě, si na ně zvykneme. Nebo, v tom nejhorším případě, je považujeme za důkaz vyspělosti naší práce.
 
 A společným jmenovatelem všemožných komplikací je **velikost**, nebo lépe řečeno **složitost**, nebo nejlépe řečeno **provázanost** jednotlivých částí.
 
