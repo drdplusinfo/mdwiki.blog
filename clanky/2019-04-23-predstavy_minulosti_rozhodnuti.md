@@ -4,9 +4,9 @@
 
 Před šestnácti lety měli původní autoři Dračího doupěte plus hotovo. Ovšem, po vlně testování a načítání zahraniční literatury a dalšího přemýšlení došli k tomu, že to ještě není ono, že to ještě potřebuje poladit.
 
-Osobně jim jejich situaci vůbec nezávidím. Tolik let práce, zahrabaní ve svém díle až po uši, nevím jestli ještě dokázali vidět své výsledky s nadhledem. A jak zmizí nadhled, tak zmizí plynulost, přirozený tok myšlenek a pocitů (víme o tom své, občas se nám to stane u článků i na tomhle blogu). V tomhle byli původní autoři v kleštích, protože jim na jednu stranu testeři onen **nadhled** dávali, jenže externě, což chce čas a energii na vstřebání, a na druhou stranu na ně tlačily a fanoušci, kteří už konečně chtěli vidět toho dospělého nástupce letité legendy.
+Osobně jim jejich situaci vůbec nezávidím. Tolik let práce, zahrabaní ve svém díle až po uši, nevím jestli ještě dokázali vidět své výsledky s nadhledem. A jak zmizí nadhled, tak zmizí plynulost, přirozený tok myšlenek a pocitů (víme o tom své, občas se nám to stane u článků i na tomhle blogu). V tomhle byli původní autoři v kleštích, protože jim na jednu stranu testeři onen nadhled dávali, jenže externě, což chce čas a energii na vstřebání, a na druhou stranu na ně tlačily a fanoušci, kteří už konečně chtěli vidět toho dospělého nástupce letité legendy.
 
-Jak se chceme sami vyvarovat podobného *zahrabání se až po uši*, o tom se zmíním až [Závěrem](Závěrem), teď se pojďme ponořit do časů, kdy všechno ještě vonělo novotou a netrpělivým očekáváním, do závěru roku 2002.
+O tom, jak se chceme my vyvarovat podobného *zahrabání se až po uši*, se zmíním až [Závěrem](Závěrem), teď se pojďme ponořit do časů, kdy všechno ještě vonělo novotou a netrpělivým očekáváním, do závěru roku 2002.
 
 ---
 *16. 12. 2002*
@@ -64,9 +64,15 @@ AD 2002-12-16, Altar
 
 ## Závěrem
 
-Ukočírovat cokoli **obrovského** vyažduje obrovskou energii. Ať už v podobě peněz, ktreré dokáží urychlovat, nebo nadšení, které dává jiskru, nebo prostě času a píle, které dokáží vyřešit nedostatek peněz a částečně zastoupit nadšení.
+Ukočírovat cokoli **obrovského** vyžaduje obrovskou energii. Ať už v podobě peněz, ktreré dokáží urychlovat, nebo nadšení, které dává jiskru, nebo prostě času a píle, které dokáží vyřešit nedostatek peněz a částečně zastoupit nadšení.
 
-Během **vývoje** pak osobně znám několik duševních fází, které se často opakují, od pocitu *"chtělo by to něco jiného"*, přes ryzí **nadšení z tvorby**, po duševní únavu z toho, že *"je to složitější, než jsme si mysleli"*. A jak vývoj pokračuje, tak rybník nadšení vysychá, přibývá únava a frustrace, po nich přicházejí různé pauzy, během kterých se snažíme najít ztracenou jiskru, po nich nastupují vynucené pocity, že by to zase *"chtělo něco jiného"* a kterým když podlehneme, tak jsme zase ve fázi **nadšení z tvorby**, a najednou jsme ve spirále smrti.
+Během **vývoje** jsem už hodněkrát zažil tři duševní fáze, které se stále vracejí
+
+- pocit *"chtělo by to něco jiného"*
+- ryzí **nadšení z tvorby**
+- duševní únava z toho, že *"je to složitější, než jsme si mysleli"*
+
+A jak vývoj pokračuje, tak rybník nadšení vysychá, přibývá únava a frustrace, po nich přicházejí různé pauzy, během kterých se snažíme najít ztracenou jiskru, po nich nastupují vynucené pocity, že by to zase *"chtělo něco jiného"* a kterým když podlehneme, tak jsme zase ve fázi **nadšení z tvorby**, jenže s koulí na noze v podobě předchozího nedodělku a najednou jsme ve spirále smrti.
 
 Jeden problém se totiž během vývoje snadno přehlédne a tím je **údržba**. Jak projekt roste, bytní a stává se stále složitějším a zamotanějším, tak se zvyšují jeho nároky na údržbu a to ještě **před** jeho vydáním. Pravidla Dračího doupěte plus měla ještě před vydáním sakra tlustou Příručku pro hráče, šest příruček povolání a dvě další příručky pro Pána jeskyně a teď si představte, že vám někdo oznámí, že se bude měnit základní mechanika hry. *"Tak, teď to projdi a **všude**, kde se s ní počítá, to změň."* Docela by mě zajímalo, jestli se v takových dnech nezvyšovala spotřeba alkoholu.
 
@@ -76,7 +82,14 @@ A společným jmenovatelem všemožných komplikací je **velikost**, nebo lépe
 ### Veliký, složitý a provázaný
 *Potíže se množí geometrickou řadou*
 
-TODO klubíčka s přízí
+Máme doma takovou krabici, trochu potrhanu, hodně papírovou, se slunečnicí na víku, a v ní jsou příze, převážně bavlněné, sem tam nějaká ta umělina, pak několik motouzů a občas se najde i mašle. Všechno to bývaly klubíčka, každé z nich s **jednou** jasnou funkcí - *držet přízi pohromadě*. No jo, jenže občas pospícháme, sem tam si s tím hrajou děti, někdy jsme prostě líní to celé rovnat a ve výsledku je to takový šmodrch, že po několika minutách zápasení z toho vymotáme vcelku sotva dva metry a pak už to radši ustřihneme.
+Nedodržujeme totiž základní pravidlo - *udržte věci oddělené*. Nemusíme zrovna každé klubíčko dávat do zvláštní krabice, nebo je xtrkat do pytlíků, ale stačilo by, abychom klubíčka utahovali, když je rozházíme, tak abychom je zase srovnali a jakmile se některá povolí a zamotají, tak je **co nejdřív** zase rozmotat. No jo, ale koho by to bavilo, že jo.
+
+A o tom to je, **vědět** o riziku, že když se vykašlu na údržbu, tak si ponožky neupletu a udržet si **morálku**, abych ten úklid dělal vždy, když je to jen trochu potřeba. U těch klubíček je mi to popravdě fuk, stejně je máme už jenom na blbnutí, ale u pravidel mi to jedno není.
+
+To je ta "**prostorová**" složka, udržovat jednotlivé kusy oddělené a provazovat je jen tam, kde je to **opravdu** nutné.
+
+A pak je tu "*časová*" složka, na kterou si málokdo dává pozor. Když na něčem pracujeme **dlouho**, tak se do toho ponoříme, náš mozek se naučí řešit podivnosti a složitosti, které jsme tou intenzívní prací stvořili a pak ani nechápeme, co na tom připadá ostatní složité. Porgramátoři na to mají techniku sprintu, kdy na něčem pracují nerušeně několik dnů, žádné dlouhé schůzky a plánování a po předem stanovené době a předem naplánovaném objemu práce se všichni sejdou, **zastaví** svou práci a ukazují si, co stihli, co se nepovedlo a **proč**. To je velice důležitý čas, kdy mnozí mají pocit, že "*se nemaká*" a ještě bývají podráždění, že ostatní, co ani netuší, jak obrovský a složitý kus práce odvedli, jim do toho krafou, jenže to je právě 
 
 Pokud musím flešku zastrčit jen jedním způsobem, ale do portu jde aspoň trochu zastrčit dvěma způsoby, tak často skončím u třech pokusů, než se trefím. Pokud to jediné, co by mi chyba v počítadle boje ohlásila, bylo `Expected string, got boolean`, tak budu hledat chybu v šesti vrstvách programu a v bezpočtu jejich kombinací.
 
