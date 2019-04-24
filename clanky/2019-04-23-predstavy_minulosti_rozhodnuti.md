@@ -4,9 +4,11 @@
 
 Před šestnácti lety měli původní autoři Dračího doupěte plus hotovo. Ovšem, po vlně testování, načítání zahraniční literatury a dalšího přemýšlení došli k tomu, že to ještě není ono, že to ještě potřebuje poladit.
 
-Osobně jim jejich situaci ani trochu nezávidím. Tolik let práce, zahrabaní ve svém díle až po uši, nevím jestli ještě dokázali vidět plody své práce s nadhledem. A jak zmizí nadhled, tak zmizí plynulost a přirozený tok myšlenek a pocitů (víme o tom své, ani tomuto blogu se to občas nevyhne). V tomhle byli původní autoři v kleštích, protože jim na jednu stranu testeři onen nadhled sice dávali, jenže externě, což chce čas a energii na vstřebání, a na druhou stranu na ně tlačili fanoušci, kteří už konečně chtěli vidět toho dospělého nástupce letité legendy.
+Osobně jim jejich situaci ani trochu nezávidím. Tolik let práce, zahrabaní ve svém díle až po uši, nevím jestli ještě dokázali vidět plody své práce s nadhledem. A jak zmizí nadhled, tak zmizí přirozený tok myšlenek a pocitů a tím plynulost (víme o tom své, ani tomuto blogu se kostrbatý text nevyhýbá).
 
-O tom, jak se chceme my vyvarovat podobného *zahrabání se až po uši*, se zmíním až [Závěrem](Závěrem), teď se pojďme ponořit do časů, kdy všechno ještě vonělo novotou a netrpělivým očekáváním, do závěru roku 2002.
+V tomhle byli původní autoři v kleštích, protože jim na jednu stranu testeři nadhled sice dávali, jenže externě, což chce čas a energii na vstřebání, a na druhou stranu na ně tlačili fanoušci, kteří už konečně chtěli vidět toho dospělého nástupce letité legendy.
+
+O tom, jak se chceme my vyvarovat podobného *zahrabání se až po uši*, se zmíním až [Závěrem](#Závěrem), teď se pojďme ponořit do časů, kdy všechno ještě vonělo novotou a netrpělivým očekáváním, do závěru roku 2002.
 
 ---
 *16. 12. 2002*
@@ -64,9 +66,9 @@ AD 2002-12-16, Altar
 
 ## Závěrem
 
-Ukočírovat cokoli **obrovského** vyžaduje obrovskou energii. Ať už v podobě peněz, které dokáží urychlovat, nebo v nadšení, které dává jiskru, nebo prostě ve formě píle, bez které se těžko úkoly dokončují.
+Ukočírovat cokoli **obrovského** vyžaduje obrovskou energii. Ať už v podobě peněz, které dokáží urychlovat, nebo v nadšení, které dává jiskru, nebo prostě v píli, bez které se těžko úkoly dokončují.
 
-Já (Kostřivec) jsem během **vývoje** různých softwarových systémů už několikrát zažil svatou trojici, tři duševní fáze, které se stále vracejí
+Já (Kostřivec, těší mě) jsem během **vývoje** různých softwarových systémů už několikrát zažil svatou trojici, tři duševní fáze, které se stále vracejí
 
 - pocit *"chtělo by to něco jiného"*
 - ryzí **nadšení z tvorby**
@@ -76,24 +78,26 @@ A jak vývoj pokračuje, tak rybník nadšení vysychá, přibývá únava a fru
 
 Jedna důležitá složka vývoje se totiž často ignoruje a tím je **údržba**. Jak projekt roste, bytní a stává se stále složitějším a zamotanějším, tak se zvyšují jeho nároky na údržbu a to ještě **před** jeho vydáním. Pravidla Dračího doupěte plus měla ještě před vydáním sakra tlustou Příručku pro hráče, šest příruček povolání a dvě další příručky pro Pána jeskyně a teď si představte, že vám někdo oznámí, že se bude měnit základní mechanika hry. *"Tak, teď to projdi a **všude**, kde se s ní počítá, to změň."* Docela by mě zajímalo, jestli se v takových dnech nezvyšovala spotřeba alkoholu.
 
-Už delší dobu se pohybuji v softwarovém vývoji a jestli je něco **stejné** napříč tvůrčími odvětvími, ať už je to návrh struktury e-shopu, nebo vývoj hry, tak to jsou právě potíže **během** vývoje, ještě **před** zveřejněním.
+Už delší dobu se pohybuji v softwarovém vývoji a jestli je něco **stejné** napříč tvůrčími odvětvími, ať už je to návrh struktury e-shopu, nebo vývoj hry, tak jsou to právě potíže **během** vývoje, ještě **před** zveřejněním. Potíže, které se mnohdy zametají pod koberec, nebo, tom horším případě, si na ně zvykneme, nebo, v tom nejhorším případě, je považujeme za důkaz vyspělosti naší práce.
+
 A společným jmenovatelem všemožných komplikací je **velikost**, nebo lépe řečeno **složitost**, nebo nejlépe řečeno **provázanost** jednotlivých částí.
 
 ### Veliký, složitý a provázaný
 *Potíže se množí geometrickou řadou*
 
-Máme doma takovou krabici, trochu potrhanou, hodně papírovou, se slunečnicí na víku, a v ní jsou příze, převážně bavlněné, sem tam nějaká ta umělina, pak několik motouzů a občas se najde i mašle. Všechno to bývaly klubíčka, každé z nich s **jednou** jasnou funkcí - *držet přízi pohromadě*. No jo, jenže občas pospícháme, někdy si s tím hrajou děti, jindy jsme prostě líní to celé rovnat a ve výsledku je to takový šmodrch, že když z toho chceme něco použít, tak po několika minutách zápasení vymotáme sotva dva metry a pak už to radši ustřihneme.
-Nedodržujeme totiž základní pravidlo - *udržujte věci oddělené*. Nemusíme zrovna každé klubíčko dávat do zvláštní krabice, nebo je strkat do pytlíků, ale stačilo by, abychom klubíčka utahovali, když je rozmotáme. Abychom je srovnali, když je rozházíme. A jakmile se některá povolí a zamotají, tak abychom je co **nejdřív** zase rozmotali a utáhli. No jo, ale koho by to bavilo, že jo.
+Máme doma takovou krabici, trochu potrhanou, hodně papírovou, se slunečnicí na víku, a v ní jsou příze, převážně bavlněné, sem tam nějaká ta umělina, pak několik motouzů a občas se najde i mašle. Všechno to bývala klubíčka, každé z nich s **jednou** jasnou funkcí - *držet přízi pohromadě*. No jo, jenže občas pospícháme, někdy si s tím hrajou děti, jindy jsme prostě líní to celé rovnat a ve výsledku je to takový šmodrch, že když z toho chceme něco použít, tak po několika minutách zápasení vymotáme sotva dva metry a pak už to radši ustřihneme.
+Nedodržujeme totiž základní pravidlo - *udržujme věci oddělené*. Nemusíme zrovna každé klubíčko dávat do zvláštní krabice, nebo je strkat do pytlíků, ale stačily by **průběžné** drobnosti. Abychom klubíčka utahovali, když je rozmotáme. Abychom je srovnali, když je rozházíme. A jakmile se některá povolí a zamotají, tak abychom je co **nejdřív** zase rozmotali a utáhli. No jo, ale koho by to bavilo, že jo.
 
 A o tom to je, **vědět** o riziku, že když se vykašlu na údržbu, tak si ponožky neupletu a udržet si **morálku**, abych ten úklid dělal vždy, když je to jen trochu potřeba. U těch klubíček je mi to popravdě fuk, stejně je máme už jenom na blbnutí, ale u pravidel mi to jedno není.
 
 To je ta "**prostorová**" složka, udržovat jednotlivé kusy oddělené a dovolit jim se provázat jedině tam, kde je to **opravdu** nutné.
 
-A pak je tu "**časová**" složka, na kterou si málokdo dává pozor. Když na něčem pracujeme **dlouho**, tak se do toho ponoříme, náš mozek se naučí řešit všechny ty podivnosti a složitosti, které jsme tou intenzivní prací stvořili a pak ani nechápeme, co na tom **ostatním** připadá složité.
+A pak je tu "**časová**" složka, na kterou si málokdo dává pozor. Když na něčem pracujeme **dlouho**, tak se do toho ponoříme, náš mozek se naučí řešit všechny ty podivnosti a složitosti, které jsme dvou intenzivní prací stvořili a pak ani nechápeme, co na tom **ostatním** připadá složité.
 
 *Prostě se z nás stanou specialisté, co ví všechno o hovně a hovno o všem ostatním.*
 
-Programátoři na to mají [techniku sprintu](https://soch.cz/blog/management/agile/scrum-management/kratke-vyvojove-cykly-sprinty/), kdy na něčem pracují nerušeně několik dnů, žádné dlouhé schůzky a plánování a po předem stanovené době a předem naplánovaném objemu práce se všichni sejdou, **zastaví** svou práci a ukazují si, co stihli, co se naopak nepovedlo a **proč**. To je velice důležitý čas. Sice má kde kdo pocit, že "*se nemaká*" a bývá podrážděný, že ostatní, co ani netuší, jak obrovský a složitý kus práce odvedl, mu do toho krafou, jenže to je právě **ono**! Všechno co se v tu chvíli neřekne, neprobere, mávne se nad tím rukou, protože se prý nedá hodnotit něco, co ještě není dokončené, tak tohle všechno klesne na dno, kde se z toho stane hutné, smradlavé bahno. A do kydání něčeho takového se už tuplem nikomu nechce.
+Programátoři se tomu brání [technikou sprintu](https://soch.cz/blog/management/agile/scrum-management/kratke-vyvojove-cykly-sprinty/), kdy na něčem pracují nerušeně několik dnů, žádné dlouhé schůzky a plánování, a po předem stanovené době a předem naplánovaném objemu práce se všichni sejdou, **zastaví** svou práci a ukazují si, co stihli, co se naopak nepovedlo a **proč**.
+Ta chvíle, kdy se celý tým zastaví, je **velice** důležitá. Sice má kde kdo pocit, že "*se nemaká*" a bývá podrážděný, že ostatní, co ani netuší, jak obrovský a složitý kus práce odvedl, mu do toho krafou, jenže to je právě **ono**! Všechno, co se v tu chvíli neřekne, neprobere, mávne se nad tím rukou s výmluvou, že se nedá hodnotit něco, co ještě není dokončené, tak tohle všechno klesne na dno, kde se z toho stane hutné, smradlavé bahno. A do kydání něčeho takového se už tuplem nikomu nechce.
 
 Takže za mě
 
@@ -103,16 +107,16 @@ Takže za mě
 
 ale **nemíchejme** to. Každá tahle část má mít své pevné místo v čase a když nadejde její čas, tak má uvolnit místo té další. Však ono se na ní zase dostane. Vždyť každý vývoj probíhá ve spirále.
 
-### Kolo života
+### Spirála života
 Všechno se mění ve spirále. Někde to začne, pak se to někam posune, pak se to vrátí na začátek.
 
 Jestli se v celém tom kolečku nic nezměnilo, tak se točíme v kruhu a asi to bude chtít udělat krok stranou.
 
-Pokud jsme v tom kolečku nasbírali nějakou zátěž, kterou ignorujeme, tak klesáme. Kruh se přerušil a je z něj spirála smrti - musíme do projektu cpát další a další energii, aby se ještě o kousek posunul vpřed.
+Pokud jsme v tom kolečku nasbírali nějakou zátěž, se kterou jsme nic neudělali, tak klesáme. Kruh se přerušil a je z něj spirála smrti - musíme do projektu cpát další a další energii, aby se ještě o kousek posunul vpřed, nebo dokonce jenom proto, aby stál na místě.
 
-Když se dokážeme průběžně zastavovat, uklízet po sobě, naslouchat kritice a přitom dokážeme stále kráčet vpřed, tak stoupáme. Kruh se přerušil a je z něj spirála života - každá další vrstva spirály bude moci stavět na pevných základech z té předchozí.
+Když se ale dokážeme průběžně zastavovat, uklízet po sobě, naslouchat kritice a přitom dokážeme stále kráčet vpřed, tak stoupáme. Kruh se přerušil a je z něj spirála života - každá další vrstva spirály bude moci stavět na pevných základech té předchozí.
 
-Jen nepodlehnout pocitu, že to není potřeba, nebo že sem tam nějaký ten šmodrch je přece normální, nebo že čtenáři vědí to samé, co my.
+Prostě nesmíme podlehnout pocitu, že úklid není potřeba, nebo že sem tam nějaký ten šmodrch je přece normální, nebo že čtenáři vědí to samé, co my.
 
 Držte palce!
 
