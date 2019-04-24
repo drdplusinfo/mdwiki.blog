@@ -87,7 +87,9 @@ A společným jmenovatelem všemožných komplikací je **velikost**, nebo lépe
 *Potíže se množí geometrickou řadou*
 
 Máme doma takovou krabici, trochu potrhanou, hodně papírovou, se slunečnicí na víku, a v ní jsou příze, převážně bavlněné, sem tam nějaká ta umělina, pak několik motouzů a občas se najde i mašle. Všechno to bývala klubíčka, každé z nich s **jednou** jasnou funkcí - *držet přízi pohromadě*. No jo, jenže občas pospícháme, někdy si s tím hrajou děti, jindy jsme prostě líní to celé rovnat a ve výsledku je to takový šmodrch, že když z toho chceme něco použít, tak po několika minutách zápasení vymotáme sotva dva metry a pak už to radši ustřihneme.
-Nedodržujeme totiž základní pravidlo - *udržujme věci oddělené*. Nemusíme zrovna každé klubíčko dávat do zvláštní krabice, nebo je strkat do pytlíků, ale stačily by **průběžné** drobnosti. Abychom klubíčka utahovali, když je rozmotáme. Abychom je srovnali, když je rozházíme. A jakmile se některá povolí a zamotají, tak abychom je co **nejdřív** zase rozmotali a utáhli. No jo, ale koho by to bavilo, že jo.
+Nedodržujeme totiž základní pravidlo - *udržujme věci oddělené*. Nemusíme zrovna každé klubíčko dávat do zvláštní krabice, nebo je strkat do pytlíků, ale stačily by **průběžné** drobnosti. Abychom klubíčka utahovali, když je rozmotáme. Abychom je srovnali, když je rozházíme. A jakmile se některá povolí a zamotají, tak abychom je co **nejdřív** zase rozmotali a utáhli.
+
+*No jo, ale koho by to bavilo, že jo.*
 
 A o tom to je, **vědět** o riziku, že když se vykašlu na údržbu, tak si ponožky neupletu a udržet si **morálku**, abych ten úklid dělal vždy, když je to jen trochu potřeba. U těch klubíček je mi to popravdě fuk, stejně je máme už jenom na blbnutí, ale u pravidel mi to jedno není.
 
