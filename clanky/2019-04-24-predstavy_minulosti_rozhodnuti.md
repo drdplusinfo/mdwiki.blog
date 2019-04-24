@@ -4,7 +4,7 @@
 
 Před šestnácti lety měli původní autoři Dračího doupěte plus hotovo. Ovšem, po vlně testování, načítání zahraniční literatury a dalšího přemýšlení došli k tomu, že to ještě není ono, že to ještě potřebuje poladit.
 
-Osobně jim tu situaci ani trochu nezávidím. Tolik let práce, zahrabaní ve svém díle až po uši, nevím jestli ještě dokázali vidět plody své práce s nadhledem. A jak zmizí nadhled, tak zmizí přirozený tok myšlenek a pocitů a tím plynulost (víme o tom své, ani tomuto blogu se kostrbatý text nevyhýbá).
+Osobně jim tu situaci ani trochu nezávidím. Tolik let práce, zahrabaní ve svém díle až po uši... nevím jestli ještě dokázali vidět plody své práce s nadhledem. A jak zmizí nadhled, tak zmizí přirozený tok myšlenek a pocitů a tím plynulost (víme o tom své, ani tomuto blogu se kostrbatý text nevyhýbá).
 
 Se získáváním nadhledu byli původní autoři v úzkých, protože sami na něj už neměli čas, testeři jim nadhled sice dávali, ale externí, což chce čas a energii na vstřebání, a ještě na ně tlačili fanoušci, kteří už konečně chtěli vidět toho dospělého nástupce letité legendy.
 
