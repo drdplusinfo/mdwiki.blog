@@ -33,6 +33,33 @@ h6, .h6 {
     font-size: 1.2em
 }
 
+@media (max-width: 767px) {
+    h1, .h1 {
+        font-size: 2em;
+        overflow-x: auto;
+    }
+
+    h2, .h2 {
+        font-size: 1.8em;
+    }
+
+    h3, .h3 {
+        font-size: 1.6em;
+    }
+
+    h4, .h4 {
+        font-size: 1.4em;
+    }
+
+    h5, .h5 {
+        font-size: 1.2em;
+    }
+
+    h6, .h6 {
+        font-size: 1.1em
+    }
+}
+
 /* hide the main content while we assemble everything */
 .md-hidden-load {
     display: none;
