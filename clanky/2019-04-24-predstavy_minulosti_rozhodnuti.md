@@ -92,7 +92,7 @@ A o tom to je, **vědět** o riziku, že když se vykašlu na údržbu, tak si p
 
 To je ta "**prostorová**" složka, udržovat jednotlivé kusy oddělené a dovolit jim se provázat jedině tam, kde je to **opravdu** nutné.
 
-A pak je tu "**časová**" složka, na kterou si málokdo dává pozor. Když na něčem pracujeme **dlouho**, tak se do toho ponoříme, náš mozek se naučí řešit všechny ty podivnosti a složitosti, které jsme dvou intenzivní prací stvořili a pak ani nechápeme, co na tom **ostatním** připadá složité.
+A pak je tu "**časová**" složka, na kterou si málokdo dává pozor. Když na něčem pracujeme **dlouho**, tak se do toho ponoříme, náš mozek se naučí řešit všechny ty podivnosti a složitosti, které jsme svou intenzivní prací stvořili a pak ani nechápeme, co na tom **ostatním** připadá složité.
 
 *Prostě se z nás stanou specialisté, co ví všechno o hovně a hovno o všem ostatním.*
 
